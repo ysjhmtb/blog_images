@@ -4,13 +4,21 @@
 >
 > By Tom Silver  
 
+  
 
+#
 
+  
 
+#
 
+  
 
+#
 
+  
 
+#
 
 > **Always be making measurable progress**
 >
