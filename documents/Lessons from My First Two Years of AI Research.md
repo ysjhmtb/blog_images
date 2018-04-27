@@ -1,10 +1,10 @@
 
 
-
-
-> ##Lessons from My First Two Years of AI Research
+> ## Lessons from My First Two Years of AI Research
 >
 > By Tom Silver
+
+
 
 
 
@@ -20,6 +20,12 @@
 >
 > There is, of course, no recipe for research progress, and fumbling around in the dark is part of (most of) the process. However, I now find it much easier and more fulfilling to structure my work around measurable objectives. If I have very little idea what I'm doing next, the objective can be: write down a vague idea in the greatest detail available; if, in the course of writing the idea I rule it out, write down the reason for ruling it out (rather than scrapping the whole thing and losing the measure of progress). In the absence of any ideas, progress can take the form of papers read or conversations with colleagues had. By the end of each day, I now try to have some tangible evidence of my work. Even if the ideas are never used, my morale is much improved, and I need not worry about wasting future cycles on the same ideas that I ruled out that day.
 >
+
+
+
+
+
+
 
 
 
