@@ -12,6 +12,22 @@
 
 <br>
 
+[How Does Spotify Know You So Well?](https://medium.com/s/story/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
+
+<br>
+
+[Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/?hl=ko)
+
+<br>
+
+[Is FreeBSD faster than Linux?](https://www.quora.com/Is-FreeBSD-faster-than-Linux/answer/Ben-Lunsford?share=772c16a9&srid=XAfq)
+
+<br>
+
+[You don’t need a CS degree to be a successful engineer, but it helps.](https://www.reddit.com/r/programming/comments/8g2v6b/you_dont_need_a_cs_degree_to_be_a_successful/?st=JGND4TSJ&sh=dc88a01d)
+
+<br>
+
 [Object-Oriented Programming (OOP) in C](https://www.codementor.io/michaelsafyan/object-oriented-programming-in-c-du1081gw2)
 
 <br>
