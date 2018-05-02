@@ -2,13 +2,21 @@
 
 
 
+<br>
 
+[파이썬 패키지](https://wikidocs.net/1418)
 
+<br>
 
+[HTML5 Video Destruction](http://craftymind.com/factory/html5video/CanvasVideo.html)
 
+<br>
 
+[HTTPS와 SSL 인증서](https://opentutorials.org/course/228/4894)
 
+<br>
 
+[개발자 비급(祕笈) – 1. 연봉은 실력의 결과가 아니다](http://channy.creation.net/blog/1186)
 
 <br>
 
