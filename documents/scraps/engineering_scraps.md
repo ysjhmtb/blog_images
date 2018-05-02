@@ -2,6 +2,12 @@
 
 
 
+
+
+<br>
+
+[프론트엔드 개발자는 왜 구하기 어렵나요?](https://taegon.kim/archives/4810)
+
 <br>
 
 [Numerical Methods using Python (scipy)](https://www.southampton.ac.uk/~fangohr/teaching/python/book/html/16-scipy.html)
