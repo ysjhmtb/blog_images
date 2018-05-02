@@ -4,6 +4,18 @@
 
 <br>
 
+[Numerical Methods using Python (scipy)](https://www.southampton.ac.uk/~fangohr/teaching/python/book/html/16-scipy.html)
+
+<br>
+
+[우리 회사의 개발자 인터뷰](http://blog.kivol.net/post/138587457933/%EC%9A%B0%EB%A6%AC-%ED%9A%8C%EC%82%AC%EC%9D%98-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B8%ED%84%B0%EB%B7%B0)
+
+<br>
+
+[좋은 기술 인터뷰 질문은 어떤 질문인가](http://blog.kivol.net/post/173442457743/%EC%A2%8B%EC%9D%80-%EA%B8%B0%EC%88%A0-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A7%88%EB%AC%B8%EC%9D%80-%EC%96%B4%EB%96%A4-%EC%A7%88%EB%AC%B8%EC%9D%B8%EA%B0%80)
+
+<br>
+
 [파이썬 패키지](https://wikidocs.net/1418)
 
 <br>
