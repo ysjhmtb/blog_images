@@ -12,6 +12,10 @@
 
 <br>
 
+[IntelliJ 의 JShell Console 을 활용하자](https://www.popit.kr/intellij-%EC%9D%98-jshell-console-%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%98%EC%9E%90/)
+
+<br>
+
 [How Does Spotify Know You So Well?](https://medium.com/s/story/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
 
 <br>
