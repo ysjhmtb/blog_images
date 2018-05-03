@@ -1,5 +1,21 @@
 
 
+
+
+
+
+<br>
+
+[How to Efficiently Master the CSS Grid — in a Jiffy](https://medium.com/flexbox-and-grids/how-to-efficiently-master-the-css-grid-in-a-jiffy-585d0c213577)
+
+<br>
+
+[Understanding Flexbox: Everything you need to know](https://medium.freecodecamp.org/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af)
+
+<br>
+
+[Bootstrap 4: Everything You Need to Know](https://medium.freecodecamp.org/bootstrap-4-everything-you-need-to-know-c750991f6784)
+
 <br>
 
 ["Von Neumann’s First Computer Program"](https://twitter.com/fermatslibrary/status/991301499799195648)
