@@ -4,6 +4,16 @@
 
 <br>
 
+
+
+[By law, women in Germany can now find out what their male peers are earning](https://work.qz.com/1171514/by-law-women-in-germany-can-now-find-out-what-their-male-peers-are-earning/)
+
+
+
+<br>
+
+
+
 [United States military deployments](https://en.wikipedia.org/wiki/United_States_military_deployments)
 
 
