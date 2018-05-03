@@ -1,8 +1,33 @@
 
 
+<br>
+
+["Von Neumann’s First Computer Program"](https://twitter.com/fermatslibrary/status/991301499799195648)
+
+> Fermat's Library  @fermatslibrary
+>
+> PAPER
+>
+> "Von Neumann’s First Computer Program" by Donald Knuth
+>
+> In 1945 Von Neumann wrote a sorting algorithm for the EDVAC (Electronic Discrete Variable Automatic Computer)
+> This sorting algorithm later became known as Merge sort
+>
+> Paper here: http://fermatslibrary.com/s/von-neumanns-first-computer-program 
 
 
 
+<br>
+
+[Shallow vs Deep Copying of Python Objects](https://realpython.com/copying-python-objects/)
+
+<br>
+
+[Python 3's pathlib Module: Taming the File System](https://realpython.com/python-pathlib/)
+
+<br>
+
+[TOR Anonymity: Things Not To Do While Using TOR](https://fossbytes.com/tor-anonymity-things-not-using-tor/)
 
 <br>
 
