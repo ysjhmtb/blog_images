@@ -4,6 +4,10 @@
 
 <br>
 
+[Personal Branding Pecha Kucha Style!](https://www.slideshare.net/psterlacci/personal-branding-pecha-kucha-style)
+
+<br>
+
 
 
 [By law, women in Germany can now find out what their male peers are earning](https://work.qz.com/1171514/by-law-women-in-germany-can-now-find-out-what-their-male-peers-are-earning/)
