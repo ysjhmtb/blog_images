@@ -4,6 +4,10 @@
 
 <br>
 
+[The new communists](https://www.politico.eu/article/new-communists-hungary-poland-viktor-orban-jaroslaw-kaczynski/)
+
+<br>
+
 [Personal Branding Pecha Kucha Style!](https://www.slideshare.net/psterlacci/personal-branding-pecha-kucha-style)
 
 <br>
