@@ -4,6 +4,92 @@
 
 
 
+
+
+
+
+
+
+
+
+<br>
+
+[Inside the Linux boot process](https://www.ibm.com/developerworks/library/l-linuxboot/)
+
+<br>
+
+[Create TUI on Python](https://medium.com/@bad_day/create-tui-on-python-71377849879d)
+
+<br>
+
+[23 JavaScript design patterns](https://boostlog.io/@sonuton/23-javascript-design-patterns-5adb006847018500491f3f7f)
+
+<br>
+
+[Mustard UI is a starter CSS framework that actually looks good.](https://mustard-ui.com/)
+
+<br>
+
+[Making art with SSH key randomart](https://blog.benjojo.co.uk/post/ssh-randomart-how-does-it-work-art)
+
+<br>
+
+[TIC-80 tiny computer](https://tic.computer/)
+
+<br>
+
+[Parsing JSON is a Minefield](http://seriot.ch/parsing_json.php)
+
+<br>
+
+[윈도우 백업 시스템, 아직도 애플 타임머신을 따라잡지 못하는 이유](http://www.itworld.co.kr/news/109192)
+
+<br>
+
+[I interviewed at five top companies in Silicon Valley in five days, and luckily got five job offers](https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-valley-in-five-days-and-luckily-got-five-job-offers-25178cf74e0f)
+
+<br>
+
+[C Is Not a Low-level Language](https://queue.acm.org/detail.cfm?id=3212479)
+
+<br>
+
+[530 Free Online Programming & Computer Science Courses You Can Start in May](https://medium.freecodecamp.org/530-free-online-programming-computer-science-courses-you-can-start-in-may-5e82f5307867)
+
+<br>
+
+[How I went from 33-year-old museum tour guide to professional Web Developer & UX Designer: My 18-month coding journey](https://medium.freecodecamp.org/the-post-i-hoped-to-write-for-18-months-2902d074f5ba)
+
+<br>
+
+[Want to be a top developer? You should build things. Here’s another list to get you started.](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-d3d058e4e472)
+
+<br>
+
+[10 Common Data Structures Explained with Videos + Exercises](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
+
+<br>
+
+[Can anyone at Google or Amazon share what algorithms you find most useful over the years of your career?](https://www.quora.com/Can-anyone-at-Google-or-Amazon-share-what-algorithms-you-find-most-useful-over-the-years-of-your-career/answer/Eugene-Yarovoi?share=dc5052f3)
+
+<br>
+
+[[B급 프로그래머] (Quora) 구글 또는 아마존에 다니는 경력 개발자들이 가장 유용하다고 생각하는 자료 구조는?](http://jhrogue.blogspot.kr/2018/04/b-quora.html)
+
+<br>
+
+[What happens before main() function is executed in C and why is it important?](http://mymicrocontroller.com/2018/04/03/what-happens-before-main-function-is-executed-in-c-and-why-is-it-important/)
+
+<br>
+
+[파싱이론 이야기 1](https://daesan.com/2018/05/parsing-theory-story-1)
+
+> 대학교 3학년을 마치고 1년 휴학을 하고 여름방학부터 1년 3개월 내내 컴퓨터 책만 읽었다. 물론 컴퓨터 책이라고 항상 다 명료하게 쓰여진건 아니었지만, 나는 다른 어느 과학이나 공학 분야보다 컴퓨터 책들이 잘 쓰여진 편이라고 생각한다. 어떻게 보면 내가 진로를 바꾼 가장 큰 이유가 이런 공부의 ROI 차이 때문이었을 것이다.
+
+<br>
+
+[After All These Years, the World is Still Powered by C Programming](https://www.toptal.com/c/after-all-these-years-the-world-is-still-powered-by-c-programming)
+
 <br>
 
 [크롬 개발자 도구를 이용한 자바스크립트 디버깅](https://subicura.com/2018/02/14/javascript-debugging.html)
