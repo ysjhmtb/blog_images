@@ -1,16 +1,56 @@
+<br>
 
 
 
+<br>
 
 
 
+<br>
 
 
 
+<br>
 
 
 
+<br>
 
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+[HTTPS는 HTTP보다 빠르다](https://tech.ssut.me/2017/05/07/https-is-faster-than-http/)
+
+<br>
+
+[[NDC 18] ‘모두가 망했다고 했다’, 쿠키런 오븐브레이크의 이유있는 역주행](http://thisisgame.com/webzine/gameevent/nboard/227/?n=82240)
 
 <br>
 
