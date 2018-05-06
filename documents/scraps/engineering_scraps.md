@@ -28,7 +28,7 @@
 
 <br>
 
-
+[Deep Learning meets Physics: Restricted Boltzmann Machines Part I](https://towardsdatascience.com/deep-learning-meets-physics-restricted-boltzmann-machines-part-i-6df5c4918c15)
 
 <br>
 
