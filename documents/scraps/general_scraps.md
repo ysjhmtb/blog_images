@@ -42,11 +42,13 @@
 
 <br>
 
+[지금이 아니면 안돼 (Now or Never)](https://daesan.com/2018/05/now-or-never)
 
+> 꽤 오랜 시간 동안 관찰하고 고민한 결과 나는 그것이 “지금이 아니면 안돼” 즉 “Now or Never” 의 상황이라는 결론을 내렸다.
 
 <br>
 
-
+[A Population That Pollutes Itself Into Extinction (and It’s Not Us)](https://www.nytimes.com/2018/04/30/science/microbes-ecological-suicide.html)
 
 <br>
 

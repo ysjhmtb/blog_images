@@ -32,19 +32,17 @@
 
 <br>
 
-
-
-<br>
-
-
+[An introduction to Python bytecode](https://opensource.com/article/18/4/introduction-python-bytecode)
 
 <br>
 
-
+[Web Developer Security Checklist](https://medium.com/simple-security/web-developer-security-checklist-f2e4f43c9c56)
 
 <br>
 
+[Real Python](https://realpython.com/)
 
+<br>
 
 [HTTPS는 HTTP보다 빠르다](https://tech.ssut.me/2017/05/07/https-is-faster-than-http/)
 
