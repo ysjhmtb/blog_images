@@ -20,7 +20,7 @@
 
 <br>
 
-
+[Minimal Viable Product](https://blog.deming.org/2014/11/minimal-viable-product/)
 
 <br>
 
