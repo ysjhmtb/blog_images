@@ -13,3 +13,5 @@ f(a) = \frac {1} {2 \pi i} \int \frac {f(z)} {e^{i \theta} - a} dz
 \sum_{i=0}^n i^2 = \frac{(n^2 + n)(2n + 1)} {6}
 
 <br>
+
+![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)
