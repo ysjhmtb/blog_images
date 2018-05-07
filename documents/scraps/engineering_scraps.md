@@ -1,3 +1,13 @@
+
+
+<br>
+
+
+
+<br>
+
+
+
 <br>
 
 
@@ -11,6 +21,80 @@
 
 
 <br>
+
+
+
+<br>
+
+
+
+
+
+<br>
+
+
+
+
+
+<br>
+
+
+
+
+
+<br>
+
+
+
+
+
+<br>
+
+
+
+
+
+<br>
+
+
+
+<br>
+
+[Self-driving cars are useless without specialized maps—this invention could free them](https://www.technologyreview.com/the-download/611093/self-driving-cars-are-useless-without-specialized-maps-this-invention-could-free/)
+
+<br>
+
+> **Some background**: Autonomous cars currently undergoing testing drive only on streets with meticulously labeled maps that take up huge amounts of storage space. “Maps for even a small city tend to be gigabytes; to scale to the whole country, you’d need incredibly high-speed connections and massive servers,” said Teddy Ort, a grad student at MIT’s computer science and artificial intelligence lab (CSAIL).
+>
+> **The solution**: A new, more adaptable approach by the CSAIL team, called MapLite, uses simple GPS data to plot a path to the vehicle’s destination, and LIDAR sensors to navigate along the way. The sensors estimate curb distances and the road conditions more than 100 feet ahead of the vehicle.
+
+
+
+<br>
+
+[미국 비자 상황](https://twitter.com/29979245oo/status/993528229636931584)
+
+<br>
+
+> redacted @29979245oo
+>
+> 화상으로 홍콩에 있는 지원자 면접. 이렇게 바로 외국 출신도 면접을 보나보다. 물론 머신러닝 전공이니 가능. 일반 엔지니어는 요즘 비자가 하도 어려워서 해외 채용은 안 함. 모바일은 가능한 듯.
+>
+> 오전 9:29 - 2018년 5월 7일
+
+<br>
+
+[구체수학 2장 2절](https://twitter.com/John_Grib/status/993463472322068480)
+
+<br>
+
+> 기계인간 @John_Grib
+>
+> 구체수학 2장 2절 공부. 6페이지 읽는데 6일이나 걸렸지만 아무튼 이번 챕터도 해냈다!!
+>
+> https://johngrib.github.io/wiki/c-m-02-Sums-02/
+>
+> 오전 5:12 - 2018년 5월 7일
 
 
 
