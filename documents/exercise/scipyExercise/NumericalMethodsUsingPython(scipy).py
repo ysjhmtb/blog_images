@@ -1,3 +1,14 @@
+# http://www.southampton.ac.uk/~fangohr/teaching/python/book/html/
+
+
+# Numerical Methods using Python (scipy)
+# http://www.southampton.ac.uk/~fangohr/teaching/python/book/html/16-scipy.html
+
+
+
+
+
+
 # https://www.southampton.ac.uk/~fangohr/teaching/python/book/html/16-scipy.html#Exercise:-integrate-a-function
 
 from math import cos, exp, pi
