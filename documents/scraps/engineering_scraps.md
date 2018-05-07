@@ -16,6 +16,20 @@
 
 <br>
 
+[Comparing the Performance between Native iOS (Swift) and React-Native](https://medium.com/the-react-native-log/comparing-the-performance-between-native-ios-swift-and-react-native-7b5490d363e2)
+
+<br>
+
+> React-Native is a cross-platform mobile framework that lets you build apps using only JavaScript. However, unlike other hybrid mobile technologies you are not building a “mobile Web App” (Web App wrapped in a native container). In the end, you get the real thing. Your JavaScript codebase is compiled to a mobile app indistinguishable from an iOS app built using Objective-C or an Android app using Java. This means that React-Native provides the benefits from both Native and Hybrid Mobile Apps.
+
+<br>
+
+> The mobile applications I made for Swift and React-Native are almost identical in their physical appearance. As you can see from the data I collected through measuring both of the application’s CPU, GPU, and Memory during the tasks in each of the four tabs, the apps are also almost identical in how they perform. Swift won overall in the CPU category, React-Native won the GPU category (barely), and React-Native won big time in the Memory category. I can infer from this data that Swift uses the CPU of the iPhone more efficiently than React-Native, React-Native uses the GPU of the iPhone slightly more effectively than Swift, and that React-Native somehow leverages the iPhone’s memory much more effectively than Swift does. React-Native, winning two out of three categories, comes in first place as the better performing platform.
+
+<br>
+
+> I am now more convinced than ever that React-Native is the framework of the future — it has so many advantages and so few disadvantages. React-Native can be written in Javascript (a language so many developers already know), its codebase can be deployed to both iOS and Android platforms, it is faster and cheaper to produce apps, and developers can push updates directly to users so that users do not have to worry about downloading updates. Best of all, at only a year old, React-Native is already outperforming native iOS Swift applications.
+
 
 
 <br>
