@@ -355,5 +355,61 @@
 
 [ [실리콘밸리의 한국인 2018] 이 시대의 카멜레온 - 박기상(LinkedIn 시니어 엔지니어) ](http://tv.naver.com/v/2993159)
 
+> [실리콘밸리의 한국인 2018] 이 시대의 카멜레온 - 박기상(LinkedIn 시니어 엔지니어)
+>
+> - Adaptability - 세상이 너무나 빠르게 변하기 때문에 적응력이 중요하다.
+>
+> - 적응력을 극대화하기 위한 카멜레온 S-Curve.
+>
+> <br>
+>
+> Step #1: Jump
+> ‘다양한’ 경험을 쉽게 할 수 있는 곳에 들어간다. 마이너리그여도 상관없다.
+>
+> 대학 졸업 직후 입사한 회사 XERIUM. 9년 재직함.
+> 외주를 주었던 제품에 대한 하드웨어와 소프트웨어 전체를 재설계하기로 결정.
+>
+> 회사에서의 활동:
+> 기계공학자
+> 전자공학자
+> 소프트웨어 엔지니어
+> Development Engineer ?!?!
+> 엔지니어링 매니저
+> 개인 사무실 제공
+> 개인 차량 장기간 지원
+> C-Level 임원들과 잦은 미팅, 출장
+> 대학원 학비 무제한 전액지원
+> 퇴사 후에도 advisor로 월금의 1/2 계속 받음
+> 제1회 혁신상 수상(Chairman’s Innovation Award)
+> 특허 3개 출원
+> 무한 자신감
+>
+> <br>
+>
+> Step #2: Growth
+> 우리의 감(feelings)은 틀리다. 모든 것은 이론화 되어있다.
+>
+> 이론: Divide and Conquer
+>
+> <br>
+>
+> Step #3: New Opportunities
+> 사이드 프로젝트가 당신의 날개가 된다.
+>
+> 사이드로 만들었던 게임을 통해서 eBay 모바일 부문에 입사.
+> 마찬가지로 집에서 사용되는 임베디드 기기 사이트 프로젝트(회로 설계도 직접했고, 특허도 있음)를 통해 Intel의 wearable division에 입사.
+>
+> “It’s a common catch-22: for jobs that require prior experience, how do you get the experience for the first time? My solution: do the job for free on the side.:
+>
+> 
+>
+> - “It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most adaptable to change."
+>
+> 
+
+
+
+
+
 <br>
 
