@@ -26,7 +26,7 @@
 
 <br>
 
-
+[Learn these neat JavaScript tricks in less than 5 minutes](https://medium.freecodecamp.org/9-neat-javascript-tricks-e2742f2735c3)
 
 <br>
 
