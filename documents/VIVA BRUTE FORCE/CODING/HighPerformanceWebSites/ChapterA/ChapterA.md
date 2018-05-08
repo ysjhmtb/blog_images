@@ -4,7 +4,7 @@
 
 <br><br><br>
 
-<img src="https://github.com/ysjhmtb/blog_images/blob/master/documents/notes/HighPerformanceWebSites/ChapterA/HighPerformanceWebSites.png?raw=true">
+<img src="https://github.com/ysjhmtb/blog_images/blob/master/documents/VIVA%20BRUTE%20FORCE/CODING/HighPerformanceWebSites/ChapterA/HighPerformanceWebSites.png?raw=true">
 
 <br>
 
@@ -34,7 +34,7 @@ The Importance of Frontend Performance
 
 <br>
 
-> <img src="https://github.com/ysjhmtb/blog_images/blob/master/documents/notes/HighPerformanceWebSites/ChapterA/FigureA.png?raw=true">
+> <img src="https://github.com/ysjhmtb/blog_images/blob/master/documents/VIVA%20BRUTE%20FORCE/CODING/HighPerformanceWebSites/ChapterA/FigureA.png?raw=true">
 
 
 
