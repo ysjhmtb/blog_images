@@ -28,35 +28,39 @@
 
 
 
+<br>
 
+[Akin's Laws of Spacecraft Design](http://spacecraft.ssl.umd.edu/akins_laws.html)
 
 <br>
 
-
-
-
+[Pure Python vs NumPy vs TensorFlow Performance Comparison](https://realpython.com/numpy-tensorflow-performance/)
 
 <br>
 
-
-
-
+[Multi Thread 환경에서의 올바른 Singleton](https://medium.com/@joongwon/multi-thread-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98-%EC%98%AC%EB%B0%94%EB%A5%B8-singleton-578d9511fd42)
 
 <br>
 
-
-
-
+[AI researchers allege that machine learning is alchemy](http://www.sciencemag.org/news/2018/05/ai-researchers-allege-machine-learning-alchemy)
 
 <br>
 
-
-
-
+>Rahimi offers several suggestions for learning which algorithms work best, and when. For starters, he says, researchers should conduct "ablation studies" like those done with the translation algorithm: deleting parts of an algorithm one at a time to see the function of each component. He calls for "sliced analysis," in which an algorithm's performance is analyzed in detail to see how improvement in some areas might have a cost elsewhere. And he says researchers should test their algorithms with many different conditions and settings, and should report performances for all of them.
+>
+>Ben Recht, a computer scientist at the University of California, Berkeley, and coauthor of Rahimi's alchemy keynote talk, says AI needs to borrow from physics, where researchers often shrink a problem down to a smaller "toy problem." "Physicists are amazing at devising simple experiments to root out explanations for phenomena," he says. Some AI researchers are already taking that approach, testing image recognition algorithms on small black-and-white handwritten characters before tackling large color photos, to better understand the algorithms' inner mechanics.
 
 <br>
 
+> Not everyone agrees with Rahimi and Recht's critique. Yann LeCun, Facebook's chief AI scientist in New York City, worries that shifting too much effort away from bleeding-edge techniques toward core understanding could slow innovation and discourage AI's real-world adoption. "It's not alchemy, it's engineering," he says. "Engineering is messy."
 
+<br>
+
+[이벤트 버블링, 이벤트 캡처 그리고 이벤트 위임까지](https://joshua1988.github.io/web-development/javascript/event-propagation-delegation/)
+
+<br>
+
+> 얼마 전 Vanilla JS로 꽤 복잡한 웹 애플리케이션을 구현할 일이 생겨 오랜만에 순수 자바스크립트를 들여다보게 되었습니다. 구현 과정에서 이벤트 캡쳐와 버블링에 대해 정확히 지식이 정리가 되어 있지 않다는 것을 깨닫고 아래와 같이 정리하게 되었네요. 브라우저에서 어떻게 특정 화면 요소의 이벤트를 감지하는지 그리고 그 이벤트를 어떻게 다른 화면 요소에 전파하는지 같이 알아보겠습니다.
 
 <br>
 
