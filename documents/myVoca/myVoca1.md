@@ -270,69 +270,237 @@
 
 20
 
+> 준비를 해드릴 수 있습니다. Alternatively, 당신이 직접 알아보셔도 됩니다
+>
+> collaborate on	~에 대해 협동하다
+>
+> subject to	~을 조건으로
+>
+> 통화 간 환율 realignment
+>
+> Reluctant 동의
+
 <br>
 
 21
+
+> 그 자리에는 많은 힘든 일이 entail 된다
+>
+> corresponding to		~에 상응하는
+>
+> Adept 연주
+>
+> primate의 반란
+>
+> 수능의 난이도는 be consistent with 고교 과정
 
 <br>
 
 22
 
+> 이 일은 make demands on 시간
+>
+> 그들은 모든 미해결 문제들이 fall within 대화의 영역에 해야 한다고 믿는다
+>
+> 그녀는 넘어지면서 무릎을 wrench 했다
+>
+> 건물을 부수기 위해 크레인에 매달고 휘두르는 wrecking ball
+>
+> 벽을 peer through
+
 <br>
 
 23
+
+> 우리는 그 그림자들을 peer 했다
+>
+> viscous 유체
+>
+> 우리의 quick and dirty 안내서
+>
+> constrain somebody to do something 	~에게 ~하기를 강요하다
+>
+> To my surprise, 그는 나의 오빠였다
 
 <br>
 
 24
 
+> 이 새 영화로 그는 국내에서 주도적인 감독의 위치를 consolidate 했다
+>
+> 엑스레이에 showed up 부러진 뼈
+>
+> 선거 전까지의 interim 기간 동안 부통령이 정권을 잡았다
+>
+> 경찰은 그 남자가 살해되었을 가능성을 rule out 하지 않고 있다
+>
+> 운동능력을 관장하는 cerebellum
+
 <br>
 
 25
+
+> 대뇌의 표면을 cortical 이라고 합니다
+>
+> 인생은 흔히 여행에 liken 된다
+>
+> 우리 개는 토끼를 chase 하는 것을 종아한다
+>
+> meet by chance 를 stumble onto 라고 한다
+>
+> 불어나는 수위에 대한 조기 경보로 또 하나의 catasrophe 를 막았다
 
 <br>
 
 26
 
+> 현 정부에 대한 disillusionment 가 팽배해있다
+>
+> 분쟁영토에 대한 disclaimer 를 발표하다
+>
+> 가상 비행 경기가 열릴 것이다 in the interests of 대중
+>
+> rich = well-off
+>
+> 인류 문화 trait
+
 <br>
 
 27
+
+> exogenous 질환
+>
+> 명단에는 뜻밖의 inclusion 이 있었다
+>
+> 대부분의 종교는 posit 사후 세계가 존재함을
+>
+> preferential 대우를 기대하자 말아라
+>
+> 나는 그에게서 어떤 반응도 elicit 할 수 없었다
 
 <br>
 
 28
 
+> 그녀는 자신의 일에 immerse 했다
+>
+> misty 아침
+>
+> 그 칼은 그의 가슴을 penetrate 했다
+>
+> 그 조직은 비밀의 shroud 에 가려져 있다
+>
+> 영리한 변호사라면 그 조항을 get round 하는 방법을 찾아낼 것이다
+
 <br>
 
 29
+
+> 그 공이 라이드의 몸에 맞고 deflect 되어 골문 안으로 들어갔다
+>
+> 비행기가 완전히 airborne 할 때까지 자리에서 일어나지 마세요
+>
+> 우리는 경기에서 어떻게 이길 수 있는지 bounce around 했다
+>
+> 그 사건들은 그녀의 일기 속에 faithfully 기록되어 있었다
+>
+> 거울에 비친 reflection
 
 <br>
 
 30
 
+> Ultrashort 송신기
+>
+> 그 일을 금요일까지 마치기로 undertake
+>
+> 결국 그 모든 일을 내가 다 하게 end up 되었다
+>
+> suboptimal 책
+>
+> 나는 다음 주에 며칠 take off 하기로 했다
+
 <br>
 
 31
+
+> deal with = cope with
+>
+> Heterogeneous 미국 인구
+>
+> 나는 그 충격으로 아직도 reel 했다
+>
+> 조용한 삶에 대한 yearning
+>
+> look far worse thn usual	평소보다 훨씬 더 나빠 보인다
 
 <br>
 
 32
 
+> 간호사들은 contend with 폭력적이거나 술 취한 환자들
+>
+> 기계 maven
+>
+> 일회용 상품 사용은 생태학적으로 unsound 것으로 여겨진다
+>
+> 그 내전이 시작된 backdrop 에는 이런 긴장이 있었다
+>
+> scramble for a seat	자리를 먼저 잡으려고 서로 다투다
+>
+> scramble to one's feet		허둥지둥 일어나다
+
 <br>
 
 33
+
+> 이런 결정은 급진적인 변화를 signify 했다
+>
+> 계단에서 tumble
+>
+> 상호 tit for tat
+>
+> To date, 200통의 회신을 받았다
+>
+> aesthetic 감상
 
 <br>
 
 34
 
+> 금융기관을 oversee
+>
+> 드레스 하나에 100파운드를 쓰다니 나는 크게 extravagant 한 기분이었다
+>
+> 그녀의 주장은 사실 scrutiny 하면 성립이 안 된다
+>
+> 그녀는 turn the trick 해서 회사를 그만두었다
+>
+> 청구 액수 come to $30
+
 <br>
 
 35
 
+> 금리 인하가 경기를 bolster 할 것이다
+>
+> 신문 보도를 순전히 speculation 이라고 일축했다
+>
+> obsolete 기술
+>
+> 제자리에 halt
+>
+> 나라 밖으로 밀반출하려던 시도를 foil 했다
+
 <br>
 
 36
+
+> **On the fly** is a phrase used to describe something that is being changed while the process that the change affects is ongoing.
+>
+> 10개월 동안 그는 adhere to 엄격한 무지방 저염 식단
+>
+> 
 
 <br>
 
