@@ -1,3 +1,25 @@
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
 
 
 <br>
@@ -21,6 +43,56 @@
 
 
 <br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+[py2exe와 py2app을 통한 Windows/OS X용 실행파일 만들기](https://spoqa.github.io/2013/05/21/py2exe-and-py2app.html)
+
+<br>
+
+[성공적으로 재택근무 시스템을 도입하는 방법](http://ppss.kr/archives/88997)
+
+<br>
+
+[Discover the world by Software](https://lqez.github.io/blog/discover-the-world-by-software.html)
+
+<br>
+
+[근현재의 정보공유](https://twitter.com/asbubam/status/993974313505112064)
+
+<br>
+
+> asbubam	@asbubam
+>
+> 지하철이 한강을 지나면, 미세먼지를 눈으로 확인한다. 그러다 문득 십분전, 삼십분 전, 한 시간 전에 해당 위치에 당도했던 사람들이 전해주는 정보를 지역기반으로 정리해서 제공해주면 어떨까 하는 생각이 들었다. 잠실 마약빵집 십분전에 들렸는데 사람이 많아 대기했어요. 처럼 근현재의 정보공유
+>
+> 오후 3:01 - 2018년 5월 8일
 
 
 
