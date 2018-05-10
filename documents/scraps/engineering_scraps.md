@@ -48,15 +48,25 @@
 
 <br>
 
-
-
-<br>
-
-
+[What is 1.1.1.1?](https://www.cloudflare.com/learning/dns/what-is-1.1.1.1/)
 
 <br>
 
+[하지만 그 사람의 활동과 커리어를 존경한다.](https://twitter.com/adhrinae/status/994369305885077505)
 
+<br>
+
+> Rinae @adhrinae
+>
+> 어떤 개발자 선배님은 알고 보니 나의 고등학교 후배님이었다.
+> 심지어 내가 모교에 교생실습을 가던 해에 그 학교에 학생으로 재학하고 있을 정도로 나이차이가 났다. 하지만 그 사람의 활동과 커리어를 존경한다.
+> 그만큼 나이따윈 중요한게 아니다.
+>
+> 오후 5:11 - 2018년 5월 9일
+
+<br>
+
+[Clean architectures in Python: a step-by-step example](http://blog.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/)
 
 <br>
 
