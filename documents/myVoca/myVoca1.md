@@ -202,7 +202,7 @@
 
 > 현실에 대한 우리의 perception
 >
-> chshy 직장
+> cushy 직장
 >
 > brick and mortar 상점
 >
@@ -432,7 +432,7 @@
 >
 > 조용한 삶에 대한 yearning
 >
-> look far worse thn usual	평소보다 훨씬 더 나빠 보인다
+> look far worse than usual	평소보다 훨씬 더 나빠 보인다
 
 <br>
 
@@ -500,19 +500,47 @@
 >
 > 10개월 동안 그는 adhere to 엄격한 무지방 저염 식단
 >
-> 
+> ergonomic 디자인
+>
+> 휴는 자기 책무를 shy away 하는 법이 없었다
+>
+> 조선의 toadyism
 
 <br>
 
 37
 
+> 그녀는 미국 유명 영화배우의 archetype 이다
+>
+> 18세기의 enlightenment
+>
+> infrared 센서
+>
+> 빛의 wavelength
+>
+> **be on the same wavelength** -  (of two or more people) to think in a similar way and to understand each other well
+
 <br>
 
 38
 
+> metric 단위
+>
+> 그 작업 그들의 rigorous 기준을 충족시키지 못했다
+>
+> indiscernible 필체
+>
+> To the naked eye 구별할 수 없는 크기
+>
+> 주택 구입상의 잠재적인 pitfall
+
 <br>
 
 39
+
+> 좌절로부터의 resilience
+>
+> 
 
 <br>
 
