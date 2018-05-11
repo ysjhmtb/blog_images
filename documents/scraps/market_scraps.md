@@ -34,7 +34,39 @@
 
 <br>
 
+[SARA EISEN SPEAKS TO FORMER FEDERAL RESERVE VICE CHAIRMAN STANLEY FISCHER & FORMER FEDERAL RESERVE BANK OF DALLAS PRESIDENT & CEO RICHARD FISHER](https://www.cnbc.com/2018/05/01/sara-eisen-speaks-to-former-federal-reserve-vice-chairman-stanley-fischer-former-federal-reserve-bank-of-dallas-president-ceo-richard-fisher.html)
 
+<br>
+
+[The Fed has 'time to wait' while hiking rates, former vice chair Fischer says](https://www.cnbc.com/2018/05/09/the-fed-has-time-to-wait-while-hiking-rates-former-vice-chair-fischer-says.html)
+
+<br>
+
+[내가 가진 원칙이 현재 시장에 잘 맞는지](https://twitter.com/smokevalley2/status/993702116236574721)
+
+> 매연계곡2 @smokevalley2
+>
+> 좋은 운이 아니라 좋은 원칙을 가진 사람만이 꾸준한 수익률을 낼 수 있습니다. 단기 성과에 연연하기보다 내가 가진 원칙이 현재 시장에 잘 맞는지 추적하는 관점을 가지세요.
+>
+> 오후 9:00 - 2018년 5월 7일
+
+나는 **자신의 모형을 계속 튜닝하라는 것**으로 이해 
+
+<br>
+
+[US Yield curve flattens after muted #inflation data. ](https://twitter.com/Schuldensuehner/status/994696906579333120)
+
+<br>
+
+> Holger Zschaepitz @Schuldensuehner
+>
+> US Yield curve flattens after muted #inflation data. US 2s10s yield spread at 0.43%, near decade low. 
+>
+> <img src="https://pbs.twimg.com/media/Dc3fjtmX4AE7NW9.jpg">
+>
+> https://www.reuters.com/article/usa-bonds/treasuries-long-dated-yields-fall-curve-flattens-after-muted-inflation-data-idUSL1N1SH1UM
+>
+> 오후 2:53 - 2018년 5월 10일
 
 <br>
 

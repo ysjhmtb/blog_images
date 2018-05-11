@@ -24,27 +24,11 @@
 
 <br>
 
-
-
-<br>
-
-
+[개발자를 위한 웹 기술](https://developer.mozilla.org/ko/docs/Web)
 
 <br>
 
-
-
-<br>
-
-
-
-<br>
-
-
-
-<br>
-
-
+[Exporting Data from PDFs with Python](https://www.blog.pythonlibrary.org/2018/05/03/exporting-data-from-pdfs-with-python/)
 
 <br>
 
