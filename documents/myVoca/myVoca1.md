@@ -540,19 +540,131 @@
 
 > 좌절로부터의 resilience
 >
-> 
+> 그물망의 fineness
+>
+> 관찰과 측정에서 얻은 empirical rule
+>
+> 차도 옆의 sideway
+>
+> 그 집은 200년이 지났는데도 intact 하다
 
 <br>
 
 40
 
+> hydraulic 방식의 브레이크
+>
+> 병목 현상이 도로를 congest
+>
+> 회사가 작년에 break even
+>
+> 적군이 밤낮으로 폭격을 keep up
+>
+> 이들 부채 상환이 우리 재정에 strain 을 주고 있다
+
 <br>
 
+41
 
+> hectic 일정
+>
+> 그는 자기 직장으로 was reinstated 
+>
+> 얼룩 지우기에 대한 handy 조언들
+>
+> 명예훼손죄가 be invoked 할 것 같지는 않다
+>
+> 법적 권한의 invocation
 
+<br>
 
+42
 
+> 색체의 opacity
+>
+> 통일성이 없는 scrappy 에세이
+>
+> 세계의 자원이 are rapidly diminishing
+>
+> 그는 그 당에서 과격파들을 purged
+>
+> 토양 침식은 나무를 심음으로써 was mitigated
 
+<br>
+
+43
+
+> 쓰다 남은 물건의 stub
+>
+> 그녀가 miscellaneous 비용을 충당하도록 나에게 돈을 주었다
+>
+> 코카인 addiction
+>
+> 잠수함의 periscope
+>
+> 이 방을 사용해도 좋다 for the nonce
+
+<br>
+
+44
+
+> Off of 주차장, 소년들이 다투었다
+>
+> 가는 곳 어디에나 쓰레기로 trail 을 남기는 관광객들
+>
+> 그 화물은 크레인을 이용하여 was hoisted
+>
+> 밧줄의 두 끝을 함께 꼬아서 splice
+>
+> 사물이나 사건의 concatenation
+
+<br>
+
+45
+
+> punch card tabulator
+>
+> 철도의 carriage
+>
+> 우리는 갈 것이다 as long as the weather is good
+>
+> ternary alloy		3원 합금
+>
+> Dingy 호텔
+
+<br>
+
+46
+
+> labyrinthine 얽혀 있는 거리
+>
+> a move to forge 노사간에 새로운 관계
+>
+> to forge 여권
+>
+> 검 forged from steel
+>
+> By the way, 네가 찾고 있던 그 책을 내가 찾았어
+
+<br>
+
+47
+
+> If something **turns you off** a particular subject or activity, it makes you have no interest in it.
+
+<br>
+
+48
+
+<br>
+
+49
+
+<br>
+
+50
+
+<br>
 
 
 
