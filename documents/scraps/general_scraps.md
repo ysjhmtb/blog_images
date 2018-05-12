@@ -26,15 +26,15 @@
 
 <br>
 
-
-
-<br>
-
-
+[How to make a carbon pricing system work](https://www.ft.com/content/2d9490f2-1291-11e8-a765-993b2440bd73)
 
 <br>
 
+[Talent vs Luck: the role of randomness in success and failure](https://arxiv.org/abs/1802.07068)
 
+<br>
+
+[Better Pay Now](https://www.nytimes.com/2013/12/02/opinion/krugman-better-pay-now.html)
 
 <br>
 
