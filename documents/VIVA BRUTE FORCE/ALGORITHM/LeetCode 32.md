@@ -87,6 +87,10 @@ class Solution {
 
 "(()" 입력의 경우 다음과 같은 해시 맵을 확인할 수 있다.
 
+
+
+<form>
+
 <table>
 
 <tr>
@@ -138,6 +142,8 @@ class Solution {
 
 
 </table>
+
+</form>
 
 
 
