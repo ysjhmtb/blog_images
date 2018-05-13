@@ -40,15 +40,19 @@
 
 <br>
 
-
-
-<br>
-
-
+[파싱이론 이야기 2](https://daesan.com/2018/05/parsing-theory-story-2)
 
 <br>
 
+[게임 서버 프로그래밍을 시작하는 분들을 위한 몇가지 문서들 ](http://blog.naver.com/imays/221274562819)
 
+<br>
+
+[BUILD YOUR OWN X](https://github.com/danistefanovic/build-your-own-x)
+
+> "What I cannot create, I do not understand." - Richard Feynman
+
+<img src="https://github.com/danistefanovic/build-your-own-x/raw/master/feynman.png">
 
 <br>
 
