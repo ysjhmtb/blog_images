@@ -87,71 +87,13 @@ class Solution {
 
 "(()" 입력의 경우 다음과 같은 해시 맵을 확인할 수 있다.
 
-<form>
-
-​	<fieldset>
 
 
-
-<table>
-
-<tr>
-
-​	<th></th>
-
-​	<th>count</th>
-
-​	<th>i</th>
-
-</tr>
-
-
-
-<tr>
-
-​	<th>map</th>
-
-​	<th>0</th>
-
-​	<th>-1</th>
-
-</tr>
-
-
-
-<tr>
-
-​	<th></th>
-
-​	<th>1</th>
-
-​	<th>0</th>
-
-</tr>
-
-
-
-<tr>
-
-​	<th></th>
-
-​	<th>2</th>
-
-​	<th>1</th>
-
-</tr>
-
-
-
-</table>
-
-
-
-​	</fieldset>
-
-</form>
-
-
+|      | count |  i   |
+| :--: | :---: | :--: |
+| map  |   0   |  -1  |
+|      |   1   |  0   |
+|      |   2   |  1   |
 
 <br>
 
