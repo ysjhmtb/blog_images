@@ -20,7 +20,7 @@
 
 <br>
 
-
+[[HTML5] 꼼꼼히 살펴보는 SCRIPT 엘리먼트](https://taegon.kim/archives/6804)
 
 <br>
 
