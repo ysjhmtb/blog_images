@@ -6,11 +6,20 @@
 
 <br>
 
+[Focus on Impact](https://twitter.com/heejongahn/status/996194455282581504)
 
+> 안희종 @heejongahn
+>
+> 회사 가치에 Focus on Impact 라는 항목이 있는데 회사 바깥에서도 적용하기 좋은 기준. 말이나 행동을 하기전에 내가 이걸로 이루고 싶은 결과, 만들고 싶은 변화가 뭔지 잠시 생각해본다. 그럼 에너지를 쏟을 더 나은 방향이 떠오를 때도, 사실 가만 있는게 더 나은 상황임을 깨달을 때도 많다.
+>
+> 오후 6:04 - 2018년 5월 14일
 
 <br>
 
+[The path from social origins to top jobs: social reproduction via education*](https://onlinelibrary.wiley.com/doi/full/10.1111/1468-4446.12314)
 
+> Abstract
+> This paper provides a comprehensive account of the way in which cognitive and educational attainment mediate the link between social origins and elite social class destinations in mid‐life. Using the 1970 British Cohort Study (BCS70), we assess the roles of a range of pathways through which educational advantage may lead to occupational attainment: cognitive development; private and selective secondary schools; school level qualifications; and higher education, including institution and field of study. Whereas past research has shown a residual direct effect of social origins on class destinations, we find that, once a sufficiently detailed picture of educational attainment is taken into account, education fully explains the link between social origins and top social class destinations. In contrast, the gap between men and women in achieving top social class positions is in no part accounted for by education.
 
 <br>
 
