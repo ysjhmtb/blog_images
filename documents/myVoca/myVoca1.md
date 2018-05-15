@@ -651,18 +651,62 @@
 47
 
 > If something **turns you off** a particular subject or activity, it makes you have no interest in it.
+>
+> 건물에 강제로 들어가다	break into something
+>
+> 대통령이 도착하자, 사람들이 broke into 큰 박수
+>
+> A **hookup** is a connection between two places, systems, or pieces of equipment.
+>
+> 그 soured on 게임
 
 <br>
 
 48
 
+> If you are **impatient**, you are annoyed because you have to wait too long for something.
+>
+> 그 상원의원 was indicted for 살인죄
+>
+> When there is **disruption** of an event, system, or process, it is prevented from continuing or operating in a normal way.
+>
+> 역사적 precedent
+>
+> Something that is **disproportionate** is surprising or unreasonable in amount or size, compared with something else.
+
 <br>
 
 49
 
+> 가축들은 are rounded up 저녁이 되면
+>
+> 교통사고 casualty
+>
+> 체제, 국가, 정부 등을 destabilize
+>
+> 그 융자금은 미국 달러화로 was denominated
+>
+> 그녀는 constituent 의 전폭적인 지지를 받고 있다
+>
+> constituent 요소
+
 <br>
 
 50
+
+> 주가가 사상 최저치로 plummeted
+>
+> 유가가 is still tumbling
+>
+> 흔히 교회 근처에 있는 graveyard
+>
+> 동물의 gut
+>
+> evacuation 훈련
+>
+> 도로, 통로 등이 한쪽 끝이 막힌 dead end
+>
+> 그는 정치에 대해서는 자기 아버지와 항상 be at odds (with somebody / over something)
 
 <br>
 
