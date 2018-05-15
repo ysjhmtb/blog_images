@@ -18,7 +18,11 @@
 
 <br>
 
+[COLUMN-Rising oil prices boost U.S. economy: Kemp](https://af.reuters.com/article/commoditiesNews/idAFL5N1SM6YS)
 
+> In the short term, rising oil prices have provided a significant boost to the economic expansion as the positive impact on investment has outweighed the negative impact on consumer spending.
+>
+> But that positive scenario may not last if oil prices continue to rise over the next two years.
 
 <br>
 

@@ -16,7 +16,7 @@
 
 <br>
 
-
+[JSP Tutorial for Beginners: Learn in 7 Days](https://www.guru99.com/jsp-tutorial.html)
 
 <br>
 
