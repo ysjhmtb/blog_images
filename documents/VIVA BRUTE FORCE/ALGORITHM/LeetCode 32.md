@@ -33,9 +33,11 @@ public class HelloWorld {
 
     public static void main(String[] args) {
         Solution ref = new Solution();
+        String input = new String(")()");
         String input1 = new String("(()");
         String input2 = new String(")()())");
 
+        System.out.println(ref.longestValidParentheses(input));
         System.out.println(ref.longestValidParentheses(input1));
         System.out.println(ref.longestValidParentheses(input2));
 
@@ -56,27 +58,28 @@ Map stores the last valid starting point of a certain height.
 class Solution {
 
     public int longestValidParentheses(String s) {
-        Map<Integer,Integer> map = new HashMap<>();
-        map.put(0,-1);
-        int count=0;
-        int max=0;
-        int min=0;
+        Map<Integer, Integer> map = new HashMap<>();
+        map.put(0, -1);
+        int count = 0;
+        int max = 0;
+        int min = 0;
 
-        for(int i=0;i<s.length();i++){
-            char curr=s.charAt(i);
+        for (int i = 0; i < s.length(); i++) {
+            char curr = s.charAt(i);
 
-            if(curr=='('){
+            if (curr == '(') {
                 count++;
-                map.put(count,i);
-            }else{
+                map.put(count, i);
+            } else {
                 count--;
 
-                if(count<min){
-                    map.put(count,i);
-                    min=count;
+                if (count < min) {
+                    map.put(count, i);
+                    min = count;
 
-                } else{
-                  max = Math.max(max,i-map.get(count));
+                } else {
+                    max = Math.max(max, i - map.get(count));
+
                 }
             }
         }
@@ -88,24 +91,25 @@ class Solution {
 
 
 /*
-(()
-
+)()
 
 i = 0)
-curr    (
-count   1
-map.put(1, 0)
+curr    )
+count   -1
+map.put(-1, 0)
+min     -1
 
 i = 1)
 curr    (
-count   2
-map.put(2, 1)
+count   0
+map.put(0, 1)
 
 i = 2)
 curr    )
-count   1
+count   -1
 max = Math.max(0, 2 - 0) = 2
  */
+
 
 
 
