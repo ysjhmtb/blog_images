@@ -20,7 +20,7 @@
 
 <br>
 
-
+<img src="https://dzone.com/storage/temp/5464204-enterprise-vs-startup-journey-to-cloud.png">
 
 <br>
 
