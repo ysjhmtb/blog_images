@@ -56,30 +56,58 @@ Map stores the last valid starting point of a certain height.
 class Solution {
 
     public int longestValidParentheses(String s) {
-        Map<Integer, Integer> map = new HashMap<>();
-        map.put(0, -1);
-        int count = 0;
-        int max = 0;
-        int min = 0;
-        for (int i = 0; i < s.length(); i++) {
-            char curr = s.charAt(i);
-            if (curr == '(') {
+        Map<Integer,Integer> map = new HashMap<>();
+        map.put(0,-1);
+        int count=0;
+        int max=0;
+        int min=0;
+
+        for(int i=0;i<s.length();i++){
+            char curr=s.charAt(i);
+
+            if(curr=='('){
                 count++;
-                map.put(count, i);
-            } else {
+                map.put(count,i);
+            }else{
                 count--;
-                if (count < min) {
-                    map.put(count, i);
-                    min = count;
-                } else {
-                    max = Math.max(max, i - map.get(count));
+
+                if(count<min){
+                    map.put(count,i);
+                    min=count;
+
+                } else{
+                  max = Math.max(max,i-map.get(count));
                 }
             }
         }
         return max;
-    }
 
+    }
 }
+
+
+
+/*
+(()
+
+
+i = 0)
+curr    (
+count   1
+map.put(1, 0)
+
+i = 1)
+curr    (
+count   2
+map.put(2, 1)
+
+i = 2)
+curr    )
+count   1
+max = Math.max(0, 2 - 0) = 2
+ */
+
+
 
 ```
 
