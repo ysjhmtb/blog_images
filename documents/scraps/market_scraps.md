@@ -18,6 +18,48 @@
 
 <br>
 
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+[come to one's senses](https://www.merriam-webster.com/dictionary/come%20to%20one's%20senses)
+
+<br>
+
+[모델은 불황을 예측할 수 있나](https://www.thebalance.com/inverted-yield-curve-3305856)
+
+<br>
+
+[How an Inverted Yield Curve Predicts a Recession](https://www.thebalance.com/inverted-yield-curve-3305856)
+
+<br>
+
+[The Yield Curve as a Leading Indicator](https://www.newyorkfed.org/research/capital_markets/ycfaq.html#Q1)
+
+<br>
+
+[테마주를 고르는 Tip](https://twitter.com/smokevalley2/status/996604707509387264)
+
+> 매연계곡2 @smokevalley2
+>
+> 테마주를 고르는 Tip입니다. 테마가 형성되면 1)그중 실적이 좋은 걸 추리고 2)기관의 매수 여부를 보고 3)조정이 올 때 가장 강하게 버티는 걸 확인한 후 들어갑니다.
+>
+> 오후 9:14 - 2018년 5월 15일
+
+<br>
+
 [COLUMN-Rising oil prices boost U.S. economy: Kemp](https://af.reuters.com/article/commoditiesNews/idAFL5N1SM6YS)
 
 > In the short term, rising oil prices have provided a significant boost to the economic expansion as the positive impact on investment has outweighed the negative impact on consumer spending.

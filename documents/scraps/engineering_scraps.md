@@ -28,31 +28,31 @@
 
 <br>
 
-
-
-<br>
-
-
+[Converting a Node List to an Array](http://www.jstips.co/en/javascript/converting-a-node-list-to-an-array/)
 
 <br>
 
-
-
-<br>
-
-
+[PacVim – A CLI Game To Learn Vim Commands](https://www.ostechnix.com/pacvim-a-cli-game-to-learn-vim-commands/)
 
 <br>
 
-
-
-<br>
-
-
+[[JS #4] Array 메서드들: concat, join, indexOf, slice, sort, push, …](https://medium.com/@hongkevin/js-4-array-%EB%A9%94%EC%84%9C%EB%93%9C%EB%93%A4-concat-join-indexof-slice-sort-push-4eec70d564e7)
 
 <br>
 
+[regex 101](https://regex101.com/)
 
+<br>
+
+[RegexOne](https://regexone.com/)
+
+<br>
+
+[combineLatest vs merge](http://reactive.how/)
+
+<br>
+
+[A fun and colorful explanation of how DNS works.](https://howdns.works/)
 
 <br>
 
