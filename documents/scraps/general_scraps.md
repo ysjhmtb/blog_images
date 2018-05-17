@@ -18,12 +18,6 @@
 
 <br>
 
->a lesson of May 16
->
->an unreasonable request and dog sound
-
-<br>
-
 [Focus on Impact](https://twitter.com/heejongahn/status/996194455282581504)
 
 > 안희종 @heejongahn
