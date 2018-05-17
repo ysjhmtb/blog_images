@@ -1,5 +1,21 @@
 
 
+
+
+
+
+<br>
+
+
+
+<br>
+
+[비슷하면서 다른](http://www.thestartupbible.com/2018/05/they-all-look-the-same-but-some-are-different.html)
+
+<br>
+
+[J노믹스와 한국의 새로운 정책 어젠다 「Joseph E. Stiglitz (2001년 노벨경제학상 수상) 기고문」](http://www.kiet.re.kr/kiet_web/?sub_num=650&state=view&idx=6600)
+
 <br>
 
 >a lesson of May 16
