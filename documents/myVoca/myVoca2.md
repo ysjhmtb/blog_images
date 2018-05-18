@@ -160,23 +160,67 @@
 >
 > 그녀는 takes great care of 그녀의 옷
 >
-> 
+> 영국 육/공군 marshal
+>
+> 미국 법원의 marshal
+>
+> 특정 목적을 위해 사람, 사물, 생각 등을 marshal
 
 <br>
 
 13
 
+> despicable 행동 / 범행
+>
+> thrash about in pain	괴로워서 몸부림을 치다
+>
+> nuclear deterrents
+>
+> 그들은 looked on 그의 행동 with contempt
+>
+> fugitive from the army
+
 <br>
 
 14
+
+> 특히 지루해 하거나 딴 생각을 하면서 doodle
+>
+> Inductive 논거 / 추론
+>
+> 그 괴물을 got zapped by 비행접시
+>
+> **Artillery** consists of large, powerful guns which are transported on wheels and used by an army.
+>
+> **Contraband** refers to goods that are taken into or out of a country illegally.
 
 <br>
 
 15
 
+> 나는 have yet to call 그녀 왜냐하면 내가 너무 바빠서
+>
+> inertia - the property of matter by which it retains its state of rest or its velocity along a straight line so long as it is not acted upon by an external force.
+>
+> 무엇을 이해할 수 없어서 느끼는 perplexity
+>
+> 그 신문 기사는 그 배우에게 상당한 distress를 안겨 주었다
+>
+> impair - to make or cause to become worse
+
 <br>
 
 16
+
+> 특이하거나 분명한 해답이 없어서 intriguing
+>
+> indigenous - originating in and characteristic of a particular region or country
+>
+> 총/포의 caliber
+>
+> 아래나 위를 잘라서 truncate
+>
+> 내가 그에게 관심 없다고 말했지만 그는 wasn't detered
 
 <br>
 
