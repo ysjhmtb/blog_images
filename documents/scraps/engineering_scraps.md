@@ -16,6 +16,44 @@
 
 <br>
 
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+[Learn D3.js in 5 minutes](https://medium.freecodecamp.org/learn-d3-js-in-5-minutes-c5ec29fb0725)
+
+<br>
+
+[한국어에 빚질 것이 없거나 적다](https://twitter.com/sungkkshawnpark/status/989140354250162177)
+
+> 朴聖國, Shawn @sungkkshawnpark
+>
+> 앞으로 게임을 이해하고 만들 사람들은 한국어에 빚질 것이 없거나 적다. 언어 면에서 게임을 이해하거나 만드는데 필요한 원자료는 한국어로 작성된 것이 거의 없다. 프로그래머만 해도 영어 문서를 독해하는 능력이 없다면 생산성은 끔찍하게 낮다. 소규모 게임을 만드는 커뮤니티는 멸종 상태이다.
+>
+> 오전 6:53 - 2018년 4월 25일
+
+<br>
+
+[][번역] [[번역]코딩 공부 후 3개월 간 구직하며 배운 점](https://brunch.co.kr/@imagineer/194)
+
+<br>
+
 [반드시 흔적을 남겨야 한다. ](https://twitter.com/sungkkshawnpark/status/996981632799096833)
 
 > 朴聖國, Shawn @sungkkshawnpark
