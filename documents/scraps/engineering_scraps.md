@@ -50,10 +50,6 @@
 
 <br>
 
-[][번역] [[번역]코딩 공부 후 3개월 간 구직하며 배운 점](https://brunch.co.kr/@imagineer/194)
-
-<br>
-
 [반드시 흔적을 남겨야 한다. ](https://twitter.com/sungkkshawnpark/status/996981632799096833)
 
 > 朴聖國, Shawn @sungkkshawnpark
