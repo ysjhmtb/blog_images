@@ -28,7 +28,12 @@
 
 <br>
 
+[Smarter brains run on sparsely connected neurons](https://www.sciencedaily.com/releases/2018/05/180517102236.htm)
 
+> Date: May 17, 2018
+> Source: Ruhr-University Bochum
+> Summary:
+> The more intelligent a person, the fewer connections there are between the neurons in his cerebral cortex. This is the result of a study conducted by neuroscientists; the study was performed using a specific neuroimaging technique that provides insights into the wiring of the brain on a microstructural level.
 
 <br>
 
