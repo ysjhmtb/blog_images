@@ -24,7 +24,7 @@
 
 <br>
 
-
+[Shuji Nakamura - Facts](https://www.nobelprize.org/nobel_prizes/physics/laureates/2014/nakamura-facts.html)
 
 <br>
 
