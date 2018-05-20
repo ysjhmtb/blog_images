@@ -24,6 +24,34 @@
 
 <br>
 
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+[The Big List of D3.js Examples](http://christopheviau.com/d3list/)
+
+<br>
+
+[Learn to Create D3.js Data Visualizations by Example](https://www.sitepoint.com/d3-js-data-visualizations/)
+
+<br>
+
 [Shuji Nakamura - Facts](https://www.nobelprize.org/nobel_prizes/physics/laureates/2014/nakamura-facts.html)
 
 <br>

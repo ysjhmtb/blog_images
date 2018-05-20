@@ -1,8 +1,40 @@
 
 
+<br>
 
 
 
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+[Die like a dog](https://aeon.co/essays/why-do-we-give-dogs-a-better-death-than-we-give-ourselves)
 
 <br>
 
