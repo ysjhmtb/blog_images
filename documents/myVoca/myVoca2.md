@@ -226,41 +226,135 @@
 
 17
 
+> 피부에 detrimental 햇빛의 영향
+>
+> 모든 사람들이 marveled at 그의 용기
+>
+> Make sure 선반이 is aligned with 찬장 꼭대기
+>
+> maverick - 개성이 강한 사람
+>
+> 그 책은 괴테에서 따온 quotation 로 시작되었다
+
 <br>
 
 18
+
+> 수학에서 denominator
+>
+> 수학에서 numerator
+>
+> 이제 nothing but 기적만이 그녀를 구할 수 있다
+>
+> encyclopedia - 백과사전
+>
+> 그 날개의 진홍색은 shades into 분홍색으로 at the tips
 
 <br>
 
 19
 
+> 사교계에 나가는 젊은 여성의 chaperon
+>
+> fumbling 남학생
+>
+> 물웅덩이들이 had coalesced into 작은 냇물
+>
+> 그들은 had only a vague idea 그 장소가 어디인지
+>
+> 안 좋은 날씨는 only added to 우리의 어려움
+
 <br>
 
 20
+
+> The sergeant 차렷 자세를 하고 saluted
+>
+> Peroxide 로 머리를 금발로 만든 여자
+>
+> 사람들은 was pushing and shoving 서로 앞을 더 잘보려고
+>
+> surreptitious - 은밀한, 슬쩍 하는
+>
+> 그녀는 persevered with 그녀의 바이올런 레슨
 
 <br>
 
 21
 
+> 그의 행동이 너무 이상해서 나는 그의 sanity 에 의심이 들기 시작했다
+>
+> convolute - 소용돌이꼴의, 감아 넣다
+>
+> convoluted 설명
+>
+> quirky - 변덕스러운
+>
+> 한 사람/사건/주제에 대한 dossier
+
 <br>
 
 22
+
+> 웨딩 케이크 with three tiers
+>
+> 그의 분명한 진실성 inclined me to trust him
+>
+> 그 전집은 comprises 327점의 그림들로
+>
+> 군대가 repelled 섬의 남쪽으로 침투하려는 시도를
+>
+> 시에서 그는 laments 전원의 파괴를
 
 <br>
 
 23
 
+> 그들은 거부했다 to comply with 유엔 결의 사항에
+>
+> 색체들 사이의 미묘한 interplay
+>
+> 엉킨 것을 untangle
+>
+> shed sweat
+>
+> sparsely - 드문드문
+
 <br>
 
 24
+
+> Matter-of-factly - 있는 그대로; 사무적으로
+>
+> 다루기가 tricky
+>
+> 갑작스런 주가 상승 has confounded 경제학자들을
+>
+> substantial 액수의 돈
+>
+> 유치장/교도에서의 detention
 
 <br>
 
 25
 
+> vaporware - 개발 중부터 요란하게 선전하지만, 실제로는 완성될 가능성이 없는 소프트웨어
+>
+> 가구/담장 등에 연이어 붙이는 데 쓰이는 slat
+>
+> 그들의 병은 are attributable to 부실한 식단
+>
+> 항공기들이 머리 위를 지나갔다 with monotonous regularity
+>
+> subdued 대화
+
 <br>
 
 26
+
+> 일부 신청서 약식은 can be incomprehensible to 보통 사람들
+>
+> grossly 불공평한
 
 <br>
 
