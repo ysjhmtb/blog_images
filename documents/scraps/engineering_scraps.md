@@ -32,15 +32,15 @@
 
 <br>
 
-
-
-<br>
-
-
+[Information wars: How Europe became the world’s data police](https://www.ft.com/content/1aa9b0fa-5786-11e8-bdb7-f6677d2e1ce8)
 
 <br>
 
+[Chart Models click to load an editable example](http://nvd3.org/livecode/)
 
+<br>
+
+[D3 Tips and Tricks v3.x](https://leanpub.com/D3-Tips-and-Tricks)
 
 <br>
 
