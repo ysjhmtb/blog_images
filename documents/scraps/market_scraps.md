@@ -30,7 +30,11 @@
 
 <br>
 
+[COLUMN-Hedge funds exit crude oil but stay bullish on fuels: Kemp](https://www.reuters.com/article/oil-prices-kemp/column-hedge-funds-exit-crude-oil-but-stay-bullish-on-fuels-kemp-idUSL5N1SS2MQ)
 
+> Focusing on what people do rather than what they say is one of the most important lessons for any good analyst (actions always speak louder than words).
+>
+> Hedge funds and other money managers cut their net long position in the six most important petroleum futures and options contracts by 16 million barrels in the week to May 15 (tmsnrt.rs/2Li5RO7).
 
 <br>
 
