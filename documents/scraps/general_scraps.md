@@ -30,7 +30,7 @@
 
 <br>
 
-
+[The 9.9 Percent Is the New American Aristocracy](https://www.theatlantic.com/magazine/archive/2018/06/the-birth-of-a-new-american-aristocracy/559130/)
 
 <br>
 

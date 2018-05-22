@@ -28,7 +28,7 @@
 
 <br>
 
-
+[30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
 
 <br>
 
@@ -230,6 +230,12 @@
 <br>
 
 > 유명해지면 조그만 문제를 연구하는 것이 어려워집니다. 이게 바로 샤논(Shannon)을 잡아먹은 거지요. 정보 이론 이후에 다음으로 또 한 껀 뭘 할까? 위대한 과학자들이 이러한 실수를 합니다. 시작을 작게 하지 못하게 됩니다. 미래에 엄청난 아름드리 참나무로 자라게 될 아주 작은 도토리를 심지 못하는 것이지요. 처음부터 커다란 것을 곧바로 하려고 듭니다. 그런데 이것은 일이 되는 방식이 아니랍니다. 이게 바로 우리가 일찌감치 인정을 받으면 그 이후로는 아무 성과가 없게되고마는 이유이기도 하지요. 
+>
+> <br>
+>
+> When you are famous it is hard to work on small problems. This is what did Shannon in. After information theory, what do you do for an encore? The great scientists often make this error. They fail to continue to plant the little acorns from which the mighty oak trees grow. They try to get the big thing right off. And that isn't the way things go. So that is another reason why you find that when you get early recognition it seems to sterilize you. 
+>
+> You and Your Research
 
 <br>
 
