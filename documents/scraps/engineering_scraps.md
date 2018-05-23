@@ -20,7 +20,7 @@
 
 <br>
 
-
+[JSP Interview Questions and Answers](https://www.journaldev.com/2110/jsp-interview-questions-and-answers)
 
 <br>
 
