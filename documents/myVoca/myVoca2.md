@@ -136,7 +136,7 @@
 >
 > 주민들은 1마일을 걸어가야 한다 to fetch water
 >
-> 불행산 사건의 concurrence
+> 불행한 사건의 concurrence
 
 <br>
 
