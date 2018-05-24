@@ -8,15 +8,25 @@
 
 <br>
 
-
+> 朴聖國, Shawn @sungkkshawnpark
+>
+> 의미 있는(meaningful) 삶은 개인이 추구하는 가치와 행동의 정합성이 높은 삶. 다시 말해, 개인이 아는 것과 행동하는 것이 일치하는 삶. 대부분의 인간들이 욕심쟁이나 허풍쟁이인 것은 대개 자신이 중요하다고 생각하는 것을 “얻는(acquire)” 방향으로 행동하지 않기 때문이다. 대개 원하기만 한다.
+>
+> [오후 10:06 - 2018년 5월 23일](https://twitter.com/sungkkshawnpark/status/999517040011456512)
 
 <br>
 
+> 안희종  @heejongahn
+>
+> 중학생 땐 나름 중등부 화학 올림피아드 금상까지 타고, 과학고 가서도 화학 전공하고, 심지어는 잠깐이지만 대학에서도 화학과였던 때가 있는데 지금은 너무 놀라울 정도로 전부 까먹었다. 친구들 만나서 종종 얘기하다 보면 중학교 내용도 전혀 기억 못하는 나에게 좀 놀란다. 신기하고 좀 슬프기도.
+>
+> [오전 7:18 - 2018년 5월 22일](https://twitter.com/heejongahn/status/998931062762844161)
 
+유능한 분도 시간이 지나면 잊기 마련인데, 나같은 사람이 망각하는 것은 너무나 당연한 일.
 
 <br>
 
-
+[Relation and difference between Fourier, Laplace and Z transforms](https://electronics.stackexchange.com/questions/86489/relation-and-difference-between-fourier-laplace-and-z-transforms)
 
 <br>
 
