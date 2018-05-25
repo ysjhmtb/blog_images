@@ -48,7 +48,7 @@
 
 <br>
 
-
+[50 Servlet Interview Questions and Answers](https://www.journaldev.com/2015/servlet-interview-questions-and-answers)
 
 <br>
 
