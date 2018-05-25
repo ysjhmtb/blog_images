@@ -40,11 +40,11 @@
 
 <br>
 
-
+[Top SQL Interview Questions And Answers](https://intellipaat.com/interview-question/sql-interview-questions/)
 
 <br>
 
-
+[45 Essential SQL Interview Questions](https://www.toptal.com/sql/interview-questions)
 
 <br>
 
