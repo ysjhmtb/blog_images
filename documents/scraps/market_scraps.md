@@ -26,7 +26,16 @@
 
 <br>
 
-
+> Johnny Bo Jakobsen @jbjakobsen
+>
+> USD neither strong nor weak. 
+>
+> $USD in line with long-term fair value on a PPP basis.
+>
+> <img src="https://pbs.twimg.com/media/Dd4uk8_UwAAUoB1.png">
+>
+> [오전 6:54 - 2018년 5월 23일](https://twitter.com/jbjakobsen/status/999287388802347009/)
+>
 
 <br>
 
