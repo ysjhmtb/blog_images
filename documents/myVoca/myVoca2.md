@@ -355,6 +355,12 @@
 > 일부 신청서 약식은 can be incomprehensible to 보통 사람들
 >
 > grossly 불공평한
+>
+> 그녀는 rarely if ever 연주하다 피아노 지금
+>
+> remorseless 범죄 증가
+>
+> 나는 had to dismantle 엔진을 수리를 위해
 
 <br>
 

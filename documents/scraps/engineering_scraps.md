@@ -36,7 +36,7 @@
 
 <br>
 
-
+[신규 Web 서비스시 고려해 볼 사항](http://kwonnam.pe.kr/wiki/web/%EC%8B%A0%EA%B7%9C%EC%84%9C%EB%B9%84%EC%8A%A4)
 
 <br>
 
