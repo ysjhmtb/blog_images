@@ -32,7 +32,7 @@
 
 <br>
 
-
+[Apple’s earbuds were inspired by the dark side, says chief designer Jony Ive](https://www.theverge.com/2017/7/26/16031546/apple-earbuds-stormtroopers-star-wars-jonathan-ive)
 
 <br>
 
