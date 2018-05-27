@@ -367,22 +367,64 @@
 27
 
 > ~, here's **what it all boils down to** ~
+>
+> browse through : ~을 여기저기 읽다
+>
+> 나는 학교에서의 모든 종교의 indoctrination 을 반대한다
+>
+> 그녀의 소설은 is still relevant 오늘날에도
+>
+> dicisive 승리 요인
 
 <br>
 
 28
 
+> Painstakingly : 힘들여, 공들여
+>
+> 비서가 ushered 나를 그의 사무실로
+>
+> Attic 에 보관된 가구
+>
+> improvise : (보통 꼭 필요한 것이 없어서) 뭐든 있는 것으로 처리하다
+>
+> 나는 was repulsed by 그 끔직한 냄새에
+
 <br>
 
 29
+
+> 세계를 죄악으로부터 redemption
+>
+> hereby : 법률 문서 등에서 이에 의하여
+>
+> 그 계획은 conception 은 훌륭했지만 자금 부족으로 실패했다
+>
+> 다리 근육 spasm
+>
+> preponderant : (수적으로, 중요도 면에서) 우세한
 
 <br>
 
 30
 
+> 그 노인은 hobbled across 길을
+>
+> stringy : 식품이 씹기 어렵게 섬유질이 많은
+>
+> 그는 was stabbed to death 인종 차별주의자의 공격에서
+>
+> Tether : (동물이 멀리 가지 못하게 말뚝에) 묶다
+>
+> inculcate : 생각, 도덕률 등을 특히 자주 반복함으로써 머리 속에 심어주다
+
 <br>
 
 31
+
+> 새로운 시스템이 has been devised 도시 내 교통 통제를 위해
+>
+> 
 
 <br>
 
