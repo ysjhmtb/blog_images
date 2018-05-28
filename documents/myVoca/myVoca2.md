@@ -424,19 +424,55 @@
 
 > 새로운 시스템이 has been devised 도시 내 교통 통제를 위해
 >
-> 
+> 그들은 envision 가난과 질병이 없는 평등한 사회
+>
+> by no means : 결코 ..이 아닌
+>
+> contractionary territory로 들어서는 정책금리
+>
+> Decennial : 10년마다의
 
 <br>
 
 32
 
+> proofing : (방수 등의) 가공, 보강
+>
+> swath (와) : 낫을 휘둘러 한 줄로 베어나간 자리
+>
+> 그 갈등을 끝내는 데 그가 instrumental 역할을 했다
+>
+> curbing inflation 을 겨냥한 다양한 정책들이 도입되어 왔다
+>
+> 그녀는 그저 outward 종교적인 형식을 따르고 있다.
+
 <br>
 
 33
 
+> 그는 had always been overshadowed by 그의 누나
+>
+> 경제성장의 slowdown
+>
+> redistribution : 재분배
+>
+> 움직이는 부품들 간의 friction로 엔진이 과열된 것이었다
+>
+> 내전 종식을 위한 mandate
+
 <br>
 
 34
+
+> semiotics : 기호학
+>
+> 언어의 subtlety
+>
+> 누군가 as we speak 우리를 눈여겨보고 있다
+>
+> 위원회는 시간이 필요할 것이다 to assimilate 이 보고서를
+>
+> 그것은 영화이다 that engages 마음과 눈을 
 
 <br>
 

@@ -12,7 +12,7 @@
 
 <br>
 
-
+[jQuery 보다 먼저 알았으면 좋았을 것들](http://blog.jeonghwan.net/2018/01/25/before-jquery.html)
 
 <br>
 
