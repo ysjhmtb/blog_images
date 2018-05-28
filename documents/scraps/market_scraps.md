@@ -22,7 +22,14 @@
 
 <br>
 
+[When will the US Fed stop tightening?](https://www.ft.com/content/5b1ee17a-6003-11e8-9334-2218e7146b04)
 
+> If the term premium on short rates remains at zero, its current level, then the latest version of the Fed’s dots would be roughly validated in the bond market. In that case, the curve would flatten at about 3 per cent by 2020.
+>
+> However, things can change. As the fiscal stimulus takes effect, and GDP growth stays above trend, I would not be surprised to see the FOMC raising its estimate of r*, and also pushing the policy rate into contractionary territory.
+>
+> In that case, the curve might invert around 2020, with policy rates closer to 4 per cent and long bond yields around 3.5 per cent. On these assumptions, the bear market in US bonds would eventually have further to go, though probably not in the near future.
+>
 
 <br>
 
