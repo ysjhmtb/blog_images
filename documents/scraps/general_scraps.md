@@ -46,7 +46,7 @@
 
 <br>
 
-
+[천재는 양성되지 않는다. “발견”될 뿐이다.](https://cfr0g.wordpress.com/2018/05/31/%EC%B2%9C%EC%9E%AC%EB%8A%94-%EC%96%91%EC%84%B1%EB%90%98%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4-%EB%B0%9C%EA%B2%AC%EB%90%A0-%EB%BF%90%EC%9D%B4%EB%8B%A4/)
 
 <br>
 
