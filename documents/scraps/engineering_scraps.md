@@ -52,7 +52,7 @@
 
 <br>
 
-
+[In Linux directories are basically files. How is it in Windows?](https://www.quora.com/In-Linux-directories-are-basically-files-How-is-it-in-Windows/answer/Vern-Hart?share=541e3d01&srid=XAfq)
 
 <br>
 
