@@ -42,7 +42,7 @@
 
 <br>
 
-
+[The Californization of America](https://www.nytimes.com/2018/06/02/opinion/sunday/california-progressive-politics.html)
 
 <br>
 
