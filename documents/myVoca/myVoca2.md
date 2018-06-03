@@ -478,17 +478,57 @@
 
 35
 
+> 그녀는 운이 좋았다 in that 자신을 도와줄 친구들이 있었다
+>
+> The 19th Amendment에 의해 여성들에게 선거권이 주어졌다.
+>
+> bummed : 낙담한
+>
+> verbose 연설이 계속되었다.
+>
+> 우리는 rambling in Ireland 하며 여름을 보냈다.
+
 <br>
 
 36
+
+> 외국 기자들이 are being expelled
+>
+> 일부 관리자들은 to delegate 을 힘들어 한다
+>
+> take into account : ~을 고려하다
+>
+> 유엔 사무총장이 to mediate in the dispute 라는 요청을 받았다
+>
+> play down to : 상대에 맞춰 정도를 낮추다.
 
 <br>
 
 37
 
+> put something down : ~을 폄하하다
+>
+> 검은 형체 하나가 우리 앞에 loomed up
+>
+> 기간이 정해진 계약 기간의 expiry
+>
+> mislead : 호도하다
+>
+> 우리 아기는 이제 막 to crawl 을 시작해요.
+
 <br>
 
 38
+
+> the Jet Propulsion Laboratory (usually abbreviated to JPL)
+>
+> a stellar performance
+>
+> 나는 내가 옳다고 스스로를 had convinced
+>
+> 정보의 그 제안들은 언론의 거센 항의를 unleashed
+>
+> 
 
 <br>
 
