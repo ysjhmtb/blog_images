@@ -24,15 +24,15 @@
 
 <br>
 
-
-
-<br>
-
-
+[Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet)
 
 <br>
 
+[Vim Cheat Sheet](https://vim.rtorr.com/)
 
+<br>
+
+[A QUICK CHEAT SHEET TO THE UNIX/MAC TERMINAL](https://learntocodewith.me/command-line/unix-command-cheat-sheet/)
 
 <br>
 
