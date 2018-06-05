@@ -38,7 +38,7 @@
 
 <br>
 
-
+[72% 가구의 근로소득이 줄었다는 조선의 분석이 맞을까?]( http://sovidence.tistory.com/950) 
 
 <br>
 
