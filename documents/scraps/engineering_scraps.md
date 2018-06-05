@@ -20,7 +20,7 @@
 
 <br>
 
-
+[Zen of Analog Circuit Design](https://www.amazon.com/Analog-Circuit-Design-Anand-Udupa-ebook/dp/B00YQ6XTW0)
 
 <br>
 
