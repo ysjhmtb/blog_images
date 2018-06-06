@@ -8,14 +8,6 @@
 
 <br>
 
-[자스민으로 프론트엔드 테스트 코드 작성하기](http://blog.jeonghwan.net/tool/2017/03/28/jasmine.html)
-
-<br>
-
-[새내기 개발자의 JUnit 여행기](http://www.nextree.co.kr/p11104/)
-
-<br>
-
 > 朴聖國, Shawn @sungkkshawnpark
 >
 > 이것의 일부는 deliberate learning에 속한다. 단순 반복과는 확실히 다르다. 그 다름을 유지하는 것이 학습의 비결 아닐까 한다. 모든 반복을 의미있게 하려고 노력해야 한다.
