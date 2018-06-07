@@ -34,7 +34,7 @@
 
 <br>
 
-
+[수학과 공학으로 풀어낸 최저가 항공권의 비밀](http://www.sisain.co.kr/?mod=news&act=articleView&idxno=31961)
 
 <br>
 
