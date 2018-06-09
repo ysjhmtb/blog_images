@@ -40,7 +40,13 @@
 
 <br>
 
+[What are some efficient algorithms for options pricing?](https://www.quora.com/What-are-some-efficient-algorithms-for-options-pricing/answer/Joshua-Novak)
 
+> There are 3 main classes of algorithms used to price options: Transform methods, Finite Difference Methods, and Monte Carlo.  
+>
+> <br>
+>
+> Among these 3, the Transform methods are the most efficient. A Transform method is an algorithm that prices the option by using a "transformed" function  that the computer can easily compute- such as a uniform or normal distribution.
 
 <br>
 
