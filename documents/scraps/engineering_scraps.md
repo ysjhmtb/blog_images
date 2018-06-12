@@ -1,12 +1,12 @@
+<br>
 
 
 
+<br>
 
 
 
-
-
-
+<br>
 
 
 
@@ -19,6 +19,36 @@
 
 
 <br>
+
+
+
+<br>
+
+[Documenting with Sphinx and Readthedocs](https://www.pythonforthelab.com/blog/documenting-with-sphinx-and-readthedocs/)
+
+
+
+<br>
+
+[Building and Documenting Python REST APIs With Flask and Connexion](https://realpython.com/flask-connexion-rest-api/)
+
+
+
+<br>
+
+[How to get HTTPS working on your local development environment in 5 minutes](https://medium.freecodecamp.org/how-to-get-https-working-on-your-local-development-environment-in-5-minutes-7af615770eec)
+
+
+
+<br>
+
+[인종과 지능의 관계는 논할 가치가 없는 주제입니다(1/2)](http://newspeppermint.com/2018/06/11/m-race1/)
+
+
+
+<br>
+
+[인종과 지능의 관계는 논할 가치가 없는 주제입니다(2/2)](http://newspeppermint.com/2018/06/11/m-race2/)
 
 
 
@@ -26,6 +56,8 @@
 
 > [-5-](https://leenotes1.blogspot.com/2018/06/180610.html) 
 > 어릴적 다니던 모 학원의 선생님이 강의 중에 "열심히 했는데도 성적이 나오지 않는다는 것은, 열심히 하지 않았거나 시험에 나오지 않는 것을 열심히 했다는 뜻이다" 라고 하셨던 것을 아직까지도 기억한다. 아마 그 말에 꽤 공감을 하고 있었기 때문에 아직까지 기억을 하는 것 같다. 과연 열심히 하고 있는 것인지, 필요한 부분을 열심히 하고 있는 것인지를 자문하는 과정은 늘 필요하다고 본다. 그리고 만약 중요한 것에 열중하고 있음이 분명함에도 성과가 나오지 않는다면, 거기서 더 필요한 것은 시간이라고 생각한다. 시간이 무제한적이지 않다는 점이 문제이지만, 그래도 더 해보는 것 외에 다른 방법은 없다.
+>
+> 
 
 <br>
 

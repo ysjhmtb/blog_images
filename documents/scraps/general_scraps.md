@@ -30,7 +30,7 @@
 
 <br>
 
-
+[The Lifespan of a Lie](https://medium.com/s/trustissues/the-lifespan-of-a-lie-d869212b1f62)
 
 <br>
 
