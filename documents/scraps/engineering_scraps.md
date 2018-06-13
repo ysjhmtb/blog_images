@@ -24,6 +24,48 @@
 
 <br>
 
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+
+
+<br>
+
+[Elasticsearch Reference](https://elasticsearch.oofbird.net/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
+
+
+
+<br>
+
+[bash-handbook](https://github.com/denysdovhan/bash-handbook/blob/master/translations/ko-KR/README.md)
+
+
+
+<br>
+
+[개발자, 데이터 과학자, 데브옵스 전문가를 평가하자··· 테스트 프로젝트 예제](http://www.ciokorea.com/news/38529)
+
+
+
+<br>
+
+[2018 개발자 기술백서 (Developer Skills Report)](http://media.fastcampus.co.kr/knowledge/2018-developer-skills-report/)
+
+
+
+<br>
+
 [Documenting with Sphinx and Readthedocs](https://www.pythonforthelab.com/blog/documenting-with-sphinx-and-readthedocs/)
 
 
