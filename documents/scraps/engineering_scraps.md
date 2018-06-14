@@ -32,7 +32,11 @@
 
 <br>
 
-
+> Seongjae Lee @seongjaelee
+>
+> 페북분이랑 이야기하다 개소름이었던게 페북은 php 뜯어고쳐서 쓰고 있다는 건 알았는데 인스타그램은 파이썬 쟝고로 짜여있다고... 진짜 php/python으로도 월드스케일 커버 가능하다는 산 증인...
+>
+> [오후 10:57 - 2018년 6월 13일](https://twitter.com/seongjaelee/status/1007139975387742208)
 
 <br>
 
