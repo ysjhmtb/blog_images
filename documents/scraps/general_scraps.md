@@ -22,11 +22,11 @@
 
 <br>
 
-
+[인생은 거절의 연속](http://www.thestartupbible.com/2018/06/life-is-a-continutation-of-rejections.html)
 
 <br>
 
-
+[‘최저임금’ 보완책은 경제민주화](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201806122201005&code=990308)
 
 <br>
 
