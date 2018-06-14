@@ -34,21 +34,37 @@
 
 > The Long View  ⚫️ @HayekAndKeynes
 >
+> 
+>
 > Signs that we’re late cycle 
 >
+> 
+>
 > -Mature Fed hiking cycle 
+>
 > -Commodity rally 
+>
 > -Tech/Financials leading
+>
 > -Flatter yield curve 
+>
 > -Tight labor market
+>
 > -Rising inflation 
+>
 > -Peaking PMI
+>
 > -Surging consumer/NFIB confidence 
+>
 > -Tight credit spreads/low VIX
+>
 > -High corporate leverage
+>
 > -Low vacancy
 >
 > 
+>
+>
 > [오후 4:03 - 2018년 6월 12일](https://twitter.com/HayekAndKeynes/status/1006673494275448834)
 
 
