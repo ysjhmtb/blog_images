@@ -24,7 +24,24 @@
 
 <br>
 
-
+> Rinae @adhrinae
+>
+> 더 보기 Rinae 님이 리트윗했습니다 Sarah Drasner
+> 요즘은 뭔가를 직접 만들기보다 깃헙에서 간단하면서 새로운 영감을 주는 라이브러리의 코드를 직접 손으로 옮겨 적어보는 일이 많다. 언젠가 해당 코드를 급하게 복붙할 일이 있어도 직접 이해라도 해 보려고 노력한 경우와 그렇지 않은 경우는 큰 차이가 날 것이다.
+>
+> 
+>
+> Sarah Drasner @sarah_edo
+>
+> Many many years after reading "Learn Python the Hard Way" the *most* valuable part of the whole book for me was in the introduction. It has informed so much of how I've taught myself over the years.
+>
+> <img src="https://pbs.twimg.com/media/DfsVmNBUYAIlX0f.jpg">
+>
+> [오후 5:41 - 2018년 6월 14일](https://twitter.com/sarah_edo/status/1007422841766100992)
+>
+> 
+>
+> [오후 9:47 - 2018년 6월 14일](https://twitter.com/adhrinae/status/1007484606084333568)
 
 <br>
 
