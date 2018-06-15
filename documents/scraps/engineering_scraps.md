@@ -12,15 +12,15 @@
 
 <br>
 
-
-
-<br>
-
-
+[Visual Simulation Publications](http://simulation.dongguk.edu/mediawiki/index.php/Publications)
 
 <br>
 
+[Water simulation using a responsive surface tracking for flow-type changes](https://link.springer.com/article/10.1007/s00371-015-1080-4)
 
+<br>
+
+[2017년 대학원 진학 안내](https://blog.naver.com/atelierjpro/220998275865)
 
 <br>
 
