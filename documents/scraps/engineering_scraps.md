@@ -40,15 +40,21 @@
 
 <br>
 
+[Towards Battery-Free HD Video Streaming](http://batteryfreevideo.cs.washington.edu/)
 
-
-<br>
-
-
+> We present a novel architecture that enables HD video streaming from a low-power, wearable camera to a nearby mobile device. To achieve this, we present an "analog" video backscatter technique that feeds analog pixels from the photo-diodes directly to the backscatter hardware, thereby eliminating power-consuming hardware components, such as ADCs and codecs. 
 
 <br>
 
+[Self-driving cars for country roads](http://news.mit.edu/2018/self-driving-cars-for-country-roads-mit-csail-0507)
 
+> In contrast, MapLite uses sensors for all aspects of navigation, relying on GPS data only to obtain a rough estimate of the car’s location. The system first sets both a final destination and what researchers call a “local navigation goal,” which has to be within view of the car. Its perception sensors then generate a path to get to that point, using LIDAR to estimate the location of the road’s edges. MapLite can do this without physical road markings by making basic assumptions about how the road will be relatively more flat than the surrounding areas.
+
+<br>
+
+[Depth-sensing imaging system can peer through fog](http://news.mit.edu/2018/depth-sensing-imaging-system-can-peer-through-fog-0321)
+
+> Crucially, the system calculates a different gamma distribution for each of the 1,024 pixels in the sensor. That’s why it’s able to handle the variations in fog density that foiled earlier systems: It can deal with circumstances in which each pixel sees a different type of fog.
 
 <br>
 
