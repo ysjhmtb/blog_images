@@ -60,7 +60,7 @@
 
 <br>
 
-
+[Digital Design and Computer Architecture](https://www.amazon.com/Digital-Design-Computer-Architecture-Second/dp/0123944244/ref=sr_1_11?s=books&ie=UTF8&qid=1529141944&sr=1-11&keywords=digital+design)
 
 <br>
 
