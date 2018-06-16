@@ -8,6 +8,66 @@
 
 <br>
 
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+[Agile All-Digital RF Transceiver Implemented in FPGA](https://ieeexplore.ieee.org/document/7898863/)
+
+<br>
+
 [Can we use C++ to program FPGAs instead of VHDL?](https://www.quora.com/Can-we-use-C++-to-program-FPGAs-instead-of-VHDL)
 
 <br>
