@@ -52,11 +52,11 @@
 
 <br>
 
-
+[Ultrasonic Radar Implementation on FPGA](https://www.hackster.io/beste-caferoglu/ultrasonic-radar-implementation-on-fpga-665c26)
 
 <br>
 
-
+[FPGA Computer Graphics](https://www.hackster.io/peptenarubeatrice/fpga-computer-graphics-325fa4)
 
 <br>
 
