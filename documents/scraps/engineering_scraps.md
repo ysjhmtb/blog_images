@@ -24,15 +24,19 @@
 
 <br>
 
-
-
-<br>
-
-
+[HOW TO DRAW X AND Y AXIS IN COMPUTER GRAPHICS (C++ PROGRAMMING)](https://www.youtube.com/watch?v=t1UinBoo8rc)
 
 <br>
 
+[FPGAs and OpenCL: What’s Up?](https://www.infoworld.com/article/3245753/hardware/fpgas-and-opencl-what-s-up.html)
 
+<br>
+
+> redacted @29979245oo
+>
+> 그리고 제발 다이나믹 프로그래밍 이런 거에 시간 허비 하지 말라고. 왜 여기에 그렇게 시간 쓰는지 너무 안타깝다. DP 문제 나오면 그냥 브루트 포스로 풀어요. 그 담에 메모이제이션해서 조금만 최적화 해도 됨. 그런데 이보다 코딩을 잘 해야 함. 대부분은 잘 못합니다. 누가 지적 안 하면 모름.
+>
+> [오전 11:12 - 2018년 4월 6일](https://twitter.com/29979245oo/status/982320268784885760)
 
 <br>
 
