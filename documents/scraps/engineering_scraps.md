@@ -16,11 +16,27 @@
 
 <br>
 
+[STAR: Visual Computing in Materials Science](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13214)
 
+> ### Abstract
+>
+> Visual computing has become highly attractive for boosting research endeavors in the materials science domain. Using visual computing, a multitude of different phenomena may now be studied, at various scales, dimensions, or using different modalities. This was simply impossible before. Visual computing techniques provide novel insights in order to understand complex material systems of interest, which is demonstrated by strongly rising number of new approaches, publishing new techniques for materials analysis and simulation.
+>
+> Outlining the proximity of materials science and visual computing, this state of the art report focuses on the intersection of both domains in order to guide research endeavors in this field. We provide a systematic survey on the close interrelations of both fields as well as how they profit from each other. Analyzing the existing body of literature, we review the domain of visual computing supported materials science, starting with the definition of materials science as well as material systems for which visual computing is frequently used. Major tasks for visual computing, visual analysis and visualization in materials sciences are identified, as well as simulation and testing techniques, which are providing the data for the respective analyses. We reviewed the input data characteristics and the direct and derived outputs, the visualization techniques and visual metaphors used, as well as the interactions and analysis workflows employed. All our findings are finally integrated in a cumulative matrix, giving insights about the different interrelations of both domains. We conclude our report with the identification of open high level and low level challenges for future research.
 
 <br>
 
-
+> 어엉부엉 @d_ijk_stra
+>
+> 고급 영어를 구사하는 책을 읽을 때에는 정신줄을 잠깐 놓으면 단어 하나하나만 들여다 보거나 소리를 마음 속으로 읽고만 있어서, 막상 페이지를 다 넘기고 나면 머리 속에 남는게 아무것도 없을 때가 많다. 그래서 책이 괜찮다 싶으면 2회독을 하면서 중고등학교 국어시간 때처럼 책을 읽는다.
+>
+> [오전 5:09 - 2018년 6월 18일](https://twitter.com/d_ijk_stra/status/1008683109154353153)
+>
+> 어엉부엉@d_ijk_stra
+>
+> 구체적으로는 문단별로 중심 문장을 찾아서 밑줄을 치고, 섹션별로 내용을 요약해 본다. 그러면 비로소 내용을 이해하려고 하며 적극적으로 읽게 되는 것 같다. 중고등학교 때 의식적으로 국어 공부를 했던 것처럼, 비슷한 노력을 영어에도 기울여야 하나보다.
+>
+> <img src="https://pbs.twimg.com/media/Df-QyogUcAYppJc.jpg">
 
 <br>
 
