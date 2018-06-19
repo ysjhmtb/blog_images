@@ -52,7 +52,14 @@
 
 <br>
 
-
+> The Long View  ⚫️ @HayekAndKeynes
+>
+> Time for covered calls in EM
+>
+> Perhaps a tad late, but EM implied vols are pretty elevated. If you don’t see a quick rebound relief rally (I don’t) you can pick up 3-5% for 2m ATM covered calls. Good way to reduce delta and get paid some attractive carry if you like valuations.
+>
+> 
+> [오전 8:25 - 2018년 6월 19일](https://twitter.com/HayekAndKeynes/status/1009094883322167296)
 
 <br>
 
