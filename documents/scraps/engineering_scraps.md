@@ -22,13 +22,19 @@
 
 <br>
 
+
+
 <br>
 
-<br>
+[Servlet Concurrency](http://tutorials.jenkov.com/java-servlets/servlet-concurrency.html)
 
 <br>
 
+[Java Multithreading Concurrency Interview Questions and Answers](https://www.journaldev.com/1162/java-multithreading-concurrency-interview-questions-answers)
 
+<br>
+
+[Mac Terminal 명령어](https://github.com/tadkim/infra/wiki/Mac-::-%ED%84%B0%EB%AF%B8%EB%84%90-%EB%AA%85%EB%A0%B9%EC%96%B4)
 
 <br>
 
