@@ -42,7 +42,13 @@
 
 <br>
 
-
+> **The Long View  ⚫️**‏ @**HayekAndKeynes**
+>
+> If you care about inequality, if you care about the wages of the poor, if you care about "people of color" you will fight for immigration reform.  If not, you're likely a partisan hack, delusional or unwilling to critically evaluate data on immigration
+>
+> [Yes, Immigration Hurts American Workers](https://www.politico.com/magazine/story/2016/09/trump-clinton-immigration-economy-unemployment-jobs-214216)
+>
+> [오후 4:09 - 2018년 6월 19일](https://twitter.com/HayekAndKeynes/status/1009211693048745986)
 
 <br>
 
