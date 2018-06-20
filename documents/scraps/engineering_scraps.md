@@ -1,14 +1,46 @@
+
+
+
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
 <br>
 
 
 
 <br>
 
-
+[Linux vim command](https://www.computerhope.com/unix/vim.htm)
 
 <br>
 
+[How to Change File Extensions of Files via Command Line in Mac OS](http://osxdaily.com/2017/05/12/change-all-file-extensions-command-line/)
 
+<br>
+
+[Master the command line: Copying and moving files](https://www.macworld.com/article/2080814/master-the-command-line-copying-and-moving-files.html)
 
 <br>
 
