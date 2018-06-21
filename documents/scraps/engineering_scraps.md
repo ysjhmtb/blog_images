@@ -102,6 +102,13 @@
 
 <br>
 
+> 안녕하세요 개골님. 저는 전자공학 수업 몇개를 들은 적이 있지만 대학원 문턱도 못 가본 사람입니다. 제가 우연히 올해 전자공학 분야에서 유명한 연구 세 가지를 접했는데요. 1) https://bit.ly/2HZyzRm 2) https://bit.ly/2IiCFIc 3) https://bit.ly/2JTQUkd 외람된 이야기지만 제가 이해햐기로는 작은 (어쩌면 간단한) 개선인것 같은데요. 원래 논문이라는 것이 이처럼 작은 개선의 반복인 것인지요?
+>
+> [개골](https://ask.fm/cfr0g/answers/148254105578)
+> 네. 거의 대부분의 논문은 작은 개선들이죠
+
+<br>
+
 [Towards Battery-Free HD Video Streaming](http://batteryfreevideo.cs.washington.edu/)
 
 > We present a novel architecture that enables HD video streaming from a low-power, wearable camera to a nearby mobile device. To achieve this, we present an "analog" video backscatter technique that feeds analog pixels from the photo-diodes directly to the backscatter hardware, thereby eliminating power-consuming hardware components, such as ADCs and codecs. 
