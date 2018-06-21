@@ -104,7 +104,7 @@
 
 <br>
 
-Lidar = CPP + MCU + DSP 
+LIDAR = CPP + MCU + DSP 
 
 <br>
 
