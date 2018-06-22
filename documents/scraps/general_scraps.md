@@ -38,7 +38,7 @@
 
 <br>
 
-
+[The Last of the Tiger Parents](https://www.nytimes.com/2018/06/22/opinion/sunday/asian-american-tiger-parents.html)
 
 <br>
 
