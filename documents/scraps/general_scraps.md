@@ -26,6 +26,21 @@
 
 <br>
 
+[How do I quickly and efficiently learn a new language?](https://www.quora.com/How-do-I-quickly-and-efficiently-learn-a-new-language/answer/Cyprien-Rusu?share=7f62dd5e&srid=XAfq)
+
+> Cyprien Rusu, CAE Analyst & Technical Blogger (2012-present)
+> 
+>
+> 1. Put in your head that learning a language is easy, you just need time and patience, that’s all
+
+
+
+> 5. Find the best book to learn the language you target. **Just one book is enough.** Don’t fall into the “Application” mania. An application or a dictionary is just a tool, a “helper”.
+> 6. Every day, **take 30 min to read that book** until you finish the book. Go slowly, **do all the exercices.**
+> 7. When you have some very basics and you know few phrases, find some friend speaking the language and go practice what you learn. Don’t be afraid to fail or to speak incorrectly, no one will laugh about you. Everyone speaks incorrectly before speaking correctly. Just think about babies: If a baby was waiting to have the perfect grammar to start speaking, he would never say a word. Instead, **use the “ Fail Fast Forward” approach. Fail quickly, then listen to the correction.** Ask others to correct you. Then improve.
+> 8. When you understand few phrases and you feel you are okay to present yourself, start to watch dramas and series in the language you target. My advice is **to watch dramas with subtitles in the language of the country language, NOT yours. The purpose is to listen. when you don’t understand, pause and search in the dictionary.** make lists of words. If you don’t understand 100%, that’s okay. Try to understand the gestures and you will see that after some time, you will start to understand more and more.
+> 9. Repeat all those steps: Find more books, dramas, friends.
+
 
 
 <br>
