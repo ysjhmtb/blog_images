@@ -30,7 +30,7 @@
 
 <br>
 
-
+[덜 풀고 덜 외웠더니 … 1975년 이후 세대에선 IQ 3~5 뚝](http://news.joins.com/article/22740274)
 
 <br>
 
