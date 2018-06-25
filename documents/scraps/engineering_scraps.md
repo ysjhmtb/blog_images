@@ -2,9 +2,47 @@
 
 
 
+
+
 <br>
 
 
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+[How I started drawing CSS Images](https://blog.prototypr.io/how-i-started-drawing-css-images-3fd878675c89)
+
+<br>
+
+[mathpix Convert Images To Latex.](https://mathpix.com/)
+
+<br>
+
+[Life at the Intersection of AI and Society with Dr. Ece Kamar](https://www.microsoft.com/en-us/research/blog/life-at-intersection-of-ai-society-ece-kamar/?OCID=msr_podcast_ekamar_TW)
 
 <br>
 
