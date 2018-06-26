@@ -14,15 +14,15 @@
 
 <br>
 
-
-
-<br>
-
-
+[GraphQL과 RESTful API](http://www.holaxprogramming.com/2018/01/20/graphql-vs-restful-api/)
 
 <br>
 
+[Understanding And Using REST APIs](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
 
+<br>
+
+[Log4j hello world example](https://www.mkyong.com/logging/log4j-hello-world-example/)
 
 <br>
 
