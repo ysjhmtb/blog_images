@@ -26,11 +26,11 @@
 
 <br>
 
-
+[Homemade GPS Receiver](http://www.aholme.co.uk/GPS/Main.htm)
 
 <br>
 
-
+[New tutorial about Spring Boot and Kotlin](https://spring.io/blog/2018/05/11/new-tutorial-about-spring-boot-and-kotlin)
 
 <br>
 
