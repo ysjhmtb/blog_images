@@ -34,7 +34,7 @@
 
 <br>
 
-
+CPP DSP EM REDUCTIONISM
 
 <br>
 
@@ -195,10 +195,6 @@
 [[반도체 용어 사전] 핀펫(FinFET= Fin Field Effect Transistor) 공정](http://www.samsungsemiconstory.com/1353)
 
 > 트랜지스터는 게이트에 전압이 가해지면 채널을 통해 'Source'에서 'Drain'으로 전류가 흐르며 동작하게 된다. 이때 게이트와 채널과의 접점이 클수록 효율이 높아지는데, 핀펫 공정은 핀(Fin) 모양의 3D 구조를 적용, 접점 면적을 키워 반도체 성능 향상 및 누설 전류를 줄였다.
-
-<br>
-
-LIDAR = CPP + MCU + DSP 
 
 <br>
 
