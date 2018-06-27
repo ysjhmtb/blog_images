@@ -18,7 +18,23 @@
 
 <br>
 
-
+> 朴聖國, Shawn @sungkkshawnpark
+>
+> 나도 이제 영어를 학습하는 가장 효율적인 방법은 1) 관심 있는 주제의 2) 영어권 @YouTube 영상을 3) 자막 없이 4) 의도적으로 보고 듣는 것이라고 본다. 영문법은 따로 배워야하지만 한국인은 어차피 문법에 강하니까. 영어로 하는 D&D 플레이로 영어를 마스터한 사람도 알지만 그건 너무 비싼 방법.
+>
+> 
+>
+> 朴聖國, Shawn @sungkkshawnpark
+>
+> "Meet hip-hop's newest star, who says he learned English from watching YouTube videos - ABC News"
+>
+> https://abcnews.go.com/Entertainment/meet-hip-hops-newest-star-learned-english-watching/story?id=51141990
+>
+> [오전 1:00 - 2018년 6월 27일](https://twitter.com/sungkkshawnpark/status/1011881868562595840)
+>
+> 
+>
+> [오전 1:08 - 2018년 6월 27일](https://twitter.com/sungkkshawnpark/status/1011883832004341760)
 
 <br>
 
