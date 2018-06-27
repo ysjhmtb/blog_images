@@ -40,7 +40,13 @@
 
 <br>
 
-
+> Giulia Specchia @SpecchiG
+>
+> The differential between the US and global data #surprise indices has been a key driver underpinning the rally in the #USD. But US out-performance vis-a-vis the RoW has peaked, and it is now starting to moderate.
+>
+> <img src="https://pbs.twimg.com/media/DgmNnbtVQAAJCDW.jpg">
+>
+> [오후 11:26 - 2018년 6월 25일](https://twitter.com/SpecchiG/status/1011495941629620224)
 
 <br>
 
