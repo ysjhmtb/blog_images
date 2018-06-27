@@ -14,6 +14,34 @@
 
 <br>
 
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+[Electromagnetically induced transparency in sinusoidal modulated ring resonator](https://aip.scitation.org/doi/10.1063/1.5029307)
+
+<br>
+
 [GraphQL과 RESTful API](http://www.holaxprogramming.com/2018/01/20/graphql-vs-restful-api/)
 
 <br>
