@@ -22,11 +22,11 @@
 
 <br>
 
-
+[따라하며 배우는 C++ 강의 시리즈](https://m.blog.naver.com/PostView.nhn?blogId=atelierjpro&logNo=221308789543&proxyReferer=&proxyReferer=http%3A%2F%2Fblog.naver.com%2Fatelierjpro%2F221308789543)
 
 <br>
 
-
+[Can I create my own featured scanf method in C from scratch?](https://www.quora.com/Can-I-create-my-own-featured-scanf-method-in-C-from-scratch/answer/Michael-Veksler?share=a9554c2b&srid=XAfq)
 
 <br>
 
