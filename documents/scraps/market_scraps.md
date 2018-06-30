@@ -28,7 +28,13 @@
 
 <br>
 
-
+> Alex @MacroOps
+>
+> World earnings momentum has likely peaked but is still strong.
+>
+> <img src="https://pbs.twimg.com/media/Dg59-zLU0AAJ385.jpg">
+>
+> [오후 7:28 - 2018년 6월 29일](https://twitter.com/MacroOps/status/1012885485335691264/)
 
 <br>
 

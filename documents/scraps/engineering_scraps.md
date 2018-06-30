@@ -34,7 +34,7 @@
 
 <br>
 
-CPP REDUCTIONISM
+CPP
 
 <br>
 
