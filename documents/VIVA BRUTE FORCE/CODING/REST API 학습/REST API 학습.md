@@ -83,3 +83,23 @@ https://api.github.com/users/zellwk/repos?sort=pushed
 
 <h2>curl을 사용하여 endpoints 테스트 해보기</h2>
 
+모든 언어로 request를 보내는 것이 가능한데, JavaScript의 경우 [Fetch API](https://css-tricks.com/using-fetch/) 나 [jQuery's Ajax method](http://api.jquery.com/jquery.ajax/) 를 사용하면 된다. <br>
+
+지금은 [cURL](https://curl.haxx.se/)이라고 불리는 커맨드 라인 유틸리티를 사용한다. 참고로 보통 API 문서는 cURL을 기준으로 작성되어 있다.  
+
+<br>
+
+```bash
+$ curl --version
+```
+
+위의 명령어를 통해 cURL이 설치되어 있는 확인할 수 있다.
+
+<br>
+
+cURL 사용하기.
+
+```bash
+$ curl https://api.github.com
+```
+
