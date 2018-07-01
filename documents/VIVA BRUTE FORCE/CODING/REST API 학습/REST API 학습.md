@@ -374,3 +374,31 @@ X-GitHub-Request-Id: C2E7:9C3C:C1E948:1063A6F:5B3730E6
 <br>
 
 <h2>API Versions</h2>
+
+
+
+ 시간이 지남에 따라 버전 업그레이드가 이루어지면 기존에 동작하던 애플리케이션이 제대로 동작하지 못하게 되기 때문에, 이를 확인할 필요가 있다. API 버전을 확인할 수 있는 방법은 두 가지가 있다.
+
+<br>
+
+1. Directly in the endpoint
+2. In a request header
+
+<br>
+
+트위터는 첫 번째 방법을 사용하는 반면,
+
+```bash
+https://api.twitter.com/1.1/account/settings.json
+```
+
+<br>
+
+깃헙은 두 번째 방법을 사용한다.
+
+```bash
+curl https://api.github.com -H Accept:application/vnd.github.v3+json
+```
+
+<br>
+
