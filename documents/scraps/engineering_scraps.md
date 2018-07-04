@@ -10,15 +10,15 @@
 
 <br>
 
-
-
-<br>
-
-
+[My advice on studying algorithms](http://shlegeris.com/2016/08/14/algorithms)
 
 <br>
 
+[I will teach you to be good at programming interviews](https://www.interviewcake.com/)
 
+<br>
+
+[How to pass a programming interview](https://triplebyte.com/blog/how-to-pass-a-programming-interview)
 
 <br>
 
