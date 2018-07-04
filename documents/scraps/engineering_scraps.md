@@ -22,6 +22,30 @@
 
 <br>
 
+
+
+<br>
+
+[How do I learn Swift?](https://www.quora.com/How-do-I-learn-Swift)
+
+<br>
+
+[Can I develop iOS apps without learning Swift or Objective-C? I already know C ,C++ and Python.](https://www.quora.com/Can-I-develop-iOS-apps-without-learning-Swift-or-Objective-C-I-already-know-C-C++-and-Python)
+
+<br>
+
+[The Extraordinary Link Between Deep Neural Networks and the Nature of the Universe](https://www.technologyreview.com/s/602344/the-extraordinary-link-between-deep-neural-networks-and-the-nature-of-the-universe/)
+
+<br>
+
+[IBM is Hoarding a Lot of Software Patents But Disguises Them as ‘Cloud’, ‘AI’, and Other Buzzwords](http://techrights.org/2017/03/12/patents-on-clouds-and-ai/)
+
+<br>
+
+[How robots are grasping the art of gripping](https://www.nature.com/articles/d41586-018-05093-1)
+
+<br>
+
 [따라하며 배우는 C++ 강의 시리즈](https://m.blog.naver.com/PostView.nhn?blogId=atelierjpro&logNo=221308789543&proxyReferer=&proxyReferer=http%3A%2F%2Fblog.naver.com%2Fatelierjpro%2F221308789543)
 
 <br>

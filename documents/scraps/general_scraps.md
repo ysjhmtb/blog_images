@@ -6,6 +6,26 @@
 
 <br>
 
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+[There’s only one way to truly understand another person’s mind](https://qz.com/1319441/theres-only-one-way-to-truly-understand-another-persons-mind/)
+
+<br>
+
+[Policymakers can’t tackle inequitable growth if it isn’t measured](https://equitablegrowth.org/policymakers-cant-tackle-inequitable-growth-if-it-isnt-measured/)
+
+<br>
+
 [동기부여와 학습기술을 가르치는 교육](https://cfr0g.wordpress.com/2018/06/30/%EB%8F%99%EA%B8%B0%EB%B6%80%EC%97%AC%EC%99%80-%ED%95%99%EC%8A%B5%EA%B8%B0%EC%88%A0%EC%9D%84-%EA%B0%80%EB%A5%B4%EC%B9%98%EB%8A%94-%EA%B5%90%EC%9C%A1/)
 
 > 이 업의 핵심지식이 수학과 컴퓨터 지식이기 때문에, 이 질문은 사실 별 의미가 없다. 당연히 할 수가 없다. 그러면 전공분야가 달라도 할 수 있냐고 물어보는데, 이건 가능은 하다. 하지만 난이도는 굉장히 높다. 비유하자면 프로야구단에서 선수를 뽑는 것과 유사하다. 비슷한 전공을 한 학생들은 고교야구나 대학야구를 해본 선수들과 마찬가지다. **적어도 공식적인 경기기록**이 있으니 스카우터 입장에서 판단할 근거가 있다. 전공분야가 전혀 다르면 그냥 동네 청년과 마찬가지다. 체력테스트등을 해봐서 아주 수준급이라면 스카웃할 수 있겠지만, 그 테스트 기회를 얻는 것부터 어렵다.
