@@ -6,7 +6,7 @@
 
 <br>
 
-
+[CppCon 2015 Presentation Materials](https://github.com/CppCon/CppCon2015/blob/master/README.md)
 
 <br>
 
