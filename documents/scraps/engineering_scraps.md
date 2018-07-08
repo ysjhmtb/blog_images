@@ -6,6 +6,30 @@
 
 <br>
 
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+[5 Highly Recommended Computational Physics Textbooks](http://physicsdatabase.com/2017/07/23/5-highly-recommended-computational-physics-textbooks/)
+
+<br>
+
+[Piezoelectricity](https://www.explainthatstuff.com/piezoelectricity.html)
+
+<br>
+
 [CppCon 2015 Presentation Materials](https://github.com/CppCon/CppCon2015/blob/master/README.md)
 
 <br>
