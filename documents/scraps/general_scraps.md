@@ -1,8 +1,18 @@
 
 
+
+
 <br>
 
 
+
+<br>
+
+[THE ENTREPRENEURIAL STATE](https://marianamazzucato.com/entrepreneurial-state/)
+
+<br>
+
+[문재인 대통령께 고함](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201807102030045&code=990308)
 
 <br>
 
