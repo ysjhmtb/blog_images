@@ -20,6 +20,8 @@
 
 <br>
 
+[Interpolation and parallel adjustment of center-sampled trees with new balancing constraints](https://link.springer.com/article/10.1007/s00371-014-1018-2)
+
 <br>
 
 [5 Highly Recommended Computational Physics Textbooks](http://physicsdatabase.com/2017/07/23/5-highly-recommended-computational-physics-textbooks/)

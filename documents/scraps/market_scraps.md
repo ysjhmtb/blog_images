@@ -20,7 +20,7 @@
 
 <br>
 
-
+[R에서 거래소 크롤링을 통한 KOSPI 역사적 PBR 다운받기](http://henryquant.blogspot.com/2018/07/r-kospi-pbr.html)
 
 <br>
 
