@@ -16,7 +16,9 @@
 
 <br>
 
+[Chart Of The Week: Yield Curve Points To Higher Volatility](https://seekingalpha.com/amp/article/4185333-chart-week-yield-curve-points-higher-volatility)
 
+<img src="https://static2.seekingalpha.com/uploads/2018/7/3/47769140-15306416398301635_origin.png">
 
 <br>
 
@@ -41,6 +43,12 @@
 > 주식시장을 거대한 풍선처럼 생각한다. 매일 볼록 올라오는 곳이 달라진다. 유심히 관찰하면 어디가 올라올지 예측할수 있다. 새로운 바람이 들어오면 전체가 부풀어 오르지만 숨은 언제까지 계속되지 않는다.
 >
 > [오후 5:47 - 2018년 7월 5일](https://twitter.com/SmokeValley/status/1015034571623055360)
+>
+> 매연계곡@SmokeValley
+>
+> 남들이 슈팅을 노리거나 손절을 치는 타이밍에 반대로 매매한다. 감정이 가장 증폭되는 순간이다. 가격은 감정을 대변한다. 그때 왜곡된다.
+>
+> [오후 6:49 - 2018년 7월 10일](https://twitter.com/SmokeValley/status/1016861974691340288)
 
 <br>
 
