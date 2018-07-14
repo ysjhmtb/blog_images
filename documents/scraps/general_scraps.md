@@ -8,6 +8,24 @@
 
 <br>
 
+
+
+<br>
+
+[고용의 진짜 문제: 최저임금으로 고용문제를 보면 답 없음](http://sovidence.tistory.com/959)
+
+> 인구 감소 요인을 빼면 최저임금 때문이 아니라 삽질경제 백안시, 제조업 침체가 문제임. 후자는 어쩔 수 없는 측면이 있다 치고, 전자는 정부가 나설 수 있는 분야임. 
+
+<br>
+
+> 괴골 [개물] @cfr0g
+>
+> 그리고 모든 차별의식들은 타인을 각각의 개성을 지닌 개인으로 인지하지 않고, 하나의 전형적인 "집단"으로 퉁치는데서부터 시작한다.
+>
+> [오후 7:51 - 2018년 7월 9일](https://twitter.com/cfr0g/status/1016515199329693696)
+
+<br>
+
 [THE ENTREPRENEURIAL STATE](https://marianamazzucato.com/entrepreneurial-state/)
 
 <br>
