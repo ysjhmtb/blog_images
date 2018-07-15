@@ -18,7 +18,7 @@
 
 <br>
 
-
+[Cookbook: Java -> Maven -> Docker -> AWS ECR -> AWS ECS (Fargate)](https://medium.com/@niclasgustafsson/cookbook-java-maven-docker-aws-ecr-aws-ecs-fargate-e12cfc126050)
 
 <br>
 
