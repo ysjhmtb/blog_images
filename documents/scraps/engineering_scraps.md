@@ -14,7 +14,7 @@
 
 <br>
 
-
+[RISC vs. CISC](https://cs.stanford.edu/people/eroberts/courses/soco/projects/risc/risccisc/)
 
 <br>
 
