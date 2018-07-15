@@ -8,7 +8,7 @@
 
 <br>
 
-
+[외국어 6개월만에 마스터하는 비법 // 영어공부 중국어공부 외국어공부 [우기부기TV]](https://www.youtube.com/watch?v=uektGttV6LU&feature=youtu.be)
 
 <br>
 
