@@ -26,7 +26,18 @@
 
 <br>
 
-
+> 상일 @sioum
+>
+> 수학과 대학원에서의 성공을 예측할 수 있는가? 
+> 캘리포니아 남부 대학들 조사해보니 의외로 GRE가 상관관계가 높았으며 특히 GRE verbal 점수가 상관관계가 높았고 학점은 큰 상관이 없었다고
+> "Admission predictors for success in a mathematics graduate program"
+> https://arxiv.org/abs/1803.00595 
+>
+> <img src="https://pbs.twimg.com/media/DiL8S6RUEAE8lRo.jpg">
+>
+> [오후 5:31 - 2018년 7월 15일](https://twitter.com/sioum/status/1018654359414923264)
+>
+> 
 
 <br>
 
