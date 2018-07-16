@@ -65,7 +65,11 @@
 
 <br>
 
-[Get the coordinates on marker drag event in the Google Maps (Latitude, longitude)](Get the coordinates on marker drag event in the Google Maps (Latitude, longitude))
+[Get the coordinates on marker drag event in the Google Maps (Latitude, longitude)](http://www.7codes.info/post/14/get-the-coordinates-on-marker-drag-event-in-the-google-maps-(latitude,-longitude) )
+
+<br>
+
+[Getting coordinates from click or drag event in Google Maps API?](https://gis.stackexchange.com/questions/33238/getting-coordinates-from-click-or-drag-event-in-google-maps-api)
 
 <br>
 
