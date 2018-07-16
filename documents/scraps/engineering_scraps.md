@@ -30,15 +30,15 @@
 
 <br>
 
-
-
-<br>
-
-
+[How does a compiler, interpreter, and CPU work?](https://www.youtube.com/watch?v=OVTu4XcmnwE)
 
 <br>
 
+[Processor Design - RISC,CISC & ROPS](https://www.i-programmer.info/babbages-bag/392-inside-the-processor.html)
 
+<br>
+
+[A Beginner’s Guide to RISC and CISC Architectures](https://medium.com/@csoham358/a-beginners-guide-to-risc-and-cisc-architectures-fc9af424db3b)
 
 <br>
 
