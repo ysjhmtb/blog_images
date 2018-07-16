@@ -623,6 +623,10 @@ CPP
 
 <br>
 
+[A step by step guide on preparing and submitting a pull request](https://github.com/PointCloudLibrary/pcl/wiki/A-step-by-step-guide-on-preparing-and-submitting-a-pull-request)
+
+<br>
+
 [Vim Cheat Sheet](https://vim.rtorr.com/)
 
 <br>
