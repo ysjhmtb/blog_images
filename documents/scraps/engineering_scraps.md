@@ -10,11 +10,19 @@
 
 <br>
 
+[ARM designed an image signal processor, and that’s a big deal](https://www.theverge.com/2017/4/27/15449146/arm-mali-c71-isp-mobile-photography)
+
+>Every mobile device with a camera today has an ISP — it’s the visual equivalent of analog-to-digital converters in audio, taking the raw photonic data gathered up by an image sensor and turning it into something that can be usefully displayed on the device, or encoded into a familiar format for sharing, or even sent to a computer vision subsystem that can recognize objects in the frame. Each of those tasks has unique requirements, but it’s adequate to just understand the basic components here: a digital camera uses a lens to focus light onto a sensor, and then an ISP to turn whatever the sensor spits out into a (hopefully accurate) representation of the scene in a digital format. The problem with all of that? Even with a great amount of competition out there, most ISPs are actually quite terrible.
+>
+>
+>
+>Think of all the Chinese smartphone makers that proudly proclaim they have Sony’s latest and greatest imaging sensor. They tell you the exact model name of the sensor, and they usually accompany it with an exploded view of their multi-lens array. It’s impressive engineering, to be sure, but then you get the phone in your hands and you find that, strangely, the pictures aren’t quite as awesome as the undoubtedly excellent Sony hardware would lead you to expect. That’s where the ISP disadvantage rears its head. Meizu, Huawei, Xiaomi, and their ilk don’t have the years of research and development that industry leaders like Apple and Samsung have poured into their imaging pipelines. They can get great optics and sensors, but not a great ISP.
+
 
 
 <br>
 
-
+[F-22 Raptor Avionics](https://www.globalsecurity.org/military/systems/aircraft/f-22-avionics.htm)
 
 <br>
 
@@ -632,6 +640,10 @@ CPP
 <br>
 
 [A step by step guide on preparing and submitting a pull request](https://github.com/PointCloudLibrary/pcl/wiki/A-step-by-step-guide-on-preparing-and-submitting-a-pull-request)
+
+<br>
+
+[Git Tutorial: 10 Common Git Problems and How to Fix Them](https://www.codementor.io/citizen428/git-tutorial-10-common-git-problems-and-how-to-fix-them-aajv0katd)
 
 <br>
 
