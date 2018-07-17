@@ -48,7 +48,7 @@
 
 <br>
 
-
+[일본 편의점, 한국 편의점 / 이강국](http://www.hani.co.kr/arti/opinion/column/853512.html)
 
 <br>
 
