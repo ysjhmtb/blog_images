@@ -50,7 +50,38 @@
 
 <br>
 
-
+> Bloomberg Markets @markets
+>
+> THREAD 1) Goldman, BlackRock and Franklin Templeton all say now's the time to buy emerging markets. Here's why http://bloom.bg/2zNNtuR 
+>
+> <img src="https://pbs.twimg.com/media/DiXcKiTU0AAFL7W.jpg">
+>
+> [오후 11:36 - 2018년 7월 17일](https://twitter.com/markets/status/1019470943091998721)
+>
+> Bloomberg Markets @markets
+>
+> 2) Emerging market stocks tend to rally sharply after the year's biggest selloffs http://bloom.bg/2zNNtuR 
+>
+> <img src="https://pbs.twimg.com/media/DiXcYEjU0AA1WsA.jpg">
+>
+> Bloomberg Markets @markets
+>
+> 3) The widest emerging market debt-fund outflows tend to precede developing nation dollar-bond rallies http://bloom.bg/2zNNtuR 
+>
+> <img src="https://pbs.twimg.com/media/DiXczxKVMAAZMRZ.jpg">
+>
+> Bloomberg Markets @markets
+>
+> 4) Dollar strength isn't likely to prove a headwind for emerging markets much longer
+> http://bloom.bg/2zNNtuR 
+>
+> <img src="https://pbs.twimg.com/media/DiXdk8qUwAADMWD.jpg">
+>
+> Bloomberg Markets @markets
+>
+> 5) Read more on why the world's biggest money managers say emerging markets are a buy right now http://bloom.bg/2zNNtuR 
+>
+> <img src="https://pbs.twimg.com/media/DiXhafdU0AEjUvh.jpg">
 
 <br>
 
