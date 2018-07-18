@@ -10,6 +10,38 @@
 
 <br>
 
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+[Modern Backend Developer in 2018](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)
+
+<br>
+
+[How valuable is Nvidia's patent portfolio?](https://www.quora.com/How-valuable-is-Nvidias-patent-portfolio/answer/Praveen-768)
+
+<br>
+
 [ARM designed an image signal processor, and that’s a big deal](https://www.theverge.com/2017/4/27/15449146/arm-mali-c71-isp-mobile-photography)
 
 >Every mobile device with a camera today has an ISP — it’s the visual equivalent of analog-to-digital converters in audio, taking the raw photonic data gathered up by an image sensor and turning it into something that can be usefully displayed on the device, or encoded into a familiar format for sharing, or even sent to a computer vision subsystem that can recognize objects in the frame. Each of those tasks has unique requirements, but it’s adequate to just understand the basic components here: a digital camera uses a lens to focus light onto a sensor, and then an ISP to turn whatever the sensor spits out into a (hopefully accurate) representation of the scene in a digital format. The problem with all of that? Even with a great amount of competition out there, most ISPs are actually quite terrible.
