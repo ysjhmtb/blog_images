@@ -46,7 +46,27 @@
 
 <br>
 
+[COLUMN-Global economic slowdown is likely and necessary later in 2018 or 2019: Kemp](https://www.reuters.com/article/oil-prices-kemp/column-global-economic-slowdown-is-likely-and-necessary-later-in-2018-or-2019-kemp-idUSL8N1UD3K0)
 
+> ### RECESSION
+>
+> In the past, the final stages of an economic expansion have usually coincided with a sharp escalation in oil prices, with prices dropping back during the subsequent economic contraction.
+>
+> The causality between economic growth and oil prices runs in both directions, with economic growth as a key driver of oil consumption and prices, and oil prices acting as a check on expansion.
+>
+> U.S. recessions in 1973/74, 1981/82, 1990/91, 2001 and 2007-2009 all helped cool previous rapid increases in oil prices by cutting consumption growth.
+>
+> With the oil market running out of capacity, commodity prices rising and interest rates turning higher, it seems increasingly likely the global economy will experience a slowdown within the next 18 months.
+>
+> The coming slowdown need not be as wrenching as the recession which accompanied the financial crisis in 2008/09. In fact, it probably won’t be.
+>
+> The last downturn was exceptional in terms of its length and severity. Most of the business cycle contractions since 1945 have been much shorter and shallower.
+>
+> Like several previous slowdowns, the next one might be marked by a “pause” in growth rather than an actual decline in economic activity.
+>
+> And it need not be global in scale. Some slowdowns were confined to a subset to economies, such as the East Asian financial crisis of 1997/98, while others continue expanding.
+>
+> But the global economy and the oil market appear to be on an unsustainable trajectory, and the only way to resolve the growing contradictions is likely to be a slowdown in the next 18 months.
 
 <br>
 

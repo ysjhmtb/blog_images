@@ -18,19 +18,25 @@
 
 <br>
 
-
-
-<br>
-
-
+[연구의 빈익빈 부익부가 해소될 수 있을까?](https://blog.naver.com/atelierjpro/221253370158)
 
 <br>
 
-
+[Why Paper Jams Persist](https://www.newyorker.com/magazine/2018/02/12/why-paper-jams-persist)
 
 <br>
 
+> Journey @atmostbeautiful
+>
+> X레이도 흑백 평면 아닌 3D 컬러 시대. 뉴질랜드 연구진이 개발. 조직과 뼈 투과 여부로 판독하던 방식에서 개별 물질에 따른 반응을 모두 데이터로 환산해 입체로 구현. 암이나 혈관성 질환 발견과 추적에 유용. 유럽입자물리학연구소에서 입자 추적에 사용되던 기술 응용.
+>
+> https://www.nytimes.com/2018/07/17/health/3d-color-xrays-cern.html
+>
+> [오후 2:39 - 2018년 7월 18일](https://twitter.com/atmostbeautiful/status/1019698091774001152)
 
+<br>
+
+[Nvidia 'infinite resolution' patent proposes vector data structures](http://hexus.net/tech/news/graphics/119102-nvidia-infinite-resolution-patent-proposes-vector-data-structures/)
 
 <br>
 
