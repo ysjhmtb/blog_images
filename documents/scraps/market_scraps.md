@@ -42,7 +42,21 @@
 
 <br>
 
-
+> 매연계곡 @SmokeValley
+>
+> 장이 끝나면 다음날 스캘핑 공략할 것들을 추리고 마감한다. 내일 대상은 이렇게 3개.
+>
+> <img src="https://pbs.twimg.com/media/DidCcNnVAAA3HxT.jpg">
+>
+> [오전 1:10 - 2018년 7월 19일]()
+>
+> 파인텍 SK증권 3S
+>
+> 매연계곡@SmokeValley
+>
+> 종목을 추려내는 기준은, 확실한 이유를 가지고 대량 거래가 터지면서 장단기 보유자가 모두 흥분하는 타이밍인 것.
+>
+> [오전 1:22 - 2018년 7월 19일](https://twitter.com/SmokeValley/status/1019859909758803968)
 
 <br>
 
