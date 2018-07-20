@@ -10,11 +10,11 @@
 
 <br>
 
-
+[35 Innovators Under 35 2018](https://www.technologyreview.com/lists/innovators-under-35/2018/)
 
 <br>
 
-
+[How is C++ used in VLSI industry?](https://www.quora.com/How-is-C%2B%2B-used-in-VLSI-industry/answer/Aniket-Deshmukh-6?share=16d692b6&srid=XAfq)
 
 <br>
 
