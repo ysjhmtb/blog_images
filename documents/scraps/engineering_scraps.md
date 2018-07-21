@@ -1,5 +1,7 @@
 
 
+
+
 <br>
 
 
@@ -7,6 +9,36 @@
 <br>
 
 
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+[외국어 6개월만에 마스터하는 비법 // 영어공부 중국어공부 외국어공부 [우기부기TV]](https://www.youtube.com/watch?v=uektGttV6LU&feature=youtu.be)
+
+> 1 외국어의 발음은 중요하다. 귀와 입이 회화책의 내용을 기억해야 한다. 한 문장씩 구간반복을 하면서 하루 6~7문장을 습득하는 연습을 3개월 동안 진행한다. 자연스럽게 나올 정도로 연습해야 한다. 2 영화 또는 드라마 한편을 100번 정도 시청하면서 1과 같은 연습을 한다. 
+
+<br>
+
+> redacted @29979245oo
+>
+> https://docs.google.com/presentation/d/13axrCeVifUXpwArnzqHrBKMqMH3n4-Bsp21H0CF47bQ/edit#slide=id.g3e0d9a72d1_1_168 … 왜 인터뷰 준비할 때 자꾸만 다이나믹 프로그래밍에 시간을 투자 하는지 참 안타깝다. Brute-force로 풀어도 문제 없습니다. 거대한 트랩 같다. DP 공부하느라 정작 중요한 코딩 실력 놓치고 면접은 떨어집니다.
+>
+> [오후 4:30 - 2018년 7월 20일](https://twitter.com/29979245oo/status/1020450984533766144)
+
+<br>
+
+[American Option Pricing with Monte Carlo Simulation in CUDA C++](https://devblogs.nvidia.com/american-option-pricing-monte-carlo-simulation/)
+
+<br>
+
+[Automating multimodal microscopy with NanoJ-Fluidics](https://www.biorxiv.org/content/early/2018/05/14/320416)
 
 <br>
 
