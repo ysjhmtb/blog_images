@@ -4,25 +4,55 @@
 
 <br>
 
-
-
-<br>
-
-
+[37 Essential JavaScript Interview Questions](https://www.toptal.com/javascript/interview-questions)
 
 <br>
 
-
-
-<br>
-
-
+[A perfect guide for cracking a JavaScript interview (A developer’s perspective)](https://medium.com/dev-bits/a-perfect-guide-for-cracking-a-javascript-interview-a-developers-perspective-23a5c0fa4d0d)
 
 <br>
 
-[외국어 6개월만에 마스터하는 비법 // 영어공부 중국어공부 외국어공부 [우기부기TV]](https://www.youtube.com/watch?v=uektGttV6LU&feature=youtu.be)
+[A Pinterest Progressive Web App Performance Case Study](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154)
 
-> 1 외국어의 발음은 중요하다. 귀와 입이 회화책의 내용을 기억해야 한다. 한 문장씩 구간반복을 하면서 하루 6~7문장을 습득하는 연습을 3개월 동안 진행한다. 자연스럽게 나올 정도로 연습해야 한다. 2 영화 또는 드라마 한편을 100번 정도 시청하면서 1과 같은 연습을 한다. 
+<br>
+
+> Taeho Kim @xissy
+>
+> 원래 미국에 창업을 하러 온거였지 이민을 생각하고 온건 아니어서 언젠가 때가 되면 돌아간다는 마음이었는데 그러다보니 이러지도 저러지도 못하는 경우가 있었다. 이번 한국 방문 후 마음을 정했다.
+>
+> [오후 4:52 - 2018년 7월 21일](https://twitter.com/xissy/status/1020818767348035584)
+>
+> Taeho Kim @xissy
+>
+> 선배, 친구, 후배들을 막론하고 개발자로서의 진로 고민이 1이라면 어디에 집을 사서 시세차익을 낼지 고민하는게 10이다. 더 발전하기 위한 개발자 롤모델은 찾아볼 수 없으며 IT는 3D업종으로 받아들여진다. 열심히하고 잘하는 개발자와 그저그런 개발자의 연봉이 거의 같다. 원래 그렇단다.
+>
+> Taeho Kim @xissy
+>
+> 엔지니어의 역할은 한정되어 있으며 그 환경에 젖어 자신도 모르게 자신의 한계를 제한한다. 성실히 실력을 갈고 닦아 성과를 내고 인정 받아 몸값을 올리는 길이 거의 막혀 있으며 그러니 다들 일확천금을 노린다. 시장이 작아서 그런가. 각종 규제로 기술 혁신이 힘들어서 그런가.
+>
+> Taeho Kim @xissy
+>
+> 엔지니어를 프로 스포츠 선수처럼 대우하는 것이 가능하려면 1. 기술 기반 혁신 기업에 대한 사회적 인식이 팬덤 처럼 일어나고, 2. 완성된 엔지니어가 만들어내는 가치를 알아보고 이를 육성하는 토대 마련, 3. 엔지니어들의 비지니스 임팩트 기반 사고와 실천 능력 배양이 먼저 필요하다.
+>
+> Taeho Kim @xissy
+>
+> 한 마디로, 자신의 기술을 갈고 닦는 것은 물론이고 이를 적절한 곳에 찔러 수익화 시키고 사회적 영향력을 만들어 내는 것까지 엔지니어의 고민에 속해야 한다.
+>
+> Taeho Kim @xissy
+>
+> 이런 주체적 마인드 없이 개발자의 길을 가다보면 길을 잃기 십상이다. 많은 경영자들이 근시안적인 개발자들을 좋아한다. 싸고 하라는거만 하니까. 나이 먹고 하라는거 조금 빨리 하는 정도로는 경쟁력 없다. 비지니스의 큰 짐을 함께 짊어지고 갈 수 있을 때 큰 경쟁력과 임팩트를 만들 수 있다.
+>
+> Taeho Kim @xissy
+>
+> 업무 자동화와 정보 투명화가 개발자의 무기다. 기득권이 독점하던 정보를 사용자들에게 투명하게 보여주고 더 나은 선택을 하도록 유도한다. 이 플로우를 간소화, 자동화 하여 다시 데이터로 쌓고 정제하는 것을 반복한다. 이게 지속가능한 기술 기반 혁신 및 가치 생성의 키다.
+>
+> Taeho Kim @xissy 
+>
+> 격변하는 세상에서 이 타이밍에 개발자로 살고 있다는 것 자체가 혜택이고 기회다. 나중에 돌아보면 너무 안타까울.
+
+<br>
+
+> 여기서도 핵심은 말로 할 줄 알아야 들린다. - 김교포 
 
 <br>
 
