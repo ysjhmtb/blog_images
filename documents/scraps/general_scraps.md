@@ -2,45 +2,15 @@
 
 
 
-<br>
 
 
 
-<br>
+
+[스타트업은 세상에 없던 질문을 하는 것](http://dbr.donga.com/article/view/1203/article_no/8747)   
 
 
 
-<br>
-
-
-
-<br>
-
-
-
-<br>
-
-
-
-<br>
-
-
-
-<br>
-
-
-
-<br>
-
-
-
-<br>
-
-
-
-<br>
-
-
+[How Do You Measure Leadership?](https://blog.ycombinator.com/how-do-you-measure-leadership/)   
 
 <br>
 

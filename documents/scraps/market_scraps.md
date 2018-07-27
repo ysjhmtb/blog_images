@@ -1,42 +1,16 @@
 
 
-<br>
 
 
 
-<br>
 
 
 
-<br>
+[The Top 5 Charts Of The Week](https://www.linkedin.com/pulse/top-5-charts-week-callum-thomas-2d/)   
+
+<img src="https://media.licdn.com/dms/image/C5112AQF__Qf5fqVB0A/article-inline_image-shrink_1000_1488/0?e=2132524800&v=beta&t=MwhGCaYmblpqwyhfp0A2vfeWm2IdBLrGUO2m3uC32GM">
 
 
-
-<br>
-
-
-
-<br>
-
-
-
-<br>
-
-
-
-<br>
-
-
-
-<br>
-
-
-
-<br>
-
-
-
-<br>
 
 
 
