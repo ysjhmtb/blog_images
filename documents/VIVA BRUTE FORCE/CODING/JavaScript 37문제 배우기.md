@@ -1,4 +1,4 @@
-# JavaScript 37문제 배우기
+# 37 Essential JavaScript Interview Questions 
 
  수업과 프로젝트를 통해 자바스크립트를 접하고 있는데, 우연히 [37 Essential JavaScript Interview Questions *](https://www.toptal.com/javascript/interview-questions) 를 접하게 되었고 이런 기회를 통해 자바스크립트라는 언어에 대한 이해가 더 깊어지길 희망한다.  
 
