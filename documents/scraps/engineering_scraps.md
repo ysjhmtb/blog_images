@@ -1,5 +1,21 @@
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Why use OpenCL on FPGAs?](https://streamhpc.com/blog/2014-09-16/use-opencl-fpgas/)   
+
    
 
 > 하이컨셉 @Haeundo
