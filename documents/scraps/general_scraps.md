@@ -1,8 +1,88 @@
 
 
+>  [Blackstone's Byron Wien Discusses Lessons Learned in His First 80 Years](https://www.blackstone.com/media/press-releases/article/blackstone%27s-byron-wien-discusses-lessons-learned-in-his-first-80-years)
+>
+> Here are some of the lessons I have learned in my first 80 years. I hope to continue to practice them in the next 80.
+>
+> 1. Concentrate on finding a big idea that will make an impact on the people you want to influence.  The Ten Surprises, which I started doing in 1986, has been a defining product.  People all over the world are aware of it and identify me with it.  What they seem to like about it is that I put myself at risk by going on record with these events which I believe are probable and hold myself accountable at year-end.  If you want to be successful and live a long, stimulating life, keep yourself at risk intellectually all the time.
+>
+> 2.  
+>
+> 3. Network intensely.  Luck plays a big role in life, and there is no better way to increase your luck than by knowing as many people as possible.  Nurture your network by sending articles, books and emails to people to show you’re thinking about them.  Write op-eds and thought pieces for major publications.  Organize discussion groups to bring your thoughtful friends together.
+>
+> 4.  
+>
+> 5. When you meet someone new, treat that person as a friend.  Assume he or she is a winner and will become a positive force in your life.  Most people wait for others to prove their value.  Give them the benefit of the doubt from the start.  Occasionally you will be disappointed, but your network will broaden rapidly if you follow this path.
+>
+> 6.  
+>
+> 7. Read all the time.  Don’t just do it because you’re curious about something, read actively.  Have a point of view before you start a book or article and see if what you think is confirmed or refuted by the author.  If you do that, you will read faster and comprehend more.
+>
+> 8.  
+>
+> 9. Get enough sleep.  Seven hours will do until you’re sixty, eight from sixty to seventy, nine thereafter, which might include eight hours at night and a one-hour afternoon nap.
+>
+> 10.  
+>
+> 11. Evolve.  Try to think of your life in phases so you can avoid a burn-out.  Do the numbers crunching in the early phase of your career.  Try developing concepts later on.  Stay at risk throughout the process.
+>
+> 12.  
+>
+> 13. Travel extensively.  Try to get everywhere before you wear out.  Attempt to meet local interesting people where you travel and keep in contact with them throughout your life.  See them when you return to a place.
+>
+> 14.  
+>
+> 15. When meeting someone new, try to find out what formative experience occurred in their lives before they were seventeen.  It is my belief that some important event in everyone’s youth has an influence on everything that occurs afterwards.
+>
+> 16.  
+>
+> 17. On philanthropy my approach is to try to relieve pain rather than spread joy.  Music, theatre and art museums have many affluent supporters, give the best parties and can add to your social luster in a community.  They don’t need you.  Social service, hospitals and educational institutions can make the world a better place and help the disadvantaged make their way toward the American dream.
+>
+> 18.  
+>
+> 19. Younger people are naturally insecure and tend to overplay their accomplishments.  Most people don’t become comfortable with who they are until they’re in their 40’s.  By that time they can underplay their achievements and become a nicer, more likeable person.  Try to get to that point as soon as you can.
+>
+> 20.  
+>
+> 21. Take the time to give those who work for you a pat on the back when they do good work.  Most people are so focused on the next challenge that they fail to thank the people who support them.  It is important to do this.  It motivates and inspires people and encourages them to perform at a higher level.
+>
+> 22.  
+>
+> 23. When someone extends a kindness to you write them a handwritten note, not    an e-mail.  Handwritten notes make an impact and are not quickly forgotten.
+>
+> 24.  
+>
+> 25. At the beginning of every year think of ways you can do your job better than you have ever done it before.  Write them down and look at what you have set out for yourself when the year is over.
+>
+> 26.  
+>
+> 27. The hard way is always the right way.  Never take shortcuts, except when driving home from the Hamptons.  Short-cuts can be construed as sloppiness, a career killer.
+>
+> 28.  
+>
+> 29. Don’t try to be better than your competitors, try to be different.  There is always going to be someone smarter than you, but there may not be someone who is more imaginative.
+>
+> 30.  
+>
+> 31. When seeking a career as you come out of school or making a job change, always take the job that looks like it will be the most enjoyable.  If it pays the most, you’re lucky.  If it doesn’t, take it anyway, I took a severe pay cut to take each of the two best jobs I’ve ever had, and they both turned out to be exceptionally rewarding financially.
+>
+> 32.  
+>
+> 33. There is a perfect job out there for everyone.  Most people never find it.  Keep looking.  The goal of life is to be a happy person and the right job is essential to that.
+>
+> 34.  
+>
+> 35. When your children are grown or if you have no children, always find someone younger to mentor.  It is very satisfying to help someone steer through life’s obstacles, and you’ll be surprised at how much you will learn in the process.
+>
+> 36.  
+>
+> 37. Every year try doing something you have never done before that is totally out of your comfort zone.  It could be running a marathon, attending a conference that interests you on an off-beat subject that will be populated by people very different from your usual circle of associates and friends or traveling to an obscure destination alone.  This will add to the essential process of self-discovery.
+>
+> 38.  
+>
+> 39. Never retire.  If you work forever, you can live forever.  I know there is an abundance of biological evidence against this theory, but I’m going with it anyway.
+
    
-
-
 
 [스타트업은 세상에 없던 질문을 하는 것](http://dbr.donga.com/article/view/1203/article_no/8747)   
 

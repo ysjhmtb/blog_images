@@ -6,15 +6,15 @@
 
 
 
+[Spring MVC – Application Context vs Web Application Context](https://javabeat.net/spring-mvc-application-context/)   
 
 
 
+[How to add HTTPS to your website for free in 10 minutes, and why you need to do this now more than ever](https://medium.freecodecamp.org/free-https-c051ca570324)   
 
 
 
-
-
-
+[Spring Boot, MySQL, JPA, Hibernate Restful CRUD API Tutorial](https://www.callicoder.com/spring-boot-rest-api-tutorial-with-mysql-jpa-hibernate/)   
 
 
 
