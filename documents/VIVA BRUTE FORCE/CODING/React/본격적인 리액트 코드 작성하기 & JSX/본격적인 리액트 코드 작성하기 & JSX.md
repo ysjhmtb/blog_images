@@ -303,5 +303,115 @@ export default App;
 
 
 
+#### CSS in React
 
+
+
+```javascript
+import React, { Component } from 'react';
+
+class App extends Component {
+  render() {
+
+    const style = {
+      //camel case를 사용한다.
+      backgroundColor: 'black',
+      padding: '16px',
+      color: 'white',
+      fontSize: 5 + 10 + 'px'
+    }
+
+
+    return (
+      <div style={style}>
+        <h1>안녕하세요 리액트</h1>
+      </div>
+    );
+  }
+}
+
+export default App;
+
+```
+
+
+
+-----
+
+
+
+```css
+
+/* App.css */
+
+.App{
+  background: black;
+  color: aqua;
+  font-size: 36px;
+  padding: 1rem;
+  font-weight: 600;
+}
+```
+
+
+
+```javascript
+//App.js
+
+import React, { Component } from 'react';
+import './App.css';
+
+class App extends Component {
+  render() {
+
+    return (
+
+      //class가 아니라 className이라고
+      //적어야 한다.
+      <div className="App">
+        <h1>안녕하세요 리액트</h1>
+      </div>
+    );
+  }
+}
+
+export default App;
+```
+
+
+
+-----
+
+```javascript
+import React, { Component } from 'react';
+import './App.css';
+
+class App extends Component {
+  render() {
+
+    return (
+      <div>
+        {/* JSX 주석 1*/}
+
+        <h1 something="abc" //JSX 주석 2
+        >
+
+        React
+        
+
+        </h1>
+
+
+      </div>
+    );
+  }
+}
+
+export default App;
+
+```
+
+
+
+-----
 

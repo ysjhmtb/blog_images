@@ -6,6 +6,42 @@
 
 
 
+
+
+
+
+
+
+
+
+> [How Robot Hands Are Evolving to Do What Ours Can](https://www.nytimes.com/interactive/2018/07/30/technology/robot-hands.html)
+>
+> 
+>
+> That is far more difficult than training a gripper or suction cup. An anthropomorphic hand moves in so many different ways.
+>
+> 
+>
+> So, the Washington researchers train their hand in simulation -- a digital recreation of the real world. That streamlines the training process.
+>
+> At OpenAI, researchers are training their Dactyl hand in much the same way. The system can learn to spin the alphabet block through what would have been 100 years of trial and error. The digital simulation, running across thousands of computer chips, crunches all that learning down to two days.
+>
+> It learns these tasks by repeated trial and error. Once it learns what works in the simulation, it can apply this knowledge to the real world.
+>
+> 
+>
+> Many researchers have questioned whether this kind of simulated training will transfer to the physical realm. But like researchers at Berkeley and other labs, the OpenAI team has shown that it can.
+>
+> They introduce a certain amount of randomness to the simulated training. They change the friction between the hand and the block. They even change the simulated gravity. After learning to deal with this randomness in a simulated world, the hand can deal with the uncertainties of the real one.
+>
+> Today, all Dactyl can do is spin a block. But researchers are exploring how these same techniques can be applied to more complex tasks. Think manufacturing. And flying drones. And maybe even driverless cars.
+
+
+
+[Spring Interview Questions and Answers](https://www.journaldev.com/2696/spring-interview-questions-and-answers)   
+
+
+
 [Spring MVC – Application Context vs Web Application Context](https://javabeat.net/spring-mvc-application-context/)   
 
 
