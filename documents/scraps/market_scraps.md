@@ -8,15 +8,19 @@
 
 
 
+> 매연계곡2 @smokevalley2
+>
+> 손절은 칼같이, 이익 실현은 천천히 하세요. 우리의 본성은 트레이딩에 지게끔 진화해 왔습니다. 손실은 외면하고 눈 앞의 열매는 따 먹습니다. 장기투자와 단기투자를 정확히 구분해서 매매하세요.
+>
+> [오후 7:04 - 2018년 7월 31일](https://twitter.com/smokevalley2/status/1024476029564284928)
 
 
 
+[One chart that shows how much worse income inequality is in America than Europe](https://www.vox.com/2018/7/29/17627134/income-inequality-chart) 
 
 
 
-
-
-
+[QUANTITATIVE EASING FOR PEOPLE](http://www.qe4people.eu/)   
 
 
 

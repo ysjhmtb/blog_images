@@ -10,6 +10,8 @@
 
 
 
+[[번역] 고양이, 큐비트, 그리고 순간이동: 양자 연산의 이상한 세계 (1편) (10,900자)](https://encodent.com/quantum-study/infoq-quantum-computing-intro-one)   
+
 
 
 

@@ -1,5 +1,29 @@
 
 
+
+
+
+
+
+
+
+
+
+
+> Taeho Kim @xissy
+>
+> 멋 모르고 창업 후 많은 것을 배웠는데 그 중 하나가 운을 대하는 나의 태도가 바뀐 것이다. 내가 열심히 해서 이뤄낸거 같았던 중요한 딜과 마일스톤 달성이, 돌아보면 모든 것은 이미 준비되어 내 퍼즐 한 조각이 필요했을 뿐. 꼭 내가 아니어도 됐을.
+>
+> [오전 8:31 - 2018년 7월 31일](https://twitter.com/xissy/status/1024316544442986496)
+>
+> Taeho Kim @xissy
+>
+> 그리고 나를 찾아오는 운 만이 운이 아니더라는 것. 내가 찾아나서야지만 들어오는 운도 있다라는 것. 그걸 위해서는 내가 큰 퍼즐의 한 조각으로 준비되어 있어야 한다는 것. 내가 마지막 조각이었을 확률로 성공할 수 있다는 것. 결과는 우리가 맞추는 퍼즐이지 내 한 조각이 아니라는 것.
+>
+> [오전 8:39 - 2018년 7월 31일](https://twitter.com/xissy/status/1024318693151395841)
+
+
+
 >  [Blackstone's Byron Wien Discusses Lessons Learned in His First 80 Years](https://www.blackstone.com/media/press-releases/article/blackstone%27s-byron-wien-discusses-lessons-learned-in-his-first-80-years)
 >
 > Here are some of the lessons I have learned in my first 80 years. I hope to continue to practice them in the next 80.
