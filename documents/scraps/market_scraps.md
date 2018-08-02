@@ -4,7 +4,17 @@
 
 
 
+[Worker pay rate hits highest level since 2008](https://www.cnbc.com/2018/07/31/worker-pay-rate-hits-highest-level-since-2008.html)   
 
+
+
+> 김동조 @hubris2020
+>
+> 금통위 의사록을 보며 조동철 위원과 이일형 위원의 이코노미스트로서의 수준 차이가 나이키 에어조단과 말표 고무신의 차이만큼 크다는 것을 깨닫는다. 물가 압력? 도대체 어디에 있을까? 한미 금리차이? 미국 성장률이 한국보다 훨씬 높은 마당에 그게 도대체 왜 중요할까?
+>
+> http://www.bok.or.kr/portal/bbs/P0000559/view.do?nttId=10046315&menuNo=200690
+>
+> [오후 10:09 - 2018년 7월 31일](https://twitter.com/hubris2020/status/1024522360555073536)
 
 
 
