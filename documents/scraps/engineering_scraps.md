@@ -10,6 +10,28 @@
 
 
 
+[Transparent and conductive nanomembranes with orthogonal silver nanowire arrays for skin-attachable loudspeakers and microphones](http://advances.sciencemag.org/content/4/8/eaas8772)
+
+
+
+[Filament Physically-based rendering engine](https://google.github.io/filament/Filament.md.html)   
+
+
+
+[16:8 마법 … 8시간은 맘껏 먹어도 석 달 후 체중 3% ‘실종’](https://news.joins.com/article/22858830)   
+
+
+
+> 씨언 @if1live
+>
+> "프로그래머가 되기전에 알았더라면 좋았을 것들" 다 읽었다
+>
+> 옛날 회사 사장님이 했던 이야기가 생각난다. "좋은 프로그래머는 Geek스러운 뭔가 있을줄 알았는데 좋은 프로그래머는 좋은 사무직과 다른게 없더라"
+>
+> [오전 1:37 - 2018년 8월 4일](https://twitter.com/if1live/status/1025661927811207168)
+
+
+
 >  [멀티플레이어, 제네럴리스트와 스페셜리스트](https://cfr0g.wordpress.com/2018/03/23/%EB%A9%80%ED%8B%B0%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%A0%9C%EB%84%A4%EB%9F%B4%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%99%80-%EC%8A%A4%ED%8E%98%EC%85%9C%EB%A6%AC%EC%8A%A4%ED%8A%B8/) 
 >
 > 
