@@ -6,7 +6,21 @@
 
 
 
-
+> [Read Peter Thiel's Speech at the Republican National Convention](http://time.com/4417679/republican-convention-peter-thiel-transcript/)
+>
+> ...
+>
+> Where I work in Silicon Valley, it’s hard to see where America has gone wrong. My industry has made a lot of progress in computers and in software, and, of course, it’s made a lot of money. But Silicon Valley is a small place. Drive out to Sacramento, or even just across the bridge to Oakland, and you won’t see the same prosperity. That’s just how small it is.
+>
+> Across the country, wages are flat. Americans get paid less today than ten years ago. But healthcare and college tuition cost more every year. Meanwhile Wall Street bankers inflate bubbles in everything from government bonds to Hillary Clinton’s speaking fees. Our economy is broken. If you’re watching me right now, you understand this better than any politician in Washington D.C.
+>
+> ...
+>
+> But today our government is broken. Our nuclear bases still use floppy disks. Our newest fighter jets can’t even fly in the rain. And it would be kind to say the government’s software works poorly, because much of the time it doesn’t even work at all. That is a staggering decline for the country that completed the Manhattan project. We don’t accept such incompetence in Silicon Valley, and we must not accept it from our government.
+>
+> Instead of going to Mars, we have invaded the Middle East. We don’t need to see Hillary Clinton’s deleted emails: her incompetence is in plain sight. She pushed for a war in Libya, and today it’s a training ground for ISIS. On this most important issue Donald Trump is right. It’s time to end the era of stupid wars and rebuild our country.
+>
+> When I was a kid, the great debate was about how to defeat the Soviet Union. And we won. Now we are told that the great debate is about who gets to use which bathroom. This is a distraction from our real problems. Who cares?
 
 
 
