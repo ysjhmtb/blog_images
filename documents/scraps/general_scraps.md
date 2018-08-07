@@ -25,6 +25,8 @@
 
 
 
+[Peter Thiel | Full Speech | 2016 Republican National Convention](https://www.youtube.com/watch?v=UTJB8AkT1dk)
+
 
 
 > [Read Peter Thiel's Speech at the Republican National Convention](http://time.com/4417679/republican-convention-peter-thiel-transcript/)
