@@ -4,6 +4,38 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+> 괴골 [개물] @cfr0g
+>
+> 이해는 다양한 맥락에서 그 정보를 암기해낼 수 있는 상태라고 보면 대충 맞다. 
+>
+> 사람들이 생각하는 암기란 시험직전에 맥락없이 단기기억만 활용하는 걸 말한다고 봐야한다.
+>
+> 수학은 오히려 초치기가 어려운 과목이라 위와같은 의미의 암기를 하기가 어렵다.
+>
+> [오전 4:53 - 2018년 8월 7일](https://twitter.com/cfr0g/status/1026798498178465792)
+
+
+
+
+
+[Thinking About Errors in Your Code Differently](https://news.codecademy.com/errors-in-code-think-differently/)
+
+
+
+
+
 [Manfred Held, a life devoted to explosives science](https://onlinelibrary.wiley.com/doi/full/10.1002/prep.201680131)   
 
 
