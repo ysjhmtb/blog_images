@@ -71,5 +71,24 @@ order by hire_date asc
 limit 5;
 
 
+USE sqlDB;
+select * from buyTbl;
+
+select userId as 'user' , sum(price * amount) as 'total sum'
+from buyTbl
+group by userId
+having sum(price * amount) > 1000; 
+
+select idNum, groupName, SUM(price * amount) AS '비용'
+from buyTbl
+group by groupName, idNum
+with rollup;
+
+-- 소합계 및 총합계만 필요하다면 
+select groupName, SUM(price * amount) AS '비용'
+from buyTbl
+group by groupName
+with rollup;
+
 
 

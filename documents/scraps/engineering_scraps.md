@@ -4,6 +4,42 @@
 
 
 
+[Manfred Held, a life devoted to explosives science](https://onlinelibrary.wiley.com/doi/full/10.1002/prep.201680131)   
+
+
+
+
+
+> 맛사/matsa @worms____
+>
+> 만전의 준비를 마치고서 출발할 수 있을 것이라는 믿음은 그저 희망사항이다. 스타트라인은 멋대로 찾아온다. 다만 나는 그 때까지 준비를 할 수 있을 뿐이다.
+>
+> [오전 9:56 - 2018년 8월 6일](https://twitter.com/worms____/status/1026512236947234821)
+
+
+
+
+
+[리눅스 파일 시스템 이해하기 : ext4](https://tech.osci.kr/linux/2018/07/31/linux-filesystem/)
+
+
+
+
+
+> 박대기 @waitingpark
+>
+> 과학고 입학 후 수학 0점을 받았습니다. 친구를 화장실에서 만나서 충고를 들었습니다. "수학은 암기 과목이야.  풀이의 요령을 외우는 거지" 깨달음을 얻고 수학을 잘 하게 됐습니다. 충고해준 친구는 나중에 수능 수석을 했죠.
+>
+> [오후 5:05 - 2018년 8월 6일](https://twitter.com/waitingpark/status/1026620413877481472)
+
+
+
+
+
+[All I do is VIM VIM VIM](http://engineering.pivotal.io/post/all-i-do-is-vim/)   
+
+
+
 
 
 [초심자를 위한 Github 협업](http://www.realhanbit.co.kr/books/125)   
