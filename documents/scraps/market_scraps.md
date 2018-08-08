@@ -4,6 +4,16 @@
 
 
 
+
+
+[Oil market enters post-OPEC era: Kemp](https://www.reuters.com/article/oil-opec-kemp/column-oil-market-enters-post-opec-era-kemp-idUSL5N1UY566)
+
+
+
+[[美호황 르포①]"6개월 일하고 1년치 보너스 달라"는 美직원들](http://www.edaily.co.kr/news/news_detail.asp?newsId=01223446619305352&mediaCodeNo=257&OutLnkChk=Y)
+
+
+
 [Worker pay rate hits highest level since 2008](https://www.cnbc.com/2018/07/31/worker-pay-rate-hits-highest-level-since-2008.html)   
 
 
