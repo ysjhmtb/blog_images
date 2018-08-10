@@ -2,6 +2,72 @@
 
 
 
+> Chris Ohk@utilforever
+>
+> 컴퓨터 그래픽스 이론을 다루는 책이랑 OpenGL 라이브러리를 다루는 책을 같이 봤었고, 그 이후에 DirectX 라이브러리를 다루는 책을 봤었네요. 그걸 몇 바퀴 반복해서 보고 이해가 어느 정도 되었다 싶을 때 다음 단계의 책으로 넘어갔었습니다. 예를 들어 셰이더라던지 리얼 타임 렌더링이라던지
+>
+> [오후 6:37 - 2018년 8월 9일](https://twitter.com/utilforever/status/1027730610784096256)
+>
+> Chris Ohk @utilforever
+>
+> 처음 봤을 땐 이해가 안되는 부분이 제법 많았습니다. 그 때는 빠르게 넘기고 다음에 읽을 때 다시 이해해보려고 합니다. 숲을 먼저 보고 나서 나무를 보게 되면 이해가 안되던게 되는 경우도 있더라구요. 다음에 읽을 때 이해가 안되면 참고 도서나 인터넷에 검색해보기도 합니다. 이해가 중요해요.
+>
+> [오후 6:40 - 2018년 8월 9일](https://twitter.com/utilforever/status/1027731347312324608)
+
+  
+
+[Semiconductor Device Simulation](https://www.karlrupp.net/research/semiconductor-device-simulation/)
+
+  
+
+[자바스크립트에서 당장 사용해야 할 5가지의 배열 메소드들 (Array)](http://blog.kazikai.net/?p=16)
+
+```javascript
+//배열에서 특정값
+var isExist = (array.indexOf(“특정값”)!== -1 )
+
+
+//filter
+var arr = [    
+  {"name":"apple", "count": 2},    
+  {"name":"orange", "count": 5},    
+  {"name":"pear", "count": 3},    
+  {"name":"orange", "count": 16}
+];    
+var newArr = arr.filter(function(item){    
+  return item.name === "orange";
+});  
+console.log("Filter results:",newArr);
+
+
+//forEach
+var array = [1,2,3,4,5];
+array.forEach( function( v, i ){
+  if( v === 3 ){
+    console.log( v + ":" + i); // 3:2 가 나온다.
+  }
+});
+
+
+//map
+var a = [1,2,3,4,5];
+// undefined
+var b = a.forEach( function(v, i){ console.log(v); return v+1;}});
+// [2,3,4,5,6]
+var c = a.map( function(v, i){ console.log(v); return v+1;});
+
+
+//reduce
+var a= ["a","b","c","d","e","a","b","a","c","c","c"];
+var b = a.reduce(function(x,y){
+  console.log("x:", x);
+  console.log("y:", y);
+  x[y] = ++x[y]|| 1;
+  return x;
+},{});
+console.log(b);
+
+```
 
 
 
@@ -9,6 +75,11 @@
 
 
 
+> 박치욱 @chiw00k
+>
+> 피곤한데 쉬지 않으면 몸에 병이 생기지만, 피곤하지도 않은데 쉬면 마음에 병이 생겨요. 피곤하지 않으면 움직이세요. 뭐든 하세요. 그리고 피곤해지면 그때 쉬세요. 정말 그냥 믿고 따라해 보세요.
+>
+> [오전 1:09 - 2018년 8월 9일 West Lafayette, IN에서](https://twitter.com/chiw00k/status/1027466959422717952)
 
 
 
