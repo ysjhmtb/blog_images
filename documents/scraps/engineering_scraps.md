@@ -16,6 +16,10 @@
 
   
 
+[Foundations of Analog and Digital Electronic Circuits (The Morgan Kaufmann Series in Computer Architecture and Design) ](https://www.amazon.com/Foundations-Electronic-Circuits-Kaufmann-Architecture/dp/1558607358/ref=sr_1_1?ie=UTF8&qid=1533953394&sr=8-1&keywords=Foundations+of+Analog+and+Digital+Electronic+Circuits&dpID=51h058TFt3L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
+
+
+
 [Semiconductor Device Simulation](https://www.karlrupp.net/research/semiconductor-device-simulation/)
 
   
@@ -998,11 +1002,7 @@ CPP
 >
 > [오전 8:47 - 2017년 6월 25일](https://twitter.com/sungkkshawnpark/status/879003048088973312)
 
-<br>
-
-[Zen of Analog Circuit Design](https://www.amazon.com/Analog-Circuit-Design-Anand-Udupa-ebook/dp/B00YQ6XTW0)
-
-<br>
+   
 
 [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet)
 
