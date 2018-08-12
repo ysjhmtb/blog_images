@@ -2,6 +2,29 @@
 
 
 
+
+
+  
+
+> DEV Community  👩‍💻 👨‍💻 @ThePracticalDev
+>
+> 1. Make coding your hobby
+> 2. Have a long-term outlook
+> 3. Start a Coding Log
+> 4. Code in the mornings before work
+> 5. Make friends with smart people
+> 6. Go to local coding meetups
+>
+> [Learning Code While Working a Full Time Job](https://dev.to/beznet/learning-code-while-working-a-full-time-job-365p)
+>
+> [오전 4:46 - 2018년 8월 10일](https://twitter.com/ThePracticalDev/status/1027884002693263360)
+
+  
+
+[What is frequency response and how does it affect my music?](https://www.soundguys.com/frequency-response-explained-16507/)
+
+  
+
 > Chris Ohk@utilforever
 >
 > 컴퓨터 그래픽스 이론을 다루는 책이랑 OpenGL 라이브러리를 다루는 책을 같이 봤었고, 그 이후에 DirectX 라이브러리를 다루는 책을 봤었네요. 그걸 몇 바퀴 반복해서 보고 이해가 어느 정도 되었다 싶을 때 다음 단계의 책으로 넘어갔었습니다. 예를 들어 셰이더라던지 리얼 타임 렌더링이라던지
@@ -14,15 +37,34 @@
 >
 > [오후 6:40 - 2018년 8월 9일](https://twitter.com/utilforever/status/1027731347312324608)
 
-  
+​    
 
 [Foundations of Analog and Digital Electronic Circuits (The Morgan Kaufmann Series in Computer Architecture and Design) ](https://www.amazon.com/Foundations-Electronic-Circuits-Kaufmann-Architecture/dp/1558607358/ref=sr_1_1?ie=UTF8&qid=1533953394&sr=8-1&keywords=Foundations+of+Analog+and+Digital+Electronic+Circuits&dpID=51h058TFt3L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
 
-
+  
 
 [Semiconductor Device Simulation](https://www.karlrupp.net/research/semiconductor-device-simulation/)
 
-  
+​    
+
+ [알고 계신가요? 자바스크립트 핵심 기능, 클로저!](https://ppss.kr/archives/168469)   
+
+```javascript
+function outer(){
+    var title = 'magictable'
+    return function(){
+        alert(title)
+    }
+}
+
+var inner = outer();
+inner();
+
+```
+
+
+
+
 
 [자바스크립트에서 당장 사용해야 할 5가지의 배열 메소드들 (Array)](http://blog.kazikai.net/?p=16)
 
