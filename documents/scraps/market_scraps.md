@@ -1,6 +1,6 @@
 
 
-
+[Partying Like It’s 1998](https://www.nytimes.com/2018/08/11/opinion/partying-like-its-1998.html)
 
 
 
