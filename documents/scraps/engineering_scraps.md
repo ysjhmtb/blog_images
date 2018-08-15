@@ -1,5 +1,11 @@
 
 
+[letters to Latex](https://webdemo.myscript.com/views/main/math.html)
+
+
+
+[How to get Google to stop tracking your location for real](https://www.technologyreview.com/the-download/611874/how-to-get-google-to-stop-tracking-your-location-for-real/)
+
 
 
 > 朴聖國, Shawn @sungkkshawnpark
