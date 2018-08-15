@@ -1,5 +1,19 @@
 
 
+
+
+[D3 Graph Theory](https://mrpandey.github.io/d3graphTheory/)
+
+
+
+> 정신욱 @cnookie
+>
+> 대도서관이 말하는 프로의 정의는 ‘하기 싫을 때도 그냥 하는 사람’. 나도 정말 하기 싫을때 그래도 시작하면 의외로 할만한 경우 많았다. 한편 그러다가 부하가 누적되면 몸이나 마음이 고장나서 더 퇴행해버리는 느낌이 들기도 했고. 루틴을 단단하게 유지하면서도 필요할때 끊고 가는게 늘 어려움
+>
+> [오후 9:32 - 2018년 8월 13일](https://twitter.com/cnookie/status/1029224141939863552)
+
+
+
 [letters to Latex](https://webdemo.myscript.com/views/main/math.html)
 
 

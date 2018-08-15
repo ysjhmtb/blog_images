@@ -1,5 +1,7 @@
 
 
+
+
 [Partying Like It’s 1998](https://www.nytimes.com/2018/08/11/opinion/partying-like-its-1998.html)
 
 
@@ -17,6 +19,17 @@
 
 
 [Worker pay rate hits highest level since 2008](https://www.cnbc.com/2018/07/31/worker-pay-rate-hits-highest-level-since-2008.html)   
+
+
+
+> BAIK GICHANG @gichang7
+>
+> '언뜻 보기에 무질서하고 예측이 불가능한 것처럼 보이는 주식시장도 장기적으로 보면 일정한 특징을 가진 네 개의 국면을 반복하고 있다는 것을 알 수 있다. 즉 금융장세, 실적장세, 역금융장세, 역실적장세의 4국면이다. 이 순서는 바뀌지 않는다.
+> -우라가미 구니오 '주식시장 흐름 읽는법'-
+>
+> <img src="https://github.com/ysjhmtb/blog_images/blob/master/images/DkiNpkzV4AEi60_.jpg?raw=true">
+>
+> [오후 9:48 - 2018년 8월 13일](https://twitter.com/gichang7/status/1029228267545346048)
 
 
 
