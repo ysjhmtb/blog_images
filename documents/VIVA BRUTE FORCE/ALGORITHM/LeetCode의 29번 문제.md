@@ -66,7 +66,56 @@ print(ref.divide(7, -3))  # -2
 
 <br>
 
-다음은 학습한 내용을 다음과 같이 자바 코드로 작성하였다.
+다음은 학습한 내용을 다음과 같이 자바 코드로 작성하였다.   
+
+
+
+```java
+public class HelloWorld {
+
+    public static void main(String[] args) {
+        Solution ref = new Solution();
+        System.out.println(ref.divide(10, 3)); // 3
+        System.out.println(ref.divide(7, -3)); // -2
+
+    }
+
+}
+
+
+class Solution {
+
+    public int divide(int dividend, int divisor){
+
+        boolean positive;
+        if(dividend * divisor > 0){
+            positive = true;
+        }else{
+            positive = false;
+        }
+
+        dividend = Math.abs(dividend);
+        divisor = Math.abs(divisor);
+        int res = 0;
+
+
+        while(dividend >= divisor){
+            dividend -= divisor;
+            res++;
+        }
+
+        if(positive == false){
+            res = -res;
+        }
+
+        return Math.min(Math.max(res, -2147483648), 2147483647);
+
+    }
+
+}
+```
+
+
 
 <br>
 
