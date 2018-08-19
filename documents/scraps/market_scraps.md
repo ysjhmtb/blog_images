@@ -8,7 +8,7 @@
 
 
 
-> 이원재 [8월 17일 오전 7:34 · ](https://www.facebook.com/lee.wonjae.fb/posts/2014374175252795?__xts__[0]=68.ARBacJkSS6ZUUe8kgxM83Reacv6FHMh-yFyfhI2X1n2uBG80jYeytXpcWhIGiLZA16T-J6LCl42k1vltKiZY3F74F3Xtmc5EAGDWZCVXk9VbVtBKuQ2qN9qa8Ei3epzneF9-vGgQJ6f6&__tn__=-R)
+> 이원재 [8월 17일 오전 7:34 · ](https://www.facebook.com/lee.wonjae.fb/posts/2014374175252795?__xts__[0]=68.ARBacJkSS6ZUUe8kgxM83Reacv6FHMh-yFyfhI2X1n2uBG80jYeytXpcWhIGiLZA16T-J6LCl42k1vltKiZY3F74F3Xtmc5EAGDWZCVXk9VbVtBKuQ2qN9qa8Ei3epzneF9-vGgQJ6f6&__tn__=-R)    
 > 시장소득 불평등이 빠르게 높아지고 있다.
 > 시장소득을 바로잡겠다는 공정성장 담론은 헛시도로 끝날 가능성이 높다. 최소한 단기처방은 될 수 없다.
 > 재정을 확대해 가처분소득 불평등을 줄이겠다고 나서는 것이 옳다.
@@ -56,7 +56,7 @@
 >
 > 
 >
-> 가계부채가 무서워 금리인상이 필요하다는 주장과 외환위기 앞에서 방관해야 한다는 주장이 무엇이 다를까?
+> 가계부채가 무서워 금리인상이 필요하다는 주장과 외환위기가 새로운 차입을 억제해 줄 것이라는 주장 사이에는 무슨 차이가 있을까?
 
 
 
