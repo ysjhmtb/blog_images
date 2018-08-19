@@ -2,7 +2,61 @@
 
 
 
-[Partying Like It’s 1998](https://www.nytimes.com/2018/08/11/opinion/partying-like-its-1998.html)
+
+
+
+
+
+
+> 이원재 [8월 17일 오전 7:34 · ](https://www.facebook.com/lee.wonjae.fb/posts/2014374175252795?__xts__[0]=68.ARBacJkSS6ZUUe8kgxM83Reacv6FHMh-yFyfhI2X1n2uBG80jYeytXpcWhIGiLZA16T-J6LCl42k1vltKiZY3F74F3Xtmc5EAGDWZCVXk9VbVtBKuQ2qN9qa8Ei3epzneF9-vGgQJ6f6&__tn__=-R)
+> 시장소득 불평등이 빠르게 높아지고 있다.
+> 시장소득을 바로잡겠다는 공정성장 담론은 헛시도로 끝날 가능성이 높다. 최소한 단기처방은 될 수 없다.
+> 재정을 확대해 가처분소득 불평등을 줄이겠다고 나서는 것이 옳다.
+>
+> 집 밖으로 나가는 가장 좋은 방법은 문을 열고 나가는 것이다.
+> 소득격차를 해소하는 가장 좋은 방법은 소득없는 이들에게 소득을 주는 것이다.
+>
+> [부자는 더 부자되고 서민은 더 가난해졌다(종합)](http://cm.asiae.co.kr/view.htm?no=2018081315050294069&aceRef=android-app%3A%2F%2Fm.facebook.com#ba)
+
+
+
+> [[얼어붙은일자리] 고졸·기능직은 급감..대졸·관리자만 '껑충'](https://news.v.daum.net/v/20180819060116507)   
+>
+> 19일 통계청에 따르면 지난달 대졸 이상 취업자는 1년 전보다 39만명 증가했다.
+>
+> 이는 전달(34만6천명)보다 증가 폭이 4만4천명 확대된 것으로, 지난해 4월(42만명) 이후 1년 3개월 만에 가장 큰 폭으로 늘었다.
+>
+> 대졸 이상 취업자 증가 폭은 매달 20만∼30만명 내외를 유지하면서 비교적 안정적인 모습을 보이고 있다.
+>
+> 올해 3월 23만5천명을 기록한 이후에는 4개월 연속 증가 폭이 확대되기도 했다.
+>
+> '쇼크'에서 '재난' 수준으로 악화하는 전체 고용 상황과는 다른 모습이다.
+>
+> 고졸 취업자 상황은 정반대다.
+>
+> 지난달 고졸 취업자는 1년 전보다 28만8천명 줄어들었다. 이는 금융위기 당시인 2009년 3월 33만5천명 줄어든 이후 9년 4개월 만에 가장 큰 폭이다.
+>
+> 고졸 취업자는 올해 2월 5만명 줄어든 이후 5개월 연속 내리막을 타며 감소 폭을 키우고 있다.
+>
+> 중졸 이하 취업자도 1년 전보다 9만7천명 줄었다.
+>
+> 지난달 대졸 이상 취업자 수가 40만명 가까이 증가했음에도 전체 취업자가 사실상 제자리걸음한 것은 이처럼 중·고졸 취업자의 고용 상황이 좋지 않았기 때문이다.
+
+
+
+>  [Partying Like It’s 1998](https://www.nytimes.com/2018/08/11/opinion/partying-like-its-1998.html) 
+>
+> Whatever the shock, the crucial thing is that foreign debt has made your economy vulnerable to a death spiral. Loss of confidence causes your currency to drop; this makes it harder to repay debts in foreign currency; this hurts the real economy and further reduces confidence, leading to a further decline in your currency; and so on.
+>
+> The result is that foreign debt explodes as a share of GDP. Indonesia came into the ’90s financial crisis with foreign debt less than 60 percent of GDP, roughly comparable to Turkey early this year. By 1998 a plunging rupiah had sent that debt to almost 170 percent of GDP.
+>
+> How does such a crisis end? If there is no effective policy response, what happens is that the currency drops and debt measured in domestic currency balloons until everyone who can go bankrupt, does. At that point the weak currency fuels an export boom, and the economy starts a recovery built around huge trade surpluses. (This may come as a surprise to Donald Trump, who appears to be levying punitive tariffs on Turkey as punishment for its weak currency.)
+>
+> \- Krugman
+>
+> 
+>
+> 가계부채가 무서워 금리인상이 필요하다는 주장과 외환위기 앞에서 방관해야 한다는 주장이 무엇이 다를까?
 
 
 
