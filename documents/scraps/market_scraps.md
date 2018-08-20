@@ -2,9 +2,28 @@
 
 
 
+[[과학협주곡 2-9] '어쩌다 창업'을 장려하자](http://www.ibric.org/myboard/read.php?Board=news&id=296980)
 
 
 
+[Quantitative Easing: How Well Does This Tool Work?](https://www.stlouisfed.org/publications/regional-economist/third-quarter-2017/quantitative-easing-how-well-does-this-tool-work)
+
+
+
+> 김동조 @hubris2020   
+> 링크는 <8월 금리인상 물건너가나>란 기사. 재정확대를 논하는 시점에 금리인하가 아니라 금리인상을 논한다는 게 웃긴다고 생각하지만 금리인상을 한다면 장기 금리는 더 빠르게 하락할 것이다. 중앙은행은 기껏해야 7일 짜리 레포금리 하나를 맘대로 할 수 있을 뿐이다.
+>
+> [줄잇는 '쇼크에 쇼크'… 8월 금리인상 물건너가나](http://news.hankyung.com/article/2018081952591)
+>
+> [오후 6:13 - 2018년 8월 19일](https://twitter.com/hubris2020/status/1031348429111189504)
+
+
+
+> 김동조 @hubris2020   
+>
+> 7월 고용지표 발표 후 3년 금리는 5.3비피 하락해 2% 아래로 떨어졌고 10년 금리는 4.4비피 하락한 2.431%. 미국채 10년과 한국 국고채 10년 스프레드는 0.43%. 지금과 같은 금리 상황에서의 재정 확대는 민간투자를 구축할 가능성이 크다. 기존 노동정책을 유지한다면 아마도 금리를 인하해야 할 것.   
+>
+> [오전 6:00 - 2018년 8월 19일](https://twitter.com/hubris2020/status/1031164097935499264)
 
 
 
