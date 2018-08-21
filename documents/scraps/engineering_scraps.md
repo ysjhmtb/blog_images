@@ -1,7 +1,5 @@
 
 
-
-
 > [[추천] 장병규의 스타트업 한국](https://estimastory.com/2017/12/27/jangstartup/)
 >
 > **창업자가 투자자와 교류하는데 있어서 유념해야 할 것들**
@@ -144,7 +142,7 @@
 >
 > [오후 6:40 - 2018년 8월 9일](https://twitter.com/utilforever/status/1027731347312324608)
 
-​    
+    
 
 [Foundations of Analog and Digital Electronic Circuits (The Morgan Kaufmann Series in Computer Architecture and Design) ](https://www.amazon.com/Foundations-Electronic-Circuits-Kaufmann-Architecture/dp/1558607358/ref=sr_1_1?ie=UTF8&qid=1533953394&sr=8-1&keywords=Foundations+of+Analog+and+Digital+Electronic+Circuits&dpID=51h058TFt3L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
 
@@ -152,7 +150,7 @@
 
 [Semiconductor Device Simulation](https://www.karlrupp.net/research/semiconductor-device-simulation/)
 
-​    
+    
 
  [알고 계신가요? 자바스크립트 핵심 기능, 클로저!](https://ppss.kr/archives/168469)   
 
@@ -766,10 +764,6 @@ console.log(b);
 <br>
 
 [Eclipse Cheat Sheet](https://www.shortcutfoo.com/app/dojos/eclipse-mac/cheatsheet)
-
-<br>
-
-CPP
 
 <br>
 
