@@ -1,5 +1,59 @@
 
 
+
+
+
+
+
+
+
+
+
+
+[Microfluidics from LEGO bricks](http://news.mit.edu/2018/microfluidics-lego-bricks-0131)
+
+
+
+[Novel transmitter protects wireless data from hackers](http://news.mit.edu/2018/novel-transmitter-protects-wireless-data-hackers-0611)
+
+
+
+[Chip upgrade helps miniature drones navigate](http://news.mit.edu/2018/novel-chip-upgrade-helps-miniature-drones-navigate-0620)
+
+
+
+> [이민석 - 한국에서 소프트웨어 엔지니어로 성공하는 법 (영상)](https://okky.kr/article/495355)
+>
+> 이민석 교수님께서, 2010년 10월 3회 Ignite 서울 행사에서 프레젠테이션하신 영상입니다.
+>
+> 영상 길이 : 6분 6초
+>
+> 문제
+>
+> - 갑이 지배하는 세상
+> - 잘못된 롤 모델
+> - 개발 방법론 (Faith-Driven Development)
+> - 밤샘
+> - 무능한 팀장....
+>
+>
+>
+> 해결책
+>
+> - 회사에 내 기술을 남겨라
+> - 자부심을 가져라
+> - TDD(Test-Driven Development)
+> - 내 소스를 읽어보라
+> - 도구를 사용하라
+> - 시간 관리를 하라
+> - 이력서와 포트폴리오를 업데이트하라
+> - 인간을 이해하라
+> - 열심히 공부하라
+>
+>
+
+
+
 > [[추천] 장병규의 스타트업 한국](https://estimastory.com/2017/12/27/jangstartup/)
 >
 > **창업자가 투자자와 교류하는데 있어서 유념해야 할 것들**
