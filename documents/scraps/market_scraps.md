@@ -2,6 +2,16 @@
 
 
 
+> Kang-Kook Lee
+> [1시간 · ](https://www.facebook.com/leekangkook/posts/10216756632646332?__tn__=-R)
+> 지난 10년간 최대의 정책실수는 긴축이라는 기사.
+>
+> 이에 대해 사이몬 렌-루이스는 이미 2013년경에는 경제학계 내에서는 긴축 주장이 틀렸다는 것이 대세가 되었지만 실제 정책에는 별다른 영향을 미치지 못했다고 평가하며(언론이나 정치는 학계의 논의와는 따로 놀았다는) 경제학자들은 얼마나 무력한가라는 질문을 던진다.
+>
+> [The biggest policy mistake of the last decade](http://theweek.com/articles/789956/biggest-policy-mistake-last-decade)
+
+
+
 [[과학협주곡 2-9] '어쩌다 창업'을 장려하자](http://www.ibric.org/myboard/read.php?Board=news&id=296980)
 
 
