@@ -1,6 +1,12 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
+
+
 # Chapter 2 Resistance
 
 O'Malley, John. Schaum's Outline of Basic Circuit Analysis, Second Edition (Schaum's Outlines) (p. 17). McGraw-Hill Education. Kindle Edition. 
+
+
 
 
 
