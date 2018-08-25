@@ -6,7 +6,15 @@
 
 
 
-
+> [The key to Apple's success? Keeping it simple - from the man who put the 'i' in iPhone](https://www.wired.co.uk/article/simplicity-apple-dna)
+>
+> ...
+>
+> Working with Steve was an adventure, but it was also an education. I could see that simplicity had the power to transform a business in the most profound ways.
+>
+> ...
+>
+> As Apple continues to grow, what it needs most is a "Simplicity Czar". It became the most valuable company in the world by building products people can fall in love with. When that is the goal, simplicity is one place where there can be no compromise.
 
 
 
