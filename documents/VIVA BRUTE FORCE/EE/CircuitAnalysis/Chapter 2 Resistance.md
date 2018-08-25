@@ -14,7 +14,7 @@ O'Malley, John. Schaum's Outline of Basic Circuit Analysis, Second Edition (Scha
 
 ## Ohm's Law
 
-
+$$I=\dfrac {V}{R}$$
 $$
 I=\dfrac {V}{R}
 $$
