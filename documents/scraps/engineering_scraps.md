@@ -1,5 +1,15 @@
 
 
+[insanehong Topic : javascript](http://insanehong.kr/category/javascript/)
+
+
+
+[[Javascript ] 프로토타입 이해하기](https://medium.com/@bluesh55/javascript-prototype-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-f8e67c286b67)
+
+
+
+[JavaScript : 프로토타입(prototype) 이해](http://www.nextree.co.kr/p7323/)
+
 
 
 [Learn how to build a PWA in 5 minutes](https://medium.com/dev-channel/learn-how-to-build-a-pwa-in-under-5-minutes-c860ad406ed)   
