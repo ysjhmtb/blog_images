@@ -2,7 +2,11 @@
 
 
 
+[Learn how to build a PWA in 5 minutes](https://medium.com/dev-channel/learn-how-to-build-a-pwa-in-under-5-minutes-c860ad406ed)   
 
+ 
+
+[React Native, Xamarin은 한국에서 안 팔려](https://brunch.co.kr/@brightlee/13)   
 
 
 

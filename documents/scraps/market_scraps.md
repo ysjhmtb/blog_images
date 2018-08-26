@@ -1,5 +1,27 @@
 
 
+
+
+
+
+
+
+[e-나라지표](http://www.index.go.kr/main.do?cate=6)   
+
+
+
+[KOSIS 국가통계포털](http://kosis.kr/index/index.do)   
+
+
+
+[통게청](http://kostat.go.kr/portal/korea/index.action)   
+
+
+
+[한눈에 보는 우리나라 100대 통계지표](http://ecos.bok.or.kr/jsp/vis/keystat/#/key)
+
+
+
 > 김동조 @hubris2020   
 > 정부가 한은의 통화정책에 개입하지 말라는 말은 원론적으로 맞지만 익명의 청와대 관계자의 말대로 양국의 금리 차이가 금리 인상의 근거가 될 수 없다. 한국은 금리를 올릴 게 아니라 오히려 내려야 하는 상황으로 점점 가고 있는 중이라고 생각한다. 올리면 더 빠르게 내리게 될 뿐이다.
 >
