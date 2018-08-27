@@ -4,7 +4,7 @@
 
 
 
-
+[The UK is investing millions to make its own satellite system](https://www.technologyreview.com/the-download/611942/the-uk-is-investing-millions-to-make-its-own-satellite-system/)
 
 
 
