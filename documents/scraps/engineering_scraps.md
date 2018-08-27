@@ -1,5 +1,21 @@
 
 
+
+
+
+
+
+
+
+
+[OracleJDK 유료화 FAQ](http://dev.zepinos.com/phame/post/view/3/oraclejdk_%EC%9C%A0%EB%A3%8C%ED%99%94_faq/)
+
+
+
+[OracleJDK 의 유료화, 그래서 Java 는 망했다?](http://dev.zepinos.com/phame/post/view/2/oraclejdk_%EC%9D%98_%EC%9C%A0%EB%A3%8C%ED%99%94_%EA%B7%B8%EB%9E%98%EC%84%9C_java_%EB%8A%94_%EB%A7%9D%ED%96%88%EB%8B%A4/)
+
+
+
 > 4단계, 들리지 않는 장면의 대사를 구간 반복한다. 떠듬거리지 않고 배우처럼 자연스럽게 말할 수 있을 때까지 듣고 말하기(LS)를 반복한다.   
 >
 > 5단계, 영어 자막을 보며 영화 한 편을 통째로 구간 반복했다면, 자막 없이 영화 LS를 97번 한다. 눈으로 보거나 귀로 들으면서 100LS를 완주한다.   

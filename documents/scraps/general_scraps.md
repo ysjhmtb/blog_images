@@ -4,7 +4,7 @@
 
 
 
-
+[논란의 통계청장 교체](http://sovidence.tistory.com/965)
 
 
 
