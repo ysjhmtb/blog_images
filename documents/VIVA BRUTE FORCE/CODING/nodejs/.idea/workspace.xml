@@ -94,7 +94,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="41" />
     <option name="y" value="95" />
     <option name="width" value="1920" />
@@ -105,6 +105,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -121,7 +122,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -183,19 +183,20 @@
       <workItem from="1535189666581" duration="1318000" />
       <workItem from="1535202036787" duration="4863000" />
       <workItem from="1535290887071" duration="1773000" />
+      <workItem from="1535344039336" duration="15000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35804000" />
+    <option name="totallyTimeSpent" value="35819000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="41" y="95" width="1920" height="974" extended-state="0" />
+    <frame x="0" y="22" width="1920" height="974" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20833333" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20833333" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5046875" side_tool="true" visible="true" weight="0.27" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.5046875" side_tool="true" visible="true" weight="0.27" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4953125" weight="0.27" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
