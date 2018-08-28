@@ -1,6 +1,42 @@
 
 
-[Wireless communication breaks through water-air barrier](http://news.mit.edu/2018/wireless-communication-through-water-air-0822)   
+[Wireless Communication from Underwater to the Air](https://www.media.mit.edu/projects/translational-acoustic-rf-tarf-communication/overview/) 
+
+
+
+>  [Wireless communication breaks through water-air barrier](http://news.mit.edu/2018/wireless-communication-through-water-air-0822)   
+>
+> ...
+>
+> In a paper being presented at this week’s SIGCOMM conference, MIT Media Lab researchers have designed a system that tackles this problem in a novel way. An underwater transmitter directs a sonar signal to the water’s surface, causing tiny vibrations that correspond to the 1s and 0s transmitted. Above the surface, a highly sensitive receiver reads these minute disturbances and decodes the sonar signal.
+>
+> “Trying to cross the air-water boundary with wireless signals has been an obstacle. Our idea is to transform the obstacle itself into a medium through which to communicate,” says Fadel Adib, an assistant professor in the Media Lab, who is leading this research. He co-authored the paper with his graduate student Francesco Tonolini.
+>
+> ...
+>
+> Decoding vibrations   
+>
+> Today’s technological workarounds to this wireless communication issue suffer from various drawbacks. Buoys, for instance, have been designed to pick up sonar waves, process the data, and shoot radio signals to airborne receivers. But these can drift away and get lost. Many are also required to cover large areas, making them impracticable for, say, submarine-to-surface communications.
+>
+> TARF includes an underwater acoustic transmitter that sends sonar signals using a standard acoustic speaker. The signals travel as pressure waves of different frequencies corresponding to different data bits. For example, when the transmitter wants to send a 0, it can transmit a wave traveling at 100 hertz; for a 1, it can transmit a 200-hertz wave. When the signal hits the surface, it causes tiny ripples in the water, only a few micrometers in height, corresponding to those frequencies.
+>
+> To achieve high data rates, the system transmits multiple frequencies at the same time, building on a modulation scheme used in wireless communication, called orthogonal frequency-division multiplexing. This lets the researchers transmit hundreds of bits at once.
+>
+> Positioned in the air above the transmitter is a new type of extremely-high-frequency radar that processes signals in the millimeter wave spectrum of wireless transmission, between 30 and 300 gigahertz. (That’s the band where the upcoming high-frequency 5G wireless network will operate.)
+>
+> The radar, which looks like a pair of cones, transmits a radio signal that reflects off the vibrating surface and rebounds back to the radar. Due to the way the signal collides with the surface vibrations, the signal returns with a slightly modulated angle that corresponds exactly to the data bit sent by the sonar signal. A vibration on the water surface representing a 0 bit, for instance, will cause the reflected signal’s angle to vibrate at 100 hertz.
+>
+> “The radar reflection is going to vary a little bit whenever you have any form of displacement like on the surface of the water,” Adib says. “By picking up these tiny angle changes, we can pick up these variations that correspond to the sonar signal.”
+>
+> ...
+>
+> Listening to “the whisper”   
+>
+> A key challenge was helping the radar detect the water surface. To do so, the researchers employed a technology that detects reflections in an environment and organizes them by distance and power. As water has the most powerful reflection in the new system’s environment, the radar knows the distance to the surface. Once that’s established, it zooms in on the vibrations at that distance, ignoring all other nearby disturbances.
+>
+> The next major challenge was capturing micrometer waves surrounded by much larger, natural waves. The smallest ocean ripples on calm days, called capillary waves, are only about 2 centimeters tall, but that’s 100,000 times larger than the vibrations. Rougher seas can create waves 1 million times larger. “This interferes with the tiny acoustic vibrations at the water surface,” Adib says. “It’s as if someone’s screaming and you’re trying to hear someone whispering at the same time.”
+>
+> To solve this, the researchers developed sophisticated signal-processing algorithms. Natural waves occur at about 1 or 2 hertz — or, a wave or two moving over the signal area every second. The sonar vibrations of 100 to 200 hertz, however, are a hundred times faster. Because of this frequency differential, the algorithm zeroes in on the fast-moving waves while ignoring the slower ones.
 
 
 
