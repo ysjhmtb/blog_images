@@ -1,5 +1,18 @@
 
 
+
+
+
+
+
+
+> 백충덕 @nicehide   
+> 자신이 특별하다고 혹은 자기에게 특별한 행운이 찾아왔다고 생각한 순간부터 이미 덫에 걸린거다.   
+>
+> [오전 7:10 - 2018년 8월 26일](https://twitter.com/nicehide/status/1033718278126952454)
+
+
+
 [Wireless Communication from Underwater to the Air](https://www.media.mit.edu/projects/translational-acoustic-rf-tarf-communication/overview/) 
 
 
