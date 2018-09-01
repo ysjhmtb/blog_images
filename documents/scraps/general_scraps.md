@@ -2,6 +2,20 @@
 
 
 
+
+
+[For Whom the Economy Grows](https://www.nytimes.com/2018/08/30/opinion/economy-gdp-income-inequality.html) 
+
+
+
+[Populism is the true legacy of the global financial crisis](https://www.ft.com/content/687c0184-aaa6-11e8-94bd-cba20d67390c) 
+
+
+
+[그가 46살에 한국을 떠나 캐나다에서 목수가 된 이유](https://www.huffingtonpost.kr/entry/story_kr_5b3dacc6e4b05127cceef301)   
+
+
+
 > [무시못할 최저임금 긍정효과??](http://sovidence.tistory.com/967)   
 >
 > 한국에서 최저임금 인상에도 불구하고 불평등이 늘어나는 이유는 임노동 노동자의 비중이 다른 국가보다 낮은 독특한 상황과 관련이 있다고 추정됨. 
