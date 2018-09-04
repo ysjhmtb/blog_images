@@ -2,6 +2,16 @@
 
 
 
+> "시험 다가오면 여유부린 하루가 아쉽습니다."   
+>
+> 전기기사 / Embedded DSP / Foundations of Analog and Digital Electronic Circuits   
+>
+> Towards Photography Through Realistic Fog   
+>
+> Networking across Boundaries   
+
+
+
 > redacted @29979245oo   
 > ‏이제 이 동네는 망했습니다. ⚡️ “Silicon Valley is losing its residents quickly” by @tictoc   
 >
