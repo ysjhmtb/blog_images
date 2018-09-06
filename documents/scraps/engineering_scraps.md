@@ -2,13 +2,13 @@
 
 
 
-> "시험 다가오면 여유부린 하루가 아쉽습니다."   
+
+
+> "시험 다가오면 여유부린 하루가 아쉽습니다."     
 >
-> 전기기사 / Embedded DSP / Foundations of Analog and Digital Electronic Circuits   
+> Towards Photography Through Realistic Fog     
 >
-> Towards Photography Through Realistic Fog   
->
-> Networking across Boundaries   
+> Networking across Boundaries     
 
 
 

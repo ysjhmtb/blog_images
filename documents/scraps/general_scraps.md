@@ -1,5 +1,25 @@
 
 
+[Genes shown to influence how well children do throughout their time at school](https://medicalxpress.com/news/2018-09-genes-shown-children-school.html)   
+
+
+
+[Genetics and educational attainment](https://www.nature.com/articles/s41539-017-0005-6)   
+
+
+
+[GWAS and cognitive abilities: Why correlations are inevitable and meaningless](http://embor.embopress.org/content/early/2017/07/04/embr.201744140)   
+
+
+
+[Reduced signal for polygenic adaptation of height in UK Biobank](https://www.biorxiv.org/content/early/2018/06/27/354951)   
+
+
+
+[Signals of polygenic adaptation on height have been overestimated due to uncorrected population structure in genome-wide association studies](https://www.biorxiv.org/content/early/2018/06/25/355057)   
+
+
+
 > [가계동향조사와 통계청장 교체를 둘러싼 논란점 정리](http://sovidence.tistory.com/968)   
 >
 > ...
@@ -197,6 +217,27 @@
 >
 > 지금같은 고용안정성의 이중구조 하에서는 이도저도 아님. 
 >
+
+
+
+> [파견법의 문제. 이한 변호사 트윗.](http://sovidence.tistory.com/741)      
+>
+> 법은 완전 문외한이라 아래 글이 정확하게 맞는지는 모릅니다. 그럼에도 불구하고 소개하는 이유는 아래 글과 같은 입장이 제가 생각하는 제도주의적 원리와 맞기 때문입니다. 즉, 차별을 없애기 위해서 국회는 노동자 개인과 그들의 조직에게 자신의 권리를 위해 싸울 수 있는 제도적 장치를 마련해 주는 역할을 해야 한다는 거죠. 차별에 직접 현장에서 싸우는게 아니라 노동자들에게 제도라는 무기를 쥐어줘야 한다는 겁니다.     
+>
+> ...
+>
+> > 같은 회사 소속으로 같은 일을 하면서 근로조건 차별이 있으면 그것은 현재 법 위반이 됩니다. 법 위반이 안 되게 하는 방법은, 같은 작업장에서 일하는데도 다른 소속이 되게 만드는 것입니다. 이걸 지금보다 훨씬 널리 허용하는게 개정안의 핵심입니다   
+> >
+> > ...   
+> >
+> > 개정안은 원청이 작업 배치 결정과 업무상 지휘ㆍ명령을 직접하는 경우, '근로시간ㆍ휴가 등의 관리 및 징계에 관한 권한을 행사하는 경우만 불법파견으로 봅니다. 그런데 이건 불법파견업체 관리자 거쳐서 얼마든지 안한다고 꾸밀 수 있는 겁니다. 조금만 노력하면 100% 꾸밀 수 있는 외관인 것입니다. 계약서 형식 좀 다듬고, 지휘명령이나 배치결정, 징계 결정을 불법파견업체에게 은밀하게 전달하고, 불법파견업체가 다 공식적으로 문서로 하면 언제나 합법도급(전적으로 다른 사업)이 되는겁니다. 파견업종 확대도 마찬가지 효과를 갖습니다. 직접 고용된 노동자 A와 중간에 파견업체에게 삥을 뜯기는 노동자 B, C, D가 같은 사업장에서 같은 일을 해도 천차만별의 임금을 받을 수 있게 되는 겁니다.   
+> >
+> >
+> >
+> > 간접고용과 관련된 정규직-비정규직 격차를 줄이려면 (1) 파견업종을 축소하고, 파견은 독자적인 전문설비와 기술이 있는 경우에만 허용하고 (2) 인력만 대는 사내하도급은 모두 불법파견으로 봐야 합니다. 개정안은 이 방향과 정반대입니다.   
+> >
+
+
 
 
 
