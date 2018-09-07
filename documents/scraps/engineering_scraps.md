@@ -12,6 +12,14 @@
 
 
 
+[C: The Immortal Programming Language](https://embeddedgurus.com/barr-code/2018/02/c-the-immortal-programming-language/)   
+
+
+
+[Is Tomorrow’s Embedded-Systems Programming Language Still C?](https://systemdesign.intel.com/tomorrows-embedded-systems-programming-language-still-c/)   
+
+
+
 > redacted @29979245oo   
 > ‏이제 이 동네는 망했습니다. ⚡️ “Silicon Valley is losing its residents quickly” by @tictoc   
 >
