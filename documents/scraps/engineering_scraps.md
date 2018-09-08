@@ -2,15 +2,13 @@
 
 <br><br>
 
-
-
 > "시험 다가오면 여유부린 하루가 아쉽습니다."     <br>
 >
 > Towards Photography Through Realistic Fog    <br>
 >
 > Networking across Boundaries     <br>
 >
-> "그보다는 '왜 안 되는 거지?'나 '안 될 게 뭐야?' 하는 생각이 엔지니어링의 정수다. "  <br>
+> "책과 논문에 나와 있는 뻔한 이론들이다. 그런데도 결과는 다르다."  <br>
 
 <br><br>
 
