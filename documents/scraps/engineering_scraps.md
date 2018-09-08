@@ -1,24 +1,26 @@
 
 
+<br><br>
 
 
 
-
-> "시험 다가오면 여유부린 하루가 아쉽습니다."     
+> "시험 다가오면 여유부린 하루가 아쉽습니다."     <br>
 >
-> Towards Photography Through Realistic Fog     
+> Towards Photography Through Realistic Fog    <br>
 >
-> Networking across Boundaries     
+> Networking across Boundaries     <br>
+>
+> "남들이 안 된다는 것에 기회가 있다는 점이다. (...) 그보다는 '왜 안 되는 거지?'나 '안 될 게 뭐야?' 하는 생각이 엔지니어링의 정수다. (...) 다시 말해 눈에 잘 띄지 않는 자잘한 개량과 노하우를 오랜 시간 동안 쌓고 또 쌓아야 질적 도약을 기대할 수 있다. 그 결과로 나타난 차이에 '혁신'이라는 이름을 붙였을 뿐이다."  - 엔지니어 히어로즈 <br>
 
-
+<br><br>
 
 [C: The Immortal Programming Language](https://embeddedgurus.com/barr-code/2018/02/c-the-immortal-programming-language/)   
 
-
+<br><br>
 
 [Is Tomorrow’s Embedded-Systems Programming Language Still C?](https://systemdesign.intel.com/tomorrows-embedded-systems-programming-language-still-c/)   
 
-
+<br><br>
 
 > redacted @29979245oo   
 > ‏이제 이 동네는 망했습니다. ⚡️ “Silicon Valley is losing its residents quickly” by @tictoc   
@@ -27,7 +29,7 @@
 >
 > [오후 4:29 - 2018년 9월 2일](https://twitter.com/29979245oo/status/1036395815005122561)   
 
-
+<br><br>
 
 > [99 의지, 그리고 1 운](http://www.thestartupbible.com/2018/09/99-will-and-maybe-1-luck.html) 
 >
@@ -43,15 +45,15 @@
 >
 > 항상 느끼지만, 역시 사업의 99는 의지인 거 같다. 머리는 의지를 절대로 이기지 못한다. 그리고, 이걸 잘하면, 나머지 1인 운은 그냥 따라서 오는 것 같다.   
 
-
+<br><br>
 
 [Gophercon 2018 - Computer Vision Using Go and OpenCV 3](https://about.sourcegraph.com/go/gophercon-2018-computer-vision-using-go-and-opencv-3/)   
 
-
+<br><br>
 
 [Find Out How Much Your Country Spends on Research & Development](https://howmuch.net/articles/research-development-spending-by-country) 
 
-
+<br><br>
 
 > 어엉부엉 @d_ijk_stra   
 > 대학원을 절대 가지 말라는 조언을 하는 사람들이 많은 것 같은데, 나는 전산학 한정 + 현재 분위기에서는 설사 인더스트리가 최종 목표라고 해도 대학원을 가는 것이 나쁘지 않은 선택이라고 생각한다. 물론 답은 개인적인 커리어 골이 무엇인지에 따라 정해지겠지만.      
@@ -70,7 +72,7 @@
 > 어엉부엉 @d_ijk_stra   
 > 이런 관점에서는 굳이 박사과정을 끝내야 하는지는 잘 모르겠다. 중퇴하고 인더스트리로 와서 좋은 테크니컬 리더쉽을 발휘하는 사람들이 적잖이 보이기도 하고.   
 
-
+<br><br>
 
 > [직장인 비전공자](http://cafe.daum.net/skilldadan/qPfZ/1195)   
 >
@@ -86,7 +88,7 @@
 >
 > 4. **이해를 하고 문제를 풀면 손가락이 저절로 움직이기 신기한 현상을 경험합니다.** a4용기 세권정도 작성하닌까 그렇게 되더군요. 카페에 문의를 하면서 이해를 해야 합니다. **또한 다양한 파생되는 공식들을 이해하고 대입하는 능력을 과년도 풀다보면 익혀집니다.**
 
-
+<br><br>
 
 > [직장인 전기기사 합격 수기 입니다. ](http://cafe.daum.net/skilldadan/qPfZ/405?q=%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%EF%BF%BD%D5%B0%DD%BC%EF%BF%BD%EF%BF%BD%EF%BF%BD%20class=f_link_b&)   
 >
@@ -98,21 +100,21 @@
 >
 > 실기 요점은 1. **단답은 28년치 수시로** 보라..(사람인지라 솔직히 다 외우면 좋지만, 최대한 많이 보는걸 권장해드리네요..) 2. 문제 풀때 **실전같이** 풀어라. (계산 :    답 :    단위확인) 3. 이해가 안되는건 **이해될 때 까지 찾아보라.** 
 
-
+<br><br>
 
 > redacted @29979245oo
 > 이틀 연속 학부 졸업 예정자 스크리닝 인터뷰. 둘 다 학교는 중상위권으로 비슷. 한 명은 흠.. 좀 안 알려진 회사에서 올 여름 인턴. 한 명은 구글에서 인턴. 한명은 첫 문제도 제도로 못풀고 끝냄. 다른 한명은 꽤 코딩해야 하는 두 문제 다 잘 품. 지원자 실력차가 너무 커서 슬프기도하고 그러하다.
 >
 > [오전 10:51 - 2018년 8월 31일](https://twitter.com/29979245oo/status/1035585938921930752)
 
-
+<br><br>
 
 > 박상민 / Sang-Min Park @sm_park
 > Sorting 이 O(n) 이라는 지원자를 연속으로 폰인터뷰하고나니 기운이 쭉 빠진다. 이게 내가 지금 뭐하는 건가 싶고...😐
 >
 > [오후 2:00 - 2018년 8월 31일](https://twitter.com/sm_park/status/1035633353905430528)
 
-
+<br><br>
 
 > leegoonz @leegoonz73
 > 셰이더 수업이 이제 한달 째 되는데...
@@ -121,26 +123,26 @@
 >
 > [오후 12:12 - 2018년 8월 31일](https://twitter.com/leegoonz73/status/1035606352742109185) 
 
-
+<br><br>
 
 [Turn your whiteboard sketches to working code in seconds with Sketch2Code](https://azure.microsoft.com/en-us/blog/turn-your-whiteboard-sketches-to-working-code-in-seconds-with-sketch2code/) 
 
-
+<br><br>
 
 [A sense of curiosity is helpful for artificial intelligence](https://www.economist.com/science-and-technology/2018/09/01/a-sense-of-curiosity-is-helpful-for-artificial-intelligence)
 
-
+<br><br>
 
 > 백충덕 @nicehide   
 > 자신이 특별하다고 혹은 자기에게 특별한 행운이 찾아왔다고 생각한 순간부터 이미 덫에 걸린거다.   
 >
 > [오전 7:10 - 2018년 8월 26일](https://twitter.com/nicehide/status/1033718278126952454)
 
-
+<br><br>
 
 [Wireless Communication from Underwater to the Air](https://www.media.mit.edu/projects/translational-acoustic-rf-tarf-communication/overview/) 
 
-
+<br><br>
 
 >  [Wireless communication breaks through water-air barrier](http://news.mit.edu/2018/wireless-communication-through-water-air-0822)   
 >
@@ -176,19 +178,19 @@
 >
 > To solve this, the researchers developed sophisticated signal-processing algorithms. Natural waves occur at about 1 or 2 hertz — or, a wave or two moving over the signal area every second. The sonar vibrations of 100 to 200 hertz, however, are a hundred times faster. Because of this frequency differential, the algorithm zeroes in on the fast-moving waves while ignoring the slower ones.
 
-
+<br><br>
 
 [The UK is investing millions to make its own satellite system](https://www.technologyreview.com/the-download/611942/the-uk-is-investing-millions-to-make-its-own-satellite-system/)
 
-
+<br><br>
 
 [OracleJDK 유료화 FAQ](http://dev.zepinos.com/phame/post/view/3/oraclejdk_%EC%9C%A0%EB%A3%8C%ED%99%94_faq/)
 
-
+<br><br>
 
 [OracleJDK 의 유료화, 그래서 Java 는 망했다?](http://dev.zepinos.com/phame/post/view/2/oraclejdk_%EC%9D%98_%EC%9C%A0%EB%A3%8C%ED%99%94_%EA%B7%B8%EB%9E%98%EC%84%9C_java_%EB%8A%94_%EB%A7%9D%ED%96%88%EB%8B%A4/)
 
-
+<br><br>
 
 > 4단계, 들리지 않는 장면의 대사를 구간 반복한다. 떠듬거리지 않고 배우처럼 자연스럽게 말할 수 있을 때까지 듣고 말하기(LS)를 반복한다.   
 >
@@ -196,27 +198,27 @@
 >
 > 개정판 | 9등급 꼴찌, 1년 만에 통역사 된 비법 | 장동완 저   
 
-
+<br><br>
 
 [insanehong Topic : javascript](http://insanehong.kr/category/javascript/)
 
-
+<br><br>
 
 [[Javascript ] 프로토타입 이해하기](https://medium.com/@bluesh55/javascript-prototype-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-f8e67c286b67)
 
-
+<br><br>
 
 [JavaScript : 프로토타입(prototype) 이해](http://www.nextree.co.kr/p7323/)
 
-
+<br><br>
 
 [Learn how to build a PWA in 5 minutes](https://medium.com/dev-channel/learn-how-to-build-a-pwa-in-under-5-minutes-c860ad406ed)   
 
- 
+<br><br>
 
 [React Native, Xamarin은 한국에서 안 팔려](https://brunch.co.kr/@brightlee/13)   
 
-
+<br><br>
 
 > [The key to Apple's success? Keeping it simple - from the man who put the 'i' in iPhone](https://www.wired.co.uk/article/simplicity-apple-dna)
 >
@@ -228,19 +230,19 @@
 >
 > As Apple continues to grow, what it needs most is a "Simplicity Czar". It became the most valuable company in the world by building products people can fall in love with. When that is the goal, simplicity is one place where there can be no compromise.
 
-
+<br><br>
 
 [Microfluidics from LEGO bricks](http://news.mit.edu/2018/microfluidics-lego-bricks-0131)
 
-
+<br><br>
 
 [Novel transmitter protects wireless data from hackers](http://news.mit.edu/2018/novel-transmitter-protects-wireless-data-hackers-0611)
 
-
+<br><br>
 
 [Chip upgrade helps miniature drones navigate](http://news.mit.edu/2018/novel-chip-upgrade-helps-miniature-drones-navigate-0620)
 
-
+<br><br>
 
 > [이민석 - 한국에서 소프트웨어 엔지니어로 성공하는 법 (영상)](https://okky.kr/article/495355)
 >
@@ -272,7 +274,7 @@
 >
 >
 
-
+<br><br>
 
 > [[추천] 장병규의 스타트업 한국](https://estimastory.com/2017/12/27/jangstartup/)
 >
@@ -316,9 +318,7 @@
 >
 > 스타트업은 지금 주어진 문제를 해결하는데 총력을 기울여야 한다. 가진 것이 없기 때문에 오늘에 몰입하는 힘이 역설적으로 스타트업의 강점이다.
 
-
-
-
+<br><br>
 
 > [회사에서 더 배울 것이 없다는 생각이 들면 당장 회사를 그만둬야 한다.](https://estimastory.com/2014/05/03/carrot/)
 >
@@ -331,15 +331,15 @@
 >
 > 단순히 ‘돈을 벌기 위해서’, 즉 생계수단으로서 회사를 다니는 사람들이 있다. 노대표의 생각처럼 나도 이것은 불행한 일이라고 생각한다. 나의 경우는 지금까지의 직장생활을 “항상 새로운 것을 배우고 경험하는데 돈까지 받는다”는 생각으로 다녔다. 이게 왠 횡재인가 하는 생각을 할때도 있었다. (미국에서 일할 때는 돈받으면서 영어공부를 하는 느낌도 있었다.) 지금도 마찬가지다.
 
-
+<br><br>
 
 ['There is no compression algorithm for experience' -Andy Jassy, CEO AWS](https://www.linkedin.com/pulse/compression-algorithm-experience-andy-jassy-ceo-aws-harshith-mallya)
 
-
+<br><br>
 
 [How Four Native Developers Wrote An Electron App](https://githubengineering.com/how-four-native-developers-wrote-an-electron-app/)
 
-
+<br><br>
 
 > 석사과정과 박사과정의 차이
 >
@@ -354,11 +354,11 @@
 >
 >  <과학자가 되는 방법>
 
-
+<br><br>
 
 [D3 Graph Theory](https://mrpandey.github.io/d3graphTheory/)
 
-
+<br><br>
 
 > 정신욱 @cnookie
 >
@@ -366,15 +366,15 @@
 >
 > [오후 9:32 - 2018년 8월 13일](https://twitter.com/cnookie/status/1029224141939863552)
 
-
+<br><br>
 
 [letters to Latex](https://webdemo.myscript.com/views/main/math.html)
 
-
+<br><br>
 
 [How to get Google to stop tracking your location for real](https://www.technologyreview.com/the-download/611874/how-to-get-google-to-stop-tracking-your-location-for-real/)
 
-
+<br><br>
 
 > 朴聖國, Shawn @sungkkshawnpark
 >
@@ -383,7 +383,7 @@
 > [오전 7:40 - 2018년 8월 13일](https://twitter.com/sungkkshawnpark/status/1029014860254732288)
 >
 
-  
+<br><br>
 
 > DEV Community  👩‍💻 👨‍💻 @ThePracticalDev
 >
@@ -398,11 +398,11 @@
 >
 > [오전 4:46 - 2018년 8월 10일](https://twitter.com/ThePracticalDev/status/1027884002693263360)
 
-  
+ <br><br>
 
 [What is frequency response and how does it affect my music?](https://www.soundguys.com/frequency-response-explained-16507/)
 
-  
+<br><br>  
 
 > Chris Ohk@utilforever
 >
@@ -416,15 +416,15 @@
 >
 > [오후 6:40 - 2018년 8월 9일](https://twitter.com/utilforever/status/1027731347312324608)
 
-    
+<br><br>    
 
 [Foundations of Analog and Digital Electronic Circuits (The Morgan Kaufmann Series in Computer Architecture and Design) ](https://www.amazon.com/Foundations-Electronic-Circuits-Kaufmann-Architecture/dp/1558607358/ref=sr_1_1?ie=UTF8&qid=1533953394&sr=8-1&keywords=Foundations+of+Analog+and+Digital+Electronic+Circuits&dpID=51h058TFt3L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
 
-  
+<br><br>  
 
 [Semiconductor Device Simulation](https://www.karlrupp.net/research/semiconductor-device-simulation/)
 
-    
+<br><br>    
 
  [알고 계신가요? 자바스크립트 핵심 기능, 클로저!](https://ppss.kr/archives/168469)   
 
@@ -443,7 +443,7 @@ inner();
 
 
 
-
+<br><br>
 
 [자바스크립트에서 당장 사용해야 할 5가지의 배열 메소드들 (Array)](http://blog.kazikai.net/?p=16)
 
@@ -496,7 +496,7 @@ console.log(b);
 
 
 
-
+<br><br>
 
 
 
@@ -508,7 +508,7 @@ console.log(b);
 
 
 
-
+<br><br>
 
 
 
@@ -524,19 +524,19 @@ console.log(b);
 
 
 
-
+<br><br>
 
 [Thinking About Errors in Your Code Differently](https://news.codecademy.com/errors-in-code-think-differently/)
 
 
 
-
+<br><br>
 
 [Manfred Held, a life devoted to explosives science](https://onlinelibrary.wiley.com/doi/full/10.1002/prep.201680131)   
 
 
 
-
+<br><br>
 
 > 맛사/matsa @worms____
 >
@@ -546,13 +546,13 @@ console.log(b);
 
 
 
-
+<br><br>
 
 [리눅스 파일 시스템 이해하기 : ext4](https://tech.osci.kr/linux/2018/07/31/linux-filesystem/)
 
 
 
-
+<br><br>
 
 > 박대기 @waitingpark
 >
@@ -562,29 +562,29 @@ console.log(b);
 
 
 
-
+<br><br>
 
 [All I do is VIM VIM VIM](http://engineering.pivotal.io/post/all-i-do-is-vim/)   
 
-
+<br><br>
 
 
 
 [초심자를 위한 Github 협업](http://www.realhanbit.co.kr/books/125)   
 
-
+<br><br>
 
 [Transparent and conductive nanomembranes with orthogonal silver nanowire arrays for skin-attachable loudspeakers and microphones](http://advances.sciencemag.org/content/4/8/eaas8772)
 
-
+<br><br>
 
 [Filament Physically-based rendering engine](https://google.github.io/filament/Filament.md.html)   
 
-
+<br><br>
 
 [16:8 마법 … 8시간은 맘껏 먹어도 석 달 후 체중 3% ‘실종’](https://news.joins.com/article/22858830)   
 
-
+<br><br>
 
 > 씨언 @if1live
 >
@@ -594,7 +594,7 @@ console.log(b);
 >
 > [오전 1:37 - 2018년 8월 4일](https://twitter.com/if1live/status/1025661927811207168)
 
-
+<br><br>
 
 >  [멀티플레이어, 제네럴리스트와 스페셜리스트](https://cfr0g.wordpress.com/2018/03/23/%EB%A9%80%ED%8B%B0%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%A0%9C%EB%84%A4%EB%9F%B4%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%99%80-%EC%8A%A4%ED%8E%98%EC%85%9C%EB%A6%AC%EC%8A%A4%ED%8A%B8/) 
 >
@@ -606,22 +606,22 @@ console.log(b);
 
 
 
-
+<br><br>
 
 > ["17년 동안 골프만 친 남자, 개발자가 된 이유" ](https://www.facebook.com/sef.connect/posts/459229991236911)
 > -
 > 해당 카드뉴스는 작년 SEF2017의 연사였던 
 > 최다운님의 이야기를 재구성했습니다.
 
-
+<br><br>
 
 > 실력을 향상시킬 수 있는 해법은 없는 것 같다. 내가 알고 있는 유일한 해법은 반복하는 것이다. - 김민태 
 
-
+<br><br>
 
 [[번역] 고양이, 큐비트, 그리고 순간이동: 양자 연산의 이상한 세계 (1편) (10,900자)](https://encodent.com/quantum-study/infoq-quantum-computing-intro-one)   
 
-
+<br><br>
 
 
 
@@ -647,39 +647,39 @@ console.log(b);
 >
 > Today, all Dactyl can do is spin a block. But researchers are exploring how these same techniques can be applied to more complex tasks. Think manufacturing. And flying drones. And maybe even driverless cars.
 
-
+<br><br>
 
 [Spring Interview Questions and Answers](https://www.journaldev.com/2696/spring-interview-questions-and-answers)   
 
-
+<br><br>
 
 [Spring MVC – Application Context vs Web Application Context](https://javabeat.net/spring-mvc-application-context/)   
 
-
+<br><br>
 
 [How to add HTTPS to your website for free in 10 minutes, and why you need to do this now more than ever](https://medium.freecodecamp.org/free-https-c051ca570324)   
 
-
+<br><br>
 
 [Spring Boot, MySQL, JPA, Hibernate Restful CRUD API Tutorial](https://www.callicoder.com/spring-boot-rest-api-tutorial-with-mysql-jpa-hibernate/)   
 
-
+<br><br>
 
 [Building an Application with Spring Boot](https://spring.io/guides/gs/spring-boot/)   
 
-
+<br><br>
 
 [How to create docker image of Standalone Spring MVC project](http://www.littlebigextra.com/create-docker-image-spring-mvc-project/)   
 
-
+<br><br>
 
 [Dockerize your Java Application](https://runnable.com/docker/java/dockerize-your-java-application)   
 
-
+<br><br>
 
 [Why use OpenCL on FPGAs?](https://streamhpc.com/blog/2014-09-16/use-opencl-fpgas/)      
 
-   
+<br><br>
 
 > 하이컨셉 @Haeundo
 >
@@ -688,7 +688,7 @@ console.log(b);
 > [오후 7:29 - 2018년 7월 28일](https://twitter.com/Haeundo/status/1023394949188841472)
 >
 
-   
+<br><br>   
 
 > 朴聖國, Shawn @sungkkshawnpark
 >

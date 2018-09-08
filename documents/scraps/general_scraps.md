@@ -1,24 +1,40 @@
 
 
+>  [Knowledge Isn’t Power](https://www.nytimes.com/2015/02/23/opinion/paul-krugman-knowledge-isnt-power.html)   <br>
+>
+> As for wages and salaries, never mind college degrees — all the big gains are going to a tiny group of individuals holding strategic positions in corporate suites or astride the crossroads of finance. Rising inequality isn’t about who has the knowledge; it’s about who has the power. <br>
+>
+> Now, there’s a lot we could do to redress this inequality of power. We could levy higher taxes on corporations and the wealthy, and invest the proceeds in programs that help working families. We could raise the minimum wage and make it easier for workers to organize. It’s not hard to imagine a truly serious effort to make America less unequal. <br>
+>
+> But given the determination of one major party to move policy in exactly the opposite direction, advocating such an effort makes you sound partisan. Hence the desire to see the whole thing as an education problem instead. But we should recognize that popular evasion for what it is: a deeply unserious fantasy. <br>
+
+<br><br>
+
+> [튀어도 너무 튀는 소득 하위 20%의 명목 소득 변화](http://sovidence.tistory.com/971)   <br>
+>
+> 이런 결과를 볼 때, 정상적인 사회과학적, 통계적 마인드를 가진 사람이라면 데이타 이상 가능성을 체크하는게 당연하지 않음?  
+
+<br><br>
+
 [Genes shown to influence how well children do throughout their time at school](https://medicalxpress.com/news/2018-09-genes-shown-children-school.html)   
 
-
+<br><br>
 
 [Genetics and educational attainment](https://www.nature.com/articles/s41539-017-0005-6)   
 
-
+<br><br>
 
 [GWAS and cognitive abilities: Why correlations are inevitable and meaningless](http://embor.embopress.org/content/early/2017/07/04/embr.201744140)   
 
-
+<br><br>
 
 [Reduced signal for polygenic adaptation of height in UK Biobank](https://www.biorxiv.org/content/early/2018/06/27/354951)   
 
-
+<br><br>
 
 [Signals of polygenic adaptation on height have been overestimated due to uncorrected population structure in genome-wide association studies](https://www.biorxiv.org/content/early/2018/06/25/355057)   
 
-
+<br><br>
 
 > [가계동향조사와 통계청장 교체를 둘러싼 논란점 정리](http://sovidence.tistory.com/968)   
 >
@@ -73,27 +89,27 @@
 > 본인이 진보적이면서 동시에 객관적이고 싶으면 통계 공부 열심히 할 것. 심지어 미국에 이런 웹사이트도 있음: [진보 통계돌이를 위한 직업 알선 사이트](https://www.progressivedatajobs.org/).     
 >
 
-
+<br><br>
 
 [혁신성장 위해 진정 필요한 것](https://www.sisain.co.kr/?mod=news&act=articleView&idxno=32667)   
 
-
+<br><br>
 
 [[기고]누가 소득주도성장에 돌을 던질 수 있는가](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201808302058015&code=990304)    
 
-
+<br><br>
 
 [For Whom the Economy Grows](https://www.nytimes.com/2018/08/30/opinion/economy-gdp-income-inequality.html) 
 
-
+<br><br>
 
 [Populism is the true legacy of the global financial crisis](https://www.ft.com/content/687c0184-aaa6-11e8-94bd-cba20d67390c) 
 
-
+<br><br>
 
 [그가 46살에 한국을 떠나 캐나다에서 목수가 된 이유](https://www.huffingtonpost.kr/entry/story_kr_5b3dacc6e4b05127cceef301)   
 
-
+<br><br>
 
 > [무시못할 최저임금 긍정효과??](http://sovidence.tistory.com/967)   
 >
@@ -108,7 +124,7 @@
 > 단기적으로는 역시 삽질이 필요. 노동시장에서 이탈한 노인가구는 복지와 공공근로로 소득을 높여줄 수 있지만, 30-40대 핵심노동인력은 SOC 경제로 시간을 벌어줘야 함. 
 >
 
-
+<br><br>
 
 > [어설픈 통계조작 음모론](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201808282101005&code=990303)   
 >
@@ -116,37 +132,37 @@
 >
 > 필자가 3개년에 공통적으로 존재하는 표본에 대해 계산한 바에 의하면, 1분위 소득은 2016년 1분기와 2017년 1분기 사이에 크게 감소했다가 2017년 1분기와 2018년 1분기 사이에는 크게 증가하였다. 5분위 소득은 2016년 1분기와 2017년 1분기 사이에 증가했다가 2017년 1분기와 2018년 1분기 사이에는 약간 감소하였다. 즉 공통 표본만 보면 2016\~2017년 사이에 악화된 불평등이 2017\~2018년 사이에 개선된 것이다.   
 
-
+<br><br>
 
 [국가 통계의 측정오차부터 검증해야.](http://sovidence.tistory.com/966)
 
-
+<br><br>
 
 [[단독]"'하위층 소득 감소폭 사상 최대' 통계청 발표 부정확"](https://news.v.daum.net/v/20180716115605437?)
 
-
+<br><br>
 
 [논란의 통계청장 교체](http://sovidence.tistory.com/965)
 
-
+<br><br>
 
 [Russian Trolls Used Vaccine Debate to Sow Discord, Study Finds](https://www.nytimes.com/2018/08/23/health/russian-trolls-vaccines.html)   
 
-
+<br><br>
 
 > 김재광   
 > [2시간 · ](https://www.facebook.com/jaekwang.kim.125/posts/2371224172893409?__tn__=-R)   
 > 통계청장의 전격 교체에 대해 말이 많은데 내가 보기엔 황수경 청장이 좀 굼떴다고 본다. 지난번 통계청 국제 심포지움에서도 잠깐 인사만 하고 떠나고 이스라엘 통계청장 같은 사람을 초청했으면 궁금한 것도 많고 물어볼 것도 많을텐데 그냥 형식적인 대화를 하고 저녁 리셉션에도 불참하는 것도 우스웠고 내가 뭐든 도와드리겠다고 이메일을 보내도 응답하지 않는 것을 보고 그 마인드가 이해되지 않았다. 이번에 소득통계 관련하여서도 충분히 예상할수 있는 일이었고 미리 준비해서 그런 착시현상에 대해 적극적인 홍보를 했더라면 언론에서 까더라도 좀 디팬스를 할 여지가 있었을텐데 그냥 가만히 있다가 독박을 쓴 꼴이었다. 통계청의 중립성을 위해서는 통계청장의 임기를 어느 정도 보장해 주어야 한다는 것에는 원칙적으로는 찬성하지만 그런 논리에는 그 분야의 최고 전문가를 영입해서 많은 권한을 준다는 것을 전제로 한다. 그렇지 않고 일을 잘 못하는 사람을 중립성 운운 하면서 내버려 주는 것이야 말로 不作爲 (해야 할 의무가 있음에도 불구하고 하지 않은 것)를 방치하는 것에 해당한다고 생각함
 
-   
+<br><br>
 
 [[단독]"'하위층 소득 감소폭 사상 최대' 통계청 발표 부정확"](https://news.v.daum.net/v/20180716115605437)   
 
-
+<br><br>
 
 [[경향포럼]조지프 스티글리츠 교수 "부자·기업 중심 낙수효과는 미신..낙오자 줄여야 지속가능한 사회"](https://news.v.daum.net/v/20180605060151712)   
 
-
+<br><br>
 
 > [진보진영의 대표적 경제학자이자 현실참여형 학자로 이름난 전성인 홍익대 경제학부 교수가 문재인 정부의 경제정책에 대해 강도 높은 비판을 제기했다.](https://news.v.daum.net/v/20180824140005052)
 >
@@ -172,7 +188,7 @@
 >
 > “단기적인 정책도 해야 한다. 통화정책이 필요하다. 정부가 할 수 있는 일은 아니지만, **내가 한국은행 총재라면 기준금리를 내릴 것이다. 자금 유출 우려가 있는데, 크게 걱정할 필요 없다. 외국인들은 주가가 떨어지고 환율로 손해를 보면서 나가게 된다.** 경제가 어려워서 금리를 내린 것에 대해서는 환율 조작국 지정 우려도 피할 수 있다. 한국 경제는 차가워지고 있다. **물가도 올라야 한다. 여러 면에서 통화정책이 필요하다. 사회간접자본(SOC) 투자도 필요하다.** 불을 어디에 지필지가 중요하다. R&D(연구·개발)에 돈을 넣으면 대부분 재벌이 가져간다. 그럴 바엔 주거환경 개선형 SOC가 낫다. 여기에 투자되면 돈이 화끈하게 돈다. 즉 어린이집이라도 열심히 지어야 한다. 지금 구조는 돈 몇 푼 쥐여주고 어린이집에 보내는 건데, 오후 4시면 어린이집은 마친다. 이런 식이니 문제가 하나도 해결이 안 된다.”
 
-
+<br><br>
 
 > [“몸짱 몸매보다 ‘생존 체력’ 길러야 메르스 걱정도 뚝!” ](http://www.hani.co.kr/arti/society/health/694990.html#cb#csidx3c75366f7490471845321e6b0a38c60 )
 >
@@ -181,7 +197,7 @@
 > 그가 권하는 ‘푸시업’은 자신의 체중을 이용한 대표적인 웨이트트레이닝이다. 그는 푸시업을 ‘맨몸 운동의 진수’라고 부른다. 푸시업은 단순히 팔과 가슴의 근육을 키우는 운동이 아니라, 온몸의 근육을 동시에 사용하는 가장 기본적이고 실전적인 운동이라고 규정한다. “군대 기합을 받을 때처럼 배부터 내려가고 가슴부터 올라오는 것이 아니라, 가슴부터 내려가고, 올라갈 때는 복근을 끌어올린다는 느낌으로 해야 합니다.” 힘들면 굳이 엎드려 하지 말고 벽을 잡고 하거나, 책상이나 의자에 기대어 하면 된다.
 >
 
-
+<br><br>
 
 > 김동조 @hubris2020
 >
@@ -189,11 +205,11 @@
 >
 > [오후 6:39 - 2018년 8월 16일](https://twitter.com/hubris2020/status/1030267884507824128)
 
-
+<br><br>
 
 ['경험을 압축하는 알고리즘이란 없어 고객 피드백 '행간'읽으며 솔루션 만들어'](http://dbr.donga.com/article/view/1206/article_no/8776#)
 
-
+<br><br>
 
 > [장하준 시사인 인터뷰: 산업정책](http://sovidence.tistory.com/964)
 >
@@ -218,7 +234,7 @@
 > 지금같은 고용안정성의 이중구조 하에서는 이도저도 아님. 
 >
 
-
+<br><br>
 
 > [파견법의 문제. 이한 변호사 트윗.](http://sovidence.tistory.com/741)      
 >
@@ -237,13 +253,13 @@
 > > 간접고용과 관련된 정규직-비정규직 격차를 줄이려면 (1) 파견업종을 축소하고, 파견은 독자적인 전문설비와 기술이 있는 경우에만 허용하고 (2) 인력만 대는 사내하도급은 모두 불법파견으로 봐야 합니다. 개정안은 이 방향과 정반대입니다.   
 > >
 
-
+<br><br>
 
 
 
 [Peter Thiel | Full Speech | 2016 Republican National Convention](https://www.youtube.com/watch?v=UTJB8AkT1dk)
 
-
+<br><br>
 
 > [Read Peter Thiel's Speech at the Republican National Convention](http://time.com/4417679/republican-convention-peter-thiel-transcript/)
 >
@@ -261,7 +277,7 @@
 >
 > When I was a kid, the great debate was about how to defeat the Soviet Union. And we won. Now we are told that the great debate is about who gets to use which bathroom. This is a distraction from our real problems. Who cares?
 
-
+<br><br>
 
 > Taeho Kim @xissy
 >
@@ -275,7 +291,7 @@
 >
 > [오전 8:39 - 2018년 7월 31일](https://twitter.com/xissy/status/1024318693151395841)
 
-
+<br><br>
 
 >  [Blackstone's Byron Wien Discusses Lessons Learned in His First 80 Years](https://www.blackstone.com/media/press-releases/article/blackstone%27s-byron-wien-discusses-lessons-learned-in-his-first-80-years)
 >
@@ -359,15 +375,15 @@
 >
 > 39. Never retire.  If you work forever, you can live forever.  I know there is an abundance of biological evidence against this theory, but I’m going with it anyway.
 
-   
+<br><br> 
 
 [스타트업은 세상에 없던 질문을 하는 것](http://dbr.donga.com/article/view/1203/article_no/8747)   
 
-
+<br><br>
 
 [How Do You Measure Leadership?](https://blog.ycombinator.com/how-do-you-measure-leadership/)   
 
-<br>
+<br><br>
 
 [You are very much on time](https://estimastory.com/2018/07/07/you-are-very-much-on-time/)
 
@@ -461,17 +477,17 @@
 >
 > 나도 조바심이 날 때마다 이 글을 꺼내서 천천히 읽어보려고 블로그에도 기록으로 남긴다.
 
-<br>
+<br><br>
 
 [일본 편의점, 한국 편의점 / 이강국](http://www.hani.co.kr/arti/opinion/column/853512.html)
 
-<br>
+<br><br>
 
 [고용의 진짜 문제: 최저임금으로 고용문제를 보면 답 없음](http://sovidence.tistory.com/959)
 
 > 인구 감소 요인을 빼면 최저임금 때문이 아니라 삽질경제 백안시, 제조업 침체가 문제임. 후자는 어쩔 수 없는 측면이 있다 치고, 전자는 정부가 나설 수 있는 분야임. 
 
-<br>
+<br><br>
 
 > 괴골 [개물] @cfr0g
 >
@@ -479,15 +495,15 @@
 >
 > [오후 7:51 - 2018년 7월 9일](https://twitter.com/cfr0g/status/1016515199329693696)
 
-<br>
+<br><br>
 
 [THE ENTREPRENEURIAL STATE](https://marianamazzucato.com/entrepreneurial-state/)
 
-<br>
+<br><br>
 
 [문재인 대통령께 고함](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201807102030045&code=990308)
 
-<br>
+<br><br>
 
 [서울신문 인터뷰: 고용안정 없이 혁신경제 없다.](http://sovidence.tistory.com/958)
 
@@ -508,7 +524,7 @@
 > 지나친 불평등은 사회의 역동성을 오히려 저해합니다. 특히 모두가 안정을 추구할 때 혁신은 일어나기 어렵습니다. 1950년대 사회학 저작, Tumin의 기능주의 비판 중 하나도 그것이죠. 
 >
 
-<br>
+<br><br>
 
 > 미개한 하얀별=건전지 사람=신비 쥔 @whitestar612
 >
@@ -516,7 +532,7 @@
 >
 > [오전 7:54 - 2018년 6월 20일](https://twitter.com/whitestar612/status/1009449445098811392)
 
-<br>
+<br><br>
 
 > Kihong Bae @khbae
 >
@@ -548,15 +564,15 @@
 >
 > 7/ 결론은, 많은 사람이 불가능하다고 하는 일을 하는 창업가는 운이 따르면 결국엔 뭔가 이룩한다
 
-<br>
+<br><br>
 
 [There’s only one way to truly understand another person’s mind](https://qz.com/1319441/theres-only-one-way-to-truly-understand-another-persons-mind/)
 
-<br>
+<br><br>
 
 [Policymakers can’t tackle inequitable growth if it isn’t measured](https://equitablegrowth.org/policymakers-cant-tackle-inequitable-growth-if-it-isnt-measured/)
 
-<br>
+<br><br>
 
 [동기부여와 학습기술을 가르치는 교육](https://cfr0g.wordpress.com/2018/06/30/%EB%8F%99%EA%B8%B0%EB%B6%80%EC%97%AC%EC%99%80-%ED%95%99%EC%8A%B5%EA%B8%B0%EC%88%A0%EC%9D%84-%EA%B0%80%EB%A5%B4%EC%B9%98%EB%8A%94-%EA%B5%90%EC%9C%A1/)
 
@@ -570,11 +586,11 @@
 >
 > **핵심은 동기부여와 학습기술, 그리고 그것들을 키울 수 있는 시간이다.** 중등, 고등교육에서 무엇을 더 가르치고 덜 가르치고에 대한 논쟁은 내 생각에는 부차적인 문제다. 어차피 가르친다고 모두가 다 흡수하는 것도 아닐터이다. **사람이 어떤 최적의 틀과 경로를 통해 양성된다는 생각을 버려야 역설적으로 효율적인 교육이 가능하다고 생각한다.**
 
-<br>
+<br><br>
 
 [잠들기 30분 전 어둡게 하고, 10분 전 호흡 집중하니 '꿀잠']( http://health.chosun.com/site/data/html_dir/2018/06/29/2018062900158.html)
 
-<br>
+<br><br>
 
 > 카리스원장 @charisclinic
 >
@@ -582,7 +598,7 @@
 >
 > [오전 9:52 - 2018년 6월 27일](https://twitter.com/charisclinic/status/1012015786695614476)
 
-<br>
+<br><br>
 
 > 朴聖國, Shawn @sungkkshawnpark
 >
@@ -602,7 +618,7 @@
 >
 > [오전 1:08 - 2018년 6월 27일](https://twitter.com/sungkkshawnpark/status/1011883832004341760)
 
-<br>
+<br><br>
 
 > Noori Lee @noori_lee
 >
@@ -611,7 +627,7 @@
 >
 > [오전 10:29 - 2015년 7월 10일](https://twitter.com/noori_lee/status/619559196581826560)
 
-<br>
+<br><br>
 
 [How do I quickly and efficiently learn a new language?](https://www.quora.com/How-do-I-quickly-and-efficiently-learn-a-new-language/answer/Cyprien-Rusu?share=7f62dd5e&srid=XAfq)
 
@@ -630,19 +646,19 @@
 
 
 
-<br>
+<br><br>
 
 [덜 풀고 덜 외웠더니 … 1975년 이후 세대에선 IQ 3~5 뚝](http://news.joins.com/article/22740274)
 
-<br>
+<br><br>
 
 [호날두 집들이엔 가지마라… 물과 샐러드, 닭가슴살 뿐이다](http://news.chosun.com/site/data/html_dir/2018/06/22/2018062200070.html)
 
-<br>
+<br><br>
 
 [The Last of the Tiger Parents](https://www.nytimes.com/2018/06/22/opinion/sunday/asian-american-tiger-parents.html)
 
-<br>
+<br><br>
 
 > **The Long View  ⚫️**‏ @**HayekAndKeynes**
 >
@@ -652,7 +668,7 @@
 >
 > [오후 4:09 - 2018년 6월 19일](https://twitter.com/HayekAndKeynes/status/1009211693048745986)
 
-<br>
+<br><br>
 
 [소득주도성장 정책의 최대 난관](http://sovidence.tistory.com/957)
 
@@ -682,9 +698,7 @@
 
 
 
-
-
-<br>
+<br><br>
 
 [맨날 고용쇼크, 지겹지도 않나?](http://sovidence.tistory.com/956)
 
