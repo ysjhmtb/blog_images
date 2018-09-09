@@ -1,5 +1,27 @@
 
 
+>  [Something Not Rotten in Denmark](https://www.nytimes.com/2018/08/16/opinion/denmark-socialism-fox.html) 
+>
+> <br>
+>
+> Last weekend, Trish Regan, a Fox Business host, created a bit of an international incident by describing Denmark as an example of the horrors of socialism, right along with Venezuela. Denmark’s finance minister suggested that she visit his country and learn some facts.   
+>
+> Indeed, Regan couldn’t have picked a worse example — or, from the point of view of U.S. progressives, a better one.   
+>
+> <br>
+>
+> The simple fact is that life is better for most Danes than it is for their U.S. counterparts. There’s a reason Denmark consistently ranks well ahead of America in measures of happiness and life satisfaction.   
+>
+> But is Denmark socialist?   
+>
+> The libertarian Cato Institute says no: “Denmark has quite a free-market economy, apart from its welfare state transfers and high government consumption.” That’s some qualification.   
+>
+> It’s true that Denmark doesn’t at all fit the classic definition of socialism, which involves government ownership of the means of production. It is, instead, social-democratic: a market economy where the downsides of capitalism are mitigated by government action, including a very strong social safety net.   
+>
+> But U.S. conservatives — like Fox’s Regan — continually and systematically blur the distinction between social democracy and socialism. In 2008, John McCain accused Barack Obama of wanting socialism, basically because Obama called for an expansion of health coverage. In 2012, Mitt Romney declared that Obama got his ideas from “socialist democrats in Europe.”   
+
+<br><br>
+
 >  [Knowledge Isn’t Power](https://www.nytimes.com/2015/02/23/opinion/paul-krugman-knowledge-isnt-power.html)   <br>
 >
 > As for wages and salaries, never mind college degrees — all the big gains are going to a tiny group of individuals holding strategic positions in corporate suites or astride the crossroads of finance. Rising inequality isn’t about who has the knowledge; it’s about who has the power. <br>
