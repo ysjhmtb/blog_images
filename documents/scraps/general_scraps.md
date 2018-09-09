@@ -8,6 +8,8 @@
 >
 > Indeed, Regan couldn’t have picked a worse example — or, from the point of view of U.S. progressives, a better one.   
 >
+> (...)
+>
 > <br>
 >
 > The simple fact is that life is better for most Danes than it is for their U.S. counterparts. There’s a reason Denmark consistently ranks well ahead of America in measures of happiness and life satisfaction.   
