@@ -2,8 +2,6 @@
 
 <br><br>
 
-> "시험 다가오면 여유부린 하루가 아쉽습니다."     <br>
->
 > Towards Photography Through Realistic Fog    <br>
 >
 > Networking across Boundaries     <br>
