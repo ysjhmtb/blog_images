@@ -1,5 +1,9 @@
 
 
+[비염이 심한 오트리빈 중독자가 양주 고의원을 다녀온 후기](http://stranger-jy.tistory.com/56)   
+
+<br><br>
+
 >  [Something Not Rotten in Denmark](https://www.nytimes.com/2018/08/16/opinion/denmark-socialism-fox.html) 
 >
 > <br>

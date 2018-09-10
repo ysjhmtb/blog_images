@@ -2,10 +2,6 @@
 
 <br><br>
 
-> Towards Photography Through Realistic Fog    <br>
->
-> Networking across Boundaries     <br>
->
 > "책과 논문에 나와 있는 뻔한 이론들이다. 그런데도 결과는 다르다."  <br>
 
 <br><br>
