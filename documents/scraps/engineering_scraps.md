@@ -6,6 +6,14 @@
 
 <br><br>
 
+> [40세 신입사원 '나이 제한 없는 기업 찾아헤맸다'](http://news.chosun.com/misaeng/site/data/html_dir/2016/11/30/2016113000791.html)   
+>
+> 2016년 상반기 부산교통공사 신입사원이 된 최이윤(40)씨. 자동차 관련 민간기업에서 10년간 재무·회계를 담당했습니다. 2014년 회사를 관두고 2년간 이직 준비를 했습니다. 처음에는 민간기업에 경력직으로 들어갈 계획을 세웠습니다. 이후 마음을 바꿔 공공기관 입사준비를 하게 됐다고 합니다.   
+
+<br>
+
+<br>
+
 [C: The Immortal Programming Language](https://embeddedgurus.com/barr-code/2018/02/c-the-immortal-programming-language/)   
 
 <br><br>
