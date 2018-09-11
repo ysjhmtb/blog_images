@@ -6,6 +6,30 @@
 
 <br><br>
 
+[Haven security app receives 500,000 downloads in first six months](https://portswigger.net/daily-swig/haven-security-app-receives-500-000-downloads-in-first-six-months) 
+
+<br>
+
+<br>
+
+> [테라노스 (Theranos) 폐업이 주는 교훈](http://techneedle.com/archives/35681) 
+>
+> <br>
+>
+> 3. Everyone needs to do their own due diligence.
+>   – 다소 심하게 들릴지 모르지만, 테라노스에 투자했다가 돈을 잃은 투자자들, 월그린, 세이프웨이등을 동정할 필요는 없다. 왜냐면 그들은 투자자로서 해야할 최소한의 조사 (due diligence)도 하지 않았기 때문이다. *(구글에서도 투자를 검토했으나, 심사역들이 실제 제품을 테스트해보고 난 후 투자 철회 결정을 내렸다고 한다.)
+>
+>   “THE COMPANY RAISED $600 MILLION WITHOUT A SINGLE PUBLISHED PEER REVIEWED JOURNAL ARTICLE. (저널에 peer reviewed 논문을 하나도 안 낸 회사가 어찌 6천억원이나 투자를 받을 수 있나?)”
+>
+> <br>
+>
+> 7. You know you are right when someone attacks you personally.
+>   – 당신이 누군가에게 비판적인 질문을 했을 때 상대방이 당신을 ‘개인적으로, 감정적으로’ 공격한다면, 당신 생각이 맞기 때문일 것이다. 존 캐리루 기자도 테라노스의 변호사가 자신이 쓴 기사를 WSJ에 싣지 못하게끔 집요하게 달려드는 것을 보고서 제대로 특종 물었다는 것을 직감하게 되었다고 한다.
+
+<br><br>
+
+
+
 > [40세 신입사원 '나이 제한 없는 기업 찾아헤맸다'](http://news.chosun.com/misaeng/site/data/html_dir/2016/11/30/2016113000791.html)   
 >
 > 2016년 상반기 부산교통공사 신입사원이 된 최이윤(40)씨. 자동차 관련 민간기업에서 10년간 재무·회계를 담당했습니다. 2014년 회사를 관두고 2년간 이직 준비를 했습니다. 처음에는 민간기업에 경력직으로 들어갈 계획을 세웠습니다. 이후 마음을 바꿔 공공기관 입사준비를 하게 됐다고 합니다.   
