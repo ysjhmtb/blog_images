@@ -1,6 +1,17 @@
+<br><br>
+
+[2006년 경험으로 보면…지금은 집 살 때 아닌 팔 때다](https://news.joins.com/article/22962912) <= 이 주장이 옳은지를 확인하려면 [10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity](https://fred.stlouisfed.org/series/T10Y2Y) 를 잘 관찰해야 한다. 결국 통화정책에 달려 있다. 
 
 
 
+<br><br>
+
+> Park JaeHo @jrogue <br>
+> 오프라인 중국어 학원들이 연이어 문을 닫고 있음. 지속적인 수강생 감소 때문이라고 하는데, 온라인의 위력에 앞에서 버티지 못하고 있다는 느낌. 신문, 잡지에 이어 어학원들도 서서히 힘을 잃어가는데, 컨텐츠 부문에서 다음에 아웃될 타자는 누구일까?
+>
+> [오후 5:12 - 2018년 9월 11일](https://twitter.com/jrogue/status/1039668085542641664) 
+
+<br><br>
 
 > [(보고서) 무역분쟁: 본게임은 지금부터](https://choonsik.blogspot.com/2018/09/blog-post_10.html)   
 >
@@ -8,7 +19,7 @@
 >
 > 3. 트럼프 입장에서 완만한 달러 약세를 유도하는 것이 최상입니다. 미국의 무역적자는 곧 글로벌 성장, 미국의 매출입니다. S&P500 매출액 성장률과 달러화는 역의 관계를 갖습니다. 달러화 약세는 S&P 주요기업들의 P(가격경쟁력)*Q(미국외 수요증가) 모멘텀을 제공함과 동시에 트럼프의 지지율 상승 요인으로 작용하기 때문입니다.
 
-
+<br><br>
 
 > [내가 직접 '중위험 중수익 상품' 만들어보기](http://biz.chosun.com/site/data/html_dir/2018/09/07/2018090700477.html)   
 >

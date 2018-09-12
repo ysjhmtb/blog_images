@@ -6,6 +6,18 @@
 
 <br><br>
 
+>  [Could a DIY ultrasound be in your future? UBC breakthrough opens door to $100 ultrasound machine](https://news.ubc.ca/2018/09/11/could-a-diy-ultrasound-be-in-your-future-ubc-breakthrough-opens-door-to-100-ultrasound-machine/) 
+>
+> ...
+>
+> Conventional ultrasound scanners use piezoelectric crystals to create images of the inside of the body and send them to a computer to create sonograms. Researchers replaced the piezoelectric crystals with tiny vibrating drums made of polymer resin, called polyCMUTs (polymer capacitive micro-machined ultrasound transducers), which are cheaper to manufacture.
+
+<br><br>
+
+[고수들이 절대 가르쳐 주지 않는 C/C++ 프로그래밍 팁 #1 - include guard](http://yesarang.tistory.com/64)
+
+<br><br>
+
 [Haven security app receives 500,000 downloads in first six months](https://portswigger.net/daily-swig/haven-security-app-receives-500-000-downloads-in-first-six-months) 
 
 <br>

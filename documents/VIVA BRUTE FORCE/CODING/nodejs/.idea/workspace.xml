@@ -14,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="parseCookies.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/node4/parseCookies.js">
+      <file leaf-file-name="hello.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HelloWorld/hello.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+            <state relative-caret-position="75">
+              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
             </state>
           </provider>
         </entry>
@@ -82,6 +82,7 @@
         <option value="$PROJECT_DIR$/node4/restFront.css" />
         <option value="$PROJECT_DIR$/node4/restFront.js" />
         <option value="$PROJECT_DIR$/node4/parseCookies.js" />
+        <option value="$PROJECT_DIR$/HelloWorld/hello.js" />
       </list>
     </option>
   </component>
@@ -94,18 +95,16 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="41" />
-    <option name="y" value="95" />
-    <option name="width" value="1920" />
-    <option name="height" value="974" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1600" />
+    <option name="height" value="794" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,12 +115,13 @@
             <path>
               <item name="nodejs" type="b2602c69:ProjectViewProjectNode" />
               <item name="nodejs" type="462c0819:PsiDirectoryNode" />
-              <item name="node4" type="462c0819:PsiDirectoryNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -143,26 +143,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.parseCookies.js">
-    <configuration name="error.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="error.js" working-dir="$PROJECT_DIR$/node3" />
+  <component name="RunManager" selected="Node.js.hello.js">
+    <configuration name="hello.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="hello.js" working-dir="$PROJECT_DIR$/HelloWorld" />
     <configuration name="parseCookies.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="parseCookies.js" working-dir="$PROJECT_DIR$/node4" />
     <configuration name="server1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="server1.js" working-dir="$PROJECT_DIR$/node4" />
     <configuration name="server3.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="server3.js" working-dir="$PROJECT_DIR$/node4" />
     <configuration name="server5.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="server5.js" working-dir="$PROJECT_DIR$/node4" />
     <list>
-      <item itemvalue="Node.js.error.js" />
       <item itemvalue="Node.js.server1.js" />
       <item itemvalue="Node.js.server3.js" />
       <item itemvalue="Node.js.server5.js" />
       <item itemvalue="Node.js.parseCookies.js" />
+      <item itemvalue="Node.js.hello.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.hello.js" />
         <item itemvalue="Node.js.parseCookies.js" />
         <item itemvalue="Node.js.server5.js" />
         <item itemvalue="Node.js.server3.js" />
         <item itemvalue="Node.js.server1.js" />
-        <item itemvalue="Node.js.error.js" />
       </list>
     </recent_temporary>
   </component>
@@ -184,21 +184,23 @@
       <workItem from="1535202036787" duration="4863000" />
       <workItem from="1535290887071" duration="1773000" />
       <workItem from="1535344039336" duration="15000" />
+      <workItem from="1536751863241" duration="1945000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35819000" />
+    <option name="totallyTimeSpent" value="37764000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1920" height="974" extended-state="6" />
+    <frame x="0" y="22" width="1600" height="794" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20833333" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.5046875" side_tool="true" visible="true" weight="0.27" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.505" side_tool="true" visible="true" weight="0.26944444" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4953125" weight="0.27" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.495" weight="0.26944444" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49947917" weight="0.32976654" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -224,13 +226,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node2/node23.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node2/node24.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
@@ -566,6 +561,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld/hello.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
         </state>
       </provider>
     </entry>
