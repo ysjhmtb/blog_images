@@ -6,6 +6,18 @@
 
 <br><br>
 
+[SIGCOMM Conference](http://sigcomm.org/events/sigcomm-conference)
+
+<br> <br>
+
+> 카사다 @zaq1qaz
+> 취업 관련 수업 들으면서 웹 개발(아마도 학원) 이력서 보는데
+> 2002년 이력서 희망 연봉이 2000만원이고 2015년이 2300~2500만원이여
+>
+> [오후 9:27 - 2018년 9월 12일](https://twitter.com/zaq1qaz/status/1040094574406844416)
+
+<br><br>
+
 >  [Could a DIY ultrasound be in your future? UBC breakthrough opens door to $100 ultrasound machine](https://news.ubc.ca/2018/09/11/could-a-diy-ultrasound-be-in-your-future-ubc-breakthrough-opens-door-to-100-ultrasound-machine/) 
 >
 > ...
