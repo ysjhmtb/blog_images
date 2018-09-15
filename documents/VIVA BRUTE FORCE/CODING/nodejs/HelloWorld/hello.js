@@ -1,68 +1,61 @@
-const ListNode = class {
+/**
+ * @param {number[]} ages
+ * @return {number}
+ */
 
-    constructor(val) {
-        this.val = val;
-        let next = null;
-    }
-};
+const request = function (a, b) {
 
+    a *= 1;
+    b *= 1;
 
-const Solution = class {
-
-    reorderList(head) {
-
-        if (head == null)
-            return;
-
-        let list = [];
-
-        let node = head.next;
-
-        while (node != null) {
-            list.push(node);
-            node = node.next;
-        }
-
-        let i = 0;
-        let j = list.length - 1;
-        let temp = head;
-
-        while (j > i) {
-            temp.next = list[j];
-            temp = temp.next;
-            temp.next = list[i];
-            temp = temp.next;
-            i++;
-            j--;
-        }
-
-        if (i == j) {
-            temp.next = list[i];
-            temp = temp.next;
-        }
-        temp.next = null;
-
-    }
-};
-
-
-let l1 = new ListNode(1);
-let l2 = new ListNode(2);
-let l3 = new ListNode(3);
-let l4 = new ListNode(4);
-let l5 = new ListNode(5);
-
-l1.next = l2;
-l2.next = l3;
-l3.next = l4;
-l4.next = l5;
-
-let ref = new Solution();
-ref.reorderList(l1);
-
-let result = l1;
-
-while(result != null){
-    console.log(result.val + ", ");
-    result = result.next;
+    return !(b <= 0.5 * a + 7 || b > a || (b > 100 && a < 100));
 }
+
+var numFriendRequests = function (ages) {
+
+    let count = new Map();
+
+
+    ages.forEach(function (age) {
+
+        if (count.has(age)) {
+            count.set(age, count.get(age) + 1);
+        } else {
+            count.set(age, 1);
+        }
+
+    });
+
+    let res = 0;
+
+    let countKeys = Array.from(count.keys());
+
+
+
+    countKeys.forEach(function (a) {
+        countKeys.forEach(function (b) {
+
+            a *= 1;
+            b *= 1;
+
+            if (request(a, b)) {
+                if (a == b) {
+                    res += count.get(a) * (count.get(b) - 1);
+                } else {
+                    res += count.get(a) * count.get(b);
+                }
+            }
+
+        })
+    })
+
+    return res;
+
+
+};
+
+console.log(numFriendRequests([14, 14, 15]));   // 0
+console.log(numFriendRequests([1, 3, 4, 7]));   // 0
+console.log(numFriendRequests([16, 16]));       // 2
+console.log(numFriendRequests([16, 17, 18]));   // 2
+console.log(numFriendRequests([20, 30, 100, 110, 120]));    // 3

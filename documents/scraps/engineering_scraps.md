@@ -3,6 +3,36 @@
 <br><br>
 
 > "책과 논문에 나와 있는 뻔한 이론들이다. 그런데도 결과는 다르다."  <br>
+>
+> "Good Artists Copy; Great Artists Steal" Steve Jobs
+
+<br><br>
+
+> [Artificial intelligence system uses transparent, human-like reasoning to solve problems](http://news.mit.edu/2018/mit-lincoln-laboratory-ai-system-solves-problems-through-human-reasoning-0911) 
+>
+> <br>
+>
+> Model from MIT Lincoln Laboratory Intelligence and Decision Technologies Group sets a new standard for understanding how a neural network makes decisions.
+>
+> <br>
+>
+> <img src="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/news_article_image_top_slideshow/public/images/2018/Lincoln-Laboratory-TbD-net-AI-system-graphic-MIT-00_2.jpg?itok=-0BBjsHQ">
+>
+> <br>
+>
+> We learn through reason how to interpret the world. So, too, do neural networks. Now a team of researchers from MIT Lincoln Laboratory's Intelligence and Decision Technologies Group has developed a neural network that performs human-like reasoning steps to answer questions about the contents of images. Named the Transparency by Design Network (TbD-net), the model visually renders its thought process as it solves problems, allowing human analysts to interpret its decision-making process. The model performs better than today’s best visual-reasoning neural networks.  
+>
+> <br>
+>
+> Understanding how a neural network comes to its decisions has been a long-standing challenge for artificial intelligence (AI) researchers. As the neural part of their name suggests, neural networks are brain-inspired AI systems intended to replicate the way that humans learn. They consist of input and output layers, and layers in between that transform the input into the correct output. Some deep neural networks have grown **so complex that it’s practically impossible to follow this transformation process.** That's why they are referred to as "black box” systems, with their exact goings-on inside opaque even to the engineers who build them.
+>
+> <br>
+>
+> ...
+>
+> <br>
+>
+> Interpretability is especially valuable if deep learning algorithms are to be deployed alongside humans to help tackle complex real-world tasks. **To build trust in these systems, users will need the ability to inspect the reasoning process so that they can understand why and how a model could make wrong predictions.**
 
 <br><br>
 

@@ -1,5 +1,9 @@
 <br><br>
 
+[푸쉬업, 현명한 맨몸 운동](https://ppss.kr/archives/165463) 
+
+<br><br>
+
 [Patrick Mwalua, The Tsavo Wildlife Guardian](https://www.youtube.com/watch?v=cGOnx8uOyio&feature=youtu.be)
 
 <br><br>
