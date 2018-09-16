@@ -1,61 +1,74 @@
-/**
- * @param {number[]} ages
- * @return {number}
- */
+/*
 
-const request = function (a, b) {
+record
 
-    a *= 1;
-    b *= 1;
-
-    return !(b <= 0.5 * a + 7 || b > a || (b > 100 && a < 100));
-}
-
-var numFriendRequests = function (ages) {
-
-    let count = new Map();
+[Enter uid1234 Muzi,
+Enter uid4567 Prodo,
+Leave uid1234,
+Enter uid1234 Prodo,
+Change uid4567 Ryan]
 
 
-    ages.forEach(function (age) {
+result
 
-        if (count.has(age)) {
-            count.set(age, count.get(age) + 1);
-        } else {
-            count.set(age, 1);
+[Prodo님이 들어왔습니다.,
+Ryan님이 들어왔습니다.,
+Prodo님이 나갔습니다.,
+Prodo님이 들어 왔습니다.]
+*/
+
+
+let solution = function (record) {
+
+    //record를 하나씩 검사한다. 첫번째 단어가 Enter, Leave, Change 중 어떤 것이냐에 따라
+    //처리해야 할 내용이 달라진다.
+    //Enter, Change의 경우 아이디에 따른 닉네임을 맵에 저장한다.
+    //기록이 모두 완료되면 반환할 문장을 구성하자.
+
+    let myMap = new Map();
+
+
+    for (let i = 0; i < record.length; i++) {
+        let recordOne = [];
+        recordOne = record[i].split(" ");
+
+
+        if (recordOne[0] === "Enter") {
+            myMap.set(recordOne[1], recordOne[2]);
+
+        } else if (recordOne[0] === "Change") {
+            myMap.set(recordOne[1], recordOne[2]);
+
+        }
+    }
+
+
+    let results = [];
+
+    for (let i = 0; i < record.length; i++) {
+        let recordOne = [];
+        recordOne = record[i].split(" ");
+
+        if (recordOne[0] === "Enter") {
+            let resultOne = myMap.get(recordOne[1]) + "님이 들어왔습니다.";
+            results.push(resultOne);
+        } else if (recordOne[0] === "Leave") {
+            let resultOne = myMap.get(recordOne[1]) + "님이 나갔습니다.";
+            results.push(resultOne);
         }
 
-    });
+    }
 
-    let res = 0;
-
-    let countKeys = Array.from(count.keys());
-
-
-
-    countKeys.forEach(function (a) {
-        countKeys.forEach(function (b) {
-
-            a *= 1;
-            b *= 1;
-
-            if (request(a, b)) {
-                if (a == b) {
-                    res += count.get(a) * (count.get(b) - 1);
-                } else {
-                    res += count.get(a) * count.get(b);
-                }
-            }
-
-        })
-    })
-
-    return res;
+    return results;
 
 
 };
 
-console.log(numFriendRequests([14, 14, 15]));   // 0
-console.log(numFriendRequests([1, 3, 4, 7]));   // 0
-console.log(numFriendRequests([16, 16]));       // 2
-console.log(numFriendRequests([16, 17, 18]));   // 2
-console.log(numFriendRequests([20, 30, 100, 110, 120]));    // 3
+let recordInput = ["Enter uid1234 Muzi", "Enter uid4567 Prodo",
+    "Leave uid1234", "Enter uid1234 Prodo", "Change uid4567 Ryan"];
+
+let answer = solution(recordInput);
+
+for (let i = 0; i < answer.length; i++) {
+    console.log(answer[i]);
+}
