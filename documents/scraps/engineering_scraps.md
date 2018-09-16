@@ -8,6 +8,18 @@
 
 <br><br>
 
+[Why Tesla is building city-sized batteries](https://youtu.be/8ge3ah1G8ok)
+
+<br><br>
+
+[‘메이커의 아버지’ 데일 도허티, “두려워 말고 만들라”](http://www.bloter.net/archives/319402)
+
+<br><br>
+
+[삼성전자 뛰쳐나와 만든 앱, 찍는 순간 칼로리가 나온다](https://news.joins.com/article/22973973)
+
+<br><br>
+
 > [Artificial intelligence system uses transparent, human-like reasoning to solve problems](http://news.mit.edu/2018/mit-lincoln-laboratory-ai-system-solves-problems-through-human-reasoning-0911) 
 >
 > <br>

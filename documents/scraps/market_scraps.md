@@ -1,5 +1,13 @@
 <br><br>
 
+[Put These Charts on Your Wall…](https://pensionpartners.com/put-these-charts-on-your-wall/)
+
+<br><br>
+
+[What’s Going On with the Economy? It’s the Stimulus, Stupid](https://www.newyorker.com/news/our-columnists/whats-going-on-with-the-economy-its-the-stimulus-stupid)
+
+<br><br>
+
 [2006년 경험으로 보면…지금은 집 살 때 아닌 팔 때다](https://news.joins.com/article/22962912) <= 이 주장이 옳은지를 확인하려면 [10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity](https://fred.stlouisfed.org/series/T10Y2Y) 를 잘 관찰해야 한다. 결국 통화정책에 달려 있다. 
 
 
