@@ -4,7 +4,7 @@
 
 ```
 WK YOUTUBE
-C++ DSP ALGO DL EE
+C++ ALGO EE
 
 WIRELESS COMMUNICATION BREAKS THROUGH WATER-AIR BARRIER
 
@@ -13,6 +13,17 @@ DEPTH-SENSING IMAGING SYSTEM CAN PEER THROUGH FOG
 ```
 
 
+
+<br><br>
+
+> Chris Ohk @utilforever <br>
+> C++로 만드는 운영체제 책이 곧 출간됩니다.
+> 저는 이 책의 리뷰를 맡았습니다. 좋은 책입니다.
+> 현재는 크로스 플랫폼 프로젝트로 개선중입니다.
+>
+> http://www.acornpub.co.kr/book/cplus-os-development 
+>
+> [오전 3:45 - 2018년 9월 17일](https://twitter.com/utilforever/status/1041639301102985218)
 
 <br><br>
 
