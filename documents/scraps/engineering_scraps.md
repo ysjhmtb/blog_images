@@ -2,9 +2,17 @@
 
 <br><br>
 
-> "책과 논문에 나와 있는 뻔한 이론들이다. 그런데도 결과는 다르다."  <br>
->
-> "Good Artists Copy; Great Artists Steal" Steve Jobs
+```
+WK YOUTUBE
+C++ DSP ALGO DL EE
+
+WIRELESS COMMUNICATION BREAKS THROUGH WATER-AIR BARRIER
+
+DEPTH-SENSING IMAGING SYSTEM CAN PEER THROUGH FOG
+
+```
+
+
 
 <br><br>
 

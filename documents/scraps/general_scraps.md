@@ -1,5 +1,13 @@
 <br><br>
 
+[세금 자료 다른 나라는 얼마나 공개하나](http://sovidence.tistory.com/975)
+
+<br><br>
+
+[소득주도 성장이 실패했다고?](https://www.sisain.co.kr/?mod=news&act=articleView&idxno=32748)
+
+<br><br>
+
 [푸쉬업, 현명한 맨몸 운동](https://ppss.kr/archives/165463) 
 
 <br><br>
