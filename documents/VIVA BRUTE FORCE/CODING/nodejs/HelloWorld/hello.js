@@ -1,74 +1,71 @@
 /*
-
-record
-
-[Enter uid1234 Muzi,
-Enter uid4567 Prodo,
-Leave uid1234,
-Enter uid1234 Prodo,
-Change uid4567 Ryan]
+N	stages	                    result
+5	[2, 1, 2, 6, 2, 4, 3, 3]	[3,4,2,1,5]
+4	[4,4,4,4,4]	                [4,1,2,3]
 
 
-result
+실패율은 다음과 같이 정의한다.
+스테이지에 도달했으나 아직 클리어하지 못한 플레이어의 수 / 스테이지에 도달한 플레이어 수
 
-[Prodo님이 들어왔습니다.,
-Ryan님이 들어왔습니다.,
-Prodo님이 나갔습니다.,
-Prodo님이 들어 왔습니다.]
-*/
+var quotient = Math.floor(y/x);
+var remainder = y % x;
 
 
-let solution = function (record) {
-
-    //record를 하나씩 검사한다. 첫번째 단어가 Enter, Leave, Change 중 어떤 것이냐에 따라
-    //처리해야 할 내용이 달라진다.
-    //Enter, Change의 경우 아이디에 따른 닉네임을 맵에 저장한다.
-    //기록이 모두 완료되면 반환할 문장을 구성하자.
-
-    let myMap = new Map();
+일단 실패율을 기록하자. 이후 실패율과 숫자 크기라는 두 기준으로 정렬하자.
+이를 위해서는 분수 계산의 결과를 반환하는 함수를 만들어야 한다.
+입력받은 stages의 값들을 하나씩 검사하면서 실패율을 기록하자.
 
 
-    for (let i = 0; i < record.length; i++) {
-        let recordOne = [];
-        recordOne = record[i].split(" ");
+
+ */
 
 
-        if (recordOne[0] === "Enter") {
-            myMap.set(recordOne[1], recordOne[2]);
+let getProba = function (N, stages, target) {
 
-        } else if (recordOne[0] === "Change") {
-            myMap.set(recordOne[1], recordOne[2]);
+    let targetQuan = 0;
+    let denominator = 0;
 
+    for (let i = 0; i < stages.length; i++) {
+
+        if (target == stages[i]) {
+            targetQuan++;
+        }
+
+        if (target <= stages[i]) {
+            denominator++;
         }
     }
 
+    let quotient = Math.floor(targetQuan / denominator);
+    let remainder = targetQuan % denominator;
 
-    let results = [];
-
-    for (let i = 0; i < record.length; i++) {
-        let recordOne = [];
-        recordOne = record[i].split(" ");
-
-        if (recordOne[0] === "Enter") {
-            let resultOne = myMap.get(recordOne[1]) + "님이 들어왔습니다.";
-            results.push(resultOne);
-        } else if (recordOne[0] === "Leave") {
-            let resultOne = myMap.get(recordOne[1]) + "님이 나갔습니다.";
-            results.push(resultOne);
-        }
-
-    }
-
-    return results;
+    return [quotient, remainder];
 
 
 };
 
-let recordInput = ["Enter uid1234 Muzi", "Enter uid4567 Prodo",
-    "Leave uid1234", "Enter uid1234 Prodo", "Change uid4567 Ryan"];
+let recordFail = function (keyNum, quotient, remainder) {
 
-let answer = solution(recordInput);
+    this.keyNum = keyNum;
+    this.quotient = quotient;
+    this.remainder = remainder;
 
-for (let i = 0; i < answer.length; i++) {
-    console.log(answer[i]);
-}
+
+};
+
+
+const solution = function (N, stages) {
+
+    for (let i = 1; i <= N; i++) {
+
+        let temp = getProba(N, stages, i);
+        let quotient = temp[0];
+        let remainder = temp[1];
+        console.log(quotient + " " + remainder);
+    }
+
+
+
+};
+
+solution(5, [2, 1, 2, 6, 2, 4, 3, 3]);
