@@ -16,6 +16,12 @@ DEPTH-SENSING IMAGING SYSTEM CAN PEER THROUGH FOG
 
 <br><br>
 
+[AlphaGo Zero: Learning from scratch](https://deepmind.com/blog/alphago-zero-learning-scratch/) 
+
+<iframe src="https://www.youtube.com/watch?time_continue=1&v=tXlM99xPQC8"> </iframe>
+
+<br><br>
+
 > Chris Ohk @utilforever <br>
 > C++로 만드는 운영체제 책이 곧 출간됩니다.
 > 저는 이 책의 리뷰를 맡았습니다. 좋은 책입니다.
