@@ -18,8 +18,6 @@ DEPTH-SENSING IMAGING SYSTEM CAN PEER THROUGH FOG
 
 [AlphaGo Zero: Learning from scratch](https://deepmind.com/blog/alphago-zero-learning-scratch/) 
 
-<iframe src="https://www.youtube.com/watch?time_continue=1&v=tXlM99xPQC8"> </iframe>
-
 <br><br>
 
 > Chris Ohk @utilforever <br>
@@ -214,6 +212,12 @@ DEPTH-SENSING IMAGING SYSTEM CAN PEER THROUGH FOG
 > ...
 >
 > 실기 요점은 1. **단답은 28년치 수시로** 보라..(사람인지라 솔직히 다 외우면 좋지만, 최대한 많이 보는걸 권장해드리네요..) 2. 문제 풀때 **실전같이** 풀어라. (계산 :    답 :    단위확인) 3. 이해가 안되는건 **이해될 때 까지 찾아보라.** 
+
+
+
+<br><br>
+
+[I'm 31, is it too late to start programming?](https://www.quora.com/Im-31-is-it-too-late-to-start-programming/answer/Dries-Ketels)
 
 <br><br>
 
