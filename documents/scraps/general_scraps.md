@@ -1,5 +1,31 @@
 <br><br>
 
+> Kang-Kook Lee <br>
+> [어제 오전 10:12 · ](https://www.facebook.com/leekangkook/posts/10216944355779293?__tn__=-R) <br>
+> 미시를 썩 안 좋아하는 구(paleo)케인지언 크루그먼.
+>
+> 우리가 경제에 관해 정말 아는 것은 무엇인가. 옛날식 거시경제학은 현실을 잘 설명하고 미시경제학은 과대평가되어 있고 문제가 있으며 데이터만으로는 한계라는 이야기.
+>
+> <br>
+>
+> [What Do We Actually Know About the Economy? (Wonkish)](https://www.nytimes.com/2018/09/16/opinion/what-do-we-actually-know-about-the-economy-wonkish.html)
+
+
+
+<br><br>
+
+> Kang-Kook Lee <br>
+> [15시간 ·](https://www.facebook.com/leekangkook/posts/10216946404710515?__tn__=-R) <br>
+> 이 분들은 과연 기업의 투자가 어떻게 결정된다고 생각하는 것일까?
+>
+> 차라리 공공부문이나 대기업 노조 그리고 독점재벌과 부동산 등 온갖 부문의 기득권과 지대를 깨서 투자와 혁신의 유인을 높이자고 주장했으면 고개를 끄덕이는 사람들이 많을 텐데.
+>
+> 물론 그럴 의지도 능력도 없겠지만 진정으로 제대로 된 시장경제를 강조하는 보수라면 그래야 할 것이다.
+>
+> 그나저나 국민성장은 문재인 후보의 씽크탱크 이름이었는데 좋은 이름 짓기가 그렇게 힘든 것인가.
+
+<br><br>
+
 [세금 자료 다른 나라는 얼마나 공개하나](http://sovidence.tistory.com/975)
 
 <br><br>
