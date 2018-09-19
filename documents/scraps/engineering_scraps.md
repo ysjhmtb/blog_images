@@ -20,6 +20,20 @@ DEPTH-SENSING IMAGING SYSTEM CAN PEER THROUGH FOG
 
 <br><br>
 
+> [비전공자가 탑 저널 쓴 이야기 EP.1](https://youtu.be/Qp9oQKd-QRs)
+>
+> [비전공자가 탑 저널 쓴 이야기 EP.2](https://youtu.be/52lA16FUanw)
+
+WRITE, COPY AND UPGRADE
+
+<br><br>
+
+[Neural Network 3D Simulation](https://youtu.be/3JQ3hYko51Y)
+
+<br><br>
+
+
+
 > Chris Ohk @utilforever <br>
 > C++로 만드는 운영체제 책이 곧 출간됩니다.
 > 저는 이 책의 리뷰를 맡았습니다. 좋은 책입니다.
