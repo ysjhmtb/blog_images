@@ -12,7 +12,21 @@ DEPTH-SENSING IMAGING SYSTEM CAN PEER THROUGH FOG
 
 ```
 
+<br><br>
 
+> [Measuring abstract reasoning in neural networks](https://deepmind.com/blog/measuring-abstract-reasoning/)
+>
+> <br>
+>
+> **When required to reason using attribute values ‘interpolated’ between previously seen attribute values,** and also **when applying known abstract relations in unfamiliar combinations,** the models generalised notably well. However, the same network performed much worse **in the ‘extrapolation’ regime, where attribute values in the test set did not lie within the same range as those seen during training.** An example of this occurs for puzzles that contain dark coloured objects during training and light coloured objects during testing. Generalisation performance was also worse when the model was trained to apply a previously seen relation, **such as a progression on the number of shapes, to a new attribute, such as size.**
+>
+> <br>
+>
+> Finally, we observed improved generalisation performance when the model was trained to predict **not only the correct answer, but also the ‘reason’ for the answer** (i.e. the particular relations and attributes that should be considered to solve the puzzle). Interestingly, in the neutral split, the model’s accuracy was strongly correlated with **its ability to infer the correct relation underlying the matrix**: when the explanation was right, the model would choose the correct answer 87% of the time, but when its explanation was wrong this performance dropped to only 32%. This suggests that models which achieved better performance when they correctly inferred the abstract concepts underlying the task.
+>
+> <br>
+>
+> Recent literature has focussed on the strengths and weaknesses of neural network-based approaches to machine learning problems, often based around their capacity or failure to generalise. Our results show that it might be unhelpful to draw universal conclusions about generalisation: the neural networks we tested performed well in certain regimes of generalisation and very poorly in others. Their success was determined **by a range of factors,** including the architecture of the model used and **whether the model was trained to provide an interpretable “reason” for its answer choices.** In almost all cases, the systems performed poorly when required to extrapolate to inputs beyond their experience, or to deal with entirely unfamiliar attributes; creating a clear focus for future work in this critical, and important area of research.
 
 <br><br>
 
@@ -42,6 +56,24 @@ WRITE, COPY AND UPGRADE
 > http://www.acornpub.co.kr/book/cplus-os-development 
 >
 > [오전 3:45 - 2018년 9월 17일](https://twitter.com/utilforever/status/1041639301102985218)
+
+<br><br>
+
+> 아이폰 앱을 리액트 네이티브로 만든다면 대부분의 경우 문제가 발생하지 않을까요?
+>
+> <br>
+>
+> [개골](https://ask.fm/cfr0g/answers/149860535018)
+> 어떤 문제말씀이시죠? 뭘로 구현하든 일반적인 문제는 있을거 같은데요. 들이는 노력의 문제겠죠.
+>
+> <br>
+>
+> 아이폰 앱을 스위프트가 아닌 리액트 네이티브로 구현했을 때, 스위프트로는 가능한 기능이 리액트 네이티브로는 안 된다거나 속도 같은 성능 문제 등이 우려되었는데 개골님 말씀을 들어보니 과도한 걱정이었던 것 같습니다.
+>
+> <br>
+>
+> [개골](https://ask.fm/cfr0g/answers/149901568234)
+> 아 네. 질문만 읽어서는 어떤 말씀이신지 파악이 안되어서요.
 
 <br><br>
 

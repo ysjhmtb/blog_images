@@ -1,5 +1,9 @@
 <br><br>
 
+[Ashkenazy, Chopin The Waltz No.19 in A minor, Op.posth.](https://youtu.be/TgYNxdBseBc)
+
+<br><br>
+
 > Kang-Kook Lee <br>
 > [어제 오전 10:12 · ](https://www.facebook.com/leekangkook/posts/10216944355779293?__tn__=-R) <br>
 > 미시를 썩 안 좋아하는 구(paleo)케인지언 크루그먼.
