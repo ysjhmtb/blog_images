@@ -1,5 +1,16 @@
 <br><br>
 
+> "하루하루는 성실하게. 인생전체는 되는대로." - 이동진
+
+<br><br>
+
+> 안희종 @heejongahn
+> 춤 학원에서 몸이 너무 굼떠 짜증 날 때마다 떠올린다. 프로그래밍 시작했을 때 간단한 작업에도 몇 시간씩 걸리던 내 모습. 같이 시작한 운동을 금세 그만둔 나와 달리 계속 헬스장 나가더니 몇 년 새 몰라보게 몸 좋아진 친구. 쉬워 보이는 것 중 쉽게 얻은 건 사실 드물더라. 꾸준히만 하면 된다.
+>
+> [오전 7:22 - 2018년 9월 18일](https://twitter.com/heejongahn/status/1042056273003339776)
+
+<br><br>
+
 [Ashkenazy, Chopin The Waltz No.19 in A minor, Op.posth.](https://youtu.be/TgYNxdBseBc)
 
 <br><br>

@@ -10,3 +10,12 @@
 //
 //    return 0;
 //}
+
+#include <iostream>
+
+
+void cpp24cppFunc() {
+
+
+    std::cout << "cpp24.cpp function()" << std::endl;
+}

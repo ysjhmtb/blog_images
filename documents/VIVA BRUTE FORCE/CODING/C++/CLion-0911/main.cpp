@@ -1,14 +1,12 @@
 #include <iostream>
 #include "CppCh2/test.h"
-#include "CppCh3/cpp39.h"
+#include "CppCh4/cpp41.h"
 
 
 int main() {
 
-    std::cout << "Hello, World! \n\n" << std::endl;
-
+    test();
     execFunc();
-
 
     return 0;
 }

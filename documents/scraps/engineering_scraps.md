@@ -14,6 +14,18 @@ DEPTH-SENSING IMAGING SYSTEM CAN PEER THROUGH FOG
 
 <br><br>
 
+> 나는 그저 프로그래밍이 너무 즐거운 프로그래머다. 운영체제, 프로그래밍 언어, 컴파일러는 꽤 익숙했지만, CPU에 대해 배우는 컴퓨터 구조는 회로도가 난무하는 막연히 하드웨어 과목이라는 선입관만 가지고 있었다. 그런데 복학 후, 뒤늦게 컴퓨터 구조를 배우고 나니 컴퓨터 구조가 가장 재미있는 과목이 되었다. CPU 설계, 특히 CPU의 아키텍처 설계는 완전히 프로그램을 만드는 것과 같았다. 자료구조를 설계하듯이 명령어 집합을 설계하고, 코딩을 하듯이 파이프라인 구조를 만들고, 프로그램의 성능을 높이는 데 쓰이는 알고리즘을 동원해 CPU의 성능을 높인다. 이런 아이디어를 주로 소프트웨어 기반의 시뮬레이터에서 코딩하여 검증한다. 대표적으로 파이프라인은 병렬 프로그래밍의 한 기법이고 캐시 알고리즘은 소프트웨어 어디에서도 쓰일 수 있다. 정말 CPU는 놀랍고 재미있는 알고리즘의 총 집합체이다. - 멀티코어 CPU 이야기
+
+<br><br>
+
+[Meltdown and Spectre](https://meltdownattack.com/)
+
+<br><br>
+
+[How DeepMind's biggest AI project is fixing bad Android batteries](https://www.wired.co.uk/article/android-pie-adaptive-battery-deepmind-google)
+
+<br><br>
+
 > [Measuring abstract reasoning in neural networks](https://deepmind.com/blog/measuring-abstract-reasoning/)
 >
 > <br>
