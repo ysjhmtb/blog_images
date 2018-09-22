@@ -24,6 +24,62 @@
 > <br>
 >
 > [What Do We Actually Know About the Economy? (Wonkish)](https://www.nytimes.com/2018/09/16/opinion/what-do-we-actually-know-about-the-economy-wonkish.html)
+>
+> <br>
+>
+> What data can and can’t tell us
+>
+> <br>
+>
+> Data are good (they are also, as far as I’m concerned, plural, although this is looking like a losing battle.) Some of my best friends are data. The growing focus of economists on empirical evidence is very much a good thing.
+>
+> <br>
+>
+> But data never speak for themselves, for a couple of reasons. One, which is familiar, is that economists don’t get to do many experiments, and natural experiments are rare: the vast bulk of the data we see reflect the confounding effects of variables we aren’t interested in, and reverse causation on the variables we are trying to assess.
+>
+> <br>
+>
+> The other problem is that even when we do get something like natural experiments, they often took place under economic regimes that aren’t relevant to current problems.
+>
+> <br>
+>
+> Both of these problems were extremely relevant in the years following the 2008 crisis.
+>
+> <br>
+>
+> Start with the effects of monetary expansion. History actually provides us with many examples of countries that rapidly expanded their money supplies, and the great majority of these examples look like, say, Brazil in the 80s and 90s:
+>
+> That is, you might be tempted to conclude that the empirical evidence is that monetary expansion is inflationary, indeed roughly one-for-one.
+>
+> <br>
+>
+> But the question, as the Fed embarked on quantitative easing, was what effect this would have on an economy at the zero lower bound. And while there were many historical examples of big monetary expansion, examples at the ZLB were much rarer – in fact, basically two: the U.S. in the 1930s and Japan in the early 2000s. These examples told a very different story: that expansion would not, in fact, be inflationary, that it would work out the way it did.
+>
+> <br>
+>
+> But you needed a model, something like IS-LM-with-Tobin, to tell you which examples were relevant. The data didn’t speak for themselves.
+>
+> <br>
+>
+> What about fiscal policy? The raw correlation between budget deficits and real output is negative, not positive, but everyone knows that this is because most of the causation runs from GDP to the budget, not the other way around.
+>
+> <br>
+>
+> So you wanted to look for examples of major shifts in fiscal policy that didn’t reflect automatic stabilizers. For the U.S. that mainly meant wars; across a broader set of countries, you could look at the effects of austerity programs. Both these sources of sort-of natural experiments suggested a positive multiplier, but less than one, i.e., private-sector crowding out or in.
+>
+> <br>
+>
+> But again, what we wanted was the effect of fiscal policy at the zero lower bound. Simple macro models suggested that the multiplier would be much larger in that case, and a variety of evidence – e.g., Blanchard and Leigh on austerity, or Nakamura and Steinsson on regional shocks now supports that conclusion.
+>
+> <br>
+>
+> I would also note that because assessing fiscal policy changes can be subject to a serious error-in-variables problem, you really want to look at extreme changes. This means, in particular, that when we’re talking about austerity policies you want to look at the period 2009-2012, the post-Greece panic; everything after that is relatively small changes at the edges, subject to so much measurement error that you wouldn’t expect to find clear results.
+>
+> <br>
+>
+> The point is that empirical evidence can only do certain things. It can certainly prove that your theory is wrong! And it can also make a theory much more persuasive in those cases where the theory makes surprising predictions, which the data bear out. But the data can never absolve you from the necessity of having theories.
+>
+> <br>
 
 
 
