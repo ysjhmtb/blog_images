@@ -14,6 +14,10 @@ DEPTH-SENSING IMAGING SYSTEM CAN PEER THROUGH FOG
 
 <br><br>
 
+[COMPUTER COMMUNICATION REVIEW - The ACM SIGCOMM newsletter](https://ccronline.sigcomm.org/)
+
+<br><br>
+
 [15 Patents That Changed the World](https://www.popularmechanics.com/technology/design/g20051677/patents-changed-the-world/)
 
 <br><br>
