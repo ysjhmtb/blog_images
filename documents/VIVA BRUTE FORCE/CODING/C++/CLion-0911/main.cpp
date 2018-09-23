@@ -1,12 +1,12 @@
 #include <iostream>
-#include "CppCh2/test.h"
-#include "CppCh4/cpp41.h"
+
+extern void cpp47();
 
 
 int main() {
 
-    test();
-    execFunc();
+
+    cpp47();
 
     return 0;
 }
