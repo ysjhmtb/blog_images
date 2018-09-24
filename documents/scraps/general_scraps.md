@@ -1,5 +1,36 @@
 <br><br>
 
+> Journey @atmostbeautiful
+> 아메리카 퍼스트 외치는 트럼프. 대중 민심 반영한 것. 무역전쟁도 오래 예상돼온 것. 전통적으로 고립주의, 보호무역, 이민제한 선호. 파시즘 군국주의 발호했을 때도 영국까지 위험에 빠지고 진주만 공격당하고서야 참전. 냉전 끝난 후 점증해온 미 우선주의 오래 갈 거라는
+>
+> [‘America First’ Has Won](https://www.nytimes.com/2018/09/23/opinion/trump-foreign-policy-america-first.html)
+>
+> [오전 6:57 - 2018년 9월 24일](https://twitter.com/atmostbeautiful/status/1044224224515174400)
+
+<br><br>
+
+> Journey @atmostbeautiful
+> [9월 22일](https://twitter.com/atmostbeautiful/status/1043638624166658048)
+> 미 중간선거 앞두고 민주당 비롯한 진보 진영 내에는 민주사회주의 후보 바람. 공산주의와 유럽 사회민주주의와는 얼마나 다른가. 헷갈리는 사람 위해 자신의 정치적 입장 가늠해볼 수 있는 자가 진단 6문항 [Are You a Democratic Socialist?](https://www.nytimes.com/interactive/2018/09/22/us/politics/what-is-democratic-socialism.html)   via @NYTimes
+
+<br><br>
+
+> Journey @atmostbeautiful
+>  [9월 22일](https://twitter.com/atmostbeautiful/status/1043629857760919553)
+> 미 하교시간 퇴근시간 불일치가 쟁점으로. 아이 수업이 부모 퇴근보다 2시간 일찍 끝나 교내 대기하게 되는 것 두고 애덤 그랜트 교수는 퇴근 시간 당기자고 제안. 기술발달로 8시간 근무 6시간 집중하면 충분하다며. 문제는 시간량보다 업무구조. 암튼 노동 개선론 계속 꿈틀
+>
+> [Adam Grant says the work day should end at 3 pm](https://qz.com/work/1395632/adam-grant-says-we-should-work-less/)
+
+<br><br>
+
+> Journey @atmostbeautiful
+>  [9월 14일](https://twitter.com/atmostbeautiful/status/1040555310522368001)
+> 미 경제 회복. 지표상으론 그렇다. 서민 체감 경제는 왜 불만 불안으로 가득한가. 지표가 결함 있는 옛날 것이기 때문. 그 한계 드러낸 것이 금융위기였다. 지금 공론 지배하는 소수 지표는 수혜층에 유리. 불평등 경제 호도. 경제 현실 반영 새 지표 필요. 개발 시작됐다.
+>
+> [We’re Measuring the Economy All Wrong](https://www.nytimes.com/2018/09/14/opinion/columnists/great-recession-economy-gdp.html)
+
+<br><br>
+
 > "하루하루는 성실하게. 인생전체는 되는대로." - 이동진
 
 <br><br>

@@ -1,150 +1,114 @@
 /*
-N	stages	                    result
-5	[2, 1, 2, 6, 2, 4, 3, 3]	[3,4,2,1,5]
-4	[4,4,4,4,4]	                [4,1,2,3]
+
+relation	                    result
+[[100,ryan,music,2],
+[200,apeach,math,2],
+[300,tube,computer,3],
+[400,con,computer,4],
+[500,muzi,music,3],
+[600,apeach,music,2]]	            2
 
 
-실패율은 다음과 같이 정의한다.
-스테이지에 도달했으나 아직 클리어하지 못한 플레이어의 수 / 스테이지에 도달한 플레이어 수
-
-
-1)
-일단 실패율을 기록하자. 만일 실패율이 1/8이라면 [1,8]로 저장하자.
-
-2)
-입력받은 실패율들을 바탕으로 통분을 통해서 크기를 비교하자.
-만일 같은 실패율이라면 작은 숫자를 우선 배치하자.
+유일성(uniqueness) : 릴레이션에 있는 모든 튜플에 대해 유일하게 식별되어야 한다.
+최소성(minimality) : 유일성을 가진 키를 구성하는 속성(Attribute) 중 하나라도 제외하는 경우 유일성이 깨지는 것을 의미한다.
+                    즉, 릴레이션의 모든 튜플을 유일하게 식별하는 데 꼭 필요한 속성들로만 구성되어야 한다.
 
 
 
+칼럼 하나씩 가능 여부 조사.
+불가능한 칼럼들 중에서 묶어보기. 가능해진 그룹은 더 이상 확대하지 않기.
 
  */
 
-const getFailPro = function (N, stages, target) {
 
-    let numerator = 0;
-    let denominator = 0;
+const isRightKey = function (relation, arrToCheck, rowsCount) {
 
-    for (let i = 0; i <= stages.length; i++) {
+    keysSet = new Set();
 
-        if (target == stages[i]) {
-            numerator++;
+    /*
+        arrToCheck = [0]
+        arrToCheck = [1,2]
+     */
+
+    for (let i = 0; i < relation.length; i++) {
+
+        let key;
+
+        for (let j = 0; j < arrToCheck.length; j++) {
+            key += relation[i][arrToCheck[j]];
         }
 
-        if (target <= stages[i]) {
-            denominator++;
-        }
+        keysSet.add(key);
+
     }
 
-    return [numerator, denominator];
+    if (keysSet.size == rowsCount) {
+        return true;
+    } else {
+        return false;
+    }
 
 };
 
+const insertKey = function (keysSet, keysArrToInsert) {
 
-const getCDRArr = function (failArr) {
 
-    let commonDeno = 1;
-    let cdrArr = [];
+    keysSet.add(String(keysArrToInsert));
+    console.log(keysSet);
 
-    for (let i = 0; i < failArr.length; i++) {
-
-        let temp = failArr[i];
-        commonDeno *= temp[1];
-    }
-
-    for (i = 0; i < failArr.length; i++) {
-        let temp = failArr[i];
-        let numerator = temp[0];
-        let denominator = temp[1];
-
-        numerator *= (commonDeno / denominator);
-        temp = [i + 1, numerator, commonDeno];
-        cdrArr.push(temp);
-
-    }
-
-    return cdrArr;
-
+    return keysSet;
 };
 
-const getSortedArr = function (cdrArr) {
 
-    //분자만으로 비교해서 배열에 담자.
-    //이후 같은 분자를 가진 경우를 조사해서 조정하자.
+const hasKeys = function (keysSet, keysArrToCheck) {
 
-    let results = [];
+    return keysSet.has(String(keysArrToCheck));
+};
 
 
-    while (cdrArr.length > 0) {
+const solution = function (relation) {
 
-        let arrIndex = -1;
-        let maxIndex = -1;
-        let maxValue = -1;
+    const columnsCount = relation[0].length;
+    const rowsCount = relation.length;
+    let keysSet = new Set();
 
-        for (let i = 0; i < cdrArr.length; i++) {
-            if (cdrArr[i][1] >= maxValue) {
-                arrIndex = i;
-                maxIndex = cdrArr[i][0];
-                maxValue = cdrArr[i][1];
+    // 칼럼을 하나씩 키로 기능할 수 있는지 검사.
+    for (let i = 0; i < columnsCount; i++) {
+        let arrToCheck = [];
+        arrToCheck.push(i);
+
+        if (isRightKey(relation, arrToCheck, rowsCount)) {
+            keysSet = insertKey(keysSet, arrToCheck);
+        }
+    }
+
+    // 불가능한 칼럼들 중에서 묶어보기. 가능해진 그룹은 더 이상 확대하지 않기.
+    for (let i = 0; i < columnsCount; i++) {
+
+        let tempArr = []
+
+        for (let j = i + 1; j < columnsCount; j++) {
+
+            // 키로 기능할 수 있는 칼럼은 조사하지 않는다.
+            if (hasKeys(keysSet, [i])) {
+                continue;
             }
 
-        }
 
-        results.push([maxIndex, maxValue]);
-        cdrArr.splice(arrIndex, 1);
-
-    }
-
-
-    for (let i = 0; i < results.length; i++) {
-        for (let j = i + 1; j < results.length; j++) {
-            if ((results[i][1] == results[j][1]) && (results[i][0] > results[j][0])) {
-                let temp = results[i];
-                results[i] = results[j];
-                results[j] = temp;
-            }
         }
     }
-
-    let realResults = [];
-    for (let i = 0; i < results.length; i++) {
-        let temp = results[i][0];
-        realResults.push(temp);
-    }
-
-    return realResults;
 
 
 };
 
 
-const solution = function (N, stages) {
+const relation =
+    [["100", "ryan", "music", "2"],
+        ["200", "apeach", "math", "2"],
+        ["300", "tube", "computer", "3"],
+        ["400", "con", "computer", "4"],
+        ["500", "muzi", "music", "3"],
+        ["600", "apeach", "music", "2"]];
 
-    let failArr = [];
-    for (let i = 1; i <= N; i++) {
-        let temp = getFailPro(N, stages, i);
-        failArr.push(temp);
-    }
-
-    let cdrArr = getCDRArr(failArr);
-    let result = getSortedArr(cdrArr);
-
-    return result;
-
-
-};
-
-
-//[ 3, 4, 2, 1, 5 ]
-console.log(solution(5, [2, 1, 2, 6, 2, 4, 3, 3]));
-
-//[ 4, 1, 2, 3 ]
-console.log(solution(4, [4, 4, 4, 4, 4]));
-
-
-
-
-
-
-
+solution(relation);
 

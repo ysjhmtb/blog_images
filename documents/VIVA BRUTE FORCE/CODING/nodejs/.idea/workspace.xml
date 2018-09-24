@@ -17,8 +17,8 @@
       <file leaf-file-name="hello.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HelloWorld/hello.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="65">
-              <caret line="138" column="4" selection-end-line="150" />
+            <state relative-caret-position="2047">
+              <caret line="89" column="33" lean-forward="true" selection-start-line="89" selection-start-column="33" selection-end-line="89" selection-end-column="33" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -99,10 +99,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="311" />
+    <option name="x" value="255" />
     <option name="y" value="58" />
-    <option name="width" value="1600" />
-    <option name="height" value="794" />
+    <option name="width" value="1656" />
+    <option name="height" value="841" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -195,26 +195,27 @@
       <workItem from="1537265921978" duration="5096000" />
       <workItem from="1537339921630" duration="616000" />
       <workItem from="1537353622345" duration="4444000" />
+      <workItem from="1537802772955" duration="5531000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53023000" />
+    <option name="totallyTimeSpent" value="58554000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="311" y="58" width="1600" height="794" extended-state="0" />
+    <frame x="255" y="58" width="1656" height="841" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2415459" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.510625" side_tool="true" visible="true" weight="0.26944444" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.51328504" side_tool="true" weight="0.2529335" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.489375" weight="0.26944444" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.486715" weight="0.2529335" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49947917" weight="0.32976654" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49625" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49456522" weight="0.39895698" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -232,7 +233,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="10" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -576,8 +577,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HelloWorld/hello.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="138" column="4" selection-end-line="150" />
+        <state relative-caret-position="2047">
+          <caret line="89" column="33" lean-forward="true" selection-start-line="89" selection-start-column="33" selection-end-line="89" selection-end-column="33" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

@@ -14,6 +14,24 @@ DEPTH-SENSING IMAGING SYSTEM CAN PEER THROUGH FOG
 
 <br><br>
 
+> Journey @atmostbeautiful
+> 미래 가늠할 기술. 해양 생물 DNA 포함된 세계 특허 1만3천 건의 절반을 독일 화학기업 BASF가 확보. 그외 미 일 노르웨이 영 프 덴마크 캐나다 이스라엘 네덜란드 등 10개국이 전체 98% 보유. 바이오 인터넷에 해당하는 분야 독과점으로 새로운 불평등 심화 우려. 유엔 논의.
+>
+> [What 13,000 Patents Involving the DNA of Sea Life Tell Us About the Future](https://www.nytimes.com/2018/09/17/science/patents-marine-dna.html)
+>
+> [오후 3:56 - 2018년 9월 22일](https://twitter.com/atmostbeautiful/status/1043635072325189632)
+
+<br><br>
+
+> Journey @atmostbeautiful
+> AI는 미래 산업, 국방 등 전 분야 좌우. 미중 경쟁 AI 민족주의 우려. 2030년까지 세계 데이터 30%씩 장악. 데이터 수집 관리에서 중국은 시민 감시/관리/통제 도구로, 미국은 기술 대기업이 개인정보 보호 소홀한 채 데이터 독점. 열세인 EU는 국제 규범 견인 역할 필요.
+>
+> [How Europe can improve the development of AI](https://www.economist.com/leaders/2018/09/22/how-europe-can-improve-the-development-of-ai)
+>
+> [오전 5:47 - 2018년 9월 21일](https://twitter.com/atmostbeautiful/status/1043119617638461442) 
+
+<br><br>
+
 > [모던 C++ 동시성 프로그래밍](https://blog.naver.com/atelierjpro/221363133999)
 >
 > <br>
