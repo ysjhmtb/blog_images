@@ -1,12 +1,11 @@
 #include <iostream>
 
-extern void cpp47();
+extern void cpp53();
 
 
 int main() {
 
-
-    cpp47();
+    cpp53();
 
     return 0;
 }

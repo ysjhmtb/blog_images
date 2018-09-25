@@ -14,6 +14,10 @@ DEPTH-SENSING IMAGING SYSTEM CAN PEER THROUGH FOG
 
 <br><br>
 
+[Relation and difference between Fourier, Laplace and Z transforms](https://electronics.stackexchange.com/questions/86489/relation-and-difference-between-fourier-laplace-and-z-transforms)
+
+<br><br>
+
 > Journey @atmostbeautiful
 > 미래 가늠할 기술. 해양 생물 DNA 포함된 세계 특허 1만3천 건의 절반을 독일 화학기업 BASF가 확보. 그외 미 일 노르웨이 영 프 덴마크 캐나다 이스라엘 네덜란드 등 10개국이 전체 98% 보유. 바이오 인터넷에 해당하는 분야 독과점으로 새로운 불평등 심화 우려. 유엔 논의.
 >
