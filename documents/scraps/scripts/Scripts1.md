@@ -2,6 +2,118 @@
 
 
 
+
+
+-----
+
+[88,000 tons of radioactive waste – and nowhere to put it](https://youtu.be/YgVyPwhkoJs)
+
+
+
+
+
+
+
+-----
+
+
+
+[Why Tesla is building city-sized batteries](https://youtu.be/8ge3ah1G8ok)
+
+> Batteries make a lot of modern tech possible. Everything from cell phones, cameras, medical devices, a million aplliances, to bigger things like electric cars. You might get frustrated because your cell phone still can't make it through the day on a single charge, but the fact is, battery technology as a whole is leaping forward. It's improving so much that batteries aren't just powering our phones and our cars, they're powering cities and even replacing entire power plants.  But storing energy on the power grid isn't a new idea. In fact, batteries are joining some really whimsical technology. Tech that might make you wonder what the definition of a battery actually is. 
+>
+> <br>
+>
+> Well, storage has been sort of the Holy Grail of the electric grid or electricity industry for a very long time, decades, really. 
+>
+> <br>
+>
+> JB Straubel is a co-founder of Tesla and its CTO. Tesla, obviously, is big into batteries for their cars, but they're also tackling city-sized energy storage, which improves on our very old  school grid. 
+>
+> <br>
+>
+> You know, the electric grid hasn't changed that much from 100-some years ago when Tesla and Edison were actually inventing it. Most people don't realize, but  it's instantaneously matched. Every time that you turn on a light switch in your house, instantaneously, a power plant, somewhere, connected to that same grid, has to ramp up a little more power output to make the light operate. 
+>
+>  <br>
+>
+> When you turn on that light, you're probably relying on a big old gas or coal fired plant. Fossil fuels account for about 60% of electricity in the U.S. and another 20% comes from nuclear. Big plants are steady, but they're not very flexible. 
+>
+> <br>
+>
+> Generally, to power something, you have these huge base load gas plants. 
+>
+> <br>That's The Verge's own Angela Chen. 
+>
+> <br>
+>
+> And these are running kind of all the time, no matter what and they're pretty slow and you can't really adjust how much energy they're creating. 
+>
+> <br>
+>
+> When demand is too low, these big, slow plants actually lose money. And when demand is too high, quicker, dirtier plants called peaker plants have to switch on to keep up. And they're pretty wasteful. 
+>
+> <br>
+>
+> So you kind of get dinged on both sides. You get dinged when you don't have enough load and then when you have too much, you also get dinged inefficiency. 
+>
+> <br>
+>
+> So, traditional plants aren't super efficient, but they're consistent and therefore predictable. Renewable energy can be another story. Solar and wind power is cheap and clean and plentiful, but only when the sun is shining or the wind is blowing. 
+>
+> <br>
+>
+> So, inconsistency is the big worry, that, you know, it'll be a cloudy day or it'll be a still day and then all of the sudden, your aplliance won't work and that's something that no one really wants. 
+>
+> <br>
+>
+> What makes batteries so promising is that they can solve all of these problems.   When paired with big power plants, they can supply energy during peak times without polluting the way that peaker plants do. And when paired with renewables, they can jump in when clouds roll over a solar farm. Energy storage really is the missing piece of the puzzle for renewable energy. But when we say storage, we don't just necessarily mean these. On a super broad level, a battery is like a bank for energy. You deposit energy into it when you don't need it and withdraw it when you do.  We use electrical energy on the gird, but we can store it as any kind of energy. 
+>
+> <br>
+>
+> Exhibit A: the Hoover Dam is in the news right now  because of plans to turn it into a giant battery. It would work by converting excess electricity into gravitational potential energy. 
+>
+> <br>
+>
+> So, essentially, you have the lakes. There's one at the bottom and there's one at the top. And then, when the energy is cheap, you can pump water from the bottom to the top and it kind of just stays there in the reservoir. And then when you need the energy, you open up the reservoir and the water goes crashing down and it turns this turbine and it creates this extra energy that you might need for high demand. 
+>
+> <br>
+>
+> This is called pumped hydro-electric storage and it's actually in use all over the country today. But there are other options. Flywheel storage works the same way that this little toy car does. Engineers use power to start a heavy flywheel spinning and that power gets stored via inertia. You can later harvest that inertia to generate electricity again. And weirder still is compressed air storage.  Cheap power is used to force air into a cavern or a canister, building up pressure. When power gets pricey or scarce, you can release the air to spin a turbine and power a generator. But then, there's the big newcomer. Gridscale chemical batteries. In the past few years, the price and durability of batteries have improved fast, making them suddenly useful for variable energy sources like solar. 
+>
+> <br>
+>
+> That was kind of unheard of 10 years ago. If you told someone that, hey, a lithium ion battery could do that sort of duty, storing solar energy every single day for 10 years, they wouldn't have believed it. 
+>
+>  <br>
+>
+> Batteries are still a tiny fraction of the energy storage market. This is the roughly the market share that pumped hydro waves. And this is everything else. But within that everything else, batteries are growing fast, partly because they work at any size. 
+>
+> <br>
+>
+> Well, I think the biggest thing is scalability. Batteries have this beautiful ability to vary economically, scale from gigawatt hour size of systems all the way down to 10 kiliwatt hours in your house. 
+>
+> <br>
+>
+> Batteries do have their weakenesses. They degrade over time, which you're probably noticed about your cellphone. And you can't run them indefinitely the  way that you can a fueled power plant. Once the charge is depleted, that's it. But their flexibility sets them apart from pumped hydro which is really only practical on the scale of a lake. The point is, big batteries let us do a couple of exciting things. They let us spread out the responsibility of getting power to where it's needed. And they help patch together the mixed bag of power sources that we're juggling right now. 
+>
+> <br>
+>
+> I think what you're seeing now is you used to have an entire city would be powered by, you know, two or three huge power plants. And now you're seeing it's more distributed, so there's definitely a role we can have some of your energy from solar, some of your energy from the grid. It doesn't have to be one or the other.
+>
+> <br>
+>
+> Of course, the dream of green energy isn't a mix of fossil fuels and other technologies. It's 100% renewables like solar and wind. But if we're going to go all the way, we're going to need a lot more batteries. 
+>
+> <br>
+>
+> Hey everyone, thanks for watching.  If you liked this video, please be sure to check out all the other videos on our channel and don't forget to subscribe. 
+
+
+
+
+
+
+
 ----
 
 

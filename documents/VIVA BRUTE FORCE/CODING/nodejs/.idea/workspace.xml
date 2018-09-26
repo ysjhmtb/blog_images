@@ -16,14 +16,7 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="hello.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HelloWorld/hello.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2047">
-              <caret line="89" column="33" lean-forward="true" selection-start-line="89" selection-start-column="33" selection-end-line="89" selection-end-column="33" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -99,9 +92,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="255" />
-    <option name="y" value="58" />
-    <option name="width" value="1656" />
+    <option name="x" value="161" />
+    <option name="y" value="143" />
+    <option name="width" value="1719" />
     <option name="height" value="841" />
   </component>
   <component name="ProjectView">
@@ -115,11 +108,6 @@
             <path>
               <item name="nodejs" type="b2602c69:ProjectViewProjectNode" />
               <item name="nodejs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nodejs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nodejs" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -196,17 +184,19 @@
       <workItem from="1537339921630" duration="616000" />
       <workItem from="1537353622345" duration="4444000" />
       <workItem from="1537802772955" duration="5531000" />
+      <workItem from="1537955676094" duration="2083000" />
+      <workItem from="1537963174883" duration="6464000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58554000" />
+    <option name="totallyTimeSpent" value="67101000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="255" y="58" width="1656" height="841" extended-state="0" />
+    <frame x="161" y="143" width="1719" height="841" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2415459" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23269343" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.51328504" side_tool="true" weight="0.2529335" />
@@ -233,7 +223,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="10" />
+      <option name="time" value="13" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -576,14 +566,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HelloWorld/hello.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2047">
-          <caret line="89" column="33" lean-forward="true" selection-start-line="89" selection-start-column="33" selection-end-line="89" selection-end-column="33" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
