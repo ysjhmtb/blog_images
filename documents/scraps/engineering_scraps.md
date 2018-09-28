@@ -5,12 +5,15 @@
 ```
 WK YOUTUBE
 C++ ALGO EE
-
-WIRELESS COMMUNICATION BREAKS THROUGH WATER-AIR BARRIER
-
-DEPTH-SENSING IMAGING SYSTEM CAN PEER THROUGH FOG
-
 ```
+
+<br><br>
+
+> redacted @29979245oo
+>
+> https://bit.ly/2N7wmph 한국 교포분의 테슬라 모델 3 사용기. 독일/일본차가 각성하고 제대로된 전기차를 만드는 것 보다 테슬라가 정신차리고 마감을 개선하는 쪽이 더 빠르지 않을까. 허접한 전기차만 탔지만 전기차가 앞으로 대세임은 분명하다.
+>
+> [https://bit.ly/2N7wmph](https://twitter.com/29979245oo/status/1044348865548144640)
 
 <br><br>
 

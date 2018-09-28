@@ -1,5 +1,20 @@
 <br><br>
 
+> Chris Hyunkwon Chung @Pyramiding
+> 미국 달러 약세가 장기적 추세인 이유
+>
+> 미국달러는 2027년까지 약세 전망
+>
+> 미국 달러는 기축통화를 유지하면서 전 세계에 무제한의 유동성을 수출하고 그 과정에서 미국은 저렴한 상품을 수입. 그러다 한 번의 정치적인 한 수로 밸런스를 맞춤. 달러는 미국의 최대 수출상품.
+>
+> https://blog.naver.com/mktgguy/221366008156
+>
+> [오후 7:12 - 2018년 9월 27일](https://twitter.com/Pyramiding/status/1045496442494709760)
+
+
+
+<br><br>
+
 > [[번역] How to Get Rich (without getting lucky) by Naval Ravikant](https://medium.com/@dy_kim/korean-how-to-get-rich-without-getting-lucky-by-naval-ravikant-e94b2eaac5e1)
 >
 >  사람들이 원하지만, **어떻게 얻을 수 있는지는 모르는 것을 제공하면** 당신은 부자가 될 것이다. 물론 대규모로 이뤄져야한다.
