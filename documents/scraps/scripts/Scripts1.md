@@ -54,7 +54,7 @@
 >
 > <br>
 >
-> So you kind of get dinged on both sides. You get dinged when you don't have enough load and then when you have too much, you also get dinged inefficiency. 
+> So you kind of get dinged on both sides. You get dinged when you don't have enough load and then when you have too much, you also get dinged inefficiently. 
 >
 > <br>
 >
