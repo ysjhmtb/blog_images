@@ -1,5 +1,19 @@
 <br><br>
 
+[Mainstream economics and Modern Monetary Theory: A family tree](https://www.washingtonpost.com/mainstream-economics-and-modern-monetary-theory-a-family-tree/2012/02/17/gIQAiy6RKR_graphic.html?utm_term=.6e96f0237b99)
+
+<br><br>
+
+> [‘People’s QE?’ Left-wing leader’s plans for the UK](https://www.cnbc.com/2015/08/18/peoples-qe-left-wing-leaders-plans-for-the-uk.html)
+>
+> "A lot of economists have been very supportive. We've had messages of support from Krugman and Stiglitz," Corbyn said.
+
+<br><br>
+
+[샌더스와 코빈의 인기비결, MMT란 무엇인가?](https://www.sisain.co.kr/?mod=news&act=articleView&idxno=24662)
+
+<br><br>
+
 > Journey @atmostbeautiful
 > 아메리카 퍼스트 외치는 트럼프. 대중 민심 반영한 것. 무역전쟁도 오래 예상돼온 것. 전통적으로 고립주의, 보호무역, 이민제한 선호. 파시즘 군국주의 발호했을 때도 영국까지 위험에 빠지고 진주만 공격당하고서야 참전. 냉전 끝난 후 점증해온 미 우선주의 오래 갈 거라는
 >
