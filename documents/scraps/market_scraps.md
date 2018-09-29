@@ -1,5 +1,53 @@
 <br><br>
 
+[Why Steeper Yield Curve Leads To Weaker Yen](https://www.barrons.com/articles/why-steeper-yield-curve-leads-to-weaker-yen-1473842446)
+
+<br><br>
+
+> 김동조 @hubris2020
+>
+> <br>금요일 새벽 2시. 보유한 네 개의 포지션이 모두 맞는 방향인데 오늘은 중요하면서도 흥미로운 날이다. 주식 이외의 원화 포지션을 잡지 않은지 오래 되었다. 원화 파생상품은 레버리지가 너무 작고 **장중 스윙의 일관성이 적다.** 지난 3년 간 했던 연간 전망을 다시 읽었는데 크게 반성할 것이 없다.
+>
+> [오전 8:57 - 2018년 1월 26일](https://twitter.com/hubris2020/status/956934073422770177)
+
+<br><br>
+
+[Portfolio Choice and the Bayesian Kelly Criterion](https://www8.gsb.columbia.edu/researcharchive/articles/6343)
+
+<br><br>
+
+[COLUMN-Policy tightening? It's real rates that matter for markets: McGeever](https://www.reuters.com/article/global-markets-realyields/column-policy-tightening-its-real-rates-that-matter-for-markets-mcgeever-idUSL8N1P03NO)
+
+<br>
+
+<br>
+
+[Jim Simons, the Numbers King](https://www.newyorker.com/magazine/2017/12/18/jim-simons-the-numbers-king)
+
+<br><br>
+
+[Stanley Druckenmiller – “The Greatest Moneymaking Machine In History”](https://marketwisdom.com/stanley-druckenmiller-greatest-moneymaking-machine-history/)
+
+<br><br>
+
+> [Trading volatility? Good luck catching that sharp knife](https://www.ft.com/content/a8589eac-30e0-11e7-9555-23ef563ecf9a)
+>
+> <br>
+>
+> On the other hand, the “inverse” Vix ETNs, which bet on Vix falling by selling longer dated volatility index futures, have been phenomenally lucrative. The VelocityShares Daily Inverse Vix Short-Term ETN has returned more than 700 per cent since launching at the end of 2010.
+>
+> Goldman Sachs’ options guru, Krag Gregory, estimates that being short volatility since the post-crisis nadir in 2009 would have netted an investor returns since then of 4,364 per cent.
+>
+> But even inverse Vix ETNs can be dangerous. When volatility jumps the losses can be horrific — XIV lost over a quarter of its value in just one day after the UK voted to leave the EU — and in extremis investors can be obliterated.
+>
+> XIV has a kill switch that can be flicked by the sponsor if it loses more than 80 per cent of its value in a day.
+>
+> But the bigger worry is that the growth of the complex, interlinked Vix ETP ecosystem is not just sparking dangers for investors in individual funds but also the broader market.
+>
+> This is something that “gnaws” at Peter Tchir, an analyst at Brean Capital. He points out that VIX ETPs are new products untested by severe turmoil, which could reveal pernicious weaknesses and feedback loops.
+
+<br><br>
+
 > Chris Hyunkwon Chung @Pyramiding
 > 미국 달러 약세가 장기적 추세인 이유
 >

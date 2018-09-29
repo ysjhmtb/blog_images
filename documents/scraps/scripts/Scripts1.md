@@ -6,7 +6,9 @@
 
 -----
 
-[88,000 tons of radioactive waste – and nowhere to put it](https://youtu.be/YgVyPwhkoJs)
+>  [88,000 tons of radioactive waste – and nowhere to put it](https://youtu.be/YgVyPwhkoJs)
+>
+>
 
 
 
@@ -18,8 +20,12 @@
 
 
 
-[Why Tesla is building city-sized batteries](https://youtu.be/8ge3ah1G8ok)
 
+
+> [Why Tesla is building city-sized batteries](https://youtu.be/8ge3ah1G8ok)
+>
+>
+>
 > Batteries make a lot of modern tech possible. Everything from cell phones, cameras, medical devices, a million aplliances, to bigger things like electric cars. You might get frustrated because your cell phone still can't make it through the day on a single charge, but the fact is, battery technology as a whole is leaping forward. It's improving so much that batteries aren't just powering our phones and our cars, they're powering cities and even replacing entire power plants.  But storing energy on the power grid isn't a new idea. In fact, batteries are joining some really whimsical technology. Tech that might make you wonder what the definition of a battery actually is. 
 >
 > <br>
@@ -118,12 +124,16 @@
 
 
 
-[Peter Thiel | Full Speech | 2016 Republican National Convention](https://www.youtube.com/watch?v=UTJB8AkT1dk)
-
-
-
-[Read Peter Thiel's Speech at the Republican National Convention](http://time.com/4417679/republican-convention-peter-thiel-transcript/)
-
+> [Peter Thiel | Full Speech | 2016 Republican National Convention](https://www.youtube.com/watch?v=UTJB8AkT1dk)
+>
+>
+>
+> [Read Peter Thiel's Speech at the Republican National Convention](http://time.com/4417679/republican-convention-peter-thiel-transcript/)
+>
+>
+>
+>
+>
 > Good evening. I’m Peter Thiel. I build companies and I’m supporting people who are building new things, from social networks to rocket ships. I’m not a politician. But neither is Donald Trump. He is a builder, and it’s time to rebuild America.
 >
 > Where I work in Silicon Valley, it’s hard to see where America has gone wrong. My industry has made a lot of progress in computers and in software, and, of course, it’s made a lot of money. But Silicon Valley is a small place. Drive out to Sacramento, or even just across the bridge to Oakland, and you won’t see the same prosperity. That’s just how small it is.
