@@ -1,9 +1,13 @@
 #include <iostream>
 
+extern void cpp64();
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
 
+
+    cpp64();
 
     return 0;
 }
+
+

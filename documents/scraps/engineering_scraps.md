@@ -9,6 +9,10 @@ C++ ALGO EE
 
 <br><br>
 
+[Learning Computer Architecture with Raspberry Pi ](https://www.amazon.com/Learning-Computer-Architecture-Raspberry-Pi-ebook/dp/B01KW9E28Y)
+
+<br><br>
+
 > [생각해라. 생각해라. 생각해라.](http://gradschoolstory.net/yoonsup/think/)
 >
 > **더 세부적으로는** 매우 재미있는 데이터를 얻었는데, 이를 어떻게 하면 더 효과적으로 전달할 수 있을까? 그림을 그린다면, 혹은 표를 그린다면 어떠한 방식으로 표현해야 할까. 실제로 동일한 데이터와 결론을 얻었다고 할지라도 이를 어떻게 의미를 부여하고, 어떻게 표현할지에는 매우 큰 자유도가 존재한다. 좀 과장하자면 이 부분을 잘하는지 못하는지에 따라 논문의 impact factor가 바뀌기도 한다.

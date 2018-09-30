@@ -1,5 +1,17 @@
 <br><br>
 
+> [Cats Are No Match for New York City’s Rats](https://www.theatlantic.com/science/archive/2018/09/cats-vs-rats-new-york/571414/)
+>
+> <br>
+>
+> [Couple Share Studio Flat With A Cougar | BEAST BUDDIES](https://www.youtube.com/watch?v=OkO7be9Dn2c&feature=youtu.be)
+>
+> <br>
+>
+> [Cougar talking to cameraman...](https://www.youtube.com/watch?v=T4upoLs-i6A&feature=youtu.be)
+
+<br><br>
+
 [Mainstream economics and Modern Monetary Theory: A family tree](https://www.washingtonpost.com/mainstream-economics-and-modern-monetary-theory-a-family-tree/2012/02/17/gIQAiy6RKR_graphic.html?utm_term=.6e96f0237b99)
 
 <br><br>
