@@ -87,7 +87,7 @@ plt.show()
 seed = 100
 seedList = []
 for i in range(len(myPosition.profitArr)):
-    seed *= (1 + 10 * myPosition.profitArr[i][3])
+    seed *= (1 + 5 * myPosition.profitArr[i][3])
     seedList.append(seed)
 
 plt.plot(seedList, label="capital growth")

@@ -139,7 +139,7 @@ class ToolBox:
                 continue
 
             # 포지션 시작 조건 검사
-            if (not myPosition.hasPosition and rawTotal[1][i] > firstDayPrice * 1.03):
+            if (not myPosition.hasPosition and rawTotal[1][i] > (firstDayPrice * 1.05)):
                 myPosition.startPosition(rawTotal[1][i], firstDayPrice)
                 continue
 
@@ -197,7 +197,7 @@ class Position:
     def hasOptionToLiquidate(self, curMarketPrice):
 
         # 손절매
-        if (((self.positionStartPrice - curMarketPrice) / self.positionStartPrice) > (-0.05)):
+        if (((self.positionStartPrice - curMarketPrice) / self.positionStartPrice) > (-0.1)):
             return True
 
         # 최대 이익과 비교
