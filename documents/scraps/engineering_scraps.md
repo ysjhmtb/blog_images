@@ -9,6 +9,30 @@ C++ ALGO EE
 
 <br><br>
 
+> [Depth-sensing imaging system can peer through fog](http://news.mit.edu/2018/depth-sensing-imaging-system-can-peer-through-fog-0321)
+>
+> [Wireless communication breaks through water-air barrier](http://news.mit.edu/2018/wireless-communication-through-water-air-0822)
+>
+> [The Scientist & Engineer's Guide to Digital Signal Processing ](https://www.amazon.com/Scientist-Engineers-Digital-Signal-Processing/dp/0966017633/ref=sr_1_1?s=books&ie=UTF8&qid=1538318492&sr=1-1&keywords=dsp)
+>
+> [Learning Computer Architecture with Raspberry Pi ](https://www.amazon.com/Learning-Computer-Architecture-Raspberry-Pi-ebook/dp/B01KW9E28Y)
+>
+> [Exploring Raspberry Pi: Interfacing to the Real World with Embedded Linux](https://www.amazon.com/Exploring-Raspberry-Pi-Interfacing-Embedded-ebook/dp/B01H2KNGX8)
+>
+> [유니티, ‘알파고’ 만든 구글 딥마인드와 AI 연구 협력](http://www.bloter.net/archives/320930)
+>
+> [Frequency spectrum using FMOD and UE4](https://www.parallelcube.com/2018/03/10/frequency-spectrum-using-fmod-and-ue4/)
+
+<br><br>
+
+[크롬 이용자인 내가 즐겨쓰는 확장 프로그램 12선](http://www.bloter.net/archives/320987)
+
+<br><br>
+
+[My wonderful world of macOS ](https://github.com/nikitavoloboev/my-mac-os)
+
+<br><br>
+
 [레고로 만든 에스컬레이터! 레고장인분들 대단합니다!!](https://www.facebook.com/dep.ideaeng/videos/291299978368493/)
 
 <br><br>
@@ -86,39 +110,50 @@ C++ ALGO EE
 
 <br><br>
 
+```
 김민장 2018 04 07
 
-> 요즘은 "코딩 인터뷰 준비한다"가 아예 I'm leetcoding 으로 통하는군. 구글링, 우버링에 이은 릿코딩! 크래킹 코딩 인터뷰 이런 책 말고 그냥 릿코드만 보세요. 다만 문제 많이 푸는 것에 집착하는데 **정확하게 푸는게 훨씬 중요.** 그러니 실제 면접에서 풀었는데도 떨어지는 일이 빈번.
+요즘은 "코딩 인터뷰 준비한다"가 아예 I'm leetcoding 으로 통하는군. 구글링, 우버링에 이은 릿코딩! 크래킹 코딩 인터뷰 이런 책 말고 그냥 릿코드만 보세요. 다만 문제 많이 푸는 것에 집착하는데 정확하게 푸는게 훨씬 중요. 그러니 실제 면접에서 풀었는데도 떨어지는 일이 빈번.
 
-> 그리고 제발 다이나믹 프로그래밍 이런 거에 시간 허비 하지 말라고. 왜 여기에 그렇게 시간 쓰는지 너무 안타깝다. DP 문제 나오면 **그냥 브루트 포스로 풀어요.** 그 담에 메모이제이션해서 조금만 최적화 해도 됨. **그런데 이보다 코딩을 잘 해야 함.** 대부분은 잘 못합니다. 누가 지적 안 하면 모름.
+그리고 제발 다이나믹 프로그래밍 이런 거에 시간 허비 하지 말라고. 왜 여기에 그렇게 시간 쓰는지 너무 안타깝다. DP 문제 나오면 그냥 브루트 포스로 풀어요. 그 담에 메모이제이션해서 조금만 최적화 해도 됨. 그런데 이보다 코딩을 잘 해야 함. 대부분은 잘 못합니다. 누가 지적 안 하면 모름.
 
-> 뜬금 없지만 여기서 학교에서 코딩 교육 시킨다고 개발자 임금이 하락하느니 다들 코딩 잘 하겠느니 이런 소리를 자주 듣는데 전혀 동의 안 함. 학교에서 수학 시킨다고 수학 잘 하던가요. 수포자만 늘죠. 코포자가 곧 나옵니다. 코딩 어려워요. 누구나 할 수는 있지만 잘 하는 건 너무 어려움.
+뜬금 없지만 여기서 학교에서 코딩 교육 시킨다고 개발자 임금이 하락하느니 다들 코딩 잘 하겠느니 이런 소리를 자주 듣는데 전혀 동의 안 함. 학교에서 수학 시킨다고 수학 잘 하던가요. 수포자만 늘죠. 코포자가 곧 나옵니다. 코딩 어려워요. 누구나 할 수는 있지만 잘 하는 건 너무 어려움.
+
 
 영어에 고통받는 월급루팡 프로그래머
 
-> 그렇게해도 합격되나요? 몰랐던 사실이네요...
+그렇게해도 합격되나요? 몰랐던 사실이네요...
+
 
 김민장
 
-> 네 전혀 상관 없습니다. 다이나믹 프로그래밍은 평가가 극과 극입니다. 대부분은 아예 손도 못 대고 일부 문제를 외운 사람과 정말 천재인 사람으로 나뉩니다. 좋은 문제가 아니에요. 그래서 어떻게 해서든 풀기만 해도 아무런 문제 없습니다. 그 자리에서 DP 점화식 찾고 그거 아무나 못 해요.
+네 전혀 상관 없습니다. 다이나믹 프로그래밍은 평가가 극과 극입니다. 대부분은 아예 손도 못 대고 일부 문제를 외운 사람과 정말 천재인 사람으로 나뉩니다. 좋은 문제가 아니에요. 그래서 어떻게 해서든 풀기만 해도 아무런 문제 없습니다. 그 자리에서 DP 점화식 찾고 그거 아무나 못 해요.
+
 
 루팡
 
-> **문제 푸는 것보다 코딩을 잘하는 게 중요하다 하셨는데** 어떤 의미인지 좀 궁금하네요. 남들이 잘 알아보게 짠다는건가요?
+문제 푸는 것보다 코딩을 잘하는 게 중요하다 하셨는데 어떤 의미인지 좀 궁금하네요. 남들이 잘 알아보게 짠다는건가요?
+
 
 김민장
 
-> 트윗으로 말하기 좀 복잡한데 보통 사람들 보니 릿코드 문제 푸는 것 자체에 집중하더라고요. 그런데 문제해결과정도 잘 **의사소통**해서 보여줘야하고 **지식**도 필요하고 그걸 코딩으로 잘 **옮기는** 것도 필요하죠. 릿코드가 유용은 하지만 이 부분을 다 커버는 못 해요. **깔끔한 코드**도 중요하고.
+트윗으로 말하기 좀 복잡한데 보통 사람들 보니 릿코드 문제 푸는 것 자체에 집중하더라고요. 그런데 문제해결과정도 잘 의사소통해서 보여줘야하고 지식도 필요하고 그걸 코딩으로 잘 옮기는 것도 필요하죠. 릿코드가 유용은 하지만 이 부분을 다 커버는 못 해요. 깔끔한 코드도 중요하고.
 
-> 사소한 **변수**나 **자료구조** 잡는 것도. **리팩터링**도 필요하면 하고. 이런 모든 걸 다 보고 평가하니 풀었다/못 풀었다고 딱 나뉘어지지가 않더군요. **문제해결능력+코딩능력+의사소통+기초전산지식**이 조금씩 다 다르죠. 릿코드가 유용하지만 이 모든 걸 커버를 못 하긴 합니다.
+사소한 변수나 자료구조 잡는 것도. 리팩터링도 필요하면 하고. 이런 모든 걸 다 보고 평가하니 풀었다/못 풀었다고 딱 나뉘어지지가 않더군요. 문제해결능력+코딩능력+의사소통+기초전산지식이 조금씩 다 다르죠. 릿코드가 유용하지만 이 모든 걸 커버를 못 하긴 합니다.
+
 
 루팡
 
-> 좀 놀랍네요. 구글러들은 dp정도는 다 보고 바로 푸는거 아니었냐며 ㅎㅎㅎ
+좀 놀랍네요. 구글러들은 dp정도는 다 보고 바로 푸는거 아니었냐며 ㅎㅎㅎ
+
 
 김민장
 
-> 실제 코딩에서 DP 쓸 일 거의 없습니다. 외워서 푸는 거 아니면 절대 다수는 못 풉니다. 그런데 **문자열 관련 문제는 몇 개 외워서 손해볼 건 없습니다만...**
+실제 코딩에서 DP 쓸 일 거의 없습니다. 외워서 푸는 거 아니면 절대 다수는 못 풉니다. 그런데 문자열 관련 문제는 몇 개 외워서 손해볼 건 없습니다만...
+
+
+
+```
 
 
 
@@ -132,19 +167,7 @@ C++ ALGO EE
 >
 > <br>
 >
-> Modern c++와 Visual Studio가 몇 년 사이 정말 편해졌다. performance떨어질까봐 하나하나 핸드코딩하는 버릇이 있었는데, 시간을 재보니 그냥 람다와 템플릿 써서 슥슥 구현하면 알아서 최적화해준다. 새로운 탑을 쌓기에 좋은 때인 것 같다.
-
-<br><br>
-
-[Frequency spectrum using FMOD and UE4](https://www.parallelcube.com/2018/03/10/frequency-spectrum-using-fmod-and-ue4/)
-
-<br><br>
-
-[The Scientist & Engineer's Guide to Digital Signal Processing ](https://www.amazon.com/Scientist-Engineers-Digital-Signal-Processing/dp/0966017633/ref=sr_1_1?s=books&ie=UTF8&qid=1538318492&sr=1-1&keywords=dsp)
-
-<br><br>
-
-[Learning Computer Architecture with Raspberry Pi ](https://www.amazon.com/Learning-Computer-Architecture-Raspberry-Pi-ebook/dp/B01KW9E28Y)
+> Modern c++와 Visual Studio가 몇 년 사이 정말 편해졌다. performance 떨어질까봐 하나하나 핸드코딩하는 버릇이 있었는데, 시간을 재보니 그냥 람다와 템플릿 써서 슥슥 구현하면 알아서 최적화해준다. 새로운 탑을 쌓기에 좋은 때인 것 같다.
 
 <br><br>
 

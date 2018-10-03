@@ -1,11 +1,11 @@
 #include <iostream>
 
-extern void cpp64();
+extern void cpp66v2();
 
 int main() {
 
 
-    cpp64();
+    cpp66v2();
 
     return 0;
 }
