@@ -410,6 +410,10 @@ WRITE, COPY AND UPGRADE
 
 <br><br>
 
+[39도씨, “스마트폰만으로 다각도 생방송을”](http://www.bloter.net/archives/321107)
+
+<br><br>
+
 > [Artificial intelligence system uses transparent, human-like reasoning to solve problems](http://news.mit.edu/2018/mit-lincoln-laboratory-ai-system-solves-problems-through-human-reasoning-0911) 
 >
 > <br>

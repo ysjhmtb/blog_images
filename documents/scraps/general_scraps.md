@@ -1,5 +1,17 @@
 <br><br>
 
+> Journey @atmostbeautiful
+>
+> <br>맹모는 옳았다. 아이가 자란 동네 환경에 따라 훗날 성공 여부 크게 좌우되는 것으로 나타나. 미국 통계청 하버드대 브라운대와 공동으로 빅데이터 분석. 같은 소득 수준 가정에서도 사는 동네 따라 미래 달라져. 미시 요인 찾아내 환경 개선과 맞춤 지원 정책 위한 자료로.
+>
+> <br>
+>
+> [Detailed New National Maps Show How Neighborhoods Shape Children for Life](https://www.nytimes.com/2018/10/01/upshot/maps-neighborhoods-shape-child-poverty.html)
+>
+> [오후 2:32 - 2018년 10월 2일](https://twitter.com/atmostbeautiful/status/1047237896858550272)
+
+<br><br>
+
 [당나라 깬 양만춘은 가공인물···연개소문 '밀사 외교' 먹혔다](https://news.joins.com/article/23006791)
 
 <br><br>
