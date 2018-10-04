@@ -1,5 +1,15 @@
 <br><br>
 
+[Black-Scholes Formula and Python Implementation](https://aaronschlegel.me/black-scholes-formula-python.html)
+
+<br><br>
+
+[Google Finance is Dead, Long Live the Data](http://henryquant.blogspot.com/2018/04/google-finance-is-dead-long-live-data.html)
+
+[Tiingo](https://www.tiingo.com/welcome)
+
+<br><br>
+
 > 안녕하세요 개골님. 기초자산 가격이 주어졌을 때, 그 가격에 상응하는 옵션의 가격을 추론할 수 있을까요? 그렇게 하려면 어떤 방법론을 사용해야 할까요? 사용되는 확률 분포가 있을까요? 추천해 주실 문헌이 있는지요? 읽어주셔서 감사합니다.
 >
 > <br>
