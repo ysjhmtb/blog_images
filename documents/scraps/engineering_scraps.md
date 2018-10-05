@@ -24,6 +24,10 @@ C++ ALGO EE
 > [유니티, ‘알파고’ 만든 구글 딥마인드와 AI 연구 협력](http://www.bloter.net/archives/320930)
 >
 > [Frequency spectrum using FMOD and UE4](https://www.parallelcube.com/2018/03/10/frequency-spectrum-using-fmod-and-ue4/)
+>
+> [매체에 따르면 2015년 아마존은 자사 아마존 프라임 비디오의 안정적인 서비스를 위해 초대용량 비디오 압축 포맷 소프트웨어 개발 벤처인 엘레멘털(Elemental)의 인수를 검토했다. 엘레멘털은 이 기술로 올림픽 게임 중계 영상을 온라인으로 스트리밍하거나 위성을 통해 무인항공기(UAV)가 촬영한 영상을 CIA에 안정적으로 전송하는 등 핵심기술로 주목을 받았다.](https://news.v.daum.net/v/20181005185401360)
+>
+> [Amazon Web Services to Acquire Elemental](https://www.elemental.com/newsroom/press-releases/amazon-web-services-acquire-elemental)
 
 <br><br>
 
@@ -33,6 +37,13 @@ C++ ALGO EE
 >
 > 대학원 면접 때 물어봤던 첫 문제. 공부 방식을 깨닫게 해 준 문제.
 > 힙이란 무엇인지 설명해보자 → 힙의 구조를 그림으로 그려보자 → 힙에 데이터를 삽입/삭제하는 방식을 말해보자 → 삽입/삭제하는 동작의 시간 복잡도를 말해보자 → 데이터가 어떻게 들어와야 최상/최악의 경우가 되는지 말해보자
+
+<br><br>
+
+> 박성국 @sungkkshawnpark <br>
+> 알고리즘 대회 기반 코딩 테스트마다 다 망치고 있다. 하지만 실패할 때마다 조금씩 배운다. 처음에는 하나도 제대로 못 풀었고, 두 번째에는 하나 풀었다. 이런 식으로 하나씩 늘려나가면 된다. 요령이 부족할 뿐이야. <br>
+>
+> [오전 8:03 - 2018년 10월 5일](https://twitter.com/sungkkshawnpark/status/1048227116964175877)
 
 <br><br>
 
