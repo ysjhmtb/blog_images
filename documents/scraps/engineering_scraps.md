@@ -5,6 +5,8 @@
 ```
 WK YOUTUBE
 C++ ALGO EE
+
+"하루하루는 성실하게. 인생전체는 되는대로." - 이동진
 ```
 
 <br><br>
@@ -22,6 +24,14 @@ C++ ALGO EE
 > [유니티, ‘알파고’ 만든 구글 딥마인드와 AI 연구 협력](http://www.bloter.net/archives/320930)
 >
 > [Frequency spectrum using FMOD and UE4](https://www.parallelcube.com/2018/03/10/frequency-spectrum-using-fmod-and-ue4/)
+
+<br><br>
+
+[DP 28 shooting](https://www.youtube.com/watch?v=ZGDJk0_6pUE&feature=youtu.be)
+
+<br><br>
+
+[실리콘밸리보다 베를린인 이유](https://iamsang.com/blog/2017/10/30/berlin-over-silicon-valley/)
 
 <br><br>
 
