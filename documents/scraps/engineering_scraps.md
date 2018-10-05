@@ -27,6 +27,19 @@ C++ ALGO EE
 
 <br><br>
 
+> [Chris Ohk @utilforever](https://twitter.com/utilforever/status/1048131856833474560)
+>
+> <br>
+>
+> 대학원 면접 때 물어봤던 첫 문제. 공부 방식을 깨닫게 해 준 문제.
+> 힙이란 무엇인지 설명해보자 → 힙의 구조를 그림으로 그려보자 → 힙에 데이터를 삽입/삭제하는 방식을 말해보자 → 삽입/삭제하는 동작의 시간 복잡도를 말해보자 → 데이터가 어떻게 들어와야 최상/최악의 경우가 되는지 말해보자
+
+<br><br>
+
+[The Big Hack: How China Used a Tiny Chip to Infiltrate U.S. Companies](https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies)
+
+<br><br>
+
 [DP 28 shooting](https://www.youtube.com/watch?v=ZGDJk0_6pUE&feature=youtu.be)
 
 <br><br>
@@ -36,6 +49,10 @@ C++ ALGO EE
 <br><br>
 
 [크롬 이용자인 내가 즐겨쓰는 확장 프로그램 12선](http://www.bloter.net/archives/320987)
+
+<br><br>
+
+[Find your new favorite web framework](https://hotframeworks.com/)
 
 <br><br>
 

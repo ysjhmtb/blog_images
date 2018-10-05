@@ -1,5 +1,9 @@
 <br><br>
 
+[The Role of Derivatives in Creating Mortgage Crisis](https://www.thebalance.com/role-of-derivatives-in-creating-mortgage-crisis-3970477)
+
+<br><br>
+
 > 180926 CH EVENTS from Her, Oracle
 >
 > <br>
