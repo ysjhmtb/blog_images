@@ -1,5 +1,3 @@
-
-
 <br><br>
 
 ```
@@ -28,6 +26,57 @@ C++ ALGO EE
 > [매체에 따르면 2015년 아마존은 자사 아마존 프라임 비디오의 안정적인 서비스를 위해 초대용량 비디오 압축 포맷 소프트웨어 개발 벤처인 엘레멘털(Elemental)의 인수를 검토했다. 엘레멘털은 이 기술로 올림픽 게임 중계 영상을 온라인으로 스트리밍하거나 위성을 통해 무인항공기(UAV)가 촬영한 영상을 CIA에 안정적으로 전송하는 등 핵심기술로 주목을 받았다.](https://news.v.daum.net/v/20181005185401360)
 >
 > [Amazon Web Services to Acquire Elemental](https://www.elemental.com/newsroom/press-releases/amazon-web-services-acquire-elemental)
+
+<br><br>
+
+> [Simulation Software Developer - Thermodynamics Specialist](https://virtualmaterials.com/Position-Simulation-Software-Developer)
+>
+> <br>Location: Calgary, Alberta
+>
+> <br>
+>
+> Do you wish you could create software in a place where you are challenged and you see your contributions making a difference in a fast growing, dynamic and unorthodox company? Virtual Materials Group (VMG) may be the company for you. We are looking for top notch developers to help us shape the future of our process simulator for the oil & gas industry.
+>
+> <br>
+>
+> This position involves the application of computational thermodynamics to the oil & gas industry.  It requires **in-depth knowledge of thermodynamics **theory including equations of state, activity coefficient models, property estimation, oil characterization, distillation, and related areas. The ideal candidate has experience with research and scientific advancement but is always grounded to realistic applications and user requirements.  The core component of this position is scientific software research and development, but the position also involves complementary activities as required such as technical writing and customer support.
+>
+> <br>
+>
+> Skills & Requirements
+>
+> - 3 or more years of experience **in scientific software development with focus in process thermodynamics and process simulation**
+> - Experience with advanced thermodynamic models such as Cubic Plus Association (CPA) or SAFT is preferable
+> - Experience in process engineering / design using process simulators
+> - Strong foundation **in object oriented design, algorithms and problem solving**
+> - Strong software development practices
+> - Ability to work on all aspects of the lifecycle of a product, including design, implementation and testing
+> - Flexibility to adapt to different programming languages and technologies
+> - Ability to work independently as well as in a team
+> - Experience **in Python and C++** highly desirable
+> - Eligible to work in Canada
+>
+> <br>
+>
+> Work Environment
+>
+> <br>Our work environment is challenging and rewarding. You’ll get to work with a very talented pool of experts on a variety of disciplines all focused towards a common goal. We value employees that love their job and get things done while having a balanced life.
+>
+> <br>
+>
+> About Virtual Materials Group
+>
+> <br>
+>
+> VMG, a Schlumberger Technology, develops process modeling, equipment design and thermodynamic property prediction software that are used by our clients to design and optimize chemical processing systems around the world. Some of the largest process companies on the planet use VMGSim every day to help make their operations better.
+>
+> <br>
+>
+> Typical industries that use our software are oil and gas processing, refining, petrochemical, oil sands processing, alternative energy producers and processes for control and minimization of greenhouse gas emissions. Our goal is to make engineers as productive as possible by providing them with the best simulation tools in the industry.
+
+<br><br>
+
+[정운찬 = 아까 기업들이 규제 때문에 투자 안 한다는 것이 과장이라고 한 또 다른 이유는 최근 20년간 대기업도 중소기업도 투자를 하지 않았다는 점 때문이다. 특히 10대 그룹 사내유보금은 650조원에 달한다. 이렇게 돈이 많은데도 투자를 안 하는 이유는 핵심기술이 없기 때문이다. 연구·개발(R&D)비 지출이 절대적으로는 세계 5·6등이라는데 거품이 끼어 있다. 정부가 세금 깎아준다고 하니 R&D 지출을 잔뜩 잡아놓는데 들여다보면 거품이 있다는 말이다. 그리고 대부분 D(개발)이지 R(연구)이 아니다. 한국의 대기업은 핵심·첨단 기술을 더 확보해야 한다. 따라서 D에서 R로 방향을 전환해 개발보다 연구를 더 늘려야 한다. 그런데 그것은 시간이 많이 걸린다. 중소기업들은 투자를 하고 싶은데 돈이 없다. 대기업의 돈이 합법적으로, 부드럽게 중소기업으로 흐르도록 해야 한다.](http://news.khan.co.kr/kh_news/khan_art_view.html?art_id=201810050600005)
 
 <br><br>
 
