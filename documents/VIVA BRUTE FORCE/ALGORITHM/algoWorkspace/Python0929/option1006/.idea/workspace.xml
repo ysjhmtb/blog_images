@@ -14,8 +14,11 @@
       <file leaf-file-name="optionTask1.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/optionTask1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2486">
-              <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
+            <state relative-caret-position="310">
+              <caret line="162" column="31" selection-start-line="162" selection-start-column="31" selection-end-line="162" selection-end-column="31" />
+              <folding>
+                <element signature="e#2694#2712#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -46,8 +49,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="22" />
-    <option name="y" value="50" />
+    <option name="x" value="394" />
+    <option name="y" value="75" />
     <option name="width" value="1785" />
     <option name="height" value="946" />
   </component>
@@ -101,7 +104,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="22" y="50" width="1785" height="946" extended-state="0" />
+    <frame x="394" y="75" width="1785" height="946" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -136,6 +139,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/optionTask1.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2486">
+          <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
+          <folding>
+            <element signature="e#2694#2712#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optionTask1.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="968">
           <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
         </state>
@@ -143,8 +156,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/optionTask1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2486">
-          <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
+        <state relative-caret-position="310">
+          <caret line="162" column="31" selection-start-line="162" selection-start-column="31" selection-end-line="162" selection-end-column="31" />
+          <folding>
+            <element signature="e#2694#2712#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
