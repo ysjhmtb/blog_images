@@ -45,7 +45,6 @@ d2 = d1 - sigma * sqrt(T - t) =
 
 '''
 
-
 '''
 
 미국의 트레이더였던 제시 리버모어는 큰 돈을 벌다가 결국 파산을 했는데, 
@@ -94,7 +93,6 @@ https://ask.fm/cfr0g/answers/150652223466
 
 
 '''
-
 
 '''
 
@@ -145,6 +143,34 @@ https://brunch.co.kr/@investrecipe/16
 
 
 
+'''
+
+만일 2018-09-28: 1,109.76 이라면, 현재 날짜에서 현재 가격을 
+중심으로 행사가격별로 옵션들의 가격을 저장해야 한다. 
+
+json 
+
+{
+    {
+        "date": "2018-09-28",
+        "price": "1,109.76",
+        "call": {
+            "행사가1": "프리미엄1",
+            "행사가2": "프리미엄2"
+        },
+        "put": {
+            "행사가1": "프리미엄1",
+            "행사가2": "프리미엄2"
+        }
+    },
+    
+    
+    
+    
+}
+'''
+
+
 
 
 import numpy as np
@@ -157,13 +183,14 @@ import csv
 import os
 
 
+
+
 class Toolbox:
 
-    # 만일 2018-09-28: 1,109.76 이라면, 현재 가격을 중심으로
-    # 행사가격별로 옵션들의 가격을 저장해야 한다. 
+
 
     # 유로 콜옵션 심볼릭 연산
-    def euro_call_sym(S, K, T, r, sigma):
+    def euro_call_sym(self, S, K, T, r, sigma):
         # euro_call_sym(50, 100, 1, 0.05, 0.25)
         # S: spot price
         # K: strike price
@@ -181,7 +208,7 @@ class Toolbox:
         return call
 
     # 유로 풋옵션 심볼릭 연산
-    def euro_put_sym(S, K, T, r, sigma):
+    def euro_put_sym(self, S, K, T, r, sigma):
         # S: spot price
         # K: strike price
         # T: time to maturity
@@ -292,31 +319,3 @@ class Toolbox:
             return False
         else:
             return True
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
