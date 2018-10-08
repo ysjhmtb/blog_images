@@ -1,3 +1,4 @@
+```java
 
 /*
 NHNENT 2018 수익 최대화
@@ -138,3 +139,6 @@ public class Solution {
 
 
 }
+
+```
+
