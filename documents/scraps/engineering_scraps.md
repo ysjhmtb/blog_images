@@ -28,10 +28,37 @@ C++ ALGO EE
 > [Amazon Web Services to Acquire Elemental](https://www.elemental.com/newsroom/press-releases/amazon-web-services-acquire-elemental)
 >
 > [Model helps robots navigate more like humans do](http://news.mit.edu/2018/model-helps-robots-navigate-like-humans-1004)
+>
+> [Linux System Programming](http://igm.univ-mlv.fr/~yahya/progsys/linux.pdf)
+
+<br><br>
+
+> [How to write an emulator (CHIP-8 interpreter)](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/) 
+>
+> <br>
+>
+> Often people confuse a simulator with an emulator and vice versa. Just remember that these words aren’t synonyms.
+>
+> <br>
+>
+> Let’s take a look at the following example:
+> Pong is a 2D tennis game which was developed by Atari and ran on their own hardware. However, the game wasn’t just available on Atari systems, but also on rival platforms such as Amstrad, Amiga and the C64.
+>
+> <br>
+>
+> Since not every Pong game was licensed by Atari to run on these platforms, it also meant that not  every game was running the code from Atari. Basically what happened is that people created their own implementation (clones) of the game Pong. In this case they simulated the looks and game behavior of Pong.
+>
+> <br>
+>
+> In case of an emulator, we choose not to re-implement the game Pong for our native system. Instead, we re-create the environment with a computer program which allows us to run the original machine code of Pong. A benefit of this is that it won’t just allow us to run Pong, but also any other application developed for that platform.
 
 <br><br>
 
 [여러분 반갑습니다. 유튜브 광고가 여러분의 몰입을 방해하는 것이 참 미안하던차에 인프런에서 인사드릴 수 있어서 기쁩니다. 여러분이 초보자라면 따라해보시는 것만으로 머릿속에 중요한 개념들이 자라기 시작합니다.  이해가 가지 않더라도 꾸준히 정진해나가시기를 권장합니다. 만일, 여러분이 왕초보 단계를 벗어나셨다면 남들보다 빠르게 중급 이상으로 앞서나가는 기쁨을 누리실 수 있을겁니다. 이미 중급 이상을 넘보고 계신 분들이시라면, 잘 오셨습니다. 고급으로 가는 황금 열쇠를 손에 쥐시게 될겁니다. 제 강의를 선택하신 분들이라면 이미 높은 가능성을 품고 계시리라고 확신합니다. 저도 여러분이 높이 날아오를 날을 위해 꾸준히 도와드리겠습니다. 감사합니다. * 강의를 보신 분들은 좋은 '강좌평' 부탁드립니다. 홍정모 드림.](https://www.inflearn.com/course/following-c-plus/)
+
+<br><br>
+
+[50 Most Frequently Used UNIX / Linux Commands (With Examples)](https://www.thegeekstuff.com/2010/11/50-linux-commands/?utm_source=feedburner)
 
 <br><br>
 
