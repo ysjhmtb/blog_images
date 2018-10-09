@@ -52,7 +52,23 @@ WK EP CA EE
 
 <br><br>
 
-[Technical Interview Guidelines for beginners](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+> [Writing a CRUD app with Node.js and MongoDB](https://codeburst.io/writing-a-crud-app-with-node-js-and-mongodb-e0827cbbdafb)
+>
+> [Django CRUD (Create, Retrieve, Update, Delete)](https://rayed.com/posts/2018/05/django-crud-create-retrieve-update-delete/)
+>
+> [Node.js 로 CRUD 만들어 보기](https://medium.com/@feedbots/node-js-%EB%A1%9C-crud-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%B3%B4%EA%B8%B0-cdcbaf7174a7)
+
+<br><br>
+
+>  [Technical Interview Guidelines for beginners](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+>
+> [2019 카카오 신입 공채 1차 코딩 테스트 문제 해설](http://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/)
+>
+> [카카오 신입 공채 1차 코딩 테스트 문제 해설](http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/)
+>
+> [카카오 신입 공채 2차 코딩 테스트 문제 해설](http://tech.kakao.com/2017/10/24/kakao-blind-recruitment-round-2/)
+>
+> [카카오 신입 공채 3차 코딩 테스트 문제 해설](http://tech.kakao.com/2017/11/14/kakao-blind-recruitment-round-3/)
 
 <br><br>
 
@@ -61,53 +77,6 @@ WK EP CA EE
 <br><br>
 
 [50 Most Frequently Used UNIX / Linux Commands (With Examples)](https://www.thegeekstuff.com/2010/11/50-linux-commands/?utm_source=feedburner)
-
-<br><br>
-
-> [Simulation Software Developer - Thermodynamics Specialist](https://virtualmaterials.com/Position-Simulation-Software-Developer)
->
-> <br>Location: Calgary, Alberta
->
-> <br>
->
-> Do you wish you could create software in a place where you are challenged and you see your contributions making a difference in a fast growing, dynamic and unorthodox company? Virtual Materials Group (VMG) may be the company for you. We are looking for top notch developers to help us shape the future of our process simulator for the oil & gas industry.
->
-> <br>
->
-> This position involves the application of computational thermodynamics to the oil & gas industry.  It requires **in-depth knowledge of thermodynamics **theory including equations of state, activity coefficient models, property estimation, oil characterization, distillation, and related areas. The ideal candidate has experience with research and scientific advancement but is always grounded to realistic applications and user requirements.  The core component of this position is scientific software research and development, but the position also involves complementary activities as required such as technical writing and customer support.
->
-> <br>
->
-> Skills & Requirements
->
-> - 3 or more years of experience **in scientific software development with focus in process thermodynamics and process simulation**
-> - Experience with advanced thermodynamic models such as Cubic Plus Association (CPA) or SAFT is preferable
-> - Experience in process engineering / design using process simulators
-> - Strong foundation **in object oriented design, algorithms and problem solving**
-> - Strong software development practices
-> - Ability to work on all aspects of the lifecycle of a product, including design, implementation and testing
-> - Flexibility to adapt to different programming languages and technologies
-> - Ability to work independently as well as in a team
-> - Experience **in Python and C++** highly desirable
-> - Eligible to work in Canada
->
-> <br>
->
-> Work Environment
->
-> <br>Our work environment is challenging and rewarding. You’ll get to work with a very talented pool of experts on a variety of disciplines all focused towards a common goal. We value employees that love their job and get things done while having a balanced life.
->
-> <br>
->
-> About Virtual Materials Group
->
-> <br>
->
-> VMG, a Schlumberger Technology, develops process modeling, equipment design and thermodynamic property prediction software that are used by our clients to design and optimize chemical processing systems around the world. Some of the largest process companies on the planet use VMGSim every day to help make their operations better.
->
-> <br>
->
-> Typical industries that use our software are oil and gas processing, refining, petrochemical, oil sands processing, alternative energy producers and processes for control and minimization of greenhouse gas emissions. Our goal is to make engineers as productive as possible by providing them with the best simulation tools in the industry.
 
 <br><br>
 
@@ -140,30 +109,6 @@ WK EP CA EE
 <br><br>
 
 [실리콘밸리보다 베를린인 이유](https://iamsang.com/blog/2017/10/30/berlin-over-silicon-valley/)
-
-<br><br>
-
-[크롬 이용자인 내가 즐겨쓰는 확장 프로그램 12선](http://www.bloter.net/archives/320987)
-
-<br><br>
-
-[Find your new favorite web framework](https://hotframeworks.com/)
-
-<br><br>
-
-[My wonderful world of macOS ](https://github.com/nikitavoloboev/my-mac-os)
-
-<br><br>
-
-[레고로 만든 에스컬레이터! 레고장인분들 대단합니다!!](https://www.facebook.com/dep.ideaeng/videos/291299978368493/)
-
-<br><br>
-
-[레고로 부가티를 만든다면 ?! 말도 안되는 일을 해낸 사람들이 있습니다.](https://www.facebook.com/dep.ideaeng/videos/317710385473074/)
-
-<br><br>
-
-[나만의 커스텀 악기를 만들어 보세요! - ' Blocks '](https://www.facebook.com/dep.ideaeng/videos/286002622125739/)
 
 <br><br>
 
@@ -288,17 +233,7 @@ WK EP CA EE
 
 
 
-<br><br>
-
-> 홍정모 
 >
-> <br>
->
-> [3 시간 · ](https://www.facebook.com/story.php?story_fbid=2311808015714654&id=100006564348693)
->
-> <br>
->
-> Modern c++와 Visual Studio가 몇 년 사이 정말 편해졌다. performance 떨어질까봐 하나하나 핸드코딩하는 버릇이 있었는데, 시간을 재보니 그냥 람다와 템플릿 써서 슥슥 구현하면 알아서 최적화해준다. 새로운 탑을 쌓기에 좋은 때인 것 같다.
 
 <br><br>
 
@@ -317,54 +252,6 @@ WK EP CA EE
 > <br>
 >
 > 사람은 동일한 데이터를 보고서도 **다른 생각을 할 수 있다.** ‘대가’ 가 따로 있는 것이 아니다. 다른 사람들도 동일한 데이터와 현상을 보면서도 그 이면에 숨겨진 의미를 파악하고, 의미를 부여할 수 있으면 좋은 과학을 할 수 있다. 좋은 데이터를 얻고서도 충분한 의미부여와 (좋은 의미로) 포장을 제대로 하지 못해서 그 연구 결과가 주목받지 못한다면 인류 전체의 입장에서도 애석한 일이 아닐 수 없다.
-
-<br><br>
-
-> [Senior C++ Developer (Robotic Simulation)](https://www.glassdoor.com/job-listing/senior-c-developer-robotic-simulation-tra-robotics-JV_IC2622109_KO0,37_KE38,50.htm?jl=2864875641&ctt=1538363787479)
->
-> <br>
->
-> **We are** engineers, designers and technologists, united by the idea of shaping the future. Our mission is to reimagine the manufacturing process. It will be fully software defined. It will be driven entirely by AI. This will mean new products will get to market much quicker.
->
-> <br>
->
-> **Now we are working on** creating a flexible robotic factory managed by AI. We are developing and integrating a stack of products that will facilitate the whole production process from design to manufacturing. Our goal is complex and deeply rooted in science. We understand that it is only achievable in collaboration across diverse disciplines and knowledge domains. 
->
-> <br>
->
-> We're looking for **Senior C++ Developer** to become a part of the Simulator team in our new Berlin office. 
->
-> <br>
->
-> Simulator is a digital twin of the real factory. It should contain identic workshop, robots and machines, sensors and parts. It allows to execute and debug the control program of an assembly process before it gets to the real production. A technical designer should be able to get from the simulator a prompt feedback on whether a designed product could be assembled at the flexible robotic factory.
->
-> <br>
->
-> Simulator does not only repeat physical features of the real world such as obstacles, friction, individual robot specifics, etc., but it should be also as photorealistic as possible. This will help to develop and tune part recognition systems (Computer Vision) and to teach AI systems.
->
-> <br>
->
-> **Requirements**
->
-> <br>
->
-> С++ (11/14, 3y+), multi-threading, experience with physics engines (at least one of PhysX, Bullet, ODE, Havok etc.) and physical simulation systems, Python, Linux. **It will be benefit** if the candidate has experience with Unreal Engine 4 or in robotics.
->
-> <br>
->
-> **Scope**
->
-> <br>
->
-> Development of the factory simulator on the basis of the Unreal Engine 4 (C++). Simulation of sensors (e.g. force control sensor, position sensor, camera etc.). Implementation of simulator interfaces for external systems.
->
-> <br>
->
-> **We offer**
->
-> <br>
->
-> Medical & dental care, professional training, relocation package.
 
 <br><br>
 
@@ -392,14 +279,6 @@ WK EP CA EE
 
 <br><br>
 
-> redacted @29979245oo
->
-> https://bit.ly/2N7wmph 한국 교포분의 테슬라 모델 3 사용기. 독일/일본차가 각성하고 제대로된 전기차를 만드는 것 보다 테슬라가 정신차리고 마감을 개선하는 쪽이 더 빠르지 않을까. 허접한 전기차만 탔지만 전기차가 앞으로 대세임은 분명하다.
->
-> [https://bit.ly/2N7wmph](https://twitter.com/29979245oo/status/1044348865548144640)
-
-<br><br>
-
 [Relation and difference between Fourier, Laplace and Z transforms](https://electronics.stackexchange.com/questions/86489/relation-and-difference-between-fourier-laplace-and-z-transforms)
 
 <br><br>
@@ -410,15 +289,6 @@ WK EP CA EE
 > [What 13,000 Patents Involving the DNA of Sea Life Tell Us About the Future](https://www.nytimes.com/2018/09/17/science/patents-marine-dna.html)
 >
 > [오후 3:56 - 2018년 9월 22일](https://twitter.com/atmostbeautiful/status/1043635072325189632)
-
-<br><br>
-
-> Journey @atmostbeautiful
-> AI는 미래 산업, 국방 등 전 분야 좌우. 미중 경쟁 AI 민족주의 우려. 2030년까지 세계 데이터 30%씩 장악. 데이터 수집 관리에서 중국은 시민 감시/관리/통제 도구로, 미국은 기술 대기업이 개인정보 보호 소홀한 채 데이터 독점. 열세인 EU는 국제 규범 견인 역할 필요.
->
-> [How Europe can improve the development of AI](https://www.economist.com/leaders/2018/09/22/how-europe-can-improve-the-development-of-ai)
->
-> [오전 5:47 - 2018년 9월 21일](https://twitter.com/atmostbeautiful/status/1043119617638461442) 
 
 <br><br>
 
@@ -462,10 +332,6 @@ WK EP CA EE
 
 <br><br>
 
-[How DeepMind's biggest AI project is fixing bad Android batteries](https://www.wired.co.uk/article/android-pie-adaptive-battery-deepmind-google)
-
-<br><br>
-
 > [Measuring abstract reasoning in neural networks](https://deepmind.com/blog/measuring-abstract-reasoning/)
 >
 > <br>
@@ -479,22 +345,6 @@ WK EP CA EE
 > <br>
 >
 > Recent literature has focussed on the strengths and weaknesses of neural network-based approaches to machine learning problems, often based around their capacity or failure to generalise. Our results show that it might be unhelpful to draw universal conclusions about generalisation: the neural networks we tested performed well in certain regimes of generalisation and very poorly in others. Their success was determined **by a range of factors,** including the architecture of the model used and **whether the model was trained to provide an interpretable “reason” for its answer choices.** In almost all cases, the systems performed poorly when required to extrapolate to inputs beyond their experience, or to deal with entirely unfamiliar attributes; creating a clear focus for future work in this critical, and important area of research.
-
-<br><br>
-
-[AlphaGo Zero: Learning from scratch](https://deepmind.com/blog/alphago-zero-learning-scratch/) 
-
-<br><br>
-
-> [비전공자가 탑 저널 쓴 이야기 EP.1](https://youtu.be/Qp9oQKd-QRs)
->
-> [비전공자가 탑 저널 쓴 이야기 EP.2](https://youtu.be/52lA16FUanw)
-
-WRITE, COPY AND UPGRADE
-
-<br><br>
-
-[Neural Network 3D Simulation](https://youtu.be/3JQ3hYko51Y)
 
 <br><br>
 
@@ -545,34 +395,6 @@ WRITE, COPY AND UPGRADE
 
 <br><br>
 
-> [Artificial intelligence system uses transparent, human-like reasoning to solve problems](http://news.mit.edu/2018/mit-lincoln-laboratory-ai-system-solves-problems-through-human-reasoning-0911) 
->
-> <br>
->
-> Model from MIT Lincoln Laboratory Intelligence and Decision Technologies Group sets a new standard for understanding how a neural network makes decisions.
->
-> <br>
->
-> <img src="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/news_article_image_top_slideshow/public/images/2018/Lincoln-Laboratory-TbD-net-AI-system-graphic-MIT-00_2.jpg?itok=-0BBjsHQ">
->
-> <br>
->
-> We learn through reason how to interpret the world. So, too, do neural networks. Now a team of researchers from MIT Lincoln Laboratory's Intelligence and Decision Technologies Group has developed a neural network that performs human-like reasoning steps to answer questions about the contents of images. Named the Transparency by Design Network (TbD-net), the model visually renders its thought process as it solves problems, allowing human analysts to interpret its decision-making process. The model performs better than today’s best visual-reasoning neural networks.  
->
-> <br>
->
-> Understanding how a neural network comes to its decisions has been a long-standing challenge for artificial intelligence (AI) researchers. As the neural part of their name suggests, neural networks are brain-inspired AI systems intended to replicate the way that humans learn. They consist of input and output layers, and layers in between that transform the input into the correct output. Some deep neural networks have grown **so complex that it’s practically impossible to follow this transformation process.** That's why they are referred to as "black box” systems, with their exact goings-on inside opaque even to the engineers who build them.
->
-> <br>
->
-> ...
->
-> <br>
->
-> Interpretability is especially valuable if deep learning algorithms are to be deployed alongside humans to help tackle complex real-world tasks. **To build trust in these systems, users will need the ability to inspect the reasoning process so that they can understand why and how a model could make wrong predictions.**
-
-<br><br>
-
 [SIGCOMM Conference](http://sigcomm.org/events/sigcomm-conference)
 
 <br> <br>
@@ -585,42 +407,6 @@ WRITE, COPY AND UPGRADE
 
 <br><br>
 
->  [Could a DIY ultrasound be in your future? UBC breakthrough opens door to $100 ultrasound machine](https://news.ubc.ca/2018/09/11/could-a-diy-ultrasound-be-in-your-future-ubc-breakthrough-opens-door-to-100-ultrasound-machine/) 
->
-> ...
->
-> Conventional ultrasound scanners use piezoelectric crystals to create images of the inside of the body and send them to a computer to create sonograms. Researchers replaced the piezoelectric crystals with tiny vibrating drums made of polymer resin, called polyCMUTs (polymer capacitive micro-machined ultrasound transducers), which are cheaper to manufacture.
-
-<br><br>
-
-[고수들이 절대 가르쳐 주지 않는 C/C++ 프로그래밍 팁 #1 - include guard](http://yesarang.tistory.com/64)
-
-<br><br>
-
-[Haven security app receives 500,000 downloads in first six months](https://portswigger.net/daily-swig/haven-security-app-receives-500-000-downloads-in-first-six-months) 
-
-<br>
-
-<br>
-
-> [테라노스 (Theranos) 폐업이 주는 교훈](http://techneedle.com/archives/35681) 
->
-> <br>
->
-> 3. Everyone needs to do their own due diligence.
->   – 다소 심하게 들릴지 모르지만, 테라노스에 투자했다가 돈을 잃은 투자자들, 월그린, 세이프웨이등을 동정할 필요는 없다. 왜냐면 그들은 투자자로서 해야할 최소한의 조사 (due diligence)도 하지 않았기 때문이다. *(구글에서도 투자를 검토했으나, 심사역들이 실제 제품을 테스트해보고 난 후 투자 철회 결정을 내렸다고 한다.)
->
->   “THE COMPANY RAISED $600 MILLION WITHOUT A SINGLE PUBLISHED PEER REVIEWED JOURNAL ARTICLE. (저널에 peer reviewed 논문을 하나도 안 낸 회사가 어찌 6천억원이나 투자를 받을 수 있나?)”
->
-> <br>
->
-> 7. You know you are right when someone attacks you personally.
->   – 당신이 누군가에게 비판적인 질문을 했을 때 상대방이 당신을 ‘개인적으로, 감정적으로’ 공격한다면, 당신 생각이 맞기 때문일 것이다. 존 캐리루 기자도 테라노스의 변호사가 자신이 쓴 기사를 WSJ에 싣지 못하게끔 집요하게 달려드는 것을 보고서 제대로 특종 물었다는 것을 직감하게 되었다고 한다.
-
-<br><br>
-
-
-
 > [40세 신입사원 '나이 제한 없는 기업 찾아헤맸다'](http://news.chosun.com/misaeng/site/data/html_dir/2016/11/30/2016113000791.html)   
 >
 > 2016년 상반기 부산교통공사 신입사원이 된 최이윤(40)씨. 자동차 관련 민간기업에서 10년간 재무·회계를 담당했습니다. 2014년 회사를 관두고 2년간 이직 준비를 했습니다. 처음에는 민간기업에 경력직으로 들어갈 계획을 세웠습니다. 이후 마음을 바꿔 공공기관 입사준비를 하게 됐다고 합니다.   
@@ -628,14 +414,6 @@ WRITE, COPY AND UPGRADE
 <br>
 
 <br>
-
-[C: The Immortal Programming Language](https://embeddedgurus.com/barr-code/2018/02/c-the-immortal-programming-language/)   
-
-<br><br>
-
-[Is Tomorrow’s Embedded-Systems Programming Language Still C?](https://systemdesign.intel.com/tomorrows-embedded-systems-programming-language-still-c/)   
-
-<br><br>
 
 > redacted @29979245oo   
 > ‏이제 이 동네는 망했습니다. ⚡️ “Silicon Valley is losing its residents quickly” by @tictoc   
@@ -662,14 +440,6 @@ WRITE, COPY AND UPGRADE
 
 <br><br>
 
-[Gophercon 2018 - Computer Vision Using Go and OpenCV 3](https://about.sourcegraph.com/go/gophercon-2018-computer-vision-using-go-and-opencv-3/)   
-
-<br><br>
-
-[Find Out How Much Your Country Spends on Research & Development](https://howmuch.net/articles/research-development-spending-by-country) 
-
-<br><br>
-
 > 어엉부엉 @d_ijk_stra   
 > 대학원을 절대 가지 말라는 조언을 하는 사람들이 많은 것 같은데, 나는 전산학 한정 + 현재 분위기에서는 설사 인더스트리가 최종 목표라고 해도 대학원을 가는 것이 나쁘지 않은 선택이라고 생각한다. 물론 답은 개인적인 커리어 골이 무엇인지에 따라 정해지겠지만.      
 >
@@ -687,53 +457,7 @@ WRITE, COPY AND UPGRADE
 > 어엉부엉 @d_ijk_stra   
 > 이런 관점에서는 굳이 박사과정을 끝내야 하는지는 잘 모르겠다. 중퇴하고 인더스트리로 와서 좋은 테크니컬 리더쉽을 발휘하는 사람들이 적잖이 보이기도 하고.   
 
-<br><br>
 
-> [직장인 비전공자](http://cafe.daum.net/skilldadan/qPfZ/1195)   
->
-> 필기는 생략하겠습니다.  
->
-> 실기
->
-> 1. 꼭 합격하겠다는 굳은 의지가 있어야 합니다. 공부할 시간과 여유가 많지 않기에 어떻게든 만들어야 합니다. 저는 실기 14개월 준비하면서 올해 1월부터 술약속 안잡고, 주.야 퇴근후 3시간 정도 도서관 , 주말은 애들과 놀아줘야 하기에 6시에 기상하여 토.일 도서관에서 4시간정도 책보고 집으로 돌아와서 시간을 보냈습니다. 이렇게 하닌까 합격 하더군요 간신히요.
->
-> 2. **30년치 다 보시고 풀어보시는게 시험을 쳐도 후회가 없습니다.** 작년 3회 첫시험 36점. 올해 1회 41점 멘탈이 무너지더군요 왜냐면 시험을 치고나서 후회가 남아서입니다. 30년치를 봤다면 맞출수 있고 합격권에 가능할꺼 같은데 .... 요령껏 17년치만 계속 봐서인거죠
->
-> 3. 멘탈관리를 하셔야 합니다. 시험치고 바로 아니다 싶으면 공부시작하셔야 합니다. 열받고 짜증나고 책 찢고 싶으시지만 저도 다 경험했습니다. 시험다가오면 여유부린 하루가 아쉽습니다.
->
-> 4. **이해를 하고 문제를 풀면 손가락이 저절로 움직이기 신기한 현상을 경험합니다.** a4용기 세권정도 작성하닌까 그렇게 되더군요. 카페에 문의를 하면서 이해를 해야 합니다. **또한 다양한 파생되는 공식들을 이해하고 대입하는 능력을 과년도 풀다보면 익혀집니다.**
-
-<br><br>
-
-> [직장인 전기기사 합격 수기 입니다. ](http://cafe.daum.net/skilldadan/qPfZ/405?q=%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%EF%BF%BD%D5%B0%DD%BC%EF%BF%BD%EF%BF%BD%EF%BF%BD%20class=f_link_b&)   
->
-> ...
->
-> 필기 준비시 요점은 1. **회로이론을 먼저** 해두면 상당히 수월하다. (겹치는 과목, 이론 굉장히 많음..) 2. 전기기기, 전력설비, 전기설비는 **필기때 최대한 열심히** 해둬라(문제-답 XX, 이해위주 공부 필요)
->
-> ...
->
-> 실기 요점은 1. **단답은 28년치 수시로** 보라..(사람인지라 솔직히 다 외우면 좋지만, 최대한 많이 보는걸 권장해드리네요..) 2. 문제 풀때 **실전같이** 풀어라. (계산 :    답 :    단위확인) 3. 이해가 안되는건 **이해될 때 까지 찾아보라.** 
-
-
-
-<br><br>
-
-[I'm 31, is it too late to start programming?](https://www.quora.com/Im-31-is-it-too-late-to-start-programming/answer/Dries-Ketels)
-
-<br><br>
-
-> redacted @29979245oo
-> 이틀 연속 학부 졸업 예정자 스크리닝 인터뷰. 둘 다 학교는 중상위권으로 비슷. 한 명은 흠.. 좀 안 알려진 회사에서 올 여름 인턴. 한 명은 구글에서 인턴. 한명은 첫 문제도 제도로 못풀고 끝냄. 다른 한명은 꽤 코딩해야 하는 두 문제 다 잘 품. 지원자 실력차가 너무 커서 슬프기도하고 그러하다.
->
-> [오전 10:51 - 2018년 8월 31일](https://twitter.com/29979245oo/status/1035585938921930752)
-
-<br><br>
-
-> 박상민 / Sang-Min Park @sm_park
-> Sorting 이 O(n) 이라는 지원자를 연속으로 폰인터뷰하고나니 기운이 쭉 빠진다. 이게 내가 지금 뭐하는 건가 싶고...😐
->
-> [오후 2:00 - 2018년 8월 31일](https://twitter.com/sm_park/status/1035633353905430528)
 
 <br><br>
 
@@ -743,25 +467,6 @@ WRITE, COPY AND UPGRADE
 > 정말 중국애들 다 그렇고 있음. 시킨대로 잘 하고 있어서 다행.
 >
 > [오후 12:12 - 2018년 8월 31일](https://twitter.com/leegoonz73/status/1035606352742109185) 
-
-<br><br>
-
-[Turn your whiteboard sketches to working code in seconds with Sketch2Code](https://azure.microsoft.com/en-us/blog/turn-your-whiteboard-sketches-to-working-code-in-seconds-with-sketch2code/) 
-
-<br><br>
-
-[A sense of curiosity is helpful for artificial intelligence](https://www.economist.com/science-and-technology/2018/09/01/a-sense-of-curiosity-is-helpful-for-artificial-intelligence)
-
-<br><br>
-
-> 백충덕 @nicehide   
-> 자신이 특별하다고 혹은 자기에게 특별한 행운이 찾아왔다고 생각한 순간부터 이미 덫에 걸린거다.   
->
-> [오전 7:10 - 2018년 8월 26일](https://twitter.com/nicehide/status/1033718278126952454)
-
-<br><br>
-
-[Wireless Communication from Underwater to the Air](https://www.media.mit.edu/projects/translational-acoustic-rf-tarf-communication/overview/) 
 
 <br><br>
 
@@ -801,43 +506,11 @@ WRITE, COPY AND UPGRADE
 
 <br><br>
 
-[The UK is investing millions to make its own satellite system](https://www.technologyreview.com/the-download/611942/the-uk-is-investing-millions-to-make-its-own-satellite-system/)
-
-<br><br>
-
-[OracleJDK 유료화 FAQ](http://dev.zepinos.com/phame/post/view/3/oraclejdk_%EC%9C%A0%EB%A3%8C%ED%99%94_faq/)
-
-<br><br>
-
-[OracleJDK 의 유료화, 그래서 Java 는 망했다?](http://dev.zepinos.com/phame/post/view/2/oraclejdk_%EC%9D%98_%EC%9C%A0%EB%A3%8C%ED%99%94_%EA%B7%B8%EB%9E%98%EC%84%9C_java_%EB%8A%94_%EB%A7%9D%ED%96%88%EB%8B%A4/)
-
-<br><br>
-
 > 4단계, 들리지 않는 장면의 대사를 구간 반복한다. 떠듬거리지 않고 배우처럼 자연스럽게 말할 수 있을 때까지 듣고 말하기(LS)를 반복한다.   
 >
 > 5단계, 영어 자막을 보며 영화 한 편을 통째로 구간 반복했다면, 자막 없이 영화 LS를 97번 한다. 눈으로 보거나 귀로 들으면서 100LS를 완주한다.   
 >
 > 개정판 | 9등급 꼴찌, 1년 만에 통역사 된 비법 | 장동완 저   
-
-<br><br>
-
-[insanehong Topic : javascript](http://insanehong.kr/category/javascript/)
-
-<br><br>
-
-[[Javascript ] 프로토타입 이해하기](https://medium.com/@bluesh55/javascript-prototype-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-f8e67c286b67)
-
-<br><br>
-
-[JavaScript : 프로토타입(prototype) 이해](http://www.nextree.co.kr/p7323/)
-
-<br><br>
-
-[Learn how to build a PWA in 5 minutes](https://medium.com/dev-channel/learn-how-to-build-a-pwa-in-under-5-minutes-c860ad406ed)   
-
-<br><br>
-
-[React Native, Xamarin은 한국에서 안 팔려](https://brunch.co.kr/@brightlee/13)   
 
 <br><br>
 
@@ -854,46 +527,6 @@ WRITE, COPY AND UPGRADE
 <br><br>
 
 [Microfluidics from LEGO bricks](http://news.mit.edu/2018/microfluidics-lego-bricks-0131)
-
-<br><br>
-
-[Novel transmitter protects wireless data from hackers](http://news.mit.edu/2018/novel-transmitter-protects-wireless-data-hackers-0611)
-
-<br><br>
-
-[Chip upgrade helps miniature drones navigate](http://news.mit.edu/2018/novel-chip-upgrade-helps-miniature-drones-navigate-0620)
-
-<br><br>
-
-> [이민석 - 한국에서 소프트웨어 엔지니어로 성공하는 법 (영상)](https://okky.kr/article/495355)
->
-> 이민석 교수님께서, 2010년 10월 3회 Ignite 서울 행사에서 프레젠테이션하신 영상입니다.
->
-> 영상 길이 : 6분 6초
->
-> 문제
->
-> - 갑이 지배하는 세상
-> - 잘못된 롤 모델
-> - 개발 방법론 (Faith-Driven Development)
-> - 밤샘
-> - 무능한 팀장....
->
->
->
-> 해결책
->
-> - 회사에 내 기술을 남겨라
-> - 자부심을 가져라
-> - TDD(Test-Driven Development)
-> - 내 소스를 읽어보라
-> - 도구를 사용하라
-> - 시간 관리를 하라
-> - 이력서와 포트폴리오를 업데이트하라
-> - 인간을 이해하라
-> - 열심히 공부하라
->
->
 
 <br><br>
 
@@ -941,23 +574,6 @@ WRITE, COPY AND UPGRADE
 
 <br><br>
 
-> [회사에서 더 배울 것이 없다는 생각이 들면 당장 회사를 그만둬야 한다.](https://estimastory.com/2014/05/03/carrot/)
->
-> 책 내용중에서 다음 부분에 특히 공감했다.
->
-> > 손가락으로 꼽을 만큼 직원 수가 적었을 때도 사직을 고민하거나 일에 대한 열정이 보이지 않는 직원과 면담을 할 때 내가 단호하게 했던 말이 있다. 다음 두 가지에 해당하면 당장 회사를 그만두는 게 좋겠다고 말이다.
-> >
-> > 첫째, 회사에서 더 배울 것이 없다는 생각이 들면 당장 회사를 그만둬야 한다. 그런 회사를 다니다간 큰일 난다. 하루하루가 개인의 인생에 마이너스가 되고, 인생을 낭비하는 일이기 때문이다.
-> > 둘째, 일을 통해서 성장할 생각이 없다면 내일부터 나오지 마라. 이런 생각을 가진 사람은 고객과 동료들 그리고 회사에 큰 손해를 끼치게 된다. 성장할 생각이 없는 사람은 스스로를 조직의 부속품처럼 한계 짓고, 기계적으로 일을 처리할 것이다. 의욕이나 열정이 없는 사람은 주변 사람들까지 기운 빠지게 한다.
->
-> 단순히 ‘돈을 벌기 위해서’, 즉 생계수단으로서 회사를 다니는 사람들이 있다. 노대표의 생각처럼 나도 이것은 불행한 일이라고 생각한다. 나의 경우는 지금까지의 직장생활을 “항상 새로운 것을 배우고 경험하는데 돈까지 받는다”는 생각으로 다녔다. 이게 왠 횡재인가 하는 생각을 할때도 있었다. (미국에서 일할 때는 돈받으면서 영어공부를 하는 느낌도 있었다.) 지금도 마찬가지다.
-
-<br><br>
-
-['There is no compression algorithm for experience' -Andy Jassy, CEO AWS](https://www.linkedin.com/pulse/compression-algorithm-experience-andy-jassy-ceo-aws-harshith-mallya)
-
-<br><br>
-
 [How Four Native Developers Wrote An Electron App](https://githubengineering.com/how-four-native-developers-wrote-an-electron-app/)
 
 <br><br>
@@ -974,26 +590,6 @@ WRITE, COPY AND UPGRADE
 > | 졸업 이후                  | 취업하거나 박사과정에 들어간다.                    | 포스트닥, 그리고 ...                                         |
 >
 >  <과학자가 되는 방법>
-
-<br><br>
-
-[D3 Graph Theory](https://mrpandey.github.io/d3graphTheory/)
-
-<br><br>
-
-> 정신욱 @cnookie
->
-> 대도서관이 말하는 프로의 정의는 ‘하기 싫을 때도 그냥 하는 사람’. 나도 정말 하기 싫을때 그래도 시작하면 의외로 할만한 경우 많았다. 한편 그러다가 부하가 누적되면 몸이나 마음이 고장나서 더 퇴행해버리는 느낌이 들기도 했고. 루틴을 단단하게 유지하면서도 필요할때 끊고 가는게 늘 어려움
->
-> [오후 9:32 - 2018년 8월 13일](https://twitter.com/cnookie/status/1029224141939863552)
-
-<br><br>
-
-[letters to Latex](https://webdemo.myscript.com/views/main/math.html)
-
-<br><br>
-
-[How to get Google to stop tracking your location for real](https://www.technologyreview.com/the-download/611874/how-to-get-google-to-stop-tracking-your-location-for-real/)
 
 <br><br>
 
@@ -1037,7 +633,7 @@ WRITE, COPY AND UPGRADE
 >
 > [오후 6:40 - 2018년 8월 9일](https://twitter.com/utilforever/status/1027731347312324608)
 
-<br><br>    
+<br><br>
 
 [Foundations of Analog and Digital Electronic Circuits (The Morgan Kaufmann Series in Computer Architecture and Design) ](https://www.amazon.com/Foundations-Electronic-Circuits-Kaufmann-Architecture/dp/1558607358/ref=sr_1_1?ie=UTF8&qid=1533953394&sr=8-1&keywords=Foundations+of+Analog+and+Digital+Electronic+Circuits&dpID=51h058TFt3L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
 
@@ -1119,19 +715,13 @@ console.log(b);
 
 <br><br>
 
-
-
 > 박치욱 @chiw00k
 >
 > 피곤한데 쉬지 않으면 몸에 병이 생기지만, 피곤하지도 않은데 쉬면 마음에 병이 생겨요. 피곤하지 않으면 움직이세요. 뭐든 하세요. 그리고 피곤해지면 그때 쉬세요. 정말 그냥 믿고 따라해 보세요.
 >
 > [오전 1:09 - 2018년 8월 9일 West Lafayette, IN에서](https://twitter.com/chiw00k/status/1027466959422717952)
 
-
-
 <br><br>
-
-
 
 > 괴골 [개물] @cfr0g
 >
@@ -1142,36 +732,6 @@ console.log(b);
 > 수학은 오히려 초치기가 어려운 과목이라 위와같은 의미의 암기를 하기가 어렵다.
 >
 > [오전 4:53 - 2018년 8월 7일](https://twitter.com/cfr0g/status/1026798498178465792)
-
-
-
-<br><br>
-
-[Thinking About Errors in Your Code Differently](https://news.codecademy.com/errors-in-code-think-differently/)
-
-
-
-<br><br>
-
-[Manfred Held, a life devoted to explosives science](https://onlinelibrary.wiley.com/doi/full/10.1002/prep.201680131)   
-
-
-
-<br><br>
-
-> 맛사/matsa @worms____
->
-> 만전의 준비를 마치고서 출발할 수 있을 것이라는 믿음은 그저 희망사항이다. 스타트라인은 멋대로 찾아온다. 다만 나는 그 때까지 준비를 할 수 있을 뿐이다.
->
-> [오전 9:56 - 2018년 8월 6일](https://twitter.com/worms____/status/1026512236947234821)
-
-
-
-<br><br>
-
-[리눅스 파일 시스템 이해하기 : ext4](https://tech.osci.kr/linux/2018/07/31/linux-filesystem/)
-
-
 
 <br><br>
 
@@ -1185,35 +745,13 @@ console.log(b);
 
 <br><br>
 
-[All I do is VIM VIM VIM](http://engineering.pivotal.io/post/all-i-do-is-vim/)   
-
-<br><br>
-
-
-
 [초심자를 위한 Github 협업](http://www.realhanbit.co.kr/books/125)   
 
 <br><br>
 
-[Transparent and conductive nanomembranes with orthogonal silver nanowire arrays for skin-attachable loudspeakers and microphones](http://advances.sciencemag.org/content/4/8/eaas8772)
 
-<br><br>
-
-[Filament Physically-based rendering engine](https://google.github.io/filament/Filament.md.html)   
-
-<br><br>
 
 [16:8 마법 … 8시간은 맘껏 먹어도 석 달 후 체중 3% ‘실종’](https://news.joins.com/article/22858830)   
-
-<br><br>
-
-> 씨언 @if1live
->
-> "프로그래머가 되기전에 알았더라면 좋았을 것들" 다 읽었다
->
-> 옛날 회사 사장님이 했던 이야기가 생각난다. "좋은 프로그래머는 Geek스러운 뭔가 있을줄 알았는데 좋은 프로그래머는 좋은 사무직과 다른게 없더라"
->
-> [오전 1:37 - 2018년 8월 4일](https://twitter.com/if1live/status/1025661927811207168)
 
 <br><br>
 
@@ -1225,81 +763,6 @@ console.log(b);
 >
 > 다만 둘다 고수로 가는 길목 어딘가에는 반드시 반대편의 시각과 기술을 완전히는 아니더라도 배울 필요가 있다. 그렇지 않고서는 한단계 업그레이드하기 어렵다. 자신의 기술이 제너럴리스트의 관점에서 어떤 부분을 담당 하는지 모르면, 남이 만든 기술을 배워서 써먹는 스페셜리스트까지가 한계다. 스페셜리스트들이 정확하게 무엇을 하고 있고, 근 미래에 무엇을 할 수 있을지 예측 못하는 제너럴리스트은 당장 커뮤니케이션에 문제가 생길 뿐 아니라 모든 요소들 사이에 시너지를 만들어내는 능력이 떨어질 수 밖에 없다. 개인 발전 측면에서 볼때 두 역할을 무자르듯 양단해서 생각하면 발전이 어렵다. 순서의 문제지 결국에는 둘 다 잘해야하는 시점이 오긴 온다.
 
-
-
-<br><br>
-
-> ["17년 동안 골프만 친 남자, 개발자가 된 이유" ](https://www.facebook.com/sef.connect/posts/459229991236911)
-> -
-> 해당 카드뉴스는 작년 SEF2017의 연사였던 
-> 최다운님의 이야기를 재구성했습니다.
-
-<br><br>
-
-> 실력을 향상시킬 수 있는 해법은 없는 것 같다. 내가 알고 있는 유일한 해법은 반복하는 것이다. - 김민태 
-
-<br><br>
-
-[[번역] 고양이, 큐비트, 그리고 순간이동: 양자 연산의 이상한 세계 (1편) (10,900자)](https://encodent.com/quantum-study/infoq-quantum-computing-intro-one)   
-
-<br><br>
-
-
-
-> [How Robot Hands Are Evolving to Do What Ours Can](https://www.nytimes.com/interactive/2018/07/30/technology/robot-hands.html)
->
-> 
->
-> That is far more difficult than training a gripper or suction cup. An anthropomorphic hand moves in so many different ways.
->
-> 
->
-> So, the Washington researchers train their hand in simulation -- a digital recreation of the real world. That streamlines the training process.
->
-> At OpenAI, researchers are training their Dactyl hand in much the same way. The system can learn to spin the alphabet block through what would have been 100 years of trial and error. The digital simulation, running across thousands of computer chips, crunches all that learning down to two days.
->
-> It learns these tasks by repeated trial and error. Once it learns what works in the simulation, it can apply this knowledge to the real world.
->
-> 
->
-> Many researchers have questioned whether this kind of simulated training will transfer to the physical realm. But like researchers at Berkeley and other labs, the OpenAI team has shown that it can.
->
-> They introduce a certain amount of randomness to the simulated training. They change the friction between the hand and the block. They even change the simulated gravity. After learning to deal with this randomness in a simulated world, the hand can deal with the uncertainties of the real one.
->
-> Today, all Dactyl can do is spin a block. But researchers are exploring how these same techniques can be applied to more complex tasks. Think manufacturing. And flying drones. And maybe even driverless cars.
-
-<br><br>
-
-[Spring Interview Questions and Answers](https://www.journaldev.com/2696/spring-interview-questions-and-answers)   
-
-<br><br>
-
-[Spring MVC – Application Context vs Web Application Context](https://javabeat.net/spring-mvc-application-context/)   
-
-<br><br>
-
-[How to add HTTPS to your website for free in 10 minutes, and why you need to do this now more than ever](https://medium.freecodecamp.org/free-https-c051ca570324)   
-
-<br><br>
-
-[Spring Boot, MySQL, JPA, Hibernate Restful CRUD API Tutorial](https://www.callicoder.com/spring-boot-rest-api-tutorial-with-mysql-jpa-hibernate/)   
-
-<br><br>
-
-[Building an Application with Spring Boot](https://spring.io/guides/gs/spring-boot/)   
-
-<br><br>
-
-[How to create docker image of Standalone Spring MVC project](http://www.littlebigextra.com/create-docker-image-spring-mvc-project/)   
-
-<br><br>
-
-[Dockerize your Java Application](https://runnable.com/docker/java/dockerize-your-java-application)   
-
-<br><br>
-
-[Why use OpenCL on FPGAs?](https://streamhpc.com/blog/2014-09-16/use-opencl-fpgas/)      
-
 <br><br>
 
 > 하이컨셉 @Haeundo
@@ -1309,27 +772,7 @@ console.log(b);
 > [오후 7:29 - 2018년 7월 28일](https://twitter.com/Haeundo/status/1023394949188841472)
 >
 
-<br><br>   
-
-> 朴聖國, Shawn @sungkkshawnpark
->
-> 그러고 보니 집중력이 떨어질 수 밖에 없는 게 하루 8시간 수업 소화하면서 쉬는 시간 내내 회사 업무. 귀가해서 잔업 마무리하고 나면 자정. 이후 새벽 6시에 기상. 그리고 왕복 4시간 30분의 김포-판교 지옥철 통과. 앉을 자리도 없다. 여기 더해 미뤄진 게임 세 개 남은 상태. 결국 다 만들겠지만.
->
-> [오전 3:14 - 2018년 7월 24일](https://twitter.com/sungkkshawnpark/status/1021700029940002821)
-
-<br>
-
-[37 Essential JavaScript Interview Questions](https://www.toptal.com/javascript/interview-questions)
-
-<br>
-
-[A perfect guide for cracking a JavaScript interview (A developer’s perspective)](https://medium.com/dev-bits/a-perfect-guide-for-cracking-a-javascript-interview-a-developers-perspective-23a5c0fa4d0d)
-
-<br>
-
-[A Pinterest Progressive Web App Performance Case Study](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154)
-
-<br>
+<br><br>
 
 > Taeho Kim @xissy
 >
@@ -1377,53 +820,7 @@ console.log(b);
 >
 > [오후 4:30 - 2018년 7월 20일](https://twitter.com/29979245oo/status/1020450984533766144)
 
-<br>
-
-[American Option Pricing with Monte Carlo Simulation in CUDA C++](https://devblogs.nvidia.com/american-option-pricing-monte-carlo-simulation/)
-
-<br>
-
-[Automating multimodal microscopy with NanoJ-Fluidics](https://www.biorxiv.org/content/early/2018/05/14/320416)
-
-<br>
-
-[35 Innovators Under 35 2018](https://www.technologyreview.com/lists/innovators-under-35/2018/)
-
-<br>
-
-[How is C++ used in VLSI industry?](https://www.quora.com/How-is-C%2B%2B-used-in-VLSI-industry/answer/Aniket-Deshmukh-6?share=16d692b6&srid=XAfq)
-
-<br>
-
-[연구의 빈익빈 부익부가 해소될 수 있을까?](https://blog.naver.com/atelierjpro/221253370158)
-
-<br>
-
-[Why Paper Jams Persist](https://www.newyorker.com/magazine/2018/02/12/why-paper-jams-persist)
-
-<br>
-
-> Journey @atmostbeautiful
->
-> X레이도 흑백 평면 아닌 3D 컬러 시대. 뉴질랜드 연구진이 개발. 조직과 뼈 투과 여부로 판독하던 방식에서 개별 물질에 따른 반응을 모두 데이터로 환산해 입체로 구현. 암이나 혈관성 질환 발견과 추적에 유용. 유럽입자물리학연구소에서 입자 추적에 사용되던 기술 응용.
->
-> https://www.nytimes.com/2018/07/17/health/3d-color-xrays-cern.html
->
-> [오후 2:39 - 2018년 7월 18일](https://twitter.com/atmostbeautiful/status/1019698091774001152)
-
-<br>
-
-[Nvidia 'infinite resolution' patent proposes vector data structures](http://hexus.net/tech/news/graphics/119102-nvidia-infinite-resolution-patent-proposes-vector-data-structures/)
-
-<br>
-
-[Modern Backend Developer in 2018](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)
-
-<br>
-
-[How valuable is Nvidia's patent portfolio?](https://www.quora.com/How-valuable-is-Nvidias-patent-portfolio/answer/Praveen-768)
-
-<br>
+<br><br>
 
 [ARM designed an image signal processor, and that’s a big deal](https://www.theverge.com/2017/4/27/15449146/arm-mali-c71-isp-mobile-photography)
 
@@ -1438,22 +835,6 @@ console.log(b);
 <br>
 
 [F-22 Raptor Avionics](https://www.globalsecurity.org/military/systems/aircraft/f-22-avionics.htm)
-
-<br>
-
-> 朴聖國, Shawn @sungkkshawnpark
->
-> 남들과 비슷한 수준으로 노력하고 할 거 다 하면서 남들보다 잘할 생각하지 말자. 인생 망치는 사고 방식이 따로 있는게 아니다. 매일 되새길 것.
->
-> [오후 9:29 - 2018년 7월 16일](https://twitter.com/sungkkshawnpark/status/1019076485464780800)
-
-<br>
-
-> 朴聖國, Shawn @sungkkshawnpark
->
-> 확실히 일주일 게임 하나는 만들기 위해 배우는 것이 아니라 **배우기 위해 만드는** 것이다. 일주일이라는 시간은 완성을 하거나 게임으로서의 구색을 갖추기에도 벅차다. 그 때문에 만듦새에 집착한다면 절대 정규 루틴으로 만들 수 없는 훈련이다. **만들고 그 과정을 배움으로 삼고 결과는 잊어야 한다.**
->
-> [오후 5:29 - 2018년 7월 16일](https://twitter.com/sungkkshawnpark/status/1019016221801381889)
 
 <br>
 
@@ -1492,225 +873,11 @@ console.log(b);
 
 <br>
 
-[7codes](http://www.7codes.info/)
-
-<br>
-
-[Get the coordinates on marker drag event in the Google Maps (Latitude, longitude)](http://www.7codes.info/post/14/get-the-coordinates-on-marker-drag-event-in-the-google-maps-(latitude,-longitude) )
-
-<br>
-
-[Getting coordinates from click or drag event in Google Maps API?](https://gis.stackexchange.com/questions/33238/getting-coordinates-from-click-or-drag-event-in-google-maps-api)
-
-<br>
-
 [RISC vs. CISC](https://cs.stanford.edu/people/eroberts/courses/soco/projects/risc/risccisc/)
 
 <br>
 
-[Cookbook: Java -> Maven -> Docker -> AWS ECR -> AWS ECS (Fargate)](https://medium.com/@niclasgustafsson/cookbook-java-maven-docker-aws-ecr-aws-ecs-fargate-e12cfc126050)
-
-<br>
-
-[10여년간을 SI개발자로 살아오다 유니티로 게임을 하나 만들어봤습니다..](https://okky.kr/article/477239)
-
-> 안녕하셔요.. 2007년에 자바 SI개발을 시작해서 오키에서 질문도 많이 하고 도움도 많이 받았던 유저입니다.
->
-> 
->
-> 벌써 세월이 흘러흘러 2018년인데.. 구글검색으로 오키에 제가 어떤 글들을 남겼는지 찾아보다보니 추억이 새록새록 떠오르네요...
->
-> 
->
-> 년차가 쌓이고 쌓여 지금은 돈도 많이 주고 몸도 편한곳에 정착해있지만, 그 옛날 생초짜때 악덕업체의 박봉에 시달리며 구글검색도 잘 못해서 똥줄타는 마음으로 오키에 글을 올리며 많은 도움을 받았던게 생각나니 기분이 참 복잡미묘합니다 ㅎㅎ
->
-> 
->
-> 혹시나 지금 회사생활이 힘든 초급분들은 시간지나면 사실 이만한 직업도 없으니 열심히 공부하며 버텨보시라고 감히 말씀드리고 싶네요...
->
-> 
->
-> 저는 지금은 집근처 외국계 회사에 계약직 SM으로 일하고 있는데.. 비교적 시간여유가 있어서 일종의 노후대비차 유니티로 게임을 한번 만들어보았습니다. 
->
-> 
->
-> 혹시나 저처럼 SI개발자 출신이면서 게임 한번 만들어볼까 하는 분들께 혹시 참고가 될까 싶어 개발과정을 좀 올려보지만 혹시 광고라고 생각되셔서 불편하신 분이 계시면 바로 지우겠습니다. 
->
-> 
->
-> 이하 네이버 유니티 커뮤니티에 올린 글을 퍼왔습니다. 궁금하신점 있으시면 댓글 달아주시면 아는 한도내에서 열심히 답변 드릴게요^^
->
-> 
->
-> 감사합니다 (^^)(__)
->
-> <hr>
->
-> 유니티 커뮤니티에 올 4월 17일에 가입해서 이것저것 여쭤봤고 지금도 여쭤보고 있는 유니티 초보 비만타쿠미라고 합니다.
->
-> 
->
-> 다만 완전 개발초짜는 아니고 서른둘에 밥벌이를 위해 JAVA SI개발을 시작해서 지금은 십년이 좀 넘었네요.
->
-> 
->
-> 모바일 개발은 아이폰3GS시절 모은행 SM으로 있을때 스터디삼아 앱을 하나 개발해본게 전부였고 거의 엔터프라이즈 웹개발만 했었습니다.
->
-> 
->
-> 올해초에 외국계SM으로 옮기면서 시간적으로 여유가 많이 생겨서 유니티에 도전을 해 봤는데 결과적으로는 두달만에 게임 비스무리한게 나왔습니다.
->
-> 
-
-<br>
-
-> JP.Jung_대마왕 @JPcorps
->
-> 교수님마다 다른 가치가 있을 수 있지만, 나는 적어도 이런 학생과 공부하고 싶다. 
-> - 기초가 탄탄한 학생 
->   기초는 사실 넓은 영역이지만, 적어도 뭐가 매력적인건지 구별해 내는 사람
-> - 커뮤니케이션이 준비된 학생
->   사람관계 어렵다고 아싸로 살겠다는 친구는 비 환영. 그렇다고 인싸로 살란것도아님
->
-> [오전 1:50 - 2018년 7월 10일](https://twitter.com/JPcorps/status/1016605644978176001)
->
-> 
->
-> JP.Jung_대마왕 @JPcorps
->
-> 내가 생각하는 좋은 커뮤니케이션은, '개인적으로 좋아하지 않는 사람과도 논리적으로 토론할 수 있는 사람 혹은 그런 자세'를 말하는 거다. 
-> 예의를 지키면서 할 말은 논리적으로 할수있는 교양과 마음의 준비.
->
-> 
->
-> JP.Jung_대마왕 @JPcorps
->
-> - 뭐가 중요하고 본질인 걸까를 끊임없이 생각하고 토론하는 친구 
->   본질에 대한 연구와 고민없이는 겉만 번지르르한 결과물 밖에 안나온다. 
-> - 즐거운 친구
->   남을 즐겁게 하려면 내가 먼저 즐겁게 사는 법을 익혀야 한다.  즐겁게 살기에는 건강도 1순위 요인중 하나임.
-
-
-
-<br>
-
-[MICROSOFT IS BEING SUED FOR PATENT INFRINGEMENT OF A GAME ENGINE](http://www.ign.com/articles/2018/04/24/microsoft-is-being-sued-for-patent-infringement-of-a-game-engine)
-
-<br>
-
-[Interpolation and parallel adjustment of center-sampled trees with new balancing constraints](https://link.springer.com/article/10.1007/s00371-014-1018-2)
-
-<br>
-
-[5 Highly Recommended Computational Physics Textbooks](http://physicsdatabase.com/2017/07/23/5-highly-recommended-computational-physics-textbooks/)
-
-<br>
-
-[Piezoelectricity](https://www.explainthatstuff.com/piezoelectricity.html)
-
-<br>
-
 [CppCon 2015 Presentation Materials](https://github.com/CppCon/CppCon2015/blob/master/README.md)
-
-<br>
-
-[My advice on studying algorithms](http://shlegeris.com/2016/08/14/algorithms)
-
-<br>
-
-[I will teach you to be good at programming interviews](https://www.interviewcake.com/)
-
-<br>
-
-[How to pass a programming interview](https://triplebyte.com/blog/how-to-pass-a-programming-interview)
-
-<br>
-
-[Can an iOS game be created using only the Unreal Engine 4 (without knowledge of any Swift programming)?](https://www.quora.com/Can-an-iOS-game-be-created-using-only-the-Unreal-Engine-4-without-knowledge-of-any-Swift-programming)
-
-<br>
-
-[How do I learn Swift?](https://www.quora.com/How-do-I-learn-Swift)
-
-<br>
-
-[Can I develop iOS apps without learning Swift or Objective-C? I already know C ,C++ and Python.](https://www.quora.com/Can-I-develop-iOS-apps-without-learning-Swift-or-Objective-C-I-already-know-C-C++-and-Python)
-
-<br>
-
-[The Extraordinary Link Between Deep Neural Networks and the Nature of the Universe](https://www.technologyreview.com/s/602344/the-extraordinary-link-between-deep-neural-networks-and-the-nature-of-the-universe/)
-
-<br>
-
-[IBM is Hoarding a Lot of Software Patents But Disguises Them as ‘Cloud’, ‘AI’, and Other Buzzwords](http://techrights.org/2017/03/12/patents-on-clouds-and-ai/)
-
-<br>
-
-[How robots are grasping the art of gripping](https://www.nature.com/articles/d41586-018-05093-1)
-
-<br>
-
-[따라하며 배우는 C++ 강의 시리즈](https://m.blog.naver.com/PostView.nhn?blogId=atelierjpro&logNo=221308789543&proxyReferer=&proxyReferer=http%3A%2F%2Fblog.naver.com%2Fatelierjpro%2F221308789543)
-
-<br>
-
-[Can I create my own featured scanf method in C from scratch?](https://www.quora.com/Can-I-create-my-own-featured-scanf-method-in-C-from-scratch/answer/Michael-Veksler?share=a9554c2b&srid=XAfq)
-
-<br>
-
-[Eclipse Cheat Sheet](https://www.shortcutfoo.com/app/dojos/eclipse-mac/cheatsheet)
-
-<br>
-
-[Electromagnetically induced transparency in sinusoidal modulated ring resonator](https://aip.scitation.org/doi/10.1063/1.5029307)
-
-<br>
-
-[GraphQL과 RESTful API](http://www.holaxprogramming.com/2018/01/20/graphql-vs-restful-api/)
-
-<br>
-
-[Understanding And Using REST APIs](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
-
-<br>
-
-[Log4j hello world example](https://www.mkyong.com/logging/log4j-hello-world-example/)
-
-<br>
-
-[Homemade GPS Receiver](http://www.aholme.co.uk/GPS/Main.htm)
-
-<br>
-
-[New tutorial about Spring Boot and Kotlin](https://spring.io/blog/2018/05/11/new-tutorial-about-spring-boot-and-kotlin)
-
-<br>
-
-[How I started drawing CSS Images](https://blog.prototypr.io/how-i-started-drawing-css-images-3fd878675c89)
-
-<br>
-
-[mathpix Convert Images To Latex.](https://mathpix.com/)
-
-<br>
-
-[Life at the Intersection of AI and Society with Dr. Ece Kamar](https://www.microsoft.com/en-us/research/blog/life-at-intersection-of-ai-society-ece-kamar/?OCID=msr_podcast_ekamar_TW)
-
-<br>
-
-[Ryan Chadwick Linux](https://ryanstutorials.net/linuxtutorial/)
-
-<br>
-
-[Papers with Code](https://paperswithcode.com/)
-
-<br>
-
-[Learn Kubernetes in Under 3 Hours: A Detailed Guide to Orchestrating Containers](https://medium.freecodecamp.org/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882)
-
-<br>
-
-[쿠버네티스 코드 읽기](https://sangwook.github.io/2018/06/19/kubernetes-k8s-code.html)
 
 <br>
 
@@ -1730,61 +897,7 @@ console.log(b);
 >
 > 변영재 교수팀은 극저온 환경이나 복잡한 장치 없이도 전자기 유도 투과가 가능한 방법을 찾아냈습니다. 절연체 위에 '직사각형 속 사인곡선이 반복되는 무늬'를 새기자 특정 주파수의 전파가 금속을 통과하는 걸 발견한 겁니다. 무늬의 크기나 배치를 바꾸면 통과하는 주파수 범위도 조절할 수 있었다고 합니다.
 
-<br>
-
-[오라클 SQL과 PL/SQL을 다루는 기술](https://thebook.io/006696/)
-
-<br>
-
-[egghead](egghead.io)
-
-<br>
-
-[dawnlabs/carbon](https://github.com/dawnlabs/carbon)
-
-<br>
-
-[W3Schools How To](https://www.w3schools.com/howto/default.asp)
-
-<br>
-
-[Servlet Concurrency](http://tutorials.jenkov.com/java-servlets/servlet-concurrency.html)
-
-<br>
-
-[Java Multithreading Concurrency Interview Questions and Answers](https://www.journaldev.com/1162/java-multithreading-concurrency-interview-questions-answers)
-
-<br>
-
-[Mac Terminal 명령어](https://github.com/tadkim/infra/wiki/Mac-::-%ED%84%B0%EB%AF%B8%EB%84%90-%EB%AA%85%EB%A0%B9%EC%96%B4)
-
-<br>
-
-[Linux vim command](https://www.computerhope.com/unix/vim.htm)
-
-<br>
-
-[How to Change File Extensions of Files via Command Line in Mac OS](http://osxdaily.com/2017/05/12/change-all-file-extensions-command-line/)
-
-<br>
-
-[Master the command line: Copying and moving files](https://www.macworld.com/article/2080814/master-the-command-line-copying-and-moving-files.html)
-
-<br>
-
-[Developing with iOS and WebSockets on Localhost](https://www.dev6.com/Developing-with-iOS-and-WebSockets-on-Localhost)
-
-<br>
-
-[STAR: Visual Computing in Materials Science](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13214)
-
-> ### Abstract
->
-> Visual computing has become highly attractive for boosting research endeavors in the materials science domain. Using visual computing, a multitude of different phenomena may now be studied, at various scales, dimensions, or using different modalities. This was simply impossible before. Visual computing techniques provide novel insights in order to understand complex material systems of interest, which is demonstrated by strongly rising number of new approaches, publishing new techniques for materials analysis and simulation.
->
-> Outlining the proximity of materials science and visual computing, this state of the art report focuses on the intersection of both domains in order to guide research endeavors in this field. We provide a systematic survey on the close interrelations of both fields as well as how they profit from each other. Analyzing the existing body of literature, we review the domain of visual computing supported materials science, starting with the definition of materials science as well as material systems for which visual computing is frequently used. Major tasks for visual computing, visual analysis and visualization in materials sciences are identified, as well as simulation and testing techniques, which are providing the data for the respective analyses. We reviewed the input data characteristics and the direct and derived outputs, the visualization techniques and visual metaphors used, as well as the interactions and analysis workflows employed. All our findings are finally integrated in a cumulative matrix, giving insights about the different interrelations of both domains. We conclude our report with the identification of open high level and low level challenges for future research.
-
-<br>
+<br><br>
 
 > 어엉부엉 @d_ijk_stra
 >
@@ -1799,12 +912,6 @@ console.log(b);
 > <img src="https://pbs.twimg.com/media/Df-QyogUcAYppJc.jpg">
 
 <br>
-
-[HOW TO DRAW X AND Y AXIS IN COMPUTER GRAPHICS (C++ PROGRAMMING)](https://www.youtube.com/watch?v=t1UinBoo8rc)
-
-<br>
-
-[FPGAs and OpenCL: What’s Up?](https://www.infoworld.com/article/3245753/hardware/fpgas-and-opencl-what-s-up.html)
 
 <br>
 
@@ -1852,62 +959,9 @@ console.log(b);
 
 <br>
 
-[Ultrasonic Radar Implementation on FPGA](https://www.hackster.io/beste-caferoglu/ultrasonic-radar-implementation-on-fpga-665c26)
-
-<br>
-
-[FPGA Computer Graphics](https://www.hackster.io/peptenarubeatrice/fpga-computer-graphics-325fa4)
-
 <br>
 
 [Digital Design and Computer Architecture](https://www.amazon.com/Digital-Design-Computer-Architecture-Second/dp/0123944244/ref=sr_1_11?s=books&ie=UTF8&qid=1529141944&sr=1-11&keywords=digital+design)
-
-<br>
-
-[Agile All-Digital RF Transceiver Implemented in FPGA](https://ieeexplore.ieee.org/document/7898863/)
-
-<br>
-
-[Can we use C++ to program FPGAs instead of VHDL?](https://www.quora.com/Can-we-use-C++-to-program-FPGAs-instead-of-VHDL)
-
-<br>
-
-[Visual Simulation Publications](http://simulation.dongguk.edu/mediawiki/index.php/Publications)
-
-<br>
-
-[Water simulation using a responsive surface tracking for flow-type changes](https://link.springer.com/article/10.1007/s00371-015-1080-4)
-
-<br>
-
-[2017년 대학원 진학 안내](https://blog.naver.com/atelierjpro/220998275865)
-
-> "아이작 뉴턴은 책을 한장 한장 읽어나가다가 막히거나 이해가 되지 않으면 다시 처음으로 돌아가서 한장 한장 읽어나갔다고 합니다. 절대로 꾀부리지 마세요." - 홍정모
-
-<br>
-
-> Rinae @adhrinae
->
-> 더 보기 Rinae 님이 리트윗했습니다 Sarah Drasner
-> 요즘은 뭔가를 직접 만들기보다 깃헙에서 간단하면서 새로운 영감을 주는 라이브러리의 코드를 직접 손으로 옮겨 적어보는 일이 많다. 언젠가 해당 코드를 급하게 복붙할 일이 있어도 직접 이해라도 해 보려고 노력한 경우와 그렇지 않은 경우는 큰 차이가 날 것이다.
->
-> 
->
-> Sarah Drasner @sarah_edo
->
-> Many many years after reading "Learn Python the Hard Way" the *most* valuable part of the whole book for me was in the introduction. It has informed so much of how I've taught myself over the years.
->
-> <img src="https://pbs.twimg.com/media/DfsVmNBUYAIlX0f.jpg">
->
-> [오후 5:41 - 2018년 6월 14일](https://twitter.com/sarah_edo/status/1007422841766100992)
->
-> 
->
-> [오후 9:47 - 2018년 6월 14일](https://twitter.com/adhrinae/status/1007484606084333568)
-
-<br>
-
-[Becoming a 10x Developer](https://kateheddleston.com/blog/becoming-a-10x-developer)
 
 <br>
 
@@ -1919,58 +973,8 @@ console.log(b);
 
 <br>
 
-[WebSocket과 Socket.io](https://d2.naver.com/helloworld/1336)
-
-<br>
-
-[Elasticsearch Reference](https://elasticsearch.oofbird.net/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
-
-<br>
-
-[bash-handbook](https://github.com/denysdovhan/bash-handbook/blob/master/translations/ko-KR/README.md)
-
-<br>
-
-[개발자, 데이터 과학자, 데브옵스 전문가를 평가하자··· 테스트 프로젝트 예제](http://www.ciokorea.com/news/38529)
-
-<br>
-
-[2018 개발자 기술백서 (Developer Skills Report)](http://media.fastcampus.co.kr/knowledge/2018-developer-skills-report/)
-
-<br>
-
-[Documenting with Sphinx and Readthedocs](https://www.pythonforthelab.com/blog/documenting-with-sphinx-and-readthedocs/)
-
-<br>
-
-[Building and Documenting Python REST APIs With Flask and Connexion](https://realpython.com/flask-connexion-rest-api/)
-
-<br>
-
-[How to get HTTPS working on your local development environment in 5 minutes](https://medium.freecodecamp.org/how-to-get-https-working-on-your-local-development-environment-in-5-minutes-7af615770eec)
-
-<br>
-
-[인종과 지능의 관계는 논할 가치가 없는 주제입니다(1/2)](http://newspeppermint.com/2018/06/11/m-race1/)
-
-<br>
-
-[인종과 지능의 관계는 논할 가치가 없는 주제입니다(2/2)](http://newspeppermint.com/2018/06/11/m-race2/)
-
-<br>
-
 > [-5-](https://leenotes1.blogspot.com/2018/06/180610.html) 
 > 어릴적 다니던 모 학원의 선생님이 강의 중에 "열심히 했는데도 성적이 나오지 않는다는 것은, 열심히 하지 않았거나 시험에 나오지 않는 것을 열심히 했다는 뜻이다" 라고 하셨던 것을 아직까지도 기억한다. 아마 그 말에 꽤 공감을 하고 있었기 때문에 아직까지 기억을 하는 것 같다. 과연 열심히 하고 있는 것인지, 필요한 부분을 열심히 하고 있는 것인지를 자문하는 과정은 늘 필요하다고 본다. 그리고 만약 중요한 것에 열중하고 있음이 분명함에도 성과가 나오지 않는다면, 거기서 더 필요한 것은 시간이라고 생각한다. 시간이 무제한적이지 않다는 점이 문제이지만, 그래도 더 해보는 것 외에 다른 방법은 없다.
->
-> 
-
-<br>
-
-> 朴聖國, Shawn @sungkkshawnpark
->
-> 프로그래밍 공부할 때 결코 수학부터 공부하면 안 된다. 그건 몸을 만들고 싶다고 운동생리학부터 배우겠다는 꼴이다. 그딴 식으로는 절대로 몸을 만들 수 없다. 프로그래밍의 숙련도를 결정하는 것은 전산학 지식도 아니고 프로그래밍 연습 시간 그 자체다. 자신의 아집을 앞세우면 배울 수가 없다.
->
-> [오후 3:50 - 2018년 6월 10일](https://twitter.com/sungkkshawnpark/status/1005945327604547585)
 
 <br>
 
@@ -2040,89 +1044,11 @@ console.log(b);
 >
 > [오전 8:47 - 2017년 6월 25일](https://twitter.com/sungkkshawnpark/status/879003048088973312)
 
-   
-
-[Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet)
-
-<br>
-
-[A step by step guide on preparing and submitting a pull request](https://github.com/PointCloudLibrary/pcl/wiki/A-step-by-step-guide-on-preparing-and-submitting-a-pull-request)
-
-<br>
-
-[Git Tutorial: 10 Common Git Problems and How to Fix Them](https://www.codementor.io/citizen428/git-tutorial-10-common-git-problems-and-how-to-fix-them-aajv0katd)
-
-<br>
-
-[Vim Cheat Sheet](https://vim.rtorr.com/)
-
-<br>
-
-[A QUICK CHEAT SHEET TO THE UNIX/MAC TERMINAL](https://learntocodewith.me/command-line/unix-command-cheat-sheet/)
-
-<br>
-
-[The evidence that shows Iron Dome is not working](https://thebulletin.org/evidence-shows-iron-dome-not-working7318)
-
-<br>
-
-[How to Install and Configure Apache Tomcat 9 on Ubuntu 18.04 LTS](https://www.howtoforge.com/tutorial/ubuntu-apache-tomcat/)
-
-<br>
-
-[How can vim make you a better developer](https://dev.to/pmihaylov/how-can-vim-make-you-a-better-developer-2c3i)
-
-<br>
-
-[Javascript in one pic](https://github.com/coodict/javascript-in-one-pic/blob/master/README.md)
-
-<br>
-
-[In Linux directories are basically files. How is it in Windows?](https://www.quora.com/In-Linux-directories-are-basically-files-How-is-it-in-Windows/answer/Vern-Hart?share=541e3d01&srid=XAfq)
-
-<br>
-
-[Build Your Own Container Using Less than 100 Lines of Go](https://www.infoq.com/articles/build-a-container-golang)
-
-<br>
-
-[Docker and Go: why did we decide to write Docker in Go?](https://www.slideshare.net/jpetazzo/docker-and-go-why-did-we-decide-to-write-docker-in-go)
-
-<br>
-
-[Frontend 지원 테스트 2](https://github.com/purpleworks/coding_test/blob/master/Frontend/Test2/README.md)
-
-<br>
-
-[AI Winter Is Well On Its Way](https://blog.piekniewski.info/2018/05/28/ai-winter-is-well-on-its-way/)
-
-<br>
-
-[Get a full fake REST API with zero coding in less than 30 seconds (seriously)](https://github.com/typicode/json-server)
-
-<br>
-
-[jQuery 보다 먼저 알았으면 좋았을 것들](http://blog.jeonghwan.net/2018/01/25/before-jquery.html)
-
-<br>
+ <br>
 
 [Hedy Lamarr – the 1940s ‘bombshell’ who helped invent wifi](https://www.theguardian.com/film/2018/mar/08/hedy-lamarr-1940s-bombshell-helped-invent-wifi-missile)
 
-<br>
-
-> JP.Jung_대마왕 @JPcorps
->
-> 이제부터 열심히 하겠다는 말을 별로 안 믿는 편인데 보통 열심히라는건 갑자기 되는게 아니라 평소 생활 습관에 가깝고 평소 열심히 살았던 사람들은 뭐가 되었건 뭐라도 하나 이미 잘 하고 있음. 주변에서는 그런 사람들을 보고 재능있다라고 얘기하지.
->
-> [오전 1:06 - 2018년 5월 27일](https://twitter.com/JPcorps/status/1000649463503859712)
->
-> 
->
-> JP.Jung_대마왕 @JPcorps
->
-> 2개씩이나 잘하는 것이 있다면 3개씩이나 더 필요할 리가 없습니다. 그 3개는 잘하는 다른 사람에게 맡기고 본인은 2개만 할 수 있게 해주는 회사가 성공할 회사입니다.
-
-<br>
+<br><br>
 
 > énie @enie_latente
 >
@@ -2141,42 +1067,6 @@ console.log(b);
 
 <br>
 
-[Apple’s earbuds were inspired by the dark side, says chief designer Jony Ive](https://www.theverge.com/2017/7/26/16031546/apple-earbuds-stormtroopers-star-wars-jonathan-ive)
-
-<br>
-
-[신규 Web 서비스시 고려해 볼 사항](http://kwonnam.pe.kr/wiki/web/%EC%8B%A0%EA%B7%9C%EC%84%9C%EB%B9%84%EC%8A%A4)
-
-<br>
-
-[Top SQL Interview Questions And Answers](https://intellipaat.com/interview-question/sql-interview-questions/)
-
-<br>
-
-[45 Essential SQL Interview Questions](https://www.toptal.com/sql/interview-questions)
-
-<br>
-
-[50 Servlet Interview Questions and Answers](https://www.journaldev.com/2015/servlet-interview-questions-and-answers)
-
-<br>
-
-[HTTrack WEBSITE COPIER](https://www.httrack.com/)
-
-<br>
-
-[STRML : Projects and Work](http://strml.net/)
-
-<br>
-
-> 朴聖國, Shawn @sungkkshawnpark
->
-> 의미 있는(meaningful) 삶은 개인이 추구하는 가치와 행동의 정합성이 높은 삶. 다시 말해, 개인이 아는 것과 행동하는 것이 일치하는 삶. 대부분의 인간들이 욕심쟁이나 허풍쟁이인 것은 대개 자신이 중요하다고 생각하는 것을 “얻는(acquire)” 방향으로 행동하지 않기 때문이다. 대개 원하기만 한다.
->
-> [오후 10:06 - 2018년 5월 23일](https://twitter.com/sungkkshawnpark/status/999517040011456512)
-
-<br>
-
 > 안희종  @heejongahn
 >
 > 중학생 땐 나름 중등부 화학 올림피아드 금상까지 타고, 과학고 가서도 화학 전공하고, 심지어는 잠깐이지만 대학에서도 화학과였던 때가 있는데 지금은 너무 놀라울 정도로 전부 까먹었다. 친구들 만나서 종종 얘기하다 보면 중학교 내용도 전혀 기억 못하는 나에게 좀 놀란다. 신기하고 좀 슬프기도.
@@ -2191,56 +1081,7 @@ console.log(b);
 
 <br>
 
-[JSP Interview Questions and Answers](https://www.journaldev.com/2110/jsp-interview-questions-and-answers)
-
-<br>
-
-[Scientists: Ozone-Eating Chemical Mysteriously Rising](https://learningenglish.voanews.com/a/scientists-say-ozone-eating-chemical-is-mysteriously-rising/4398631.html)
-
-<br>
-
-[30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
-
-<br>
-
-[Information wars: How Europe became the world’s data police](https://www.ft.com/content/1aa9b0fa-5786-11e8-bdb7-f6677d2e1ce8)
-
-<br>
-
-[Chart Models click to load an editable example](http://nvd3.org/livecode/)
-
-<br>
-
-[D3 Tips and Tricks v3.x](https://leanpub.com/D3-Tips-and-Tricks)
-
-<br>
-
-[The Big List of D3.js Examples](http://christopheviau.com/d3list/)
-
-<br>
-
-[Learn to Create D3.js Data Visualizations by Example](https://www.sitepoint.com/d3-js-data-visualizations/)
-
-<br>
-
 [Shuji Nakamura - Facts](https://www.nobelprize.org/nobel_prizes/physics/laureates/2014/nakamura-facts.html)
-
-<br>
-
-[Smarter brains run on sparsely connected neurons](https://www.sciencedaily.com/releases/2018/05/180517102236.htm)
-
-> Date: May 17, 2018 <br>
-> Source: Ruhr-University Bochum <br>
-> Summary: <br>
-> The more intelligent a person, the fewer connections there are between the neurons in his cerebral cortex. This is the result of a study conducted by neuroscientists; the study was performed using a specific neuroimaging technique that provides insights into the wiring of the brain on a microstructural level. <br>
-
-<br>
-
-[Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-
-<br>
-
-[Learn D3.js in 5 minutes](https://medium.freecodecamp.org/learn-d3-js-in-5-minutes-c5ec29fb0725)
 
 <br>
 
@@ -2272,67 +1113,7 @@ console.log(b);
 
 <br>
 
-[Algorithms Behind Modern Storage Systems](https://queue.acm.org/detail.cfm?id=3220266)
-
-<br>
-
-[Converting a Node List to an Array](http://www.jstips.co/en/javascript/converting-a-node-list-to-an-array/)
-
-<br>
-
-[PacVim – A CLI Game To Learn Vim Commands](https://www.ostechnix.com/pacvim-a-cli-game-to-learn-vim-commands/)
-
-<br>
-
-[[JS #4] Array 메서드들: concat, join, indexOf, slice, sort, push, …](https://medium.com/@hongkevin/js-4-array-%EB%A9%94%EC%84%9C%EB%93%9C%EB%93%A4-concat-join-indexof-slice-sort-push-4eec70d564e7)
-
-<br>
-
-[regex 101](https://regex101.com/)
-
-<br>
-
-[RegexOne](https://regexone.com/)
-
-<br>
-
-[combineLatest vs merge](http://reactive.how/)
-
-<br>
-
-[A fun and colorful explanation of how DNS works.](https://howdns.works/)
-
-<br>
-
-[Let’s Make a Map](https://bost.ocks.org/mike/map/)
-
-<br>
-
-[[D3.js] 배우는 방법](http://mobicon.tistory.com/275)
-
-<br>
-
-[D3 Workshop](https://bost.ocks.org/mike/d3/workshop/#0)
-
-<br>
-
 [Eigenvectors and Eigenvalues](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
-
-<br>
-
-[JSP Tutorial for Beginners: Learn in 7 Days](https://www.guru99.com/jsp-tutorial.html)
-
-<br>
-
-[[HTML5] 꼼꼼히 살펴보는 SCRIPT 엘리먼트](https://taegon.kim/archives/6804)
-
-<br>
-
-[Google Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/tutorial?hl=ko)
-
-<br>
-
-[SVG, JS, CSS로 만드는 라이언 로그인 폼](https://taegon.kim/archives/9658)
 
 <br>
 
@@ -2341,18 +1122,6 @@ console.log(b);
 > 탁월한 개발자는 주어진 문제에 최상의 해결책을 파악하고 그 해결책이 커뮤니케이션이든 개발이든 리더십이든 단시간내에 부족한 부분은 빨리 배우고 익히며 자신을 변화시켜 그 상황에 최적화된 모습을 갖춘다. 이 글의 제목처럼 카멜레온같은 개발자가 되야 한다.
 
 > 과거에 내가 약간 복잡한 알고리듬을 만들어서 실리콘밸리에 있는 개발자들에게 Swift 코드로 구현하라고 한적이 있다. 나름 복잡하고 테스트를 많이 해야하는 것이라서 대충 3주의 스케쥴로 잡았는데 2주만에 끝내서 상당히 기뻐했다. 다음에 같은 알고리듬을 중국에 있는 팀에게 Java 로 구현하라고 했는데 딱 3일 걸렸다. 나는 미국의 동부, 서부, 인도, 중국, 파키스탄, 한국등의 개발자들과 일을 해봤는데 실리콘밸리나 타지역이나 평균개발자들의 능력은 전혀 차이가 없다. 그런데 일반적인 시각은 실리콘밸리의 개발자들이 보다 더 나은 개발자들이라는 인식이 있다. 왜 그럴까? 실리콘밸리가 타지역과 가장 큰 차이점은 극소수의 천재들이 있다는 것이다. 그런 천재들이 구글같은 회사도 만들고 AWS 같은 기술들을 만들어서 어마어마한 마켓을 만들어 준다. 그리고 그 조직에 속해있는 일반 개발자들은 거기에 그냥 묻혀가는 면이 있다.
-
-<br>
-
-[How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)
-
-<br>
-
-[파싱이론 이야기 2](https://daesan.com/2018/05/parsing-theory-story-2)
-
-<br>
-
-[게임 서버 프로그래밍을 시작하는 분들을 위한 몇가지 문서들 ](http://blog.naver.com/imays/221274562819)
 
 <br>
 
@@ -2365,20 +1134,6 @@ console.log(b);
 <br>
 
 [Welcome to Project Soli](https://www.youtube.com/watch?v=0QNiZfSsPc0&feature=youtu.be)
-
-<br>
-
-[Getting Started With WebAssembly](https://tutorialzine.com/2017/06/getting-started-with-web-assembly)
-
-<br>
-
-[궁극의 프로그래밍 언어 1](https://daesan.com/2018/05/ultimate-programming-language-1)
-
-> 우리는 이제 궁극의 언어가 갖춰야할 두가지 조건을 찾았다. 바로 1) 코드를 데이터로 다루는 기능과 2) 로우레벨 접근성이다. 그리고 마침, 이 두가지 조건을 완벽하게 갖추고 있는 프로그래밍 언어가 있다. 어떤 언어냐고? 바로 어셈블리어다.
->
-> 어셈블리어에서 코드를 데이터로 취급할 수 있다고? 당연하다. (기계어로 변환된) 어셈블리어 코드는 그냥 바이너리 데이터이기 때문이다. 예를 들어, 특정 데이터 영역(즉 메모리)에 “기계어” 를 저장하고, PC 레지스터에 해당 영역의 주소를 입력하는 순간, 그 데이터는 이제 CPU 인스트럭션 코드의 나열로 인식되며 순차적으로 IR 레지스터로 카피돼 CPU 에서 실행되기 시작할 것이다.
->
-> 로우레벨 접근성은 두말할 필요도 없다. 어셈블리어와 로우레벨은 마치 동의어나 다름없기 때문이다. 이제 적어도 리스프 보다는 어셈블리어가 “궁극의 프로그래밍 언어” 에 한발짝 더 가까이 다가서게 되었다.
 
 <br>
 
@@ -2418,62 +1173,7 @@ console.log(b);
 
 <br>
 
-[개발자를 위한 웹 기술](https://developer.mozilla.org/ko/docs/Web)
-
 <br>
-
-[Exporting Data from PDFs with Python](https://www.blog.pythonlibrary.org/2018/05/03/exporting-data-from-pdfs-with-python/)
-
-<br>
-
-[What is 1.1.1.1?](https://www.cloudflare.com/learning/dns/what-is-1.1.1.1/)
-
-<br>
-
-[하지만 그 사람의 활동과 커리어를 존경한다.](https://twitter.com/adhrinae/status/994369305885077505)
-
-<br>
-
-> Rinae @adhrinae
->
-> 어떤 개발자 선배님은 알고 보니 나의 고등학교 후배님이었다.
-> 심지어 내가 모교에 교생실습을 가던 해에 그 학교에 학생으로 재학하고 있을 정도로 나이차이가 났다. 하지만 그 사람의 활동과 커리어를 존경한다.
-> 그만큼 나이따윈 중요한게 아니다.
->
-> 오후 5:11 - 2018년 5월 9일
-
-<br>
-
-[Clean architectures in Python: a step-by-step example](http://blog.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/)
-
-<br>
-
-
-
-> Rinae @adhrinae
->
-> 가끔은 ‘팀에 퍼블리셔가 필요하지 않겠느냐’ 라는 질문을 받곤 한다.
-> 물론 숙련된 퍼블리셔의 크로스플랫폼 지원을 위한 CSS 설정 및 시맨틱 태그 기반의 미려한 페이지 구축은 힘들 수 있지만, 프론트엔드 개발자라면 응당 일정 수준 이상의 마크업(HTML, CSS) 스킬은 가지고 있어야한다고 생각한다.
->
-> Rinae @adhrinae
->
-> 어차피 Vue, React 등으로 프론트엔드 개발을 하다보면 퍼블리셔와의 협업은 문제가 된다. 이상적인것도 아니고 최저 한도로 협업을 할 수 있는 퍼블리셔의 최저 한도는 ‘한 페이지에서 공통적으로 재사용 가능하거나 별도로 구축되어야 하는 컴포넌트의 단위를 나눌 수 있는 안목이 있는 사람’ 같다.
->
-> Rinae @adhrinae
->
-> 솔직히 나도 마크업 역량이 내 개발 역량 중에서 제일 낮은 수치이긴 하지만, 최소한의 디자인 가이드라인이 제공되면 최대한 그 디자인에 가깝게 페이지를 그려낼 수준은 된다(검색해서 구현하는 것 포함). 이것도 못하겠다고 하면 대체 자신을 어떻게 프론트엔드 개발자라고 소개한단 말인가?
->
-> [오전 4:40 - 2018년 5월 9일](https://twitter.com/adhrinae/status/994180184545767424)
-
-
-
-<br>
-
-[ES6 문법 정리](https://jsdev.kr/t/es6/2944)
-
-<br>
-
-
 
 > Chris Ohk  @utilforever
 >
@@ -2481,81 +1181,7 @@ console.log(b);
 >
 > [오전 6:22 - 2018년 5월 8일](https://twitter.com/utilforever/status/993843648675528704)
 
-
-
-<br>
-
-[py2exe와 py2app을 통한 Windows/OS X용 실행파일 만들기](https://spoqa.github.io/2013/05/21/py2exe-and-py2app.html)
-
-<br>
-
-[성공적으로 재택근무 시스템을 도입하는 방법](http://ppss.kr/archives/88997)
-
-<br>
-
-[Discover the world by Software](https://lqez.github.io/blog/discover-the-world-by-software.html)
-
-<br>
-
-> asbubam	@asbubam
->
-> 지하철이 한강을 지나면, 미세먼지를 눈으로 확인한다. 그러다 문득 십분전, 삼십분 전, 한 시간 전에 해당 위치에 당도했던 사람들이 전해주는 정보를 지역기반으로 정리해서 제공해주면 어떨까 하는 생각이 들었다. 잠실 마약빵집 십분전에 들렸는데 사람이 많아 대기했어요. 처럼 근현재의 정보공유
->
-> [오후 3:01 - 2018년 5월 8일](https://twitter.com/asbubam/status/993974313505112064)
-
-
-
-<br>
-
-[Learn these neat JavaScript tricks in less than 5 minutes](https://medium.freecodecamp.org/9-neat-javascript-tricks-e2742f2735c3)
-
-<br>
-
-[Akin's Laws of Spacecraft Design](http://spacecraft.ssl.umd.edu/akins_laws.html)
-
-<br>
-
-[Pure Python vs NumPy vs TensorFlow Performance Comparison](https://realpython.com/numpy-tensorflow-performance/)
-
-<br>
-
-[Multi Thread 환경에서의 올바른 Singleton](https://medium.com/@joongwon/multi-thread-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98-%EC%98%AC%EB%B0%94%EB%A5%B8-singleton-578d9511fd42)
-
-<br>
-
-[AI researchers allege that machine learning is alchemy](http://www.sciencemag.org/news/2018/05/ai-researchers-allege-machine-learning-alchemy)
-
-<br>
-
->Rahimi offers several suggestions for learning which algorithms work best, and when. For starters, he says, researchers should conduct "ablation studies" like those done with the translation algorithm: deleting parts of an algorithm one at a time to see the function of each component. He calls for "sliced analysis," in which an algorithm's performance is analyzed in detail to see how improvement in some areas might have a cost elsewhere. And he says researchers should test their algorithms with many different conditions and settings, and should report performances for all of them.
->
->Ben Recht, a computer scientist at the University of California, Berkeley, and coauthor of Rahimi's alchemy keynote talk, says AI needs to borrow from physics, where researchers often shrink a problem down to a smaller "toy problem." "Physicists are amazing at devising simple experiments to root out explanations for phenomena," he says. Some AI researchers are already taking that approach, testing image recognition algorithms on small black-and-white handwritten characters before tackling large color photos, to better understand the algorithms' inner mechanics.
-
-<br>
-
-> Not everyone agrees with Rahimi and Recht's critique. Yann LeCun, Facebook's chief AI scientist in New York City, worries that shifting too much effort away from bleeding-edge techniques toward core understanding could slow innovation and discourage AI's real-world adoption. "It's not alchemy, it's engineering," he says. "Engineering is messy."
-
-<br>
-
-[이벤트 버블링, 이벤트 캡처 그리고 이벤트 위임까지](https://joshua1988.github.io/web-development/javascript/event-propagation-delegation/)
-
-<br>
-
-> 얼마 전 Vanilla JS로 꽤 복잡한 웹 애플리케이션을 구현할 일이 생겨 오랜만에 순수 자바스크립트를 들여다보게 되었습니다. 구현 과정에서 이벤트 캡쳐와 버블링에 대해 정확히 지식이 정리가 되어 있지 않다는 것을 깨닫고 아래와 같이 정리하게 되었네요. 브라우저에서 어떻게 특정 화면 요소의 이벤트를 감지하는지 그리고 그 이벤트를 어떻게 다른 화면 요소에 전파하는지 같이 알아보겠습니다.
-
-<br>
-
-[Self-driving cars are useless without specialized maps—this invention could free them](https://www.technologyreview.com/the-download/611093/self-driving-cars-are-useless-without-specialized-maps-this-invention-could-free/)
-
-<br>
-
-> **Some background**: Autonomous cars currently undergoing testing drive only on streets with meticulously labeled maps that take up huge amounts of storage space. “Maps for even a small city tend to be gigabytes; to scale to the whole country, you’d need incredibly high-speed connections and massive servers,” said Teddy Ort, a grad student at MIT’s computer science and artificial intelligence lab (CSAIL).
->
-> **The solution**: A new, more adaptable approach by the CSAIL team, called MapLite, uses simple GPS data to plot a path to the vehicle’s destination, and LIDAR sensors to navigate along the way. The sensors estimate curb distances and the road conditions more than 100 feet ahead of the vehicle.
-
-
-
-<br>
+<br><br>
 
 > redacted @29979245oo
 >
@@ -2579,31 +1205,7 @@ console.log(b);
 
 <br>
 
-[Comparing the Performance between Native iOS (Swift) and React-Native](https://medium.com/the-react-native-log/comparing-the-performance-between-native-ios-swift-and-react-native-7b5490d363e2)
-
-<br>
-
-> React-Native is a cross-platform mobile framework that lets you build apps using only JavaScript. However, unlike other hybrid mobile technologies you are not building a “mobile Web App” (Web App wrapped in a native container). In the end, you get the real thing. Your JavaScript codebase is compiled to a mobile app indistinguishable from an iOS app built using Objective-C or an Android app using Java. This means that React-Native provides the benefits from both Native and Hybrid Mobile Apps.
-
-<br>
-
-> The mobile applications I made for Swift and React-Native are almost identical in their physical appearance. As you can see from the data I collected through measuring both of the application’s CPU, GPU, and Memory during the tasks in each of the four tabs, the apps are also almost identical in how they perform. Swift won overall in the CPU category, React-Native won the GPU category (barely), and React-Native won big time in the Memory category. I can infer from this data that Swift uses the CPU of the iPhone more efficiently than React-Native, React-Native uses the GPU of the iPhone slightly more effectively than Swift, and that React-Native somehow leverages the iPhone’s memory much more effectively than Swift does. React-Native, winning two out of three categories, comes in first place as the better performing platform.
-
-<br>
-
-> I am now more convinced than ever that React-Native is the framework of the future — it has so many advantages and so few disadvantages. React-Native can be written in Javascript (a language so many developers already know), its codebase can be deployed to both iOS and Android platforms, it is faster and cheaper to produce apps, and developers can push updates directly to users so that users do not have to worry about downloading updates. Best of all, at only a year old, React-Native is already outperforming native iOS Swift applications.
-
-
-
-<br>
-
-[Minimal Viable Product](https://blog.deming.org/2014/11/minimal-viable-product/)
-
-<br>
-
 [프로그래머로서의 성장을 도왔던 태도들](http://ahnheejong.name/articles/becoming-better-programmer/)
-
-
 
 <br>
 
@@ -2657,63 +1259,7 @@ console.log(b);
 
 
 
-<br>
-
-[Deep Learning meets Physics: Restricted Boltzmann Machines Part I](https://towardsdatascience.com/deep-learning-meets-physics-restricted-boltzmann-machines-part-i-6df5c4918c15)
-
-<br>
-
-[An introduction to Python bytecode](https://opensource.com/article/18/4/introduction-python-bytecode)
-
-<br>
-
-[Web Developer Security Checklist](https://medium.com/simple-security/web-developer-security-checklist-f2e4f43c9c56)
-
-<br>
-
-[Real Python](https://realpython.com/)
-
-<br>
-
-[HTTPS는 HTTP보다 빠르다](https://tech.ssut.me/2017/05/07/https-is-faster-than-http/)
-
-<br>
-
-[[NDC 18] ‘모두가 망했다고 했다’, 쿠키런 오븐브레이크의 이유있는 역주행](http://thisisgame.com/webzine/gameevent/nboard/227/?n=82240)
-
-<br>
-
-[Inside the Linux boot process](https://www.ibm.com/developerworks/library/l-linuxboot/)
-
-<br>
-
-[Create TUI on Python](https://medium.com/@bad_day/create-tui-on-python-71377849879d)
-
-<br>
-
-[23 JavaScript design patterns](https://boostlog.io/@sonuton/23-javascript-design-patterns-5adb006847018500491f3f7f)
-
-<br>
-
-[Mustard UI is a starter CSS framework that actually looks good.](https://mustard-ui.com/)
-
-<br>
-
-[Making art with SSH key randomart](https://blog.benjojo.co.uk/post/ssh-randomart-how-does-it-work-art)
-
-<br>
-
-[TIC-80 tiny computer](https://tic.computer/)
-
-<br>
-
-[Parsing JSON is a Minefield](http://seriot.ch/parsing_json.php)
-
-<br>
-
-[윈도우 백업 시스템, 아직도 애플 타임머신을 따라잡지 못하는 이유](http://www.itworld.co.kr/news/109192)
-
-<br>
+<br><br>
 
 [I interviewed at five top companies in Silicon Valley in five days, and luckily got five job offers](https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-valley-in-five-days-and-luckily-got-five-job-offers-25178cf74e0f)
 
@@ -2734,49 +1280,11 @@ console.log(b);
 
 <br>
 
-[C Is Not a Low-level Language](https://queue.acm.org/detail.cfm?id=3212479)
-
-<br>
-
-[530 Free Online Programming & Computer Science Courses You Can Start in May](https://medium.freecodecamp.org/530-free-online-programming-computer-science-courses-you-can-start-in-may-5e82f5307867)
-
-<br>
-
-[How I went from 33-year-old museum tour guide to professional Web Developer & UX Designer: My 18-month coding journey](https://medium.freecodecamp.org/the-post-i-hoped-to-write-for-18-months-2902d074f5ba)
-
-<br>
-
-[Want to be a top developer? You should build things. Here’s another list to get you started.](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-d3d058e4e472)
-
-<br>
-
-[10 Common Data Structures Explained with Videos + Exercises](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
-
-<br>
-
 [Can anyone at Google or Amazon share what algorithms you find most useful over the years of your career?](https://www.quora.com/Can-anyone-at-Google-or-Amazon-share-what-algorithms-you-find-most-useful-over-the-years-of-your-career/answer/Eugene-Yarovoi?share=dc5052f3)
 
 <br>
 
 [[B급 프로그래머] (Quora) 구글 또는 아마존에 다니는 경력 개발자들이 가장 유용하다고 생각하는 자료 구조는?](http://jhrogue.blogspot.kr/2018/04/b-quora.html)
-
-<br>
-
-[What happens before main() function is executed in C and why is it important?](http://mymicrocontroller.com/2018/04/03/what-happens-before-main-function-is-executed-in-c-and-why-is-it-important/)
-
-<br>
-
-[파싱이론 이야기 1](https://daesan.com/2018/05/parsing-theory-story-1)
-
-> 대학교 3학년을 마치고 1년 휴학을 하고 여름방학부터 1년 3개월 내내 컴퓨터 책만 읽었다. 물론 컴퓨터 책이라고 항상 다 명료하게 쓰여진건 아니었지만, 나는 다른 어느 과학이나 공학 분야보다 컴퓨터 책들이 잘 쓰여진 편이라고 생각한다. 어떻게 보면 내가 진로를 바꾼 가장 큰 이유가 이런 공부의 ROI 차이 때문이었을 것이다.
-
-<br>
-
-[After All These Years, the World is Still Powered by C Programming](https://www.toptal.com/c/after-all-these-years-the-world-is-still-powered-by-c-programming)
-
-<br>
-
-[크롬 개발자 도구를 이용한 자바스크립트 디버깅](https://subicura.com/2018/02/14/javascript-debugging.html)
 
 <br>
 
@@ -2802,60 +1310,7 @@ console.log(b);
 
 <br>
 
-[Studytonight](https://www.studytonight.com/)
-
-<br>
-
-[Pure CSS Francine](https://github.com/cyanharlow/purecss-francine)
-
-<br>
-
-[How to Efficiently Master the CSS Grid — in a Jiffy](https://medium.com/flexbox-and-grids/how-to-efficiently-master-the-css-grid-in-a-jiffy-585d0c213577)
-
-<br>
-
-[Understanding Flexbox: Everything you need to know](https://medium.freecodecamp.org/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af)
-
-<br>
-
-[Bootstrap 4: Everything You Need to Know](https://medium.freecodecamp.org/bootstrap-4-everything-you-need-to-know-c750991f6784)
-
-<br>
-
-["Von Neumann’s First Computer Program"](https://twitter.com/fermatslibrary/status/991301499799195648)
-
-> Fermat's Library  @fermatslibrary
->
-> PAPER
->
-> "Von Neumann’s First Computer Program" by Donald Knuth
->
-> In 1945 Von Neumann wrote a sorting algorithm for the EDVAC (Electronic Discrete Variable Automatic Computer)
-> This sorting algorithm later became known as Merge sort
->
-> Paper here: http://fermatslibrary.com/s/von-neumanns-first-computer-program 
-
-
-
-<br>
-
-[Shallow vs Deep Copying of Python Objects](https://realpython.com/copying-python-objects/)
-
-<br>
-
 [Python 3's pathlib Module: Taming the File System](https://realpython.com/python-pathlib/)
-
-<br>
-
-[TOR Anonymity: Things Not To Do While Using TOR](https://fossbytes.com/tor-anonymity-things-not-using-tor/)
-
-<br>
-
-[프론트엔드 개발자는 왜 구하기 어렵나요?](https://taegon.kim/archives/4810)
-
-<br>
-
-[Numerical Methods using Python (scipy)](https://www.southampton.ac.uk/~fangohr/teaching/python/book/html/16-scipy.html)
 
 <br>
 
@@ -2867,59 +1322,7 @@ console.log(b);
 
 <br>
 
-[파이썬 패키지](https://wikidocs.net/1418)
-
-<br>
-
 [HTML5 Video Destruction](http://craftymind.com/factory/html5video/CanvasVideo.html)
-
-<br>
-
-[HTTPS와 SSL 인증서](https://opentutorials.org/course/228/4894)
-
-<br>
-
-[개발자 비급(祕笈) – 1. 연봉은 실력의 결과가 아니다](http://channy.creation.net/blog/1186)
-
-<br>
-
-[IntelliJ 의 JShell Console 을 활용하자](https://www.popit.kr/intellij-%EC%9D%98-jshell-console-%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%98%EC%9E%90/)
-
-<br>
-
-[How Does Spotify Know You So Well?](https://medium.com/s/story/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
-
-<br>
-
-[Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/?hl=ko)
-
-<br>
-
-[Is FreeBSD faster than Linux?](https://www.quora.com/Is-FreeBSD-faster-than-Linux/answer/Ben-Lunsford?share=772c16a9&srid=XAfq)
-
-<br>
-
-[You don’t need a CS degree to be a successful engineer, but it helps.](https://www.reddit.com/r/programming/comments/8g2v6b/you_dont_need_a_cs_degree_to_be_a_successful/?st=JGND4TSJ&sh=dc88a01d)
-
-<br>
-
-[Object-Oriented Programming (OOP) in C](https://www.codementor.io/michaelsafyan/object-oriented-programming-in-c-du1081gw2)
-
-<br>
-
-[Let’s Make the Tiniest Blockchain Bigger](https://medium.com/crypto-currently/lets-make-the-tiniest-blockchain-bigger-ac360a328f4d)
-
-<br>
-
-[Let’s Build the Tiniest Blockchain](https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b)
-
-<br>
-
-[Hash Algorithms – How does SQL Server store Passwords?](http://sqlity.net/en/2460/sql-password-hash/)
-
-<br>
-
-[http-hash-server](https://github.com/Matt-Esch/http-hash-server)
 
 <br>
 
@@ -2929,29 +1332,9 @@ console.log(b);
 
 [First IC :)](http://sam.zeloof.xyz/first-ic/)
 
-<br>
-
-[맥을 사용한다면 외워야 할 단축키 12](https://www.huffingtonpost.kr/2014/04/17/story_n_5157924.html)
-
-<br>
-
-[Born vs Made Programmers](https://webapplog.com/born-vs-made-programmers/)
-
-<br>
-
 [Modern Theory of Deep Learning: Why Does It Work so Well](https://medium.com/mlreview/modern-theory-of-deep-learning-why-does-it-works-so-well-9ee1f7fb2808)
 
-<br>
-
-[Teach Yourself Computer Science](https://teachyourselfcs.com/)
-
-<br>
-
-[Could AI have saved the cyclist (had I programmed the Uber car)?](https://medium.com/@rebane/could-ai-have-saved-the-cyclist-had-i-programmed-the-uber-car-6e899067fefe)
-
-<br>
-
-[ Bool 변수 이름 제대로 짓기 위한 최소한의 영어 문법 ](https://soojin.ro/blog/naming-boolean-variables)
+<br>[Could AI have saved the cyclist (had I programmed the Uber car)?](https://medium.com/@rebane/could-ai-have-saved-the-cyclist-had-i-programmed-the-uber-car-6e899067fefe)
 
 <br>
 
@@ -3009,9 +1392,4 @@ console.log(b);
 >
 > 
 
-
-
-
-
 <br>
-
