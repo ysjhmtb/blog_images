@@ -3,6 +3,10 @@
 ```
 WK EP CA EE
 "하루하루는 성실하게. 인생 전체는 되는대로." - 이동진
+
+1) OPTION KELLY TASK
+2) N.CRUD
+3) DEV SIM OS
 ```
 
 <br><br>
