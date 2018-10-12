@@ -1,5 +1,13 @@
 <br><br>
 
+[한국인들이 저지르는 링크드인 실수 TOP 5 ](https://www.youtube.com/watch?v=G7jPNzx4oDU&feature=youtu.be)
+
+<br><br>
+
+[[영어면접 질문] What's Your Current Salary?](https://www.youtube.com/watch?v=Ta0ldAeZETo)
+
+ <br><br>
+
 [신한카드 후불교통카드 사용내역 확인하는법](https://blog.naver.com/holyah0923/221150544453)
 
 <br><br>
