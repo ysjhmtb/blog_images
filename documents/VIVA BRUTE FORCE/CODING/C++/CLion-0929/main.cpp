@@ -1,11 +1,14 @@
 #include <iostream>
 
-extern void cpp612v1();
+extern void cpp614t();
+extern void cpp614th();
+extern void cpp614s();
+extern void cpp614se();
 
 int main() {
 
 
-    cpp612v1();
+    cpp614se();
 
     return 0;
 }
