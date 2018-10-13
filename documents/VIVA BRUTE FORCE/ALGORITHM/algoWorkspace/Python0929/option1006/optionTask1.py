@@ -1,44 +1,11 @@
 '''
-
-https://aaronschlegel.me/black-scholes-formula-python.html
-
-
-#
-
-S, the spot price of the asset at time t
-T, the maturity of the option. Time to maturity is defined as T−t
-K, strike price of the option
-r, the risk-free interest rate, assumed to be constant between t and T
-σ, volatility of underlying asset, the standard deviation of the asset returns
-
-
-#
-
-N(d)  is the cumulative distribution of the standard normal variable Z
-
-N(d) = {1 / sqrt(2 * pi)} * { integral[-inf, d] e ^ { (-1 / 2) * x^2 } } dx
-
-
-C(S,t)  is the value at time t of a call option and P(S,t)
-is the value at time t of a put option.
-
-C(S, t) = S N(d1) - K { e^{-r (T - t) } } N(d2)
-
-P(S, t) = K { e^{-r (T - t)} } N(-d2) - S N(-d2)
-
-
-
-
-where
-
-
-d1 = { ln(S/K) + ( r +  { {sigma^2} / 2 } ) * (T - t) } /
-        { sigma * sqrt(T - t) }
-
-
-d2 = d1 - sigma * sqrt(T - t) =
-                { ln(S/K) + ( r -  { {sigma^2} / 2 } ) * (T - t) }  /
-                { sigma * sqrt(T - t) }
+ct = t시점의 유럽형 콜옵션의 가격
+pt = t시점의 유럽형 풋옵션의 가격
+St = 기초자산의 주가
+T - t = 만기까지의 시간
+K = 옵션의 행사가
+sigma = 기초자산의 변동성
+r = 이자율
 
 
 
@@ -141,8 +108,6 @@ https://brunch.co.kr/@investrecipe/16
 
 '''
 
-
-
 '''
 
 만일 2018-09-28: 1,109.76 이라면, 현재 날짜에서 현재 가격을 
@@ -170,59 +135,92 @@ json
 }
 '''
 
-
-
-
 import numpy as np
-import scipy.stats as si
-import sympy as sy
-import sympy.statistics as systats
-
+import math
 import matplotlib.pyplot as plt
 import csv
 import os
-
-
+from datetime import date
 
 
 class Toolbox:
 
+    # 입력받은 현재가에서 행사가 범위를 정하자.
+    def getKrange(self, curPrice):
+        Krange = []
+        start = curPrice * 0.95
+        end = curPrice * 1.05
+        slice = curPrice / 50
 
+        while start < end:
+            Krange.append(start)
+            start += slice
 
-    # 유로 콜옵션 심볼릭 연산
-    def euro_call_sym(self, S, K, T, r, sigma):
-        # euro_call_sym(50, 100, 1, 0.05, 0.25)
-        # S: spot price
-        # K: strike price
-        # T: time to maturity
-        # r: interest rate
-        # sigma: volatility of underlying asset
+        return Krange
 
-        N = systats.Normal(0.0, 1.0)
+    # 2018-09-14 형식을 입력받아 T - t를 구해야 한다.
+    def getTmt(self, T, t):
+        Tyear = int(T[0:4])
+        Tmonth = int(T[5:7])
+        Tday = int(T[8:])
 
-        d1 = (sy.ln(S / K) + (r + 0.5 * sigma ** 2) * T) / (sigma * sy.sqrt(T))
-        d2 = (sy.ln(S / K) + (r - 0.5 * sigma ** 2) * T) / (sigma * sy.sqrt(T))
+        tyear = int(t[0:4])
+        tmonth = int(t[5:7])
+        tday = int(t[8:])
 
-        call = (S * N.cdf(d1) - K * sy.exp(-r * T) * N.cdf(d2))
+        d0 = date(Tyear, Tmonth, Tday)
+        d1 = date(tyear, tmonth, tday)
+        delta = d0 - d1
+        return delta.days
 
-        return call
+    # 옵션 가격 계산에 필요한 d1
+    def d1(self, St, K, r, sigma, Tmt):
+        '''
 
-    # 유로 풋옵션 심볼릭 연산
-    def euro_put_sym(self, S, K, T, r, sigma):
-        # S: spot price
-        # K: strike price
-        # T: time to maturity
-        # r: interest rate
-        # sigma: volatility of underlying asset
+        :param St: 기초자산의 주가
+        :param K: 옵션의 행사가
+        :param r: 이자율
+        :param sigma: 기초자산의 변동성
+        :param Tmt: T-t 만기까지의 시간
+        :return: d1
+        '''
 
-        N = systats.Normal(0.0, 1.0)
+        d1 = {np.log(St / K) + (r + ((sigma * sigma) / 2)) * Tmt} / {sigma * math.sqrt(Tmt)}
+        return d1
 
-        d1 = (sy.ln(S / K) + (r + 0.5 * sigma ** 2) * T) / (sigma * sy.sqrt(T))
-        d2 = (sy.ln(S / K) + (r - 0.5 * sigma ** 2) * T) / (sigma * sy.sqrt(T))
+    # 옵션 가격 계산에 필요한 d2
+    def d2(self, d1, sigma, Tmt):
+        '''
 
-        put = (K * sy.exp(-r * T) * N.cdf(-d2) - S * N.cdf(-d1))
+        :param d1:
+        :param sigma: 기초자산의 변동성
+        :param Tmt: T-t 만기까지의 시간
+        :return: d2
+        '''
 
-        return put
+        d2 = d1 - sigma * math.sqrt(Tmt)
+        return d2
+
+    # cumulative standard normal distribution
+    def normal_cdf(self, x):
+        q = math.erf(x / math.sqrt(2.0))
+        return (1.0 + q) / 2.0
+
+    # 콜옵션 가격
+    def ct(self, St, T, t, K, sigma, r):
+        Tmt = self.getTmt(T, t)
+        d1 = self.d1(St, K, r, sigma, Tmt)
+        d2 = self.d2(d1, sigma, Tmt)
+        ct = St * self.normal_cdf(d1) - K * math.exp(-r * Tmt) * self.normal_cdf(d2)
+        return ct
+
+    # 풋옵션 가격
+    def pt(self, St, T, t, K, sigma, r):
+        Tmt = self.getTmt(T, t)
+        d1 = self.d1(St, K, r, sigma, Tmt)
+        d2 = self.d2(d1, sigma, Tmt)
+        pt = K * math.exp(-r * Tmt) * self.normal_cdf(-d2) - St * self.normal_cdf(-d1)
+        return pt
 
     # FRED 데이터를 읽어들이기.
     def readFedCsvFiles(self, csvName):
@@ -319,3 +317,7 @@ class Toolbox:
             return False
         else:
             return True
+
+
+ref = Toolbox()
+print(ref.getTmt("2018-09-14", "2018-09-12"))
