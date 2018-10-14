@@ -61,6 +61,10 @@ WK EP CA EE
 > [Django CRUD (Create, Retrieve, Update, Delete)](https://rayed.com/posts/2018/05/django-crud-create-retrieve-update-delete/)
 >
 > [Node.js 로 CRUD 만들어 보기](https://medium.com/@feedbots/node-js-%EB%A1%9C-crud-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%B3%B4%EA%B8%B0-cdcbaf7174a7)
+>
+> [C++ Addons Node.js](https://nodejs.org/api/addons.html)
+>
+> [W3 Node.js Tutorial](https://www.w3schools.com/nodejs/)
 
 <br><br>
 
