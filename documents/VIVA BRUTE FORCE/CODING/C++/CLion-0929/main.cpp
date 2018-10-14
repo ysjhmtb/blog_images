@@ -1,11 +1,13 @@
 #include <iostream>
+#include <string>
 
-extern void cpp7121();
+using namespace std;
+
+extern void cpp801();
 
 int main() {
 
 
-    cpp7121();
 
     return 0;
 }
