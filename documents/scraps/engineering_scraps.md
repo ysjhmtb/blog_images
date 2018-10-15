@@ -65,6 +65,8 @@ WK EP CA EE
 > [C++ Addons Node.js](https://nodejs.org/api/addons.html)
 >
 > [W3 Node.js Tutorial](https://www.w3schools.com/nodejs/)
+>
+> [개발환경을 한 방에! 쉘 스크립트의 힘](http://woowabros.github.io/tools/2017/08/17/ost_bash.html)
 
 <br><br>
 
