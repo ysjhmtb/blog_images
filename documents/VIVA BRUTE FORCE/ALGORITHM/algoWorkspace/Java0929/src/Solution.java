@@ -86,6 +86,12 @@ class Solution {
         arr.add(Arrays.asList(a3));
         arr.add(Arrays.asList(a4));
         arr.add(Arrays.asList(a5));
+
+        Solution ref = new Solution();
+
+        List<List<Integer>> dirs = ref.getDirection(3, 0, arr);
+        String conqueror = ref.getConqueror(3, 0, arr, dirs);
+        System.out.println(conqueror);
     }
 
 
@@ -106,6 +112,57 @@ class Solution {
     국가가 존재한다면 해당 알파벳을 없다면 "NO"를 반환한다.
     */
 
+    public String getConqueror(int i, int j, List<List<String>> arr, List<List<Integer>> dirs) {
+
+        List<String> states = new ArrayList<>();
+        Map<String, Integer> count = new HashMap<>();
+
+        for (int k = 0; k < dirs.size(); k++) {
+
+            List<Integer> tempDir = dirs.get(k);
+            if (tempDir.size() == 0)
+                continue;
+
+            String state = arr.get(tempDir.get(0)).get(tempDir.get(1));
+
+            if (!('A' <= state.charAt(0) && state.charAt(0) <= 'Z'))
+                continue;
+
+            states.add(state);
+            count.put(state, count.getOrDefault(state, 0) + 1);
+
+        }
+
+        // 가장 우위를 점하고 있는 국가의 수
+        int maxCount = -1;
+        String maxState = "";
+        boolean duplFlag = false;
+
+        for (int k = 0; k < states.size(); k++) {
+
+            if (maxCount < count.get(states.get(k))) {
+                maxCount = count.get(states.get(k));
+                maxState = states.get(k);
+            }
+        }
+
+        // 가장 우위에 있는 수와 동일한 국가의 존재 여부 조사
+        for (int k = 0; k < states.size(); k++) {
+
+            if (maxCount == count.get(states.get(k)) && !maxState.equals(states.get(k))) {
+                duplFlag = true;
+            }
+
+        }
+
+        if (duplFlag) {
+            return "NO";
+        } else {
+            return maxState;
+        }
+
+    }
+
 
 
 
@@ -114,6 +171,43 @@ class Solution {
    	결정된 결과를 반환한다. 이 메소드가 실행 전에 현재 위치에 글자가 존재한다면
    	실행할 필요가 없다,
     */
+
+    public List<List<Integer>> getDirection(int i, int j, List<List<String>> arr) {
+
+        String curChar = arr.get(i).get(j);
+        List<List<Integer>> result = new ArrayList<>();
+
+        if ('A' <= curChar.charAt(0) && curChar.charAt(0) <= 'Z') {
+            return new ArrayList<>();
+        }
+
+        // 상하좌우
+        int[][] dirs = new int[][]{
+                {-1, 0}, {1, 0}, {0, -1}, {0, 1}
+        };
+
+        for (int k = 0; k < dirs.length; k++) {
+            int[] tempDir = dirs[k];
+            int ti = i, tj = j;
+            ti += tempDir[0];
+            tj += tempDir[1];
+
+            List<Integer> temp = new ArrayList<>();
+
+            if (0 <= ti && ti < arr.size() && 0 <= tj && tj < arr.size()) {
+
+                temp.add(ti);
+                temp.add(tj);
+                result.add(temp);
+            } else {
+
+                result.add(temp);
+            }
+
+        }
+
+        return result;
+    }
 
 
 }

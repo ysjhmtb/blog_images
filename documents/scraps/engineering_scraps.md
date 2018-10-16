@@ -32,6 +32,8 @@ WK EP CA EE
 > [Model helps robots navigate more like humans do](http://news.mit.edu/2018/model-helps-robots-navigate-like-humans-1004)
 >
 > [Linux System Programming](http://igm.univ-mlv.fr/~yahya/progsys/linux.pdf)
+>
+> [Waymo’s cars drive 10 million miles a day in a perilous virtual world](https://www.technologyreview.com/s/612251/waymos-cars-drive-10-million-miles-a-day-in-a-perilous-virtual-world/)
 
 <br><br>
 
