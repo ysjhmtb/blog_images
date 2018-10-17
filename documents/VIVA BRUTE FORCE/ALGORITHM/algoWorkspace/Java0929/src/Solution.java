@@ -1,8 +1,5 @@
-
 /*
 NHNENT 2018 점령지 확장
-
-
 
 보기 입력 1
 5↵
@@ -12,7 +9,6 @@ A ␣0 ␣0 ␣0 ␣0↵
 0 ␣C ␣8 ␣0 ␣0↵
 0 ␣0 ␣0 ␣0 ␣0↵
 
-
 출력 1
 3↵
 A ␣A ␣A ␣D ␣D↵
@@ -20,8 +16,6 @@ A ␣A ␣D ␣D ␣D↵
 0 ␣0 ␣B ␣B ␣D↵
 C ␣C ␣C ␣B ␣D↵
 C ␣C ␣C ␣0 ␣D↵
-
-
 
 보기 입력 2
 5↵
@@ -39,8 +33,6 @@ A ␣A ␣0 ␣B ␣B↵
 A ␣0 ␣B ␣B ␣B↵
 0 ␣B ␣B ␣B ␣B↵
 
-
-
 보기 입력 3
 5↵
 A ␣0 ␣0 ␣0 ␣10↵
@@ -56,18 +48,56 @@ A ␣A ␣A ␣A ␣0↵
 A ␣A ␣A ␣0 ␣0↵
 A ␣A ␣0 ␣0 ␣0↵
 A ␣0 ␣0 ␣0 ␣0↵
+ */
 
 
+/*
+
+1)
+5
+A 0 0 0 0
+0 0 6 0 D
+0 0 B 0 0
+0 C 8 0 0
+
+2)
+A A 0 0 D
+A 0 6 D D
+0 0 B B D
+C C 8 0 0
+0 C 0 0 0
+
+3)
+A A A D D
+A A D D D
+0 0 B B D
+C C 8 B D
+C C C 0 0
+
+4)
+3
+A A A D D
+A A D D D
+0 0 B B D
+C C C B D
+C C C 0 D
 
  */
 
 
-
-
-
-
-
 import java.util.*;
+
+class Result {
+
+    List<List<String>> result;
+    int count;
+
+    public Result(List<List<String>> arr, int count) {
+        result = arr;
+        this.count = count;
+    }
+}
+
 
 class Solution {
     public static void main(String[] args) {
@@ -87,11 +117,39 @@ class Solution {
         arr.add(Arrays.asList(a4));
         arr.add(Arrays.asList(a5));
 
+
         Solution ref = new Solution();
 
-        List<List<Integer>> dirs = ref.getDirection(3, 0, arr);
-        String conqueror = ref.getConqueror(3, 0, arr, dirs);
-        System.out.println(conqueror);
+        System.out.println(ref.canExit(arr));
+
+        List<List<Integer>> dirs = ref.getDirection(0, 0, arr);
+        System.out.println(ref.getConqueror(0, 0, arr, dirs));
+
+        dirs = ref.getDirection(0, 1, arr);
+        System.out.println(ref.getConqueror(0, 1, arr, dirs));
+
+
+//        Result result = ref.getResult(arr);
+//        System.out.println(result.count);
+//        System.out.println(result.result);
+
+    }
+
+
+    /*
+    현재 인덱스에 글자가 아닌 숫자가 존재하고, 지배적인 국가가 존재한다면
+    깊은 복사를 통해 생성된 저장소에서 변경이 이루어져야 하며, 이후 인덱스에서의
+    조사는 새로 생성된 저장소가 아닌 원본을 기준으로 조사가 이루어져야 한다.
+
+     */
+
+    public Result getResult(List<List<String>> arr) {
+
+        int count = 0;
+        List<List<String>> newStorage = new ArrayList<>();
+        newStorage.addAll(arr);
+
+
     }
 
 
@@ -103,13 +161,43 @@ class Solution {
     반환 글자가 "NO"이면 종료해도 된다.
     종료 가능하면 true 반환하자.
 
+    위와 같은 방법을 수정해야 한다.
+
+    숫자가 있는 곳에서 지배자가 나올 수 없으면 종료해야 한다.
+    true
+
     */
+
+    public boolean canExit(List<List<String>> arr) {
+        boolean flag = true;
+
+        for (int i = 0; i < arr.size(); i++) {
+            for (int j = 0; j < arr.get(0).size(); j++) {
+
+                String curPos = arr.get(i).get(j);
+
+                if ('A' <= curPos.charAt(0) && curPos.charAt(0) <= 'Z')
+                    continue;
+
+                List<List<Integer>> dirs = this.getDirection(i, j, arr);
+                String conqueror = this.getConqueror(i, j, arr, dirs);
+
+                if (!(conqueror.equals("NO"))) {
+                    flag = false;
+                }
+
+            }
+        }
+
+        return flag;
+    }
 
 
     /*
     어느 방향을 탐색할지 결정되면, 점령을 할 국가가 있는지,
     있다면 어느 국가인지 반환한다.
-    국가가 존재한다면 해당 알파벳을 없다면 "NO"를 반환한다.
+    우위 국가가 없다면 "NO"를 반환한다.
+    "NO"를 반환받으면 숫자를 "NO"로 수정하지는 말아야 한다.
     */
 
     public String getConqueror(int i, int j, List<List<String>> arr, List<List<Integer>> dirs) {
@@ -164,13 +252,12 @@ class Solution {
     }
 
 
-
-
     /*
     현재 위치에서 어느 방향을 탐색하고 어느 방향을 탐색하지 말지를 결정해야 한다.
-   	결정된 결과를 반환한다. 이 메소드가 실행 전에 현재 위치에 글자가 존재한다면
-   	실행할 필요가 없다,
+       결정된 결과를 반환한다. 이 메소드가 실행 전에 현재 위치에 글자가 존재한다면
+       실행할 필요가 없다,
     */
+
 
     public List<List<Integer>> getDirection(int i, int j, List<List<String>> arr) {
 
