@@ -72,6 +72,66 @@ WK EP CA EE
 
 <br><br>
 
+[매일 텝스 풀기](https://www.hackers.co.kr/?c=s_teps/teps_free_study/day_teps)
+
+<br><br>
+
+[How can I practice Linux shell scripting in Windows? Which is the best freeware Linux emulator?](https://www.quora.com/How-can-I-practice-Linux-shell-scripting-in-Windows-Which-is-the-best-freeware-Linux-emulator)
+
+<br><br>
+
+```bash
+# 2018 10 18 
+# WinSCP와 MobaXterm 사용.
+# bash로 처음으로 빌드해 본 경험.
+$ cd vendor/kaon/CT1107
+$ vi version.txt
+# version 하나 증가. e, i, :wq!
+$ cd ../../../
+$ cd out/target/product/CT1107
+$ ls
+$ rm -rf CT1107-ota-eng.root.zip
+$ cd ../../../../
+$ make otapackage
+# at /home/sslee/work/ots_gg2_1014
+$ find ./-name "CT1107*.zip"
+# at /home/sslee/work/ots_gg2_1014/out/target/product/CT1107
+
+
+# ftp
+# 전송하고 싶은 파일이 들어있는 폴더로 이동.
+$ ftp khms.kaonmedia.com
+# id / pwd
+$ cd 위치시킬폴더
+$ bin
+$ hash
+$ mput *
+
+# 전송받는 서버에서 확인하기.
+$ ssh id@khms.kaonmedia.com
+# pwd
+$ ls -l
+
+
+
+# TeraTerm
+# 펌웨어 마운트 여부
+$ cat /proc/mtd
+# 펌웨어 버전 확인
+$ getprop | grep firmware
+
+$ ifconfig
+
+# 시리얼 넘버
+$ cd hwcfg
+$ cat serialno
+
+```
+
+
+
+<br><br>
+
 >  [Technical Interview Guidelines for beginners](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 >
 > [2019 카카오 신입 공채 1차 코딩 테스트 문제 해설](http://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/)

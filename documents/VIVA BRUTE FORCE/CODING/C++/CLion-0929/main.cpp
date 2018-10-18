@@ -3,12 +3,12 @@
 
 using namespace std;
 
-extern void cpp803();
+extern void cpp805();
 
 int main() {
 
 
-    cpp803();
+    cpp805();
 
     return 0;
 }
