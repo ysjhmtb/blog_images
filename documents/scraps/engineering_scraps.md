@@ -21,6 +21,12 @@ WK EP CA EE
 >
 > [Exploring Raspberry Pi: Interfacing to the Real World with Embedded Linux](https://www.amazon.com/Exploring-Raspberry-Pi-Interfacing-Embedded-ebook/dp/B01H2KNGX8)
 >
+> [exploringrpi.com](http://exploringrpi.com/)
+>
+> [익스플로링 라즈베리 파이](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158390976&orderClick=LAH&Kc=)
+>
+> [라즈베리 파이로 배우는 컴퓨터 아키텍처](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158390877&orderClick=LAH&Kc=)
+>
 > [유니티, ‘알파고’ 만든 구글 딥마인드와 AI 연구 협력](http://www.bloter.net/archives/320930)
 >
 > [Frequency spectrum using FMOD and UE4](https://www.parallelcube.com/2018/03/10/frequency-spectrum-using-fmod-and-ue4/)
@@ -84,6 +90,12 @@ WK EP CA EE
 # 2018 10 18 
 # WinSCP와 MobaXterm 사용.
 # bash로 처음으로 빌드해 본 경험.
+
+# ots_gg_1014> 에서
+# source build/envsetup.sh
+# lunch
+# 44
+# make otapackage
 $ cd vendor/kaon/CT1107
 $ vi version.txt
 # version 하나 증가. e, i, :wq!
@@ -100,7 +112,7 @@ $ find ./-name "CT1107*.zip"
 
 # ftp
 # 전송하고 싶은 파일이 들어있는 폴더로 이동.
-$ ftp khms.kaonmedia.com
+$ ftp kkms.kaonmedia.com
 # id / pwd
 $ cd 위치시킬폴더
 $ bin
@@ -108,7 +120,7 @@ $ hash
 $ mput *
 
 # 전송받는 서버에서 확인하기.
-$ ssh id@khms.kaonmedia.com
+$ ssh id@kkms.kaonmedia.com
 # pwd
 $ ls -l
 

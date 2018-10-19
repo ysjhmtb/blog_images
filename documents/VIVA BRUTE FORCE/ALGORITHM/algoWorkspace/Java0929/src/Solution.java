@@ -129,9 +129,27 @@ class Solution {
         System.out.println(ref.getConqueror(0, 1, arr, dirs));
 
 
-//        Result result = ref.getResult(arr);
-//        System.out.println(result.count);
-//        System.out.println(result.result);
+        Result result = ref.getResult(arr);
+        System.out.println(result.count);
+        System.out.println(result.result);
+
+    }
+
+
+    public List<List<String>> getDeepCopy(List<List<String>> arr) {
+
+        List<List<String>> deepcopy = new ArrayList<>();
+
+        for (int i = 0; i < arr.size(); i++) {
+            List<String> temp = new ArrayList<>();
+            for (int j = 0; j < arr.get(0).size(); j++) {
+                String tmpStr = arr.get(i).get(j);
+                temp.add(tmpStr);
+            }
+            deepcopy.add(temp);
+
+        }
+        return deepcopy;
 
     }
 
@@ -147,7 +165,37 @@ class Solution {
 
         int count = 0;
         List<List<String>> newStorage = new ArrayList<>();
-        newStorage.addAll(arr);
+        newStorage = this.getDeepCopy(arr);
+
+
+        while (!this.canExit(arr)) {
+
+            for (int i = 0; i < arr.size(); i++) {
+                for (int j = 0; j < arr.get(0).size(); j++) {
+
+                    String cur = arr.get(i).get(j);
+
+                    // 이미 숫자가 아니라 국가가 존재한다면 continue
+                    if ('A' <= cur.charAt(0) && cur.charAt(0) <= 'Z')
+                        continue;
+
+                    List<List<Integer>> dirs = this.getDirection(i, j, arr);
+                    String conqueror = this.getConqueror(i, j, arr, dirs);
+
+                    // conqueror가 "NO"가 아니라면 새로운 저장소에서 수정을 한다.
+                    if (!conqueror.equals("NO")) {
+                        List<String> jTemp = newStorage.get(i);
+                        jTemp.set(j, conqueror);
+                    }
+                }
+            }
+
+            count++;
+            arr = this.getDeepCopy(newStorage);
+        }
+
+        Result result = new Result(arr, count);
+        return result;
 
 
     }
@@ -223,7 +271,7 @@ class Solution {
 
         // 가장 우위를 점하고 있는 국가의 수
         int maxCount = -1;
-        String maxState = "";
+        String maxState = "NO";
         boolean duplFlag = false;
 
         for (int k = 0; k < states.size(); k++) {
@@ -264,6 +312,10 @@ class Solution {
         String curChar = arr.get(i).get(j);
         List<List<Integer>> result = new ArrayList<>();
 
+        for (int k = 0; k < 4; k++) {
+            result.add(new ArrayList<Integer>());
+        }
+
         if ('A' <= curChar.charAt(0) && curChar.charAt(0) <= 'Z') {
             return new ArrayList<>();
         }
@@ -273,7 +325,62 @@ class Solution {
                 {-1, 0}, {1, 0}, {0, -1}, {0, 1}
         };
 
+        int cur = Integer.valueOf(curChar);
+        // 1 + 2 + 4 + 8 = 15
+
+        if (cur == 0) {
+
+            for (int k = 0; k < dirs.length; k++) {
+                int[] tempDir = dirs[k];
+                int ti = i, tj = j;
+                ti += tempDir[0];
+                tj += tempDir[1];
+
+                List<Integer> temp = new ArrayList<>();
+
+                if (0 <= ti && ti < arr.size() && 0 <= tj && tj < arr.size()) {
+
+                    temp.add(ti);
+                    temp.add(tj);
+                    result.add(temp);
+                } else {
+
+                    result.add(temp);
+                }
+
+            }
+
+            return result;
+        }
+
+
+        if (cur >= 8) {
+            cur -= 8;
+            result.set(3, new ArrayList<Integer>());
+        }
+
+        if (cur >= 4) {
+            cur -= 4;
+            result.set(2, new ArrayList<>());
+        }
+
+        if (cur >= 2) {
+            cur -= 2;
+            result.set(1, new ArrayList<>());
+
+        }
+
+        if (cur >= 1) {
+            cur -= 1;
+            result.set(0, new ArrayList<>());
+        }
+
         for (int k = 0; k < dirs.length; k++) {
+
+            if (result.get(k) != null && result.get(k).size() == 0) {
+                continue;
+            }
+
             int[] tempDir = dirs[k];
             int ti = i, tj = j;
             ti += tempDir[0];
@@ -292,6 +399,7 @@ class Solution {
             }
 
         }
+
 
         return result;
     }
