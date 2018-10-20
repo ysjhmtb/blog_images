@@ -60,20 +60,6 @@ EP CA NODE DAILY WK
 
 <br><br>
 
-> [Writing a CRUD app with Node.js and MongoDB](https://codeburst.io/writing-a-crud-app-with-node-js-and-mongodb-e0827cbbdafb)
->
-> [Django CRUD (Create, Retrieve, Update, Delete)](https://rayed.com/posts/2018/05/django-crud-create-retrieve-update-delete/)
->
-> [Node.js 로 CRUD 만들어 보기](https://medium.com/@feedbots/node-js-%EB%A1%9C-crud-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%B3%B4%EA%B8%B0-cdcbaf7174a7)
->
-> [C++ Addons Node.js](https://nodejs.org/api/addons.html)
->
-> [W3 Node.js Tutorial](https://www.w3schools.com/nodejs/)
->
-> [개발환경을 한 방에! 쉘 스크립트의 힘](http://woowabros.github.io/tools/2017/08/17/ost_bash.html)
-
-<br><br>
-
 [매일 텝스 풀기](https://www.hackers.co.kr/?c=s_teps/teps_free_study/day_teps)
 
 <br><br>
@@ -247,13 +233,6 @@ $ cat serialno
 
 <br><br>
 
-> 박성국 @sungkkshawnpark <br>
-> 알고리즘 대회 기반 코딩 테스트마다 다 망치고 있다. 하지만 실패할 때마다 조금씩 배운다. 처음에는 하나도 제대로 못 풀었고, 두 번째에는 하나 풀었다. 이런 식으로 하나씩 늘려나가면 된다. 요령이 부족할 뿐이야. <br>
->
-> [오전 8:03 - 2018년 10월 5일](https://twitter.com/sungkkshawnpark/status/1048227116964175877)
-
-<br><br>
-
 [The Big Hack: How China Used a Tiny Chip to Infiltrate U.S. Companies](https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies)
 
 <br><br>
@@ -387,8 +366,6 @@ $ cat serialno
 
 
 
->
-
 <br><br>
 
 > 나는 그저 프로그래밍이 너무 즐거운 프로그래머다. 운영체제, 프로그래밍 언어, 컴파일러는 꽤 익숙했지만, CPU에 대해 배우는 컴퓨터 구조는 회로도가 난무하는 막연히 하드웨어 과목이라는 선입관만 가지고 있었다. 그런데 복학 후, 뒤늦게 컴퓨터 구조를 배우고 나니 컴퓨터 구조가 가장 재미있는 과목이 되었다. CPU 설계, 특히 CPU의 아키텍처 설계는 완전히 프로그램을 만드는 것과 같았다. 자료구조를 설계하듯이 명령어 집합을 설계하고, 코딩을 하듯이 파이프라인 구조를 만들고, 프로그램의 성능을 높이는 데 쓰이는 알고리즘을 동원해 CPU의 성능을 높인다. 이런 아이디어를 주로 소프트웨어 기반의 시뮬레이터에서 코딩하여 검증한다. 대표적으로 파이프라인은 병렬 프로그래밍의 한 기법이고 캐시 알고리즘은 소프트웨어 어디에서도 쓰일 수 있다. 정말 CPU는 놀랍고 재미있는 알고리즘의 총 집합체이다. - 멀티코어 CPU 이야기
@@ -474,10 +451,6 @@ $ cat serialno
 
 <br><br>
 
-[COMPUTER COMMUNICATION REVIEW - The ACM SIGCOMM newsletter](https://ccronline.sigcomm.org/)
-
-<br><br>
-
 [15 Patents That Changed the World](https://www.popularmechanics.com/technology/design/g20051677/patents-changed-the-world/)
 
 <br><br>
@@ -548,10 +521,6 @@ $ cat serialno
 [39도씨, “스마트폰만으로 다각도 생방송을”](http://www.bloter.net/archives/321107)
 
 <br><br>
-
-[SIGCOMM Conference](http://sigcomm.org/events/sigcomm-conference)
-
-<br> <br>
 
 > 카사다 @zaq1qaz
 > 취업 관련 수업 들으면서 웹 개발(아마도 학원) 이력서 보는데
@@ -744,15 +713,6 @@ $ cat serialno
 > | 졸업 이후                  | 취업하거나 박사과정에 들어간다.                    | 포스트닥, 그리고 ...                                         |
 >
 >  <과학자가 되는 방법>
-
-<br><br>
-
-> 朴聖國, Shawn @sungkkshawnpark
->
-> 내가 한 게 뭐가 있나, 내가 하는 게 뭐가 있나—라고 느끼는 순간이 승부의 시간이다. 그 지점에서 나는 부족하니까 조금 더 준비해야지, 하는 순간에 뒤쳐진다. 그런 사람은 모든 판단을 그런 식으로 할 테니까, 학습 면에서나 실무 면에서나 손실을 보고 살 수 밖에 없는 사람이다. 결정을 미루니까.
->
-> [오전 7:40 - 2018년 8월 13일](https://twitter.com/sungkkshawnpark/status/1029014860254732288)
->
 
 <br><br>
 
@@ -976,22 +936,6 @@ console.log(b);
 
 <br><br>
 
-[ARM designed an image signal processor, and that’s a big deal](https://www.theverge.com/2017/4/27/15449146/arm-mali-c71-isp-mobile-photography)
-
->Every mobile device with a camera today has an ISP — it’s the visual equivalent of analog-to-digital converters in audio, taking the raw photonic data gathered up by an image sensor and turning it into something that can be usefully displayed on the device, or encoded into a familiar format for sharing, or even sent to a computer vision subsystem that can recognize objects in the frame. Each of those tasks has unique requirements, but it’s adequate to just understand the basic components here: a digital camera uses a lens to focus light onto a sensor, and then an ISP to turn whatever the sensor spits out into a (hopefully accurate) representation of the scene in a digital format. The problem with all of that? Even with a great amount of competition out there, most ISPs are actually quite terrible.
->
->
->
->Think of all the Chinese smartphone makers that proudly proclaim they have Sony’s latest and greatest imaging sensor. They tell you the exact model name of the sensor, and they usually accompany it with an exploded view of their multi-lens array. It’s impressive engineering, to be sure, but then you get the phone in your hands and you find that, strangely, the pictures aren’t quite as awesome as the undoubtedly excellent Sony hardware would lead you to expect. That’s where the ISP disadvantage rears its head. Meizu, Huawei, Xiaomi, and their ilk don’t have the years of research and development that industry leaders like Apple and Samsung have poured into their imaging pipelines. They can get great optics and sensors, but not a great ISP.
-
-
-
-<br>
-
-[F-22 Raptor Avionics](https://www.globalsecurity.org/military/systems/aircraft/f-22-avionics.htm)
-
-<br>
-
 > 상일 @sioum
 >
 > 수학과 대학원에서의 성공을 예측할 수 있는가? 
@@ -1016,14 +960,6 @@ console.log(b);
 <br>
 
 [A Beginner’s Guide to RISC and CISC Architectures](https://medium.com/@csoham358/a-beginners-guide-to-risc-and-cisc-architectures-fc9af424db3b)
-
-<br>
-
-> WickeDev @wickedev88
->
-> 설래발 주도 개발 쿨타임이 다시 돌아왔나본데, 개인적인 기준으로 평소에 힙한거 많이 배우고, 토이 프로젝트에서 삽질 다 해보고, 프로덕션에는 삽질 안해본거 쓰지 않기로 정함. 그렇다고 새로운걸 전혀 배우지 않기로 작정한 마냥 신기술을 쓰지말아야 할 이유만 찾는 사람도 곤란한건 마찬가지
->
-> [오전 10:46 - 2018년 7월 10일](https://twitter.com/wickedev88/status/1016740402697682945)
 
 <br>
 
@@ -1128,6 +1064,9 @@ console.log(b);
 <br>
 
 > [-5-](https://leenotes1.blogspot.com/2018/06/180610.html) 
+>
+> <br>
+>
 > 어릴적 다니던 모 학원의 선생님이 강의 중에 "열심히 했는데도 성적이 나오지 않는다는 것은, 열심히 하지 않았거나 시험에 나오지 않는 것을 열심히 했다는 뜻이다" 라고 하셨던 것을 아직까지도 기억한다. 아마 그 말에 꽤 공감을 하고 있었기 때문에 아직까지 기억을 하는 것 같다. 과연 열심히 하고 있는 것인지, 필요한 부분을 열심히 하고 있는 것인지를 자문하는 과정은 늘 필요하다고 본다. 그리고 만약 중요한 것에 열중하고 있음이 분명함에도 성과가 나오지 않는다면, 거기서 더 필요한 것은 시간이라고 생각한다. 시간이 무제한적이지 않다는 점이 문제이지만, 그래도 더 해보는 것 외에 다른 방법은 없다.
 
 <br>
@@ -1182,23 +1121,6 @@ console.log(b);
 >- **아무거나 새로운 프로그래밍 언어 배우기**- 무엇을 하시던지 다른 언어를 배우시는게 좋습니다. 제가 추천하는 언어는 Clojure, Rust, Elm, OCaml/Reason, Go, Scheme 입니다. 이 모든 언어들은 각자 고유한 기능이 있으며 그 기능을 통해 새로운 사고방식을 배우도록 만들어줍니다.
 
 <br>
-
-> 朴聖國, Shawn @sungkkshawnpark
->
-> 이것의 일부는 deliberate learning에 속한다. 단순 반복과는 확실히 다르다. 그 다름을 유지하는 것이 학습의 비결 아닐까 한다. 모든 반복을 의미있게 하려고 노력해야 한다.
->
-> [오후 1:01 - 2018년 6월 5일](https://twitter.com/sungkkshawnpark/status/1004090800303587328)
->
-> 朴聖國, Shawn @sungkkshawnpark
->
-> 최근 일주일 학습 과정에서 얻은 통찰들:
-> 1. 안다고 생각하는 것은 실행하는데 필요한 앎에 비하면 부족하다.
-> 2. 따라서 이를 실제로 써먹으려면 최소 한 두 번은 시연해봐야 한다.
-> 3. 의도치 않더라도 최근의 학습을 즉시 적용해 이득을 얻을 수 있다.
->
-> [오전 8:47 - 2017년 6월 25일](https://twitter.com/sungkkshawnpark/status/879003048088973312)
-
- <br>
 
 [Hedy Lamarr – the 1940s ‘bombshell’ who helped invent wifi](https://www.theguardian.com/film/2018/mar/08/hedy-lamarr-1940s-bombshell-helped-invent-wifi-missile)
 
@@ -1344,18 +1266,6 @@ console.log(b);
 > [오전 9:29 - 2018년 5월 7일](https://twitter.com/29979245oo/status/993528229636931584)
 
 <br>
-
-
-
-> 기계인간 @John_Grib
->
-> 구체수학 2장 2절 공부. 6페이지 읽는데 6일이나 걸렸지만 아무튼 이번 챕터도 해냈다!!
->
-> https://johngrib.github.io/wiki/c-m-02-Sums-02/
->
-> [오전 5:12 - 2018년 5월 7일](https://twitter.com/John_Grib/status/993463472322068480)
-
-
 
 <br>
 
