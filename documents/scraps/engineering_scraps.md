@@ -1,8 +1,8 @@
 <br><br>
 
 ```
-EP CA NODE DAILY WK
 "하루하루는 성실하게. 인생 전체는 되는대로." - 이동진
+EN CP DA WK ...
 ```
 
 <br><br>
