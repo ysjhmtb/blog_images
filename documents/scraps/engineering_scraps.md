@@ -1,11 +1,4 @@
-<br><br>
-
-```
-"하루하루는 성실하게. 인생 전체는 되는대로." - 이동진
-EN CP DA WK ...
-```
-
-<br><br>
+<br><br><br><br>
 
 > [Depth-sensing imaging system can peer through fog](http://news.mit.edu/2018/depth-sensing-imaging-system-can-peer-through-fog-0321)
 >
@@ -127,6 +120,14 @@ $ ifconfig
 # 시리얼 넘버
 $ cd hwcfg
 $ cat serialno
+
+
+
+#부트로더 upgrade 방법 (w/ bolt command)
+# 1.	Usbdisk 에 첨부된 이미지를 copy 후 SET에 연결.
+# 2.	부팅 시 Ctrl+C 로 prompt 진입
+# 3.	flash usbdisk0:CT1107_BOOTLOADER_DEV_1_34_06.BIN flash0
+# 4.	reboot
 
 ```
 
