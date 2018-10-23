@@ -1,27 +1,40 @@
 /*
- *  윤성우 열혈 C++ 90page
+ *  윤성우 열혈 C++ 135page
  *
- *  다음의 상수선언을 보자.
- *  const int num = 12;
+ *  문자열 정보를 내부에 저장하는 Printer라는 이름의 클래스를 디자인하자.
+ *  이 클래스의 두 가지 기능은 다음과 같다.
  *
- *  포인터 변수를 선언해서 위 변수를 가리키게 해보자.
- *  그리고 이 포인터 변수를 참조하는 참조자를 하나 선언하자.
- *  마지막으로 이렇게 선언된 포인터 변수와 참조자를 이용해서 num에 저장된 값을 출력하는 예제를 완성해 보자.
+ *  - 문자열 저장
+ *  - 문자열 출력
+ *
  */
 
 #include <iostream>
+#include <string>
 
 using namespace std;
+
+class Printer {
+private:
+    string storage;
+
+public:
+    void setString(const string &input) {
+        storage = input;
+    }
+
+    void showString() {
+        cout << storage << endl;
+    }
+
+};
 
 
 int main() {
 
-    const int num = 12;
-
-    const int *ptr = &num;
-    const int *&ref = ptr;
-
-    cout << *ptr << "   " << *ref << endl;
+    Printer pnt;
+    pnt.setString("Hello world!");
+    pnt.showString();
 
 
     return 0;
