@@ -129,6 +129,20 @@ $ cat serialno
 # 3.	flash usbdisk0:CT1107_BOOTLOADER_DEV_1_34_06.BIN flash0
 # 4.	reboot
 
+
+# 커널 버전 확인하기
+$ uname -a
+
+# 프로세서 정보
+$ cat /proc/cpuinfo
+
+# CPU Implementer : Your code means ARM
+# CPU architecture : AArch64 means 64 bit ARM board
+
+# 파일 찾기
+$ find ./ -name "bolt*"
+
+
 ```
 
 
