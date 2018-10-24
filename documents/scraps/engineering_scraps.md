@@ -145,7 +145,25 @@ $ find ./ -name "bolt*"
 
 ```
 
+<br><br>
 
+```bash
+# 2018 10 24
+
+출근하고 나서 옆에 계신 매니저님께 월요일에 주문한 책이 <그림으로 쉽게 설명하는 안드로이드 프로그래밍>이라고 말씀드렸다.
+
+이후 해주신 조언이 다음과 같다.
+
+이 책의 내용 외에도
+
+1) 안드로이드 프레임웍
+2) 임베디드 안드로이드
+3) 리눅스 자체에 대한 이해
+
+가 필요하다고 하셨다. 
+찾아보니 관련서적으로 <인사이드 안드로이드>, <안드로이드의 모든 것 NDK>가 있었다.
+
+```
 
 <br><br>
 
@@ -158,6 +176,18 @@ $ find ./ -name "bolt*"
 > [카카오 신입 공채 2차 코딩 테스트 문제 해설](http://tech.kakao.com/2017/10/24/kakao-blind-recruitment-round-2/)
 >
 > [카카오 신입 공채 3차 코딩 테스트 문제 해설](http://tech.kakao.com/2017/11/14/kakao-blind-recruitment-round-3/)
+
+<br><br>
+
+> [리액트 네이티브 서울](https://www.meetup.com/ko-KR/react-native-seoul/?chapter_analytics_code=UA-44056140-15)
+>
+> [ABOUT SUJIN LEE](https://sujinlee.me/about/)
+>
+> [신입 소프트웨어 엔지니어의 영문 이력서 작성하기](https://sujinlee.me/entry-level-en-resume/)
+>
+> [Write down your resume with Markdown and generate pdf, docx and deploy website ](https://github.com/sujinleeme/resume-generator)
+>
+> [월드잡플러스](https://www.worldjob.or.kr/intro.do)
 
 <br><br>
 

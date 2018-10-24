@@ -1,5 +1,9 @@
 <br><br>
 
+
+
+<br><br>
+
 > [Volatility Premium: 풋옵션 매도 전략의 장기적 효용성](http://henryquant.blogspot.com/2018/10/volatility-premium.html)
 >
 > <br>
