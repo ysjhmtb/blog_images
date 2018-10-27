@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
-      <config projectName="p232" targetName="p232" />
+      <config projectName="p246" targetName="p246" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c31c0776-c8da-4994-869f-1d17c0bd87d4" name="Default" comment="" />
+    <list default="true" id="db3fe23f-d610-41a1-80af-ba8fff2b5450" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,8 +31,8 @@
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="559">
-              <caret line="51" column="1" lean-forward="true" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+            <state relative-caret-position="140">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -87,12 +87,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.p232">
-    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="p232" RUN_TARGET_NAME="p232" EXPLICIT_BUILD_TARGET_NAME="all" />
-    <configuration name="p232" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="p232" TARGET_NAME="p232" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="p232" RUN_TARGET_NAME="p232" />
+  <component name="RunManager" selected="Application.p246">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all" />
+    <configuration name="p246" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="p246" TARGET_NAME="p246" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="p246" RUN_TARGET_NAME="p246" />
     <list>
       <item itemvalue="Application.Build All" />
-      <item itemvalue="Application.p232" />
+      <item itemvalue="Application.p246" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -100,22 +100,23 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c31c0776-c8da-4994-869f-1d17c0bd87d4" name="Default" comment="" />
-      <created>1540635756409</created>
+      <changelist id="db3fe23f-d610-41a1-80af-ba8fff2b5450" name="Default" comment="" />
+      <created>1540636764898</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1540635756409</updated>
-      <workItem from="1540635757522" duration="987000" />
+      <updated>1540636764898</updated>
+      <workItem from="1540636766012" duration="809000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="987000" />
+    <option name="totallyTimeSpent" value="809000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1600" height="794" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" weight="0.32916668" />
       <window_info anchor="bottom" id="CMake" />
@@ -147,8 +148,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="51" column="1" lean-forward="true" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+        <state relative-caret-position="140">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
