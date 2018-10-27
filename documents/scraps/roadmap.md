@@ -8,7 +8,7 @@
 
 <br><br>
 
-|           | C++ CAP  | NEW BOOK | TOEIC | DAILY | WK   |
+|           | C++      | NEW BOOK | TOEIC | DAILY | WK   |
 | --------- | -------- | -------- | ----- | ----- | ---- |
 | 10 28 SUN | 2 3      | H        | 1     | 2     | 20   |
 | 10 30 TUE | 4 5 6    | H        | 2     | 2     | 20   |
