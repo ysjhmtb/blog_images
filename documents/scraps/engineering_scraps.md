@@ -10,11 +10,11 @@
 >
 > [Amazon Web Services to Acquire Elemental](https://www.elemental.com/newsroom/press-releases/amazon-web-services-acquire-elemental)
 >
-> [Why should you learn Go?](https://medium.com/exploring-code/why-should-you-learn-go-f607681fad65)
+> [About Swift](https://docs.swift.org/swift-book/index.html)
 >
-> “Go will be the server language of the future.” — Tobias Lütke, Shopify
+> [iOS & Swift Tutorials](https://www.raywenderlich.com/ios)
 >
->
+> [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
 
 <br><br>
 
