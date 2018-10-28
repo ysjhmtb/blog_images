@@ -45,16 +45,52 @@ We need to use radius 1 standard, then all the houses can be warmed.
  */
 
 
+import java.util.Arrays;
+
 class Solution {
     public static void main(String[] args) {
+
+        int[] houses = new int[]{1, 2, 3, 4};
+        int[] heaters = new int[]{1, 4};
+
+        Solution ref = new Solution();
+        System.out.println(ref.findRadius(houses, heaters));
 
 
     }
 
     public int findRadius(int[] houses, int[] heaters) {
-
+        int res = 0;
+        Arrays.sort(heaters);
+        int[] closetHeaterForEachHouse = new int[houses.length];
+        for (int i = 0; i < houses.length; i++) {
+            int position = findClosetHeater(heaters, houses[i]);
+            closetHeaterForEachHouse[i] = position;
+        }
+        for (int i = 0; i < houses.length; i++) {
+            res = Math.max(res, Math.abs(houses[i] - closetHeaterForEachHouse[i]));
+        }
+        return res;
     }
 
+    private int findClosetHeater(int[] heaters, int target) {
+        int start = 0;
+        int end = heaters.length - 1;
+        while (start <= end) {
+            int mid = start + (end - start) / 2;
+            if (heaters[mid] == target) {
+                return heaters[mid];
+            } else if (heaters[mid] < target) {
+                start = mid + 1;
+            } else {
+                end = mid - 1;
+            }
+        }
+        if (start == heaters.length) return heaters[start - 1];
+        if (start > 0 && Math.abs(heaters[start - 1] - target) <= Math.abs(heaters[start] - target))
+            return heaters[start - 1];
+        return heaters[start];
+    }
 
 
 }

@@ -6,50 +6,12 @@
 >
 > [The Scientist & Engineer's Guide to Digital Signal Processing ](https://www.amazon.com/Scientist-Engineers-Digital-Signal-Processing/dp/0966017633/ref=sr_1_1?s=books&ie=UTF8&qid=1538318492&sr=1-1&keywords=dsp)
 >
-> [Learning Computer Architecture with Raspberry Pi ](https://www.amazon.com/Learning-Computer-Architecture-Raspberry-Pi-ebook/dp/B01KW9E28Y)
->
-> [Exploring Raspberry Pi: Interfacing to the Real World with Embedded Linux](https://www.amazon.com/Exploring-Raspberry-Pi-Interfacing-Embedded-ebook/dp/B01H2KNGX8)
->
-> [exploringrpi.com](http://exploringrpi.com/)
->
-> [익스플로링 라즈베리 파이](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158390976&orderClick=LAH&Kc=)
->
-> [라즈베리 파이로 배우는 컴퓨터 아키텍처](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158390877&orderClick=LAH&Kc=)
->
-> [유니티, ‘알파고’ 만든 구글 딥마인드와 AI 연구 협력](http://www.bloter.net/archives/320930)
->
-> [Frequency spectrum using FMOD and UE4](https://www.parallelcube.com/2018/03/10/frequency-spectrum-using-fmod-and-ue4/)
->
 > [매체에 따르면 2015년 아마존은 자사 아마존 프라임 비디오의 안정적인 서비스를 위해 초대용량 비디오 압축 포맷 소프트웨어 개발 벤처인 엘레멘털(Elemental)의 인수를 검토했다. 엘레멘털은 이 기술로 올림픽 게임 중계 영상을 온라인으로 스트리밍하거나 위성을 통해 무인항공기(UAV)가 촬영한 영상을 CIA에 안정적으로 전송하는 등 핵심기술로 주목을 받았다.](https://news.v.daum.net/v/20181005185401360)
 >
 > [Amazon Web Services to Acquire Elemental](https://www.elemental.com/newsroom/press-releases/amazon-web-services-acquire-elemental)
 >
-> [Model helps robots navigate more like humans do](http://news.mit.edu/2018/model-helps-robots-navigate-like-humans-1004)
 >
-> [Linux System Programming](http://igm.univ-mlv.fr/~yahya/progsys/linux.pdf)
 >
-> [Waymo’s cars drive 10 million miles a day in a perilous virtual world](https://www.technologyreview.com/s/612251/waymos-cars-drive-10-million-miles-a-day-in-a-perilous-virtual-world/)
-
-<br><br>
-
-> [How to write an emulator (CHIP-8 interpreter)](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/) 
->
-> <br>
->
-> Often people confuse a simulator with an emulator and vice versa. Just remember that these words aren’t synonyms.
->
-> <br>
->
-> Let’s take a look at the following example:
-> Pong is a 2D tennis game which was developed by Atari and ran on their own hardware. However, the game wasn’t just available on Atari systems, but also on rival platforms such as Amstrad, Amiga and the C64.
->
-> <br>
->
-> Since not every Pong game was licensed by Atari to run on these platforms, it also meant that not  every game was running the code from Atari. Basically what happened is that people created their own implementation (clones) of the game Pong. In this case they simulated the looks and game behavior of Pong.
->
-> <br>
->
-> In case of an emulator, we choose not to re-implement the game Pong for our native system. Instead, we re-create the environment with a computer program which allows us to run the original machine code of Pong. A benefit of this is that it won’t just allow us to run Pong, but also any other application developed for that platform.
 
 <br><br>
 
@@ -225,58 +187,6 @@ $ find ./ -name "bolt*"
 
 <br><br>
 
-> [넥슨 면접에서 듣게 되는 질문 63가지(2018년 ver.)](http://www.bloter.net/archives/321808)
->
-> <br>
->
-> **공통**
->
-> > 1. 어떤 게임을 좋아하는가?
-> > 2. 본인의 성격이나 업무 스타일에 특징이 있다면?
-> > 3. 우리 회사에 지원한 이유는 무엇인가?
-> > 4. 이직한 이유는 무엇인가?
-> > 5. 즐겨하는 게임과 본인이 생각하는 그 게임의 개선해야 할 점이 무엇인가?
->
->  <br>
->
-> **IT/인터넷 직군**
->
-> > 6. 지금까지 어떤 프로젝트를 해봤나?
-> > 7. 전 회사에서 진행했던 프로젝트의 아키텍처를 설명해 보라.
-> > 8. AWS 기반 인프라 서비스의 구성 요소들에 대해 설명해 보라.
-> > 9. 살면서 힘들었던 점은 무엇인가? 또 어떻게 극복했나?
-> > 10. 실제로 게임을 해킹해본 적이 있는가?
-> > 11. 운영체제 커널 분석을 수행해 본 적이 있나?
-> > 12. 직접 만들어본 게임은 무엇이며 자신은 얼마나 기여했나?
-> > 13. 자신이 제출한 포트폴리오를 설명해 보라.
-> > 14. 마케팅 부서에서 계속 내용이 바뀌면 어떻게 대처할 것인가?
-> > 15. 기존에 종사하던 사업군과 넥슨의 비즈니스 환경이 많이 다른데 어떻게 적응하고 극복할 생각인가?
-> > 16. 최근 모바일 게임 시장에 대해 어떻게 생각하는가?
-> > 17. (중국어로 된 글을 보여주며) 중국어가 특기인데 이 글을 번역해 보라.
-> > 18. 게임을 기획한다면 어떤 게임을 기획하고 싶은가?
-> > 19. 친구는 많은가? 술은 잘 마시나?
-> > 20. 시간이 촉박한 시험 기간에 어떻게 시간 관리를 했나?
-> > 21. 인생에서 겪었던 갈등 중 가장 심각했던 것은 무엇인가?
-> > 22. 게임이 출시되는 상황을 가정하고 생길 수 있는 문제에 대해 이야기해 보라.
-> > 23. 사용할 줄 아는 프로그래밍 언어는 어떤 것들이 있으며 얼마나 하나?
-> > 24. 팀 프로젝트를 할 때 의사소통에 문제가 있으면 어떻게 해결할 것인가?
-> > 25. 중국에서 잘 되고 있는 모바일 게임은 무엇이 있나? 왜 성공했을까?
-> > 26. 화이트보드에 큐로 스택을 구현해 보라.
-> > 27. 본인이 사용할 줄 아는 언어들의 차이점은 무엇인가?
-> > 28. 프로세스와 스레드의 차이점은 무엇인가?
-> > 29. 다음의 웹 관련 함수를 설명해 보라.
-> > 30. 왜 게임 기획자의 길을 선택했으며, 어떤 노력을 했나?
-> > 31. 3~5분간 자기 소개를 해봐라.
-> > 32. 입사하면 어떤 일을 하게 될 것 같은가?
-> > 33. 업데이트한 내용에 큰 문제가 생겼다면 어떻게 할 것인가?
-> > 34. 본인이 지원한 직무가 무슨 일을 한다고 생각하나?
-> > 35. 다음과 같은 데이터 테이블이 있다고 할 때, 원하는 결과를 얻기 위해 테이블 내의 값들을 어떻게 활용해야 하는가?
-> > 36. GET과 POST의 차이는?
->
->  
-
-<br><br>
-
 >  [여러분 반갑습니다. 유튜브 광고가 여러분의 몰입을 방해하는 것이 참 미안하던차에 인프런에서 인사드릴 수 있어서 기쁩니다. 여러분이 초보자라면 따라해보시는 것만으로 머릿속에 중요한 개념들이 자라기 시작합니다.  이해가 가지 않더라도 꾸준히 정진해나가시기를 권장합니다. 만일, 여러분이 왕초보 단계를 벗어나셨다면 남들보다 빠르게 중급 이상으로 앞서나가는 기쁨을 누리실 수 있을겁니다. 이미 중급 이상을 넘보고 계신 분들이시라면, 잘 오셨습니다. 고급으로 가는 황금 열쇠를 손에 쥐시게 될겁니다. 제 강의를 선택하신 분들이라면 이미 높은 가능성을 품고 계시리라고 확신합니다. 저도 여러분이 높이 날아오를 날을 위해 꾸준히 도와드리겠습니다. 감사합니다. * 강의를 보신 분들은 좋은 '강좌평' 부탁드립니다. 홍정모 드림.](https://www.inflearn.com/course/following-c-plus/)
 >
 > <br>
@@ -299,10 +209,6 @@ $ find ./ -name "bolt*"
 >
 > 대학원 면접 때 물어봤던 첫 문제. 공부 방식을 깨닫게 해 준 문제.
 > 힙이란 무엇인지 설명해보자 → 힙의 구조를 그림으로 그려보자 → 힙에 데이터를 삽입/삭제하는 방식을 말해보자 → 삽입/삭제하는 동작의 시간 복잡도를 말해보자 → 데이터가 어떻게 들어와야 최상/최악의 경우가 되는지 말해보자
-
-<br><br>
-
-[The Big Hack: How China Used a Tiny Chip to Infiltrate U.S. Companies](https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies)
 
 <br><br>
 
@@ -433,16 +339,6 @@ $ find ./ -name "bolt*"
 
 ```
 
-
-
-<br><br>
-
-> 나는 그저 프로그래밍이 너무 즐거운 프로그래머다. 운영체제, 프로그래밍 언어, 컴파일러는 꽤 익숙했지만, CPU에 대해 배우는 컴퓨터 구조는 회로도가 난무하는 막연히 하드웨어 과목이라는 선입관만 가지고 있었다. 그런데 복학 후, 뒤늦게 컴퓨터 구조를 배우고 나니 컴퓨터 구조가 가장 재미있는 과목이 되었다. CPU 설계, 특히 CPU의 아키텍처 설계는 완전히 프로그램을 만드는 것과 같았다. 자료구조를 설계하듯이 명령어 집합을 설계하고, 코딩을 하듯이 파이프라인 구조를 만들고, 프로그램의 성능을 높이는 데 쓰이는 알고리즘을 동원해 CPU의 성능을 높인다. 이런 아이디어를 주로 소프트웨어 기반의 시뮬레이터에서 코딩하여 검증한다. 대표적으로 파이프라인은 병렬 프로그래밍의 한 기법이고 캐시 알고리즘은 소프트웨어 어디에서도 쓰일 수 있다. 정말 CPU는 놀랍고 재미있는 알고리즘의 총 집합체이다. - 멀티코어 CPU 이야기
-
-<br><br>
-
-[Meltdown and Spectre](https://meltdownattack.com/)
-
 <br><br>
 
 > [생각해라. 생각해라. 생각해라.](http://gradschoolstory.net/yoonsup/think/)
@@ -492,34 +388,6 @@ $ find ./ -name "bolt*"
 
 <br><br>
 
-> [모던 C++ 동시성 프로그래밍](https://blog.naver.com/atelierjpro/221363133999)
->
-> <br>
->
-> 결론을 얘기하면 이 책 덕분에 기본 개념들을 모두 이해할 수 있었다. 예전 방식(pthread, boost::thread)을 알고 있는 독자들은 Chapter 3, 4의 예제들을 따라해보면 Modern c++에 새로 들어온 개념들을 이해할 수 있다.
->
-> <br>
->
-> 중간과정을 얘기하면
->
-> <br>
->
-> - 앞부분이 매우 매우 짜증난다. 메모리 모델은 저자도 건너 뛰어도 된다고 써있는데 그말대로 그냥 건너 뛰었으면 스트레스가 적었을 것 같다.
->
-> - 예제 코드들에 사소한 오류가 있다. 나야 고쳐가며 해보면 되지만 초보자들은 한참 헤멜 수도 있을 듯. 깃헙에서 받으면 잘 될런지 모르겠으나 나는 내가 타이핑 하면서 공부하기 때문에 깃헙에서 코드를 다운받지는 않는다.
->
-> - 개념들을 명확하게 설명하지 않는다. 그냥 스물스물 넘어가는데 블로그 글이라서 그런 것 같다. 초보자들이 교과서 같이 보기에는 안좋은데 국내에 대체재가 있는 지 잘 모르겠다.
->
-> <br>
->
-> 최종평은
->
-> <br>
->
-> 읽어나가는 과정이 유쾌하지는 않았으나 결과적으로 내 머리속에 지식을 넣은 속도를 생각하면 한국 상황에서 이런 책이 나와준 것만으로도 고맙다고 생각한다.
-
-<br><br>
-
 [15 Patents That Changed the World](https://www.popularmechanics.com/technology/design/g20051677/patents-changed-the-world/)
 
 <br><br>
@@ -544,42 +412,7 @@ $ find ./ -name "bolt*"
 
 <br><br>
 
-
-
-> Chris Ohk @utilforever <br>
-> C++로 만드는 운영체제 책이 곧 출간됩니다.
-> 저는 이 책의 리뷰를 맡았습니다. 좋은 책입니다.
-> 현재는 크로스 플랫폼 프로젝트로 개선중입니다.
->
-> http://www.acornpub.co.kr/book/cplus-os-development 
->
-> [오전 3:45 - 2018년 9월 17일](https://twitter.com/utilforever/status/1041639301102985218)
-
-<br><br>
-
-> 아이폰 앱을 리액트 네이티브로 만든다면 대부분의 경우 문제가 발생하지 않을까요?
->
-> <br>
->
-> [개골](https://ask.fm/cfr0g/answers/149860535018)
-> 어떤 문제말씀이시죠? 뭘로 구현하든 일반적인 문제는 있을거 같은데요. 들이는 노력의 문제겠죠.
->
-> <br>
->
-> 아이폰 앱을 스위프트가 아닌 리액트 네이티브로 구현했을 때, 스위프트로는 가능한 기능이 리액트 네이티브로는 안 된다거나 속도 같은 성능 문제 등이 우려되었는데 개골님 말씀을 들어보니 과도한 걱정이었던 것 같습니다.
->
-> <br>
->
-> [개골](https://ask.fm/cfr0g/answers/149901568234)
-> 아 네. 질문만 읽어서는 어떤 말씀이신지 파악이 안되어서요.
-
-<br><br>
-
 [Why Tesla is building city-sized batteries](https://youtu.be/8ge3ah1G8ok)
-
-<br><br>
-
-[‘메이커의 아버지’ 데일 도허티, “두려워 말고 만들라”](http://www.bloter.net/archives/319402)
 
 <br><br>
 
@@ -591,21 +424,11 @@ $ find ./ -name "bolt*"
 
 <br><br>
 
-> 카사다 @zaq1qaz
-> 취업 관련 수업 들으면서 웹 개발(아마도 학원) 이력서 보는데
-> 2002년 이력서 희망 연봉이 2000만원이고 2015년이 2300~2500만원이여
->
-> [오후 9:27 - 2018년 9월 12일](https://twitter.com/zaq1qaz/status/1040094574406844416)
-
-<br><br>
-
 > [40세 신입사원 '나이 제한 없는 기업 찾아헤맸다'](http://news.chosun.com/misaeng/site/data/html_dir/2016/11/30/2016113000791.html)   
 >
 > 2016년 상반기 부산교통공사 신입사원이 된 최이윤(40)씨. 자동차 관련 민간기업에서 10년간 재무·회계를 담당했습니다. 2014년 회사를 관두고 2년간 이직 준비를 했습니다. 처음에는 민간기업에 경력직으로 들어갈 계획을 세웠습니다. 이후 마음을 바꿔 공공기관 입사준비를 하게 됐다고 합니다.   
 
-<br>
-
-<br>
+<br><br>
 
 > redacted @29979245oo   
 > ‏이제 이 동네는 망했습니다. ⚡️ “Silicon Valley is losing its residents quickly” by @tictoc   
@@ -648,8 +471,6 @@ $ find ./ -name "bolt*"
 >
 > 어엉부엉 @d_ijk_stra   
 > 이런 관점에서는 굳이 박사과정을 끝내야 하는지는 잘 모르겠다. 중퇴하고 인더스트리로 와서 좋은 테크니컬 리더쉽을 발휘하는 사람들이 적잖이 보이기도 하고.   
-
-
 
 <br><br>
 
@@ -802,29 +623,7 @@ $ find ./ -name "bolt*"
 
 [What is frequency response and how does it affect my music?](https://www.soundguys.com/frequency-response-explained-16507/)
 
-<br><br>  
-
-> Chris Ohk@utilforever
->
-> 컴퓨터 그래픽스 이론을 다루는 책이랑 OpenGL 라이브러리를 다루는 책을 같이 봤었고, 그 이후에 DirectX 라이브러리를 다루는 책을 봤었네요. 그걸 몇 바퀴 반복해서 보고 이해가 어느 정도 되었다 싶을 때 다음 단계의 책으로 넘어갔었습니다. 예를 들어 셰이더라던지 리얼 타임 렌더링이라던지
->
-> [오후 6:37 - 2018년 8월 9일](https://twitter.com/utilforever/status/1027730610784096256)
->
-> Chris Ohk @utilforever
->
-> 처음 봤을 땐 이해가 안되는 부분이 제법 많았습니다. 그 때는 빠르게 넘기고 다음에 읽을 때 다시 이해해보려고 합니다. 숲을 먼저 보고 나서 나무를 보게 되면 이해가 안되던게 되는 경우도 있더라구요. 다음에 읽을 때 이해가 안되면 참고 도서나 인터넷에 검색해보기도 합니다. 이해가 중요해요.
->
-> [오후 6:40 - 2018년 8월 9일](https://twitter.com/utilforever/status/1027731347312324608)
-
-<br><br>
-
-[Foundations of Analog and Digital Electronic Circuits (The Morgan Kaufmann Series in Computer Architecture and Design) ](https://www.amazon.com/Foundations-Electronic-Circuits-Kaufmann-Architecture/dp/1558607358/ref=sr_1_1?ie=UTF8&qid=1533953394&sr=8-1&keywords=Foundations+of+Analog+and+Digital+Electronic+Circuits&dpID=51h058TFt3L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
-
-<br><br>  
-
-[Semiconductor Device Simulation](https://www.karlrupp.net/research/semiconductor-device-simulation/)
-
-<br><br>    
+<br><br>      
 
  [알고 계신가요? 자바스크립트 핵심 기능, 클로저!](https://ppss.kr/archives/168469)   
 
@@ -932,12 +731,6 @@ console.log(b);
 
 <br><br>
 
-
-
-[16:8 마법 … 8시간은 맘껏 먹어도 석 달 후 체중 3% ‘실종’](https://news.joins.com/article/22858830)   
-
-<br><br>
-
 >  [멀티플레이어, 제네럴리스트와 스페셜리스트](https://cfr0g.wordpress.com/2018/03/23/%EB%A9%80%ED%8B%B0%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%A0%9C%EB%84%A4%EB%9F%B4%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%99%80-%EC%8A%A4%ED%8E%98%EC%85%9C%EB%A6%AC%EC%8A%A4%ED%8A%B8/) 
 >
 > 
@@ -1036,10 +829,6 @@ console.log(b);
 
 <br>
 
-[CppCon 2015 Presentation Materials](https://github.com/CppCon/CppCon2015/blob/master/README.md)
-
-<br>
-
 [승강기서 전화 안 끊기는 간편 방법 나오나?](http://www.astronomer.rocks/news/articleView.html?idxno=85883)
 
 > UNIST 전기전자컴퓨터공학부의 변영재 교수팀은 '평면에 무늬를 새겨 넣는 것만으로 금속 통신이 가능하다'는 사실을 발견했습니다. 금속에 전파를 통과시키는 '전자기 유도 투과(Electromagnetically induced transparency, EIT)'의 새로운 방식으로 주목을 받고 있어요.
@@ -1120,10 +909,6 @@ console.log(b);
 
 <br>
 
-[Digital Design and Computer Architecture](https://www.amazon.com/Digital-Design-Computer-Architecture-Second/dp/0123944244/ref=sr_1_11?s=books&ie=UTF8&qid=1529141944&sr=1-11&keywords=digital+design)
-
-<br>
-
 > Seongjae Lee @seongjaelee
 >
 > 페북분이랑 이야기하다 개소름이었던게 페북은 php 뜯어고쳐서 쓰고 있다는 건 알았는데 인스타그램은 파이썬 쟝고로 짜여있다고... 진짜 php/python으로도 월드스케일 커버 가능하다는 산 증인...
@@ -1141,10 +926,6 @@ console.log(b);
 <br>
 
 [PAPERS WE LOVE](https://github.com/papers-we-love/papers-we-love)
-
-<br>
-
-[THE SUPER TINY COMPILER](https://github.com/jamiebuilds/the-super-tiny-compiler)
 
 <br>
 
@@ -1238,22 +1019,6 @@ console.log(b);
 
 <br>
 
-> 朴聖國, Shawn @sungkkshawnpark
->
-> 텍스트를 읽거나 기술을 공부했으면 반드시 흔적을 남겨야 한다. 노트라도 남기거나 아니면 뭐라도 만들던가. 안 그러면 학습의 근거가 되는 “반영구적인 변화”에 도달하기 어렵다. 매번 읽었던 책으로 되돌아가 같은 문제 의식만 되새길 거면 책은 안 읽는 편이 낫다. 읽을 때만 알 것 같은 건 착각.
->
-> [오후 10:11 - 2018년 5월 16일](https://twitter.com/sungkkshawnpark/status/996981632799096833)
->
-> 朴聖國, Shawn @sungkkshawnpark
->
-> 그러나 여기서도 노트를 남기거나 뭔갈 만드는 과정이 “그대로 옮기는(tracing)” 방식이어서는 안 된다. 그러면 공부가 끝나고 나서 머릿속에 아무 것도 남질 않는다. 그 공부는 학습이 아닌 노동일 뿐이다. 자신의 수준보다 낮은 문제들만 골라 풀며 자위하는 것도 마찬가지다. 차라리 쉬는 게 낫다.
->
-> 朴聖國, Shawn @sungkkshawnpark
->
-> 그림 그리는 것도 다르지 않다. Tracing은 기계적인 노동일 뿐이다. Figure drawing은 대상의 동세와 형태, 비례, 구도를 종합적으로 훈련하며 백지를 채워나가는 활동. 당연히 전자보다 후자가 학습 주체에게 더 불안하고 허공에서 줄타기를 하는 듯한 스트레스를 준다. 하지만 후자가 학습에 가깝다.
-
-<br>
-
 <img src="https://dzone.com/storage/temp/5464204-enterprise-vs-startup-journey-to-cloud.png">
 
 <br>
@@ -1319,14 +1084,6 @@ console.log(b);
 <br>
 
 <br>
-
-> Chris Ohk  @utilforever
->
-> 삽질을 매우매우 많이 합니다만, 매번 느끼는 점은 비슷합니다. 남들이 하지 않았던 무언가를 하려면 굉장히 많은 삽질을 해야된다. 설명서도 잘 나와있지 않아 몇 일 내내 이리저리 바꿔가면서 시도해야 할 수도 있다. 하지만 해냈을 때의 성취감은 말할 수 없으며, 온전히 나의 지식이 된다.
->
-> [오전 6:22 - 2018년 5월 8일](https://twitter.com/utilforever/status/993843648675528704)
-
-<br><br>
 
 > redacted @29979245oo
 >
@@ -1413,14 +1170,6 @@ console.log(b);
 
 <br>
 
-[Can anyone at Google or Amazon share what algorithms you find most useful over the years of your career?](https://www.quora.com/Can-anyone-at-Google-or-Amazon-share-what-algorithms-you-find-most-useful-over-the-years-of-your-career/answer/Eugene-Yarovoi?share=dc5052f3)
-
-<br>
-
-[[B급 프로그래머] (Quora) 구글 또는 아마존에 다니는 경력 개발자들이 가장 유용하다고 생각하는 자료 구조는?](http://jhrogue.blogspot.kr/2018/04/b-quora.html)
-
-<br>
-
 [프로그래밍은 레고 조립이 아니다](https://daesan.com/2018/05/programming-is-not-lego)
 
 >프로그래밍은 물론 어렵다. 알고리즘을 익히는 것도, 알고리즘을 구현하는 것도, 컴퓨터 공학의 추상적인 개념들을 이해하는 것도, 프로그래밍 언어 사용에 능숙해지는 것도, 각종 문서를 섭렵하고 다양한 프레임워크와 툴들을 익히는 것도 이미 충분히 어렵다.
@@ -1443,10 +1192,6 @@ console.log(b);
 
 <br>
 
-[Python 3's pathlib Module: Taming the File System](https://realpython.com/python-pathlib/)
-
-<br>
-
 [우리 회사의 개발자 인터뷰](http://blog.kivol.net/post/138587457933/%EC%9A%B0%EB%A6%AC-%ED%9A%8C%EC%82%AC%EC%9D%98-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B8%ED%84%B0%EB%B7%B0)
 
 <br>
@@ -1456,10 +1201,6 @@ console.log(b);
 <br>
 
 [HTML5 Video Destruction](http://craftymind.com/factory/html5video/CanvasVideo.html)
-
-<br>
-
-[Introductory Circuit Analysis ](https://www.amazon.com/Introductory-Circuit-Analysis-Robert-Boylestad/dp/0133923606)
 
 <br>
 
