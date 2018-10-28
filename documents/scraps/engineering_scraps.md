@@ -10,6 +10,9 @@
 >
 > [Amazon Web Services to Acquire Elemental](https://www.elemental.com/newsroom/press-releases/amazon-web-services-acquire-elemental)
 >
+> [Why should you learn Go?](https://medium.com/exploring-code/why-should-you-learn-go-f607681fad65)
+>
+> “Go will be the server language of the future.” — Tobias Lütke, Shopify
 >
 >
 
