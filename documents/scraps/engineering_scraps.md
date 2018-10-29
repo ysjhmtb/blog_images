@@ -4,7 +4,7 @@
 >
 > [Wireless communication breaks through water-air barrier](http://news.mit.edu/2018/wireless-communication-through-water-air-0822)
 >
-> [The Scientist & Engineer's Guide to Digital Signal Processing ](https://www.amazon.com/Scientist-Engineers-Digital-Signal-Processing/dp/0966017633/ref=sr_1_1?s=books&ie=UTF8&qid=1538318492&sr=1-1&keywords=dsp)
+> [dspguide.com](http://www.dspguide.com/)
 >
 > [매체에 따르면 2015년 아마존은 자사 아마존 프라임 비디오의 안정적인 서비스를 위해 초대용량 비디오 압축 포맷 소프트웨어 개발 벤처인 엘레멘털(Elemental)의 인수를 검토했다. 엘레멘털은 이 기술로 올림픽 게임 중계 영상을 온라인으로 스트리밍하거나 위성을 통해 무인항공기(UAV)가 촬영한 영상을 CIA에 안정적으로 전송하는 등 핵심기술로 주목을 받았다.](https://news.v.daum.net/v/20181005185401360)
 >
