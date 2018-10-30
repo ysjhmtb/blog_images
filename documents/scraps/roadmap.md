@@ -2,7 +2,7 @@
 
 ```
 "하루하루는 성실하게. 인생 전체는 되는대로." - 이동진
-Android iOS React DSPA C++ OpenCV 
+Android iOS React NMA C++ OpenCV 
 ```
 
 <br><br>
