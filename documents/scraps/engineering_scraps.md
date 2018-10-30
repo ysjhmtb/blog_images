@@ -17,6 +17,20 @@
 > [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
 >
 > [처음 배우는 스프링 부트. 2 ](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162241264&orderClick=LET&Kc=#N)
+>
+> [Open Source Computer Vision for Beginners](https://www.amazon.com/dp/B075623WYH)
+
+<br><br>
+
+> 상당수의 문제를 재귀로 풀 수 있을까요?
+>
+> <br>개골
+>
+> <br>
+>
+> 네
+>
+> https://ask.fm/cfr0g/answers/151132240618
 
 <br><br>
 
