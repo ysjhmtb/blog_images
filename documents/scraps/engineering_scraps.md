@@ -9,16 +9,6 @@
 > [매체에 따르면 2015년 아마존은 자사 아마존 프라임 비디오의 안정적인 서비스를 위해 초대용량 비디오 압축 포맷 소프트웨어 개발 벤처인 엘레멘털(Elemental)의 인수를 검토했다. 엘레멘털은 이 기술로 올림픽 게임 중계 영상을 온라인으로 스트리밍하거나 위성을 통해 무인항공기(UAV)가 촬영한 영상을 CIA에 안정적으로 전송하는 등 핵심기술로 주목을 받았다.](https://news.v.daum.net/v/20181005185401360)
 >
 > [Amazon Web Services to Acquire Elemental](https://www.elemental.com/newsroom/press-releases/amazon-web-services-acquire-elemental)
->
-> [About Swift](https://docs.swift.org/swift-book/index.html)
->
-> [iOS & Swift Tutorials](https://www.raywenderlich.com/ios)
->
-> [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
->
-> [처음 배우는 스프링 부트. 2 ](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162241264&orderClick=LET&Kc=#N)
->
-> [Open Source Computer Vision for Beginners](https://www.amazon.com/dp/B075623WYH)
 
 <br><br>
 
