@@ -41,4 +41,6 @@
 
 1) [Maximal Square](https://leetcode.com/problems/maximal-square/)
 
-2) 
+2) [Ugly Number](https://leetcode.com/problems/ugly-number/)
+
+3) [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)
