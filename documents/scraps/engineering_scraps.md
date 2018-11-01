@@ -12,6 +12,10 @@
 
 <br><br>
 
+[Golang UK Conference 2017 | Achilleas Anagnostopoulos - Can you write an OS Kernel in Go?](https://www.youtube.com/watch?v=8T3VxGrrJwc&feature=youtu.be)
+
+<br><br>
+
 > GreekSage @GreekSage
 >
 > <br>보통 현실이 불만족스럽지만 다른 대안을 찾아 나서지 못하는 이유는 실패가 두렵기 때문이다. 성취란 실패없이 이뤄지진 않는다는걸 알면서도.
