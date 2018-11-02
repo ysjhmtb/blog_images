@@ -53,6 +53,38 @@
 
 <br><br>
 
+> 안희종 @heejongahn
+>
+> <br>
+>
+> “일이 많을 땐 하나씩 하면 된다.” 
+>
+> <br>
+>
+> 언젠가 동료가 페이스북에 올린 이 문장이 참 좋았다. 끝없이 쌓이는 듯한 일더미 앞에서 막막할 때면 자주 되뇌인다. 가만 냅둔다고 사라지는 일은 없다. 그냥 중요한 것부터 하나씩 차근차근 처리하면 되고, 그거 말곤 다른 방법도 없다.
+>
+> <br>
+>
+> [오전 4:20 - 2018년 11월 2일](https://twitter.com/heejongahn/status/1058317817844400128)
+
+<br><br>
+
+> [Battlefield 5 공식 공개 트레일러](https://www.youtube.com/watch?v=fb1MR85XFOc&feature=youtu.be)
+>
+> [Battlefield 5: 공식 멀티플레이어 트레일러](https://www.youtube.com/watch?v=SWVtV59mczk&feature=youtu.be)
+>
+> [Battlefield 5 – 공식 Gamescom 트레일러 – 로테르담의 폐허](https://www.youtube.com/watch?v=-FEgeuGsmzQ&feature=youtu.be)
+>
+> [Battlefield 5 - '중대' 공식 트레일러](https://www.youtube.com/watch?v=JUaUciRJy3Y&feature=youtu.be)
+>
+> [Battlefield V - 공식 싱글 플레이어 트레일러](https://www.youtube.com/watch?v=PUPimAwTo3E&feature=youtu.be)
+>
+> [Battlefield V – 공식 발매 전장](https://www.youtube.com/watch?v=nLR5DXRqtis&feature=youtu.be)
+
+<br><br>
+
+
+
 1) [Maximal Square](https://leetcode.com/problems/maximal-square/)
 
 2) [Ugly Number](https://leetcode.com/problems/ugly-number/)

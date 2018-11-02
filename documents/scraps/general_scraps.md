@@ -1,5 +1,9 @@
 <br><br>
 
+[“아이 아파 휴가냈더니 회사는 결근처리” 황당한 쿠팡](http://www.hani.co.kr/arti/society/society_general/868563.html)
+
+<br><br>
+
 [Historians Discover Ancient Dog Tombs With Tear-Jerking Inscriptions](https://www.littlethings.com/ancient-dog-memorials/)
 
 <br><br>
