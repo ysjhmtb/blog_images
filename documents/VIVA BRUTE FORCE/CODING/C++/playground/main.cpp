@@ -1,22 +1,23 @@
 #include <iostream>
-#include <ctime>
-#include <cstdlib>
 
 using namespace std;
 
+int sumArray(int values[], int size){
+    int sum=0;
+    for(int i=0;i<size;i++){
+        sum+=values[i];
+    }
+    return sum;
 
-int randRange(int low, int high) {
-    return rand() % (high - low + 1) + low;
 }
-
 
 int main() {
 
-    srand(time(NULL));
+    int values[10];
 
-    for (int i = 0; i < 1000; i++) {
-        cout << randRange(4, 10) << endl;
+    for(int i=0;i<10;i++){
+        cout<<"Enter value "<< i << " : ";
+        
     }
 
-    return 0;
 }
