@@ -12,6 +12,20 @@
 
 <br><br>
 
+> 김성완 (kaswan) @idgmatrix
+>
+> <br>페이스북이 음성 서비스를 만들지 못한 게 기본적으로 2년은 걸리는 일을 관리자들이 반년만에 해내라고 엔지니어들을 압박하는 바람에 결국은 5년이 지나도 결과물이 얻을 수 없었다는 이야기네요. 
+>
+> <br>
+>
+> [How Facebook Failed To Build A Better Alexa (Or Siri)](https://www.forbes.com/sites/parmyolson/2018/10/30/on-mute-how-facebook-fell-behind-on-voice-technology/#4ac32afb3b50)
+>
+> <br>
+>
+> [오후 10:43 - 2018년 10월 31일](https://twitter.com/idgmatrix/status/1057870695315660801)
+
+<br><br>
+
 [Golang UK Conference 2017 | Achilleas Anagnostopoulos - Can you write an OS Kernel in Go?](https://www.youtube.com/watch?v=8T3VxGrrJwc&feature=youtu.be)
 
 <br><br>
