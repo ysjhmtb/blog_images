@@ -1,5 +1,9 @@
 <br><br>
 
+[COLUMN-Oil market passes cyclical peak: John Kemp](https://uk.reuters.com/article/oil-peak-kemp/column-oil-market-passes-cyclical-peak-john-kemp-idUKL8N1XD4W8)
+
+<br><br>
+
 > ['신채권왕' 건들락이 돈 벌때 주시하는 '마법의 순간(magical moments)'>.](http://news.einfomax.co.kr/news/articleView.html?idxno=4000007)
 >
 > <br>
