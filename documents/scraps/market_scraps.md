@@ -4,6 +4,10 @@
 
 <br><br>
 
+[The Doing Business project provides objective measures of business regulations for local firms in 190 economies and selected cities at the subnational level.](http://www.doingbusiness.org/)
+
+<br><br>
+
 > ['신채권왕' 건들락이 돈 벌때 주시하는 '마법의 순간(magical moments)'>.](http://news.einfomax.co.kr/news/articleView.html?idxno=4000007)
 >
 > <br>
