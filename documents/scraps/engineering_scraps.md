@@ -28,6 +28,14 @@
 
 <br><br>
 
+[머리도 쓰면 좋아져요](https://youtu.be/vrvN_itJ9as)
+
+<br><br>
+
+[What is numerical methods?](https://www.quora.com/What-is-numerical-methods/answer/Ahmed-Fawzy-Elaraby)
+
+<br><br>
+
 > [Battlefield 5 공식 공개 트레일러](https://www.youtube.com/watch?v=fb1MR85XFOc&feature=youtu.be)
 >
 > [Battlefield 5: 공식 멀티플레이어 트레일러](https://www.youtube.com/watch?v=SWVtV59mczk&feature=youtu.be)
@@ -655,7 +663,27 @@ $ find ./ -name "bolt*"
 
 <br><br>
 
-[How Four Native Developers Wrote An Electron App](https://githubengineering.com/how-four-native-developers-wrote-an-electron-app/)
+>  [How Four Native Developers Wrote An Electron App](https://githubengineering.com/how-four-native-developers-wrote-an-electron-app/)
+>
+> <br>
+>
+> ## Why Rewrite?
+>
+> First, the elephant in the room: why? Rewrites are rarely a good idea. Why did we decide to walk away from two codebases and rewrite? <br>
+>
+> From the start, GitHub Desktop for macOS and Windows were two distinct products, each with their own team. We worked in two separate tech stacks using two different skill sets. To maintain parity across the codebases, we had to implement and design the same features twice. If we ever wanted to add Linux support, we’d have to do it all a third time. All this meant we had twice the work, twice the bugs, and far less time to build new features. <br>
+>
+> As it turns out, building native apps for multiple platforms doesn’t scale.
+>
+> <br>
+>
+> ## Why Electron?
+>
+> This isn’t a new or unique problem. Over the years we explored various ways for evolving the existing applications towards a shared codebase, including [Electron](http://electron.atom.io/), [Xamarin](https://www.xamarin.com/), a shared C++, or in our wildest dreams, Haskell. <br>
+>
+> We’d already [experimented with web technologies](https://githubengineering.com/cross-platform-ui-in-github-desktop/) to share work. The gravitational pull of the web was too strong to resist. <br>
+>
+> Beyond our own experience, we had to acknowledge the critical mass accumulating around web technologies. Companies like Google, Microsoft, and Facebook, not to mention GitHub, are investing *incredible* amounts of time, money, and engineering effort in the web as a platform. With Electron, we leverage that investment. <br>
 
 <br><br>
 
