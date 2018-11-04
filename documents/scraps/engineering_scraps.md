@@ -36,6 +36,28 @@
 
 <br><br>
 
+> Hacker News @newsycombinator
+>
+> <br>[So You Want to Learn Physics (2016)](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)
+>
+> [오전 3:01 - 2018년 11월 4일](https://twitter.com/newsycombinator/status/1059037884219617280)
+
+<br><br>
+
+> Hilary Mason @hmason
+>
+> <br>
+>
+> When you want to use a new algorithm that you don't deeply understand, the best approach is to implement it yourself to learn how it works, and then use a library to benefit from robust code.
+>
+> <br>
+>
+> [Here's one article showing this with neural networks in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
+>
+> [오전 10:36 - 2018년 11월 3일](https://twitter.com/hmason/status/1058774912201035776)
+
+<br><br>
+
 > [Battlefield 5 공식 공개 트레일러](https://www.youtube.com/watch?v=fb1MR85XFOc&feature=youtu.be)
 >
 > [Battlefield 5: 공식 멀티플레이어 트레일러](https://www.youtube.com/watch?v=SWVtV59mczk&feature=youtu.be)
