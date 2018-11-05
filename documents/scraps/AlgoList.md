@@ -69,19 +69,11 @@
 
 <br><br>
 
-> [Battlefield 5 공식 공개 트레일러](https://www.youtube.com/watch?v=fb1MR85XFOc&feature=youtu.be)
+> You don’t have to complete all of the sections at once to get the value out of this tutorial. Try to get as far as you can — even if it’s one or two sections. <br>
 >
-> [Battlefield 5: 공식 멀티플레이어 트레일러](https://www.youtube.com/watch?v=SWVtV59mczk&feature=youtu.be)
+> It’s fine to copy and paste code as you’re following along the tutorial, but we recommend to type it by hand. This will help you develop a muscle memory and a stronger understanding. <br>
 >
-> [Battlefield 5 – 공식 Gamescom 트레일러 – 로테르담의 폐허](https://www.youtube.com/watch?v=-FEgeuGsmzQ&feature=youtu.be)
->
-> [Battlefield 5 - '중대' 공식 트레일러](https://www.youtube.com/watch?v=JUaUciRJy3Y&feature=youtu.be)
->
-> [Battlefield V - 공식 싱글 플레이어 트레일러](https://www.youtube.com/watch?v=PUPimAwTo3E&feature=youtu.be)
->
-> [Battlefield V – 공식 발매 전장](https://www.youtube.com/watch?v=nLR5DXRqtis&feature=youtu.be)
-
-<br><br>
+> https://reactjs.org/tutorial/tutorial.html  
 
 
 

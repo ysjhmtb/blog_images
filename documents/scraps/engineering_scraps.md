@@ -28,11 +28,77 @@
 
 <br><br>
 
+> You don’t have to complete all of the sections at once to get the value out of this tutorial. Try to get as far as you can — even if it’s one or two sections. <br>
+>
+> It’s fine to copy and paste code as you’re following along the tutorial, but we recommend to type it by hand. This will help you develop a muscle memory and a stronger understanding. <br>
+>
+> https://reactjs.org/tutorial/tutorial.html  
+>
+
+<br><br>
+
+> asbubam @asbubam <br>
+> https://stdout.fm/  
+> 코딩할 때 재밌게 듣고있는 팟캐스트. 에피소드 더 많이 올라오면 좋겠다. <br>
+>
+> [오후 5:46 - 2018년 11월 4일](https://twitter.com/asbubam/status/1059260741667049472)
+
+<br><br>
+
 [머리도 쓰면 좋아져요](https://youtu.be/vrvN_itJ9as)
 
 <br><br>
 
 [What is numerical methods?](https://www.quora.com/What-is-numerical-methods/answer/Ahmed-Fawzy-Elaraby)
+
+<br><br>
+
+>  JBD @rakyll <br>
+> Engineer. Diagnostics at Google Cloud. Keeping things boring. Personal opinions. <br>
+> Nov. 02, 2018  <br>
+> Google's interview system is not great but there are various reasons why it feels less than it is. Most candidates don't know what the goal of our interviews are. First rule, it is not about finding an optimal solution or any solution at all. 
+>
+> <br>
+>
+> You are interviewed for multiple skills simultaneously. Cognitive skills, communication, leadership are a few to name. If the point is not finding a solution, then what is it? Let me explain.
+>
+> <br>
+>
+> Your interviewers try to understand what it feels like to work with you on a daily basis. An interview question is just a tool in achieving that, it is not there to specifically measure your skills on a topic but a tool to understand the depth of your thinking.
+>
+> <br>
+>
+> Before the interview starts, ask them what they want to get out of this interview. Good interviewers should already have a plan and a set of expectations. Ask them what you should do. Don't start coding yet. Ask them you should produce. Discussion, diagrams, pseudo code, code?
+>
+> <br>
+>
+> Then, start cracking the question. List whatever questions you think it is important to solve this question, ask your edge cases. Get to a point where you are discussing about pros/cons of the solutions. These steps are critical. Don't just start coding. Have a consensus first.
+>
+> <br>
+>
+> Your interviewer will try to give you hints. Don't ignore them because you are too confident about your solution. This is not a smartness contest. Also, don't panic if a hint doesn't make sense. Ask what interview's perspective is that they gave that hint.
+>
+> <br>
+>
+> Talk, talk, talk as you are doing your thing. Talk about even the most obvious steps. Ask about testing, talk about testing cases if testing discussion is expected. Discuss what you'd fix to iterate your solution if you realized you are missing something.
+>
+> <br>
+>
+> Don't get freaked out if the interviewer jumps to a different question. Sometimes, they think they got enough of what they have been looking for from a question and will do something else. Don't try to overdo a solution if interviewer think it is good enough.
+>
+> <br>
+>
+> If you are not highly senior, you won't get asked system design or open ended questions about industry best practices. This style of interviews are also about being able to discuss pros/cons.
+>
+> <br>
+>
+> Don't freak out just because your interviewer is taking too many notes. They need to provide evidence to the hiring committee and they want to remember as many signals as possible. Make sure you are clearly communicating your new ideas if you are iterating on the initial ones.
+>
+> <br>
+>
+> At any interview regardless it is at Google or not, don't see your interviewer as someone who has the full authority but some who you are already working with. Try to have a feel how productive it will feel in real life. Remember, interviews shouldn't be a monologue.
+>
+> <br>https://threader.app/thread/1058433116002381824
 
 <br><br>
 
