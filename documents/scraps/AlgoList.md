@@ -15,65 +15,14 @@
 
 <br><br>
 
-> [I interviewed at five top companies in Silicon Valley in five days, and luckily got five job offers](https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-valley-in-five-days-and-luckily-got-five-job-offers-25178cf74e0f)
+> 안녕하세요 개골님. 언제나 좋은 답변 감사드립니다. 말씀하셨던 것처럼 알고리즘 문제를 풀때 여러 테스트 케이스를 다 만족시키지 못하면 결국 틀린 것이지요. 알면서도 일반화 된 해결책을 코드로 옳길 능력이 아직 부족한데요. 결국 경험의 부족이겠지요? 
 >
-> <br><br>
->
-> Coding
->
-> While I agree that coding interviews might not be the best way to assess all your skills as a developer, there is arguably no better way to tell if you are a good engineer in a short period of time. IMO it is the necessary evil to get you that job.
-> I mainly used Leetcode and Geeksforgeeks for practicing, but Hackerrank and Lintcode are also good places. I spent several weeks going over common data structures and algorithms, then focused on areas I wasn’t too familiar with, and finally did some frequently seen problems. Due to my time constraints I usually did two problems per day.
-> Here are some thoughts:
->
-> Practice, a lot. There is no way around it.
->
-> But rather than doing all 600 problems on Leetcode, cover all types and spend time understanding each problem thoroughly. I did around 70 problems in total and felt that was enough for me. My thought is that if 70 problems isn’t helpful then you may not be doing it right and 700 won’t be helpful either.
->
-> Go for the hardest ones. After those the rest all become easy.
->
-> If stuck on one problem for over two hours, check out the solutions. More time might not be worth it.
->
-> After solving one problem, check out the solutions. I was often surprised by how smart and elegant some solutions are, especially the Python one-liners.
->
-> Use a language that you are most familiar with and that is common enough to be easily explained to your interviewer.
-
-<br><br>
-
-> 김성완 (kaswan) @idgmatrix
->
-> <br>페이스북이 음성 서비스를 만들지 못한 게 기본적으로 2년은 걸리는 일을 관리자들이 반년만에 해내라고 엔지니어들을 압박하는 바람에 결국은 5년이 지나도 결과물이 얻을 수 없었다는 이야기네요. 
+> <br>
+> [개골](https://ask.fm/cfr0g/answers/151254417898)
 >
 > <br>
 >
-> [How Facebook Failed To Build A Better Alexa (Or Siri)](https://www.forbes.com/sites/parmyolson/2018/10/30/on-mute-how-facebook-fell-behind-on-voice-technology/#4ac32afb3b50)
->
-> <br>
->
-> [오후 10:43 - 2018년 10월 31일](https://twitter.com/idgmatrix/status/1057870695315660801)
-
-<br><br>
-
-> 안희종 @heejongahn
->
-> <br>
->
-> “일이 많을 땐 하나씩 하면 된다.” 
->
-> <br>
->
-> 언젠가 동료가 페이스북에 올린 이 문장이 참 좋았다. 끝없이 쌓이는 듯한 일더미 앞에서 막막할 때면 자주 되뇌인다. 가만 냅둔다고 사라지는 일은 없다. 그냥 중요한 것부터 하나씩 차근차근 처리하면 되고, 그거 말곤 다른 방법도 없다.
->
-> <br>
->
-> [오전 4:20 - 2018년 11월 2일](https://twitter.com/heejongahn/status/1058317817844400128)
-
-<br><br>
-
-> You don’t have to complete all of the sections at once to get the value out of this tutorial. Try to get as far as you can — even if it’s one or two sections. <br>
->
-> It’s fine to copy and paste code as you’re following along the tutorial, but we recommend to type it by hand. This will help you develop a muscle memory and a stronger understanding. <br>
->
-> https://reactjs.org/tutorial/tutorial.html  
+> 하다보면 늘겠죠. 문제를 풀때는 직접 로직을 만드는 방법도 있지만, 누군가 이미 잘 만들어놓은 다른 로직을 가져다 쓰는 경우가 더 많거든요. 로직을 많이 아는 것은 경험/공부하다보면 느니까요.
 
 <br><br>
 
@@ -84,3 +33,5 @@
 2) [Ugly Number](https://leetcode.com/problems/ugly-number/)
 
 3) [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)
+
+4) [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
