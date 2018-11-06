@@ -1,5 +1,11 @@
 <br><br>
 
+> [Record Number of Markets Now in the Red in Worst Year Since 1901](https://www.bloomberg.com/news/articles/2018-11-05/record-number-of-markets-now-in-the-red-in-worst-year-since-1901?utm_campaign=socialflow-organic&cmpid%3D=socialflow-twitter-markets&utm_medium=social&utm_content=markets&utm_source=twitter)
+>
+> <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icNSRqJ_Up6I/v1/-1x-1.png">
+
+<br><br>
+
 > -3- <br>
 > 공화당 승리 가능성을 선반영해 미국 금리는 미리 오르고 주가는 주춤하다가, 중간선거 결과가 어떻게 나오든 선거 후에는 금리 상승세는 잦아들고 주가는 상승을 재개하는 리스크온으로 기운 뒤, 막상 월말 G20에서는 기대가 실망으로 바뀌는 시나리오를 상상 중. 미중 무역 이슈는 중기적으로 긍정적 재료가 되기는 어렵다는 생각을 여전히 가지고 있다. 타협이 되지 않으면 지속적인 노이즈가 될 것이고, 타협 성사된다는 것은 중국이 미국에게 원하는 것(그것이 IT기술 유출 중단이든, 중국의 경기 침체든 뭐든 간에)을 준다는 의미이므로 그것대로 문제이기 때문. <br>
 >
