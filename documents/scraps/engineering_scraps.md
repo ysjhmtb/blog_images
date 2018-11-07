@@ -28,6 +28,10 @@
 
 <br><br>
 
+[Real science. Now in real time.](https://cseweb.ucsd.edu/~jmcauley/?fbclid=IwAR2ldcIZ4TIuGd9KnngJSdD_Xo98yuV_kBiL5H6HSrdEHClYrTaOxNFkhtg)
+
+<br><br>
+
 > You don’t have to complete all of the sections at once to get the value out of this tutorial. Try to get as far as you can — even if it’s one or two sections. <br>
 >
 > It’s fine to copy and paste code as you’re following along the tutorial, but we recommend to type it by hand. This will help you develop a muscle memory and a stronger understanding. <br>
