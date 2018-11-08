@@ -7,39 +7,55 @@
 
 <br><br>
 
-|          | JS React Node A C++ | E                            | DAILY | WK   |
-| -------- | ------------------- | ---------------------------- | ----- | ---- |
-| 11 01 목 |                     |                              | 2     | 30   |
-| 11 03 토 |                     |                              | 2     | 30   |
-| 11 05 월 |                     |                              | 2     | 30   |
-| 11 07 수 |                     |                              | 2     | 30   |
-| 11 09 금 |                     | https://youtu.be/8ge3ah1G8ok | 2     | 30   |
-| 11 11 일 |                     | https://youtu.be/YgVyPwhkoJs | 2     | 30   |
-| 11 13 화 |                     | https://youtu.be/SA5zh3yG_-0 | 2     | 30   |
-| 11 15 목 |                     |                              | 2     | 30   |
-| 11 17 토 |                     |                              | 2     | 30   |
-| 11 19 월 |                     |                              | 2     | 30   |
-| 11 21 수 |                     |                              | 2     | 30   |
-| 11 23 금 |                     |                              | 2     | 30   |
-| 11 25 일 |                     |                              | 2     | 30   |
-| 11 27 화 |                     |                              | 2     | 30   |
-| 11 29 목 |                     |                              | 2     | 30   |
-| 12 01 토 |                     |                              | 2     | 30   |
-| 12 03 월 |                     |                              | 2     | 30   |
-| 12 05 수 |                     |                              | 2     | 30   |
-| 12 07 금 |                     |                              | 2     | 30   |
-| 12 09 일 |                     |                              | 2     | 40   |
-| 12 11 화 |                     |                              | 2     | 40   |
-| 12 13 목 |                     |                              | 2     | 40   |
-| 12 15 토 |                     |                              | 2     | 40   |
-| 12 17 월 |                     |                              | 2     | 40   |
-| 12 19 수 |                     |                              | 2     | 40   |
-| 12 21 금 |                     |                              | 2     | 40   |
-| 12 23 일 |                     |                              | 2     | 40   |
-| 12 25 화 |                     |                              | 2     | 40   |
-| 12 27 목 |                     |                              | 2     | 40   |
-| 12 29 토 |                     |                              | 2     | 40   |
-| 01 01 화 |                     |                              | 2     | 40   |
-| 01 03 목 |                     |                              | 2     | 40   |
+JS React Node A C++ 
 
-<br><br>
+<br>
+
+[Why Tesla is building city-sized batteries](https://www.youtube.com/watch?v=8ge3ah1G8ok&feature=youtu.be)
+
+[Sea level rise is so much more than melting ice](https://www.youtube.com/watch?v=SA5zh3yG_-0&feature=youtu.be)
+
+[We decoded NASA’s messages to aliens by hand](https://www.youtube.com/watch?v=RRuovINxpPc&feature=youtu.be)
+
+[What the world looks like to an algorithm](https://www.youtube.com/watch?v=PwcuTCfSIyI&feature=youtu.be)
+
+[How four rogue satellites could change the spaceflight industry](https://www.youtube.com/watch?v=xSKFPDe3QvE&feature=youtu.be)
+
+<br>
+
+<br>
+
+```bash
+# 11 10 토
+$ Why Tesla 4
+$ 확인 parse
+$ 섹션 6
+
+# 11 11 일
+$ Why Tesla	끝
+$ 섹션 10
+
+# 11 12 월
+$ Sea level 1 + R
+$ Dev
+$ 4.2
+
+# 11 13 화
+$ Sea level 2 + R
+$ Dev
+$ 4.4
+
+
+
+# 참조 : 4.6 5.6 6.6 7.7 8.7 9.6 10.8 11.6 12.4 13.5 14.3 15.7 16.6
+# Why Tesla is building city-sized batteries	6:14
+# Sea level rise is so much more than melting ice	6:08
+# We decoded NASA’s messages to aliens by hand	8.53
+# What the world looks like to an algorithm	7.57
+# How four rogue satellites could change the spaceflight industry	6:42
+
+
+```
+
+
+

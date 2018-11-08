@@ -1,5 +1,15 @@
 <br><br>
 
+> 매연계곡 @SmokeValley
+>
+> <br>최근 코스닥150레버리지ETF는 10분봉의 RSI 지표가 굉장히 정확한 신호를 보내주고 있다. 침체권에 들어갔을때 포지션 진입하면 좋은 수익 구간이 나온다.
+>
+> <br>
+>
+> [오후 5:58 - 2018년 11월 7일](https://twitter.com/SmokeValley/status/1060350897845284865)
+
+<br><br>
+
 > [Record Number of Markets Now in the Red in Worst Year Since 1901](https://www.bloomberg.com/news/articles/2018-11-05/record-number-of-markets-now-in-the-red-in-worst-year-since-1901?utm_campaign=socialflow-organic&cmpid%3D=socialflow-twitter-markets&utm_medium=social&utm_content=markets&utm_source=twitter)
 >
 > <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icNSRqJ_Up6I/v1/-1x-1.png">
