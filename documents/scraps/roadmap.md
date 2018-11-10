@@ -36,10 +36,12 @@ $ NO 4
 # 11 12 월
 $ Sea level 1 + R
 $ NO 4
+$ NM 31
 
 # 11 13 화
 $ Sea level 2 + R
 $ NO 5
+$ NM 32 
 
 
 
