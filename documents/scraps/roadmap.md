@@ -7,7 +7,7 @@
 
 <br><br>
 
-JS React Node A C++ 
+JS React Node Go 
 
 <br>
 
@@ -33,21 +33,20 @@ $ 섹션 6
 
 # 11 11 일
 $ Why Tesla	끝
-$ 섹션 10
+$ 배열 렌더링하기
 
 # 11 12 월
 $ Sea level 1 + R
-$ Dev
-$ 4.2
+$ 마치면서
 
 # 11 13 화
 $ Sea level 2 + R
-$ Dev
-$ 4.4
+$ D3 Dev
+$ 4
 
 
 
-# 참조 : 4.6 5.6 6.6 7.7 8.7 9.6 10.8 11.6 12.4 13.5 14.3 15.7 16.6
+# Node 4.6 5.6 6.6 7.7 8.7 9.6 10.8 11.6 12.4 13.5 14.3 15.7 16.6
 # Why Tesla is building city-sized batteries	6:14
 # Sea level rise is so much more than melting ice	6:08
 # We decoded NASA’s messages to aliens by hand	8.53

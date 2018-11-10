@@ -13,7 +13,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ground1/react-tutorials/contact-app/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PhoneForm.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ground1/react-tutorials/contact-app/src/components/PhoneForm.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -26,6 +45,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/ground1/someMethods.js" />
+        <option value="$PROJECT_DIR$/ground1/react-tutorials/contact-app/src/index.js" />
+        <option value="$PROJECT_DIR$/ground1/react-tutorials/contact-app/src/components/PhoneForm.js" />
+        <option value="$PROJECT_DIR$/ground1/react-tutorials/contact-app/src/App.js" />
       </list>
     </option>
   </component>
@@ -65,19 +87,6 @@
               <item name="ReactNodeGround" type="462c0819:PsiDirectoryNode" />
               <item name="ground1" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ReactNodeGround" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReactNodeGround" type="462c0819:PsiDirectoryNode" />
-              <item name="ground1" type="462c0819:PsiDirectoryNode" />
-              <item name="react-tutorials" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ReactNodeGround" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReactNodeGround" type="462c0819:PsiDirectoryNode" />
-              <item name="ground1" type="462c0819:PsiDirectoryNode" />
-              <item name="react-tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="contact-app" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -103,10 +112,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.App.js">
+    <configuration name="App.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="App.js" working-dir="$PROJECT_DIR$/ground1/react-tutorials/contact-app/src" />
     <configuration name="someMethods.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="someMethods.js" working-dir="$PROJECT_DIR$/ground1" />
+    <list>
+      <item itemvalue="Node.js.someMethods.js" />
+      <item itemvalue="Node.js.App.js" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.App.js" />
         <item itemvalue="Node.js.someMethods.js" />
       </list>
     </recent_temporary>
@@ -122,12 +137,13 @@
       <option name="presentableId" value="Default" />
       <updated>1541670451530</updated>
       <workItem from="1541670453668" duration="5433000" />
-      <workItem from="1541682785601" duration="356000" />
+      <workItem from="1541682785601" duration="558000" />
+      <workItem from="1541813863201" duration="885000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5789000" />
+    <option name="totallyTimeSpent" value="6876000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1600" height="794" extended-state="0" />
@@ -136,6 +152,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32916668" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32916668" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -148,7 +165,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +174,16 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ground1/react-tutorials/contact-app/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ground1/someMethods.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -169,6 +195,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ground1/react-tutorials/contact-app/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ground1/react-tutorials/contact-app/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ground1/react-tutorials/contact-app/src/components/PhoneForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ground1/react-tutorials/contact-app/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
         </state>
       </provider>
     </entry>
