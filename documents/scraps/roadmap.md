@@ -7,8 +7,6 @@
 
 <br><br>
 
-JS React Node Go 
-
 <br>
 
 [Why Tesla is building city-sized batteries](https://www.youtube.com/watch?v=8ge3ah1G8ok&feature=youtu.be)
@@ -33,16 +31,16 @@ $ 섹션 6
 
 # 11 11 일
 $ Why Tesla	끝
-$ 배열 렌더링하기
+$ NO 4
 
 # 11 12 월
 $ Sea level 1 + R
-$ 마치면서
+$ NO 4
 
 # 11 13 화
 $ Sea level 2 + R
-$ D3 Dev
-$ 4
+$ NO 5
+
 
 
 
