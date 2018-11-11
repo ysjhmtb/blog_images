@@ -29,22 +29,17 @@ $ Why Tesla 4
 $ 확인 parse
 $ 섹션 6
 
-# 11 11 일
-$ Why Tesla	끝
-$ RE
-$ NO 4
-
 # 11 12 월
-$ Sea level 1 + R
+$ Why Tesla	끝
 $ RE
 $ NO 4
 $ NM 31
 
 # 11 13 화
-$ Sea level 2 + R
+$ Sea level 1 + R
 $ RE
-$ NO 5
-$ NM 32 
+$ NO 4
+$ NM 32
 
 
 
