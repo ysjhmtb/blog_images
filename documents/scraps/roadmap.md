@@ -7,6 +7,13 @@
 
 <br><br>
 
+> "만들려고 배우지 말고, 배우기 위해 만들어라"에 동의하시나요?
+>
+> <br>[개골](https://ask.fm/cfr0g/answers/151360822250)
+>
+> <br>
+> 그냥 선후가 따로 있나 싶어요
+
 <br>
 
 [Why Tesla is building city-sized batteries](https://www.youtube.com/watch?v=8ge3ah1G8ok&feature=youtu.be)
