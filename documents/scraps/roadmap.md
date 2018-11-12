@@ -7,15 +7,6 @@
 
 <br><br>
 
-> "만들려고 배우지 말고, 배우기 위해 만들어라"에 동의하시나요?
->
-> <br>[개골](https://ask.fm/cfr0g/answers/151360822250)
->
-> <br>
-> 그냥 선후가 따로 있나 싶어요
-
-<br>
-
 [Why Tesla is building city-sized batteries](https://www.youtube.com/watch?v=8ge3ah1G8ok&feature=youtu.be)
 
 [Sea level rise is so much more than melting ice](https://www.youtube.com/watch?v=SA5zh3yG_-0&feature=youtu.be)
@@ -48,8 +39,17 @@ $ RE
 $ NO 4
 $ NM 32
 
+# 11 15 목
+$ Sea level 2 + R
+$ RE
+$ NO 4
+$ ALGO
 
-
+# 11 16 금
+$ Sea level 3 + R
+$ RE
+$ NO 5
+$ ALGO
 
 # Node 4.6 5.6 6.6 7.7 8.7 9.6 10.8 11.6 12.4 13.5 14.3 15.7 16.6
 # Why Tesla is building city-sized batteries	6:14
