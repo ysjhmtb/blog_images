@@ -34,19 +34,19 @@ $ NO 4
 $ NM 31
 
 # 11 13 화
-$ Sea level 1 + R
+$ SHO
 $ RE
 $ NO 4
 $ NM 32
 
 # 11 15 목
-$ Sea level 2 + R
+$ SHO
 $ RE
 $ NO 4
 $ ALGO
 
 # 11 16 금
-$ Sea level 3 + R
+$ SHO
 $ RE
 $ NO 5
 $ ALGO
