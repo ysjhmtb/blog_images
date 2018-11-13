@@ -24,7 +24,8 @@
 ```bash
 $ SHO
 $ RE 2
-$ NO 2
+$ NO 1
+$ LI 1
 $ ALGO
 
 
