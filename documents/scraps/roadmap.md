@@ -25,7 +25,7 @@
 
 14 WED <BR>
 
-~~SHO~~	 RE 2	NO 2	ALGO	<BR>
+~~SHO~~	 RE 2	~~NO 2~~	ALGO	<BR>
 
 15 THU <BR>
 
