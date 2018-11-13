@@ -12,6 +12,79 @@
 
 <br><br>
 
+> Park JaeHo @jrogue <br>The cult of creativity is making us less creative https://qz.com/1450975/  via @qz 한 줄 요약: 창의성은 하늘에서 뚝 떨어지지 않으며, 엄청난 시간, 노력, 학습이 선행되어야 한다.
+
+<br><br>
+
+>  김지현 @simnalamburt  <br> [8월 31일](https://mobile.twitter.com/simnalamburt/status/1035348364555051008)
+>  그냥 피처 치는 클라이언트 개발자 하고싶으신게 아니라 엔진 프로그래밍 하고싶으신거라면, 그냥 빨리 취직하시는게 엄청 도움이 되는지는 전 잘 모르겠습니다
+>
+>  <br>
+>
+>  김지현 @simnalamburt <br>
+>  [8월 31일](https://mobile.twitter.com/simnalamburt/status/1035349831160479744)
+>  네 엔진개발자 커리어코스는 제가 잘 모르지만, 국내 게임 회사들은 제가 아주 조금은 아는것같은데, 그냥 무턱대고 취직해서 클라개발자로 일한다고 절대로 마법적으로 엔진개발자로 진화하지못합니다
+>
+>  <br>
+>
+>  김지현 @simnalamburt <br>
+>  [8월 31일](https://mobile.twitter.com/simnalamburt/status/1035353142513135621)
+>  엔진 개발하는데에 필요한게 아마, 렌더링, 시스템프로그래밍, 최적화, 네트워킹, 안터지게 C++ 짜기 이런거가 있을텐데
+>
+>  아무 회사 클라개발자로 취직하면 아마 엔진 사용법만 능숙해지고 저런것들 지식은 굉장히 천천히 늘것같아서요
+>
+>  <br>
+>
+>  김지현 @simnalamburt <br>
+>  [8월 31일](https://mobile.twitter.com/simnalamburt/status/1035355341565771776)
+>  방금 DX 만진다고 하셨는데, 대부분의 회사에선 그것조차도 안합니다. 엔진 사서쓰거나, 시니어 개발자들이 몇년전에 만들어놓은 쓰레기같은 자체엔진 몇년이고 울궈먹으면서 고치기나 하죠.
+>
+>  <br>
+>
+>  김지현 @simnalamburt <br>
+>  [8월 31일](https://mobile.twitter.com/simnalamburt/status/1035355841837248512)
+>  특히 이건 Chris Ohk님도 공감하실텐데, 국내 대부분의 C++ 개발자들은 C++ 엉망진창으로 짭니다. 그리고 국내 대부분의 게임회사 자체가 "터지는건 당연한거고 나중에 문제되면 고쳐라" 마인드로 일하고있어서, 나아지지도 않습니다.
+>
+>  C++에 미숙하신채로 일하시면 실력이 늘지않거나 퇴화하실거구요
+
+<br><br>
+
+> blanche @blancheiswhite <br>
+> '한 그룹은 학위 논문을 마치는 데 ‘수년이 걸리는 학생들’이었고, 또 한 그룹은 ‘2년 이내에 마치는 학생들’ 이었다. 놀랍게도 두 그룹은 지적 수준이나 정서 상태에서는 거의 차이를 보이지 않았다. 다만 두 그룹의 실질적인 차이는 후자의 학생들이 ‘더 힘들어한다’는 것뿐이었다. '
+>
+> [오전 4:18 - 2018년 11월 12일](https://twitter.com/blancheiswhite/status/1061956415533633536)
+>
+> <br>
+>
+> blanche @blancheiswhite <br>
+> '이 학생들의 공통점은 아래와 같았다.
+>   • 자신의 삶을 대기 중이라고 여긴다. 온종일 논문만 작성하느라 다른 모든 계획은 하나도 안 세우고 파티나 친구들과의 약속, 운동은 전부 논문을 마친 후로 미룬다'
+>
+> <br>
+>
+> blanche @blancheiswhite <br>
+> '논문을 미루는 학생들의 상당수는 몸매도 엉망이었고, 숙소도 각종 과제물, 책, 오랫동안 씻지 않은 커피잔, 벗어 놓은 더러운 옷들로 난장판이었다. 한 학생은 ‘논문에 대해서는 노코멘트!’라고 적힌 티셔츠를 입고 다니기도 했다.'
+>
+> <br>
+>
+> blanche @blancheiswhite <br>
+> '그러나 1년 안에 학위논문을 마치는 데 훌륭한 진척을 보인 학생들은 여가 시간을 꼼꼼히 챙겼다. 그들은 논문을 잘 쓰기 위한 전체적인 계획에 건강과 휴식을 필수사항으로 놓고 여기에 높은 우선순위를 부여했다.' 
+>
+> 내 시간 우선 생활습관 | 닐 피오레, 김진희 저
+>
+> <br>
+>
+> blanche  @blancheiswhite <br>
+> *타래의 첫 트윗에 후자가 아니라 전자입니다.
+
+<br>
+
+<br>
+
+[프런트엔드 개발자가 되고 싶지 않았던 프런트엔드 개발자의 이직기](https://milooy.wordpress.com/2018/02/07/moving-job/)
+
+<br><br>
+
 >**Cloudflare**‏ @Cloudflare <br>
 >
 >1 Thing You Can Do To Make Your Internet Safer And Faster - [#1dot1dot1dot1](https://twitter.com/hashtag/1dot1dot1dot1?src=hash) - 
