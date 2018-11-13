@@ -21,20 +21,6 @@
 
 <br>
 
-
-
-14 WED <BR>
-
-~~SHO~~	 RE 2	~~NO 2~~	ALGO	<BR>
-
-15 THU <BR>
-
-SHO	RE 2	NO 2 	ALGO 	<BR>
-
-
-
-<br>
-
 ```bash
 $ SHO
 $ RE 2
