@@ -1,5 +1,9 @@
 <br><br>
 
+[Stop Viewing Work as ‘Trading Time for Money’](https://medium.com/s/story/stop-viewing-work-as-trading-your-time-for-money-2297922a25da)
+
+<br><br>
+
 ["왜 안되죠" 꼬치꼬치 따져 세상을 바꾼 프로불편러](https://news.v.daum.net/v/20181103090418387)
 
 <br><br>

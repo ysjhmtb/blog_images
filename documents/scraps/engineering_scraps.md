@@ -1,4 +1,4 @@
-<br><br><br><br>
+<br><br>
 
 > [Depth-sensing imaging system can peer through fog](http://news.mit.edu/2018/depth-sensing-imaging-system-can-peer-through-fog-0321)
 >
@@ -9,6 +9,29 @@
 > [매체에 따르면 2015년 아마존은 자사 아마존 프라임 비디오의 안정적인 서비스를 위해 초대용량 비디오 압축 포맷 소프트웨어 개발 벤처인 엘레멘털(Elemental)의 인수를 검토했다. 엘레멘털은 이 기술로 올림픽 게임 중계 영상을 온라인으로 스트리밍하거나 위성을 통해 무인항공기(UAV)가 촬영한 영상을 CIA에 안정적으로 전송하는 등 핵심기술로 주목을 받았다.](https://news.v.daum.net/v/20181005185401360)
 >
 > [Amazon Web Services to Acquire Elemental](https://www.elemental.com/newsroom/press-releases/amazon-web-services-acquire-elemental)
+
+<br><br>
+
+> Marco Arment  @marcoarment <br>
+> You can’t use joins at Twitter’s scale.
+>
+> You can barely even use databases.
+>
+> Immense scale makes simple database operations much, much more complicated in practice.  <br>
+>
+> [오전 5:25 - 2018년 11월 13일](https://twitter.com/marcoarment/status/1062335574525259776)
+>
+> <br>
+>
+> James @jamescampbell <br>
+> @marcoarment 님에게 보내는 답글 <br>
+> As a DBA for like 15 years, just add a new table called edited_tweet that joins on original tweet_id. Make sure this new table is propagated to all servers before rolling out front end changes. Test with beta users. Make tweet editable once*. Done. Not a big deal. Ive had worse. <br>
+>
+> [오전 4:39 - 2018년 11월 13일](https://twitter.com/jamescampbell/status/1062323962179411968)
+
+<br><br>
+
+[요즘 학생들이 제대로 공부하기 어려운 이유](https://youtu.be/gHsaF9gAfyM)
 
 <br><br>
 
