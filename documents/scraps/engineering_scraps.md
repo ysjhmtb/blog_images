@@ -12,6 +12,21 @@
 
 <br><br>
 
+> Rinae @adhrinae <br>
+>
+> https://github.com/GoogleChromeLabs 
+>
+> 이번에 웹 컴포넌트 관련 조사하다 깨달은건데
+> 여기서 소스코드 보면 진짜 배울게 많다. 주석 하나하나 기능 설명도 해주지, 타입스크립트로 되어있지, 작은 웹 컴포넌트 구현체들부터 코드 들여다보면 도움 많이될 듯
+>
+> [오전 6:34 - 2018년 11월 15일](https://twitter.com/adhrinae/status/1063077844002078720)
+
+<br><br>
+
+[50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
+
+<br><br>
+
 > Marco Arment  @marcoarment <br>
 > You can’t use joins at Twitter’s scale.
 >

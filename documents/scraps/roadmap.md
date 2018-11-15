@@ -3,6 +3,7 @@
 ```
 "하루하루는 성실하게. 인생 전체는 되는대로." - 이동진
 “일이 많을 땐 하나씩 하면 된다.” 
+Young man, in mathematics you don't understand things. You just get used to them. 
 ```
 
 <br><br>
@@ -23,10 +24,11 @@
 
 ```bash
 $ SHO
-$ RE 2
-$ NO 1
-$ LI 1
+$ RE 
+$ NO 
+$ LI 
 $ ALGO
+$ EXER
 
 
 # Node 4.6 5.6 6.6 7.7 8.7 9.6 10.8 11.6 12.4 13.5 14.3 15.7 16.6
