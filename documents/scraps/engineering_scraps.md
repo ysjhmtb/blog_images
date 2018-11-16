@@ -12,6 +12,14 @@
 
 <br><br>
 
+[Estimating the chances of something that hasn’t happened yet](https://www.johndcook.com/blog/2010/03/30/statistical-rule-of-three/)
+
+<br><br>
+
+[[번역] 자바스크립트 피로감을 줄여주기 위한 학습 계획](https://rhostem.github.io/posts/2016-12-19-A-Study-Plan-To-Cure-JavaScript-Fatigue/?fbclid=IwAR1ppnj5e8UrS8HMD51ilVm3zgxphj-3BRldRsuSWWIX9Xr1bSzKgAFpV-g)
+
+<br><br>
+
 > Rinae @adhrinae <br>
 >
 > https://github.com/GoogleChromeLabs 

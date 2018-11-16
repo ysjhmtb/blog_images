@@ -6,7 +6,9 @@
 Young man, in mathematics you don't understand things. You just get used to them. 
 ```
 
-<br><br>
+<br>
+
+<hr>
 
 [Why Tesla is building city-sized batteries](https://www.youtube.com/watch?v=8ge3ah1G8ok&feature=youtu.be)
 
@@ -18,7 +20,13 @@ Young man, in mathematics you don't understand things. You just get used to them
 
 [How four rogue satellites could change the spaceflight industry](https://www.youtube.com/watch?v=xSKFPDe3QvE&feature=youtu.be)
 
-<br>
+<hr>
+
+[Germany mulls ban on Huawei and ZTE 5G equipment](http://www.koreatimes.co.kr/www/tech/2018/11/133_258771.html)
+
+[G-Star 2018 to offer breakthrough in game industry](http://www.koreatimes.co.kr/www/tech/2018/11/134_258748.html)
+
+<hr>
 
 <br>
 
