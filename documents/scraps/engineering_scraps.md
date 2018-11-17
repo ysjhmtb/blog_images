@@ -12,6 +12,10 @@
 
 <br><br>
 
+[Too Late To Start? Life Crisis and Late Bloomers – Infographic](https://blog.adioma.com/too-late-to-start-life-crisis-infographic/)
+
+<br><br>
+
 [Estimating the chances of something that hasn’t happened yet](https://www.johndcook.com/blog/2010/03/30/statistical-rule-of-three/)
 
 <br><br>
