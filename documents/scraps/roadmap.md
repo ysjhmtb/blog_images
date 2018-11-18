@@ -52,4 +52,7 @@ $ EXER
 
 [G-Star 2018 to offer breakthrough in game industry](http://www.koreatimes.co.kr/www/tech/2018/11/134_258748.html)
 
+[The Case Against Quantum Computing](https://spectrum.ieee.org/computing/hardware/the-case-against-quantum-computing)
+
 <hr>
+
