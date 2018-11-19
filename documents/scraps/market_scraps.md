@@ -1,5 +1,13 @@
 <br><br>
 
+[전문가 5인 진단과 대책](https://news.v.daum.net/v/20181118221912130)
+
+<br><br>
+
+[Why house prices in global cities are falling](https://www.economist.com/finance-and-economics/2018/11/08/why-house-prices-in-global-cities-are-falling?frsc=dg%7Ce)
+
+<br><br>
+
 > dxdp ~ nh @econophysics_kr <br>
 > 지금 보면 QE시대에서 유동성 회수의 QT시대로 들어가면서 차례차례 맛이 가고 있다. 비트코인부터 시작해서  EM debt, 미국 homebuilding 주식, 중국 인터넷, 위안화, 유럽 자동차 순으로 맞이 가고.... 요즘은 테크가 맛이 가고 있는 중... 마지막으로 남은게 미국 회사채다. <br>
 >

@@ -55,4 +55,5 @@ $ EXER
 [The Case Against Quantum Computing](https://spectrum.ieee.org/computing/hardware/the-case-against-quantum-computing)
 
 <hr>
+<img src="https://raw.githubusercontent.com/ysjhmtb/blog_images/master/images/posting/Screenshot_20181119-182516_LINE.jpg">
 

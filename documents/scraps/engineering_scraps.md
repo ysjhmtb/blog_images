@@ -12,6 +12,18 @@
 
 <br><br>
 
+> 학생들은 보통 공부를 하다가 알 것 같다는 기분이 들면 그 내용은 그만 공부하고 다음 내용으로 넘어가게 된다. 문제는 그 기분이 별로 정확하지 않다는 것이다. 그래서 실제로는 잘 모르는데도 충분히 공부를 안하게 된다. 
+>
+> http://169254.tumblr.com/post/92633286949/%EB%A8%B8%EB%A6%AC-%EB%82%98%EC%81%98%EB%A9%B4-%EA%B3%B5%EB%B6%80%ED%95%B4%EB%8F%84-%EC%86%8C%EC%9A%A9%EC%9D%B4-%EC%97%86%EC%9D%84%EA%B9%8C
+
+<br><br>
+
+> 약 4년 전쯤 깃랩이 나온지 얼마 안 되었을 때 당시 일하고 있던 회사에서 깃랩을 도입해 사용했었다. 당시에는 깃허브에 비해 부족한 부분이 많아 아쉬움이 있었는데 시간이 지난 지금은 깃허브에 견줄 수 있을만큼 기능을 갖춘 것으로 보인다.
+>
+> http://techneedle.com/archives/36570
+
+<br><br>
+
 [The Case Against Quantum Computing](https://spectrum.ieee.org/computing/hardware/the-case-against-quantum-computing)
 
 <br><br>
