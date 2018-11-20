@@ -12,11 +12,39 @@
 
 <br><br>
 
+> Noori Lee @noori_lee <br>
+> 살다 보면 육아나 원치 않는 직장 등에 매진하느라 삶이 허비된다고 느낄 수 있음.
+> 그러나 세상에 쓸모없는 경험이란 없다고 봄. 다만 TV 시청이나 인터넷 게임은 예외.
+> **특히 양질의 독서만 유지한다면 괜히 불안해할 필요 없이 적절한 시기를 기다리면 됨.**  <br>
+>
+> [오전 7:35 - 2018년 11월 19일](https://twitter.com/noori_lee/status/1064542680095420417)
+>
+> Noori Lee @noori_lee <br>
+> 인생은 절대 원하는 대로 풀리지 않음.
+> 그렇다고 목표를 세울 필요가 없다는 건 아니고, 정말 가치 있는 목표를 세웠으면 온 힘을 쏟으며 그에 따른 결과의 형태를 겸허히 받아들이란 말임.
+> 솔직히 젊을 때 상상하는 목표나 결과란 게 유치하기 짝이 없잖음.
+>
+> Noori Lee @noori_lee <br>
+> 최대의 악순환은 늘 자신의 인생이 허비된다고 느끼면서, 거기서 오는 불안감을 잊기 위해 또는 일종의 보상으로써 오히려 인생을 제대로 허비하는 헛짓에 더더욱 매진하게 되는 거지.
+> 물론 누구에게나 지 인생을 망칠 자유는 있는 거니까.
+
+<br><br>
+
+[Why Grit Is More Important Than IQ When You're Trying To Become Successful](https://www.forbes.com/sites/lisaquast/2017/03/06/why-grit-is-more-important-than-iq-when-youre-trying-to-become-successful/amp/?utm_source=FACEBOOK&utm_medium=social&utm_term=Malorie%2F&__twitter_impression=true)
+
+<br><br>
+
 > YD Lee, 李永斗 @enhance <br>
 > 어려운 책 읽는 법
 > '뉴턴은 데카르트의 기하학을 읽으면서 두어 쪽에서부터 헤맸다. 다시 읽으니 겨우 서너 쪽이 이해됐다. 이렇게 진도를 나가다가 다시 방향을 잃고 처음부터 다시 읽기 시작하며 거듭 읽어나가며 마침내 전체 내용을 완전히 이해했다.' 에드워드 돌닉 <뉴턴의 시계> 278쪽 <br>
 >
 > [오후 11:57 - 2018년 11월 18일](https://twitter.com/enhance/status/1064427553341923328)
+
+<br><br>
+
+> [A Brief Outline of 106 Linux Commands with Examples](https://linoxide.com/linux-how-to/linux-commands-brief-outline-examples/)
+>
+> [GIT CHEAT SHEET](https://www.git-tower.com/blog/git-cheat-sheet)
 
 <br><br>
 
@@ -29,6 +57,10 @@
 > 약 4년 전쯤 깃랩이 나온지 얼마 안 되었을 때 당시 일하고 있던 회사에서 깃랩을 도입해 사용했었다. 당시에는 깃허브에 비해 부족한 부분이 많아 아쉬움이 있었는데 시간이 지난 지금은 깃허브에 견줄 수 있을만큼 기능을 갖춘 것으로 보인다.
 >
 > http://techneedle.com/archives/36570
+
+<br><br>
+
+[Essential Go](https://www.programming-books.io/essential/go/)
 
 <br><br>
 

@@ -14,20 +14,18 @@ Young man, in mathematics you don't understand things. You just get used to them
 
 ```bash
 $ SHO
-$ RE 
-$ NO 
-$ LI 
+$ RBT
+$ CERT
 $ ALGO
 $ DSP
 $ EXER
 
 
-# Node 4.6 5.6 6.6 7.7 8.7 9.6 10.8 11.6 12.4 13.5 14.3 15.7 16.6
-# Why Tesla is building city-sized batteries	6:14
-# Sea level rise is so much more than melting ice	6:08
-# We decoded NASA’s messages to aliens by hand	8.53
-# What the world looks like to an algorithm	7.57
-# How four rogue satellites could change the spaceflight industry	6:42
+
+# ReactJS로 웹 서비스 만들기
+# 카카오톡 프런트엔드 클론 코딩
+# 스프링 부트 개념과 활용
+# React Native로 날씨앱 만들기, React Native로 To DO 앱 만들기
 
 
 ```

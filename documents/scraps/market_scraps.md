@@ -1,5 +1,9 @@
 <br><br>
 
+[Yuan Exposed to Vanishing U.S.-China Yield Gap as Much as Trade](https://www.bloomberg.com/news/articles/2018-11-19/yuan-exposed-to-vanishing-u-s-china-yield-gap-as-much-as-trade)
+
+<br><br>
+
 [전문가 5인 진단과 대책](https://news.v.daum.net/v/20181118221912130)
 
 <br><br>
