@@ -14,17 +14,22 @@ Young man, in mathematics you don't understand things. You just get used to them
 
 ```bash
 $ SHO : 
-~25 일: 50, 일일
+~2 일: 50, 일일
+
 $ RBT : 
-~25 일: R8, 
-~2 일: B3 / C1
+~25 일: R8
+~2 일: B3, C1
+
 $ CERT : 
-~25 일: 100, 
+~25 일: 100
 ~2 일: 200
+
 $ ALGO : 
 ~2 일: 1
+
 $ DSP : 
 ~2 일: 10
+
 $ EXER
 
 
