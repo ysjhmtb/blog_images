@@ -1,5 +1,21 @@
 <br><br>
 
+[15. 주식시장의 수익률 분포에 대해 알아봅시다](https://www.youtube.com/watch?v=l-_-Et7PZ0I&feature=youtu.be)
+
+<br><br>
+
+> 그는 저점은 함부로 예단할 수 없다고 말한다. 자신의 여러번 경험도 얘기해준다. 2008년에도 극단적인 위험 회피가 나타났는데, 분할매수 했었다고 한다. 그건 이전에 낙관론이 많을때 미리 상대적 성과부진을 감수하면서까지 현금화를 해놨기 떄문에 가능했을거다. 
+>
+> <br>
+>
+> 지금은 비관론이 우세한가? 낙관론이 우세한가? 사람들은 아직도 상승할꺼라는 미련이 많지 않나? 비관론이 우세하다면 얼마나 더 우세할까?
+>
+> <br>
+>
+> http://blog.naver.com/econophysics/221402865184
+
+<br><br>
+
 [Yuan Exposed to Vanishing U.S.-China Yield Gap as Much as Trade](https://www.bloomberg.com/news/articles/2018-11-19/yuan-exposed-to-vanishing-u-s-china-yield-gap-as-much-as-trade)
 
 <br><br>

@@ -12,6 +12,10 @@
 
 <br><br>
 
+[Want To Recruit Better Engineers? Open Source Your Code](https://angel.co/blog/want-to-recruit-better-engineers-open-source-your-code)
+
+<br><br>
+
 > Noori Lee @noori_lee <br>
 > 살다 보면 육아나 원치 않는 직장 등에 매진하느라 삶이 허비된다고 느낄 수 있음.
 > 그러나 세상에 쓸모없는 경험이란 없다고 봄. 다만 TV 시청이나 인터넷 게임은 예외.
@@ -27,6 +31,17 @@
 > Noori Lee @noori_lee <br>
 > 최대의 악순환은 늘 자신의 인생이 허비된다고 느끼면서, 거기서 오는 불안감을 잊기 위해 또는 일종의 보상으로써 오히려 인생을 제대로 허비하는 헛짓에 더더욱 매진하게 되는 거지.
 > 물론 누구에게나 지 인생을 망칠 자유는 있는 거니까.
+
+<br><br>
+
+> minchul park @summerlight00 <br>
+> ㅋㅋㅋ 한국 세금 많다는 이야기 들으면 웃지요 여기 100k가 실수령 기준으로 보통 3할 정도 빠지는데 비슷한 소득 분위인 한국 5천이 2할도 안 되던가 그럴거 
+>
+> [오전 10:11 - 2018년 11월 20일](https://twitter.com/summerlight00/status/1064944358296772608)
+
+<br><br>
+
+[Geoff Hinton: On Radiology](https://www.youtube.com/watch?v=2HMPRXstSvQ&feature=youtu.be)
 
 <br><br>
 
