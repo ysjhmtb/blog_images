@@ -12,6 +12,52 @@
 
 <br><br>
 
+> 뭐해 게임 안 만들고 @sungkkshawnpark <br>
+> 이번 지원 결과에 따라 내년에는 게임을 하나도 만들지 않을 수도 있다. 12월 31일까지 모든 일정을 마무리 짓고 내 실력만을 위한 코딩을 한다. 기술이 어느 수준에 도달할 때까지 개인 프로토타입들은 만들지 않겠다. 어줍잖은 실력이라도 원하는 곳은 있지만 그런 곳에 내 인생을 낭비할 수는 없다.
+>
+> [오후 5:32 - 2018년 11월 21일](https://twitter.com/sungkkshawnpark/status/1065417797524578304)
+
+<br><br>
+
+> 우산하 @ch___SaNa <br>
+>
+> 블쟈 직원왈:
+>
+> 1. 히오스는 사실상 망했고 오버워치도 이젠 인기가 떨어지고있고 와우는 성장하지 않고 있다. 
+> 2. 블쟈는 많은 사람들이 블쟈에대한 희망과 열정을 이용햐 사실상 열정페이하고 있다. 
+> 3. 블쟈 직원들의 사기는 매우 낮은 상태이다.
+>
+> [오전 2:56 - 2018년 11월 21일](https://twitter.com/ch___SaNa/status/1065197200148316161)
+>
+> 우산하  @ch___SaNa <br>
+>
+> 4. 직장은 미국에서 제일 물가 비싼데에서 일하는데 봉급이 적어서 끼니를 희생해서라도 월세를 내는 직원들도 꽤 있으며 가정을 꾸리는것 자체는 거의 불가능할 정도로 봉급이 짠 편이다. <br>
+>
+> 우산하 @ch___SaNa <br>
+> 블쟈 직원과 연줄이 있는 어느 유투버(Quartering)가 데이비드 브레빅이 다른 스트림에서 얘기한 블쟈 루머에 대해 얘기한적이 있는데 그것에 대해 두명의 익명의 블쟈 직원이 유투버에게 해명하면서 동시에 블쟈 현상황에 대해 내부고발하고
+> 내부고발이다 보니 그 해당 직원이 누군지는 알수 없을듯 <br>
+>
+> https://www.youtube.com/watch?v=SrKDgDlbsS8
+
+<br><br>
+
+> redacted @minjang_kim <br>
+> 아마존이나 여기나 모두 장애로 난리군. 내 기준으로 "컴퓨터 잘 하는 사람"은 이런 장애 문제점 찾고 해결하는 사람들. 정말 대단함. 나 같은 리눅스 맹은 도저히 범접할 수 없는 영역. tmux 문제도 제대로 해결 못해서 짜증만 내고 리붓하는 사람. tmux source-file ~/.tmux.conf를 몰라서
+>
+> [오후 4:23 - 2018년 11월 21일](https://twitter.com/minjang_kim/status/1065400400596033536)
+
+<br><br>
+
+> Ji Yun Park @Jiyun_Park <br>
+> 창의성이란 '과거의 경험과 지식, 정보를 통합, 분해, 연결, 재해석, 분리하여 새로운 관점의 해결책을 내놓는 과정'
+> ->"새로운 조합을 만드는 능력" - 피터 드러커 <br>
+>
+> 오후 6:39 - 2011년 4월 21일 <br>
+>
+> https://twitter.com/Jiyun_Park/status/61242764809080832
+
+<br><br>
+
 [Want To Recruit Better Engineers? Open Source Your Code](https://angel.co/blog/want-to-recruit-better-engineers-open-source-your-code)
 
 <br><br>
@@ -603,6 +649,40 @@ $ cat /proc/cpuinfo
 
 # 파일 찾기
 $ find ./ -name "bolt*"
+
+
+
+
+# 저전력 들어 간 상태 확인 방법
+# 현재 상태에서 red led 나온 후 2분 뒤 test
+ 
+# logcat 확인 방법
+ 
+$ logcat NEXUS:* Brcmstb-PowerHAL,PLGG_POWER,PLGG_LED,frontledservice,gg_kaon_amp,EepromService,AmpService:V PowerManagerService:V libsuspend:V nxwrap:V *:S
+ 
+$ logcat NEXUS:* Brcmstb-PowerHAL,PLGG_POWER,PLGG_LED,frontledservice,gg_kaon_amp,EepromService,AmpService:V *:S
+ 
+# 순서
+$ logcat -c
+ 
+$ logcat -G 15M
+ 
+$ logcat NEXUS:* Brcmstb-PowerHAL,PLGG_POWER,PLGG_LED,frontledservice,gg_kaon_amp,EepromService,AmpService:V *:S
+ 
+ 
+# 저전력 진입 log
+ 
+$ 11-20 20:54:36.523 2803 2959 I Brcmstb-PowerHAL: power_set_state: Successfully set power state S2
+ 
+# 버튼을 사용하지 않고 펌웨어 업그레이드
+ 
+$ cas setflags FIRMWARE_USB 1
+$ reboot
+
+# 전력 플래그 확인
+$ getprop | grep pwr
+ 
+ 
 
 
 ```
