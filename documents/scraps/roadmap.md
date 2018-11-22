@@ -42,32 +42,19 @@ $ EXER
 
 ```
 
+<hr>
 
+> W: Jack! Why are you here at the office today? Aren’t you supposed to be on a business trip to Miami this week? You’ve been putting the documents together all month. <br>
+>
+> M: Yes, I was supposed to leave this morning, but there was a bad storm in Florida, so my flight was canceled. <br>
+>
+> W: That’s too bad. So, did you reschedule it? <br>
+>
+> M: Yes, but I wasn’t able to get a seat until next Tuesday evening and I had to switch from BlueSky Airlines to MasterFly Airlines. I just hope the weather is better by then. <br>
 
 
 
 <hr>
-
-[Why Tesla is building city-sized batteries](https://www.youtube.com/watch?v=8ge3ah1G8ok&feature=youtu.be)
-
-[Sea level rise is so much more than melting ice](https://www.youtube.com/watch?v=SA5zh3yG_-0&feature=youtu.be)
-
-[We decoded NASA’s messages to aliens by hand](https://www.youtube.com/watch?v=RRuovINxpPc&feature=youtu.be)
-
-[What the world looks like to an algorithm](https://www.youtube.com/watch?v=PwcuTCfSIyI&feature=youtu.be)
-
-[How four rogue satellites could change the spaceflight industry](https://www.youtube.com/watch?v=xSKFPDe3QvE&feature=youtu.be)
-
-<hr>
-
-[Germany mulls ban on Huawei and ZTE 5G equipment](http://www.koreatimes.co.kr/www/tech/2018/11/133_258771.html)
-
-[G-Star 2018 to offer breakthrough in game industry](http://www.koreatimes.co.kr/www/tech/2018/11/134_258748.html)
-
-[The Case Against Quantum Computing](https://spectrum.ieee.org/computing/hardware/the-case-against-quantum-computing)
-
-<hr>
-
 
 <br>
 
