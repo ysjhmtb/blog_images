@@ -14,7 +14,7 @@ Young man, in mathematics you don't understand things. You just get used to them
 
 ```bash
 $ SHO : 
-~2 일: 50, 일일
+~2 일: 오늘의 문제
 
 $ RBT : 
 ~25 일: R8
