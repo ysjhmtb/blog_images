@@ -16,8 +16,7 @@ Young man, in mathematics you don't understand things. You just get used to them
 $ TP
 $ RBT 
 $ CERT 
-$ ALGO 
-$ DSP
+$ ALGO
 $ EXER
 
 
