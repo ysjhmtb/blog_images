@@ -13,19 +13,11 @@ Young man, in mathematics you don't understand things. You just get used to them
 <br>
 
 ```bash
-$ TP
-$ RBT 
-$ CERT 
-$ ALGO
-$ EXER
-
-
 
 # ReactJS로 웹 서비스 만들기
 # 카카오톡 프런트엔드 클론 코딩
 # 스프링 부트 개념과 활용
 # React Native로 날씨앱 만들기, React Native로 To DO 앱 만들기
-
 
 ```
 
@@ -39,7 +31,15 @@ $ EXER
 >
 > M: Yes, but I wasn’t able to get a seat until next Tuesday evening and I had to switch from BlueSky Airlines to MasterFly Airlines. I just hope the weather is better by then. <br>
 
+<br>
 
+> M: Hello.  Orville Corporation customer service, Josh speaking. How may I help you? <br>
+>
+> W: Hi. I just bought an air conditioner in your shop last week during your 30 percent off summer promotion. When I turned it on this morning, I noticed that it was blowing warm air. <br>
+>
+> M: Really? I’ll send someone over to check your unit. Could you give me your address so I can pass it on to the technician?      <br>
+>
+> W: Sure, I live at 18 Sycamore Lane in Bayside. <br>
 
 <hr>
 
