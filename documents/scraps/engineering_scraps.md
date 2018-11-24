@@ -12,24 +12,6 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/ysjhmtb/blog_images/master/images/posting/KakaoTalk_Photo_2018-11-24-19-24-44.jpeg">
-
-<img src="https://raw.githubusercontent.com/ysjhmtb/blog_images/master/images/posting/KakaoTalk_Photo_2018-11-24-19-24-57.jpeg">
-
-<img src="https://raw.githubusercontent.com/ysjhmtb/blog_images/master/images/posting/KakaoTalk_Photo_2018-11-24-19-25-10.jpeg">
-
-<img src="https://raw.githubusercontent.com/ysjhmtb/blog_images/master/images/posting/KakaoTalk_Photo_2018-11-24-19-25-17.jpeg">
-
-<img src="https://raw.githubusercontent.com/ysjhmtb/blog_images/master/images/posting/KakaoTalk_Photo_2018-11-24-19-25-21.jpeg">
-
-<img src="https://raw.githubusercontent.com/ysjhmtb/blog_images/master/images/posting/KakaoTalk_Photo_2018-11-24-19-25-24.jpeg">
-
-<img src="https://raw.githubusercontent.com/ysjhmtb/blog_images/master/images/posting/KakaoTalk_Photo_2018-11-24-19-25-27.jpeg">
-
-
-
-<br><br>
-
 > 금요일, 11월 23, 2018 <br>
 > [B급 프로그래머] 데이터 과학자로 취직하려면 남들처럼 하지 마라. 
 >
