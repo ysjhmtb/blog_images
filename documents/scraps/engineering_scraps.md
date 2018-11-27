@@ -16,6 +16,23 @@
 
 <br><br>
 
+> anoa @go_anoa <br>
+> life is short. you need python!  요즘 온몸으로 감동중인 문구. <br>
+>
+> 오전 12:13 - 2018년 11월 27일 https://twitter.com/go_anoa/status/1067330457098870784
+
+<br><br>
+
+> 그의 전공은 수학 중에서도 ‘비선형 해석학’이다. 현대 사회의 복잡한 현상을 함수로 풀어내 문제를 풀어보고자 하는 것이 목적이다. 흐릿한 카메라의 이미지 복원과 교통신호 체계 분석 등 실생활의 다양한 분야에 적용할 수 있는 분야다. 세상이 복잡해질수록 비선형 해석학의 쓰임새는 더 많아질 수밖에 없다.  
+>
+> https://news.joins.com/article/23160483
+
+<br><br>
+
+[작은 오픈소스 프로그램을 분석해서 실력을 쌓아 나간 사례](https://okky.kr/article/408595?fbclid=IwAR1ZIxswItTr69wniNhXaiWuV2YezBWrEOJrWIBuZl573QyQ2l_X9aocduY)
+
+<br><br>
+
 > Jbee @JbeeLjyhanll <br>
 > 1년도 더 지난 번역글이지만 글에서 말하고 있는 대부분의 내용에 동의했고 지금도 동의한다. [번역글] 프로그래머가 되고 싶은가? 그렇다면 대학 학위를 취득하는 일은 큰 시간 낭비일 수 있다  <br>
 >
