@@ -16,7 +16,7 @@ Young man, in mathematics you don't understand things. You just get used to them
 TP 
 REACT 
 ALGO
-DSP
+NUM
 EXER
 BOOT 
 CERT 
