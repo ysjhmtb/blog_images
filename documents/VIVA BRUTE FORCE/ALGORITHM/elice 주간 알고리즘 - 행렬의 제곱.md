@@ -1,3 +1,4 @@
+```java
 /*
 https://academy.elice.io/courses/486/lectures/3420/materials/1
 
@@ -111,3 +112,6 @@ public class Solution {
 
 
 }
+
+```
+
