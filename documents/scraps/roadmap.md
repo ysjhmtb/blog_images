@@ -11,24 +11,12 @@ Young man, in mathematics you don't understand things. You just get used to them
 <br>
 
 ```bash
-#
 
 
 #
-30 FRI
-TP / REACT 7 / EXER / BOOT 3.5 / CERT / ALGO
-
-2 SUN
-TP / REACT 8 / EXER / BOOT 3.11 / CERT / ALGO 
-
-3 MON
-TP / REACT / EXER / BOOT 4.6 / CERT / ALGO
-
-
-
-#
-TP / REACT / EXER / BOOT / CERT / ALGO / C++
-
+TP / SPRING / ALGO / REACT
+TP / SPRING / ALGO / CERT
+TP / SPRING / ALGO / C++
 
 
 # ReactJS로 웹 서비스 만들기
