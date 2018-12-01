@@ -40,6 +40,19 @@ elice 주간 알고리즘 - 행렬의 제곱
 
  */
 
+
+
+/*
+KMP Algorithm
+
+참조 :
+http://bowbowbow.tistory.com/6
+https://youtu.be/2ogqPWJSftE
+http://hskimsky.tistory.com/122
+
+ */
+
+import java.sql.SQLOutput;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -49,7 +62,7 @@ public class Solution {
 
     public static void main(String[] args) {
 
-        KMP ref = new KMP("ABCDABCDABEE", "ABCDABE");
+        KMP ref = new KMP("ABABABABBABABABABC", "ABABABABC");
         System.out.println(ref.search());
     }
 
@@ -95,6 +108,8 @@ class KMP {
 
 
         for (int i = 0; i < n; i++) {
+
+
             while (j > 0 && s[i] != p[j]) {// j > 0 : 한 글자 라도 일치한 것이 있는지
                 j = pi[j - 1];
             }
@@ -124,8 +139,11 @@ class KMP {
         int[] pi = new int[m];
 
         for (int i = 1; i < m; i++) {
+
+            printArr(pi);
+
             while (j > 0 && p[i] != p[j]) {
-                j = pi[j - 1];  // ?
+                j = pi[j - 1];
             }
             if (p[i] == p[j]) {
                 pi[i] = ++j;
