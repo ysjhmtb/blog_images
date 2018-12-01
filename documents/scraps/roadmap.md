@@ -8,25 +8,6 @@ Young man, in mathematics you don't understand things. You just get used to them
 
 <br>
 
-<br>
-
-```bash
-
-
-#
-TP / SPRING / ALGO / REACT
-TP / SPRING / ALGO / CERT
-TP / SPRING / ALGO / C++
-
-
-# ReactJS로 웹 서비스 만들기
-# 카카오톡 프런트엔드 클론 코딩
-# 스프링 부트 개념과 활용
-# React Native로 날씨앱 만들기, React Native로 To DO 앱 만들기
-
-```
-
-<hr>
 
 
 
