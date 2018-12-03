@@ -1,5 +1,13 @@
 <br><br>
 
+[근로자가구 소득증가, 3분기 연속 경제성장률 상회..소득주도성장 최대 수혜](https://news.v.daum.net/v/20181203130006405)
+
+<br><br>
+
+[Republicans Increasingly Believe That Education Is Bad For America](https://mavenroundtable.io/theintellectualist/api/amp/theintellectualist/news/republicans-increasingly-believe-that-education-is-bad-for-america-rxALKghssEuxfZ6Uu7Sz_g/)
+
+<br><br>
+
 > Hyun-Ho Shin @shinhh <br>
 > RT: 좀 다른 이야기이지만, 중산층 이상의 집에서 큰 굴곡없이 초중고를 졸업해서 좋은 대학 나와 자신과 비슷한 사람들만 경험한 상태로도 잘해낼 수 있는 직종이 있을지 모른다. 그런데 인구 전반을 대상으로 일을 하는 회사 및 정부 조직은 구성원이 좀 다양해야 하지 않을까, 싶은 생각이. <br>
 >

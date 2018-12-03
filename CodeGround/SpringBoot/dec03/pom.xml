@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>yun.seok</groupId>
-    <artifactId>spring-boot-getting-started</artifactId>
+    <groupId>me.yun</groupId>
+    <artifactId>spring-boot-36</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <!-- Inherit defaults from Spring Boot -->
@@ -41,5 +41,5 @@
         </plugins>
     </build>
 
-
+    
 </project>
