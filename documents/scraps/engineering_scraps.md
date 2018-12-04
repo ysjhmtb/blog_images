@@ -16,6 +16,14 @@
 
 <br><br>
 
+<img src="https://raw.githubusercontent.com/ysjhmtb/blog_images/master/images/posting/20181204_142107.jpg">
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/ysjhmtb/blog_images/master/images/posting/20181204_142047.jpg">
+
+<br><br>
+
 > 더 깊게 들어가서 코드가 어떻게 작동하는지 이해하는 것은 좋다. 하지만 항상 학습하실 때는 가성비를 생각하셔야 한다. - 백기선 
 
 <br><br>
