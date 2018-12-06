@@ -1,10 +1,9 @@
 package me.yun;
 
-import org.apache.catalina.Context;
-import org.apache.catalina.LifecycleException;
-import org.apache.catalina.startup.Tomcat;
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.WebApplicationType;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
@@ -20,14 +19,12 @@ import java.io.PrintWriter;
 
  */
 
-
+@SpringBootApplication
 public class Application {
 
-    public static void main(String[] args) throws LifecycleException {
-//        SpringApplication application = new SpringApplication(Application.class);
-//        application.setWebApplicationType(WebApplicationType.NONE);
 
-
+    public static void main(String[] args) {
+        SpringApplication.run(Application.class, args);
 
 
     }
