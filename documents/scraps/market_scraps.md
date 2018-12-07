@@ -12,6 +12,10 @@
 
 <br><br>
 
+<img src="https://raw.githubusercontent.com/ysjhmtb/blog_images/master/images/posting/20181207_210230.jpg">
+
+<br><br>
+
 [15. 주식시장의 수익률 분포에 대해 알아봅시다](https://www.youtube.com/watch?v=l-_-Et7PZ0I&feature=youtu.be)
 
 <br><br>
