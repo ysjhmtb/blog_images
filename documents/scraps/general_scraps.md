@@ -1,5 +1,18 @@
 <br><br>
 
+[군중의 지혜 광기](https://ncase.me/crowds/ko.html)
+
+<br><br>
+
+[Small Arms Survey Publish Free Guide to the Identification of Small Arms](https://www.thefirearmblog.com/blog/2018/12/06/small-arms-survey-publish-free-guide-to-the-identification-of-small-arms/)
+
+<br><br>
+
+> Reuters Top News @Reuters <br>
+> According to a new study, cats can follow and interpret a human’s gaze. See more from this week's ICYMI playlist https://reut.tv/2OPPbhD  via @ReutersTV
+
+<br><br>
+
 [근로자가구 소득증가, 3분기 연속 경제성장률 상회..소득주도성장 최대 수혜](https://news.v.daum.net/v/20181203130006405)
 
 <br><br>
