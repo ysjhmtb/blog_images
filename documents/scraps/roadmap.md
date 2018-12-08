@@ -13,75 +13,7 @@ Young man, in mathematics you don't understand things. You just get used to them
 <hr>
 
 
-<br><br>
 
-> Automotive OTA Server개발 
->
-> <br>
->
-> 주요업무
->
-> - Automotive 환경을 위한 OTA System 개발 ( Server & Client )
-> - FOTA, SOTA를 위한 Delta package Generator 연구 개발
-> - Automotive Security Module 연구개발
->
-> <br>
->
-> 자격요건
->
-> - 학사 이상
-> - C/C++, java 등 가용 프로그래밍 언어
->
-> <br>
->
-> 우대사항
->
-> - 서버 개발에 필요한 기본적인 지식을 가지신 분 (소프트웨어 공학/ 알고리즘/ RDB/리눅스/디자인패턴)
-> - RDBMS 설계 및 최적화 능력
-> - OTA (Android OTA, FOTA) 서버 개발 경험자
-> - AWS를 활용한 개발, 배포, 운영 경험
->
-> https://www.wanted.co.kr/wd/14335
->
-> <br>
->
-> <br>
->
-> IT 인프라
->
-> <br>
->
-> 주요업무
->
-> - 사내 시스템 구축 및 운영
-> - 백업 시스템 운영 및 데이터 관리
-> - CI/CD 관련 운영
->
-> <br>
->
-> 자격요건
->
-> - 학사 이상
-> - 서버/네트워크/보안 관련 경력 및 지식 보유
-> - 개발/테스트/형상관리 시스템 관련 경력 및 지식 보유
-> - 개발 툴 관련 경력 및 지식 보유(git, Jenkins, SVN, Docker, nexus, WebDAV 등) 
-> - Script를 이용한 개발 가능자
->
-> <br>
->
-> 우대사항
->
-> - 개발 경력
->
-> <br><br>
->
-> https://www.linkedin.com/pulse/pythons-pandas-c-hossein-moein/   
->
-> http://projects.icbse.com/subject/cpp    
->
-> "이런걸 자잘하게 만들어서 깃헙에 올리래. 그리고 기왕이면 관심있는 수치해석이나 금융 관련 모델을 C++로 구현해서 올리래. 프로젝트가 대단한게 아니고 다양한 구현과 꾸준한 관심을 보여줘야 한대. 한개라도 더 구현해본 사람 좋아한대"
-
-<br><br>
 
 > 대학원 때 시간관리 어떻게 하셨나요? <br>
 >
