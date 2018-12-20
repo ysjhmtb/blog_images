@@ -89,3 +89,25 @@ W: Why didn't we use the snow-making machines? <br>
 M: We decided not to make use of them in order to save money. But it looks like we suffered financially as a result. I’ll put a note in our records to use them next winter in case we have the same problem. <br>
 
 <br>
+
+## 4
+
+W: 안녕하세요, 저는 주중에 운동 수업에 참여하고 싶습니다만, 제 일정이 꽤 바쁩니다. <br>
+
+M: 음, 저희는 일주일에 다섯 번 오후 8시에 시작하는 사이클링 수업이 있어요. 그리고 저희의 대표 트레이너인 Jennifer Wallace에 의해 편성된 월요일, 수요일, 금요일 오후 7시 에어로빅 댄스 수업이 있어요.  <br>
+
+W: 수요일은 전적으로 시간이 안되고 일부 목요일도 어렵습니다. 제가 등록해 볼 만한 건지 잘 모르겠네요. <br>
+
+M: 고객님의 일정에 개인 트레이닝 시간을 조정할 수 있는 트레이너 한 분과 연락할 수 있도록 해드릴게요. <br>
+
+ <br>
+
+W: Hi, I’m looking to join an exercise class during the week, but my schedule is quite busy. <br>
+
+M: Well, we have a cycling class five nights a week, which starts at 8 P.M. Then there’s a dance aerobics class Monday, Wednesday, and Friday at 7 P.M, organized by our head trainer, Jennifer Wallace. <br>
+
+W: Wednesdays are completely unavailable to me, and some Thursdays as well. I’m not sure it would be worth it for me to sign up. <br>
+
+M: 4Let me put you in touch with a trainer who can tailor her private training sessions to your schedule. <br>
+
+ <br>

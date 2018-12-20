@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.10)
-project(cppDec)
+project(Dec)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(cppDec main.cpp)
+add_executable(Dec main.cpp)
