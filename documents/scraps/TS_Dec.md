@@ -108,6 +108,16 @@ M: Well, we have a cycling class five nights a week, which starts at 8 P.M. Then
 
 W: Wednesdays are completely unavailable to me, and some Thursdays as well. I’m not sure it would be worth it for me to sign up. <br>
 
-M: 4Let me put you in touch with a trainer who can tailor her private training sessions to your schedule. <br>
+M: Let me put you in touch with a trainer who can tailor her private training sessions to your schedule. <br>
 
  <br>
+
+## 5
+
+M: 모두 기분이 어떠신가요? 우리는 곧 떠나기 시작해야 하므로, 점심 식사를 즐기셨기를 바랍니다. 모래 폭풍이 사막을 가로질러 우리가 나아갈 방향으로 향할 것이며, 해질녘쯤 더 심해질 것이라는 예보가 있었습니다. 그러한 기상 상태는 이맘때에 흔치 않기 때문에, 예측하지 못한 것이었습니다. 그럼에도 불구하고, 우리는 해가 지기 전에 야영지에 도착해야 하며, 그렇지 않으면 우리의 여정이 더욱 힘들어 질 것입니다. 특히, 낙타들은 그들이 어디로 가는지 보지 못하면 느려지고 긴장하게 됩니다. 우리가 15분 후에 떠난다면, 한 시간의 여유를 두고 우리의 목적지에 도착할 것이니 그때까지 준비해 주십시오. <br>
+
+<br>
+
+M: How is everyone doing? I hope you’ve enjoyed your lunch, because we need to start heading out soon. It’s just been forecast that a sandstorm will be heading across the desert in our direction, and will become much heavier by nightfall. This was unforeseen, as such weather conditions are unusual for this time of year. Nevertheless, we need to make it to the campsite before sundown or else our travels will get much more difficult. In particular, the camels slow down and get nervous when they cannot see where they’re going. If we leave in 15 minutes, we should reach our destination with an hour to spare, so please be ready by then.
+
+<br><br>
