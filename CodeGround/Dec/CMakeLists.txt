@@ -6,4 +6,4 @@ project(Dec)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(Dec main.cpp Timer.h Worker.h Worker.cpp)
+add_executable(Dec main.cpp Timer.h Worker.h Worker.cpp Student.h Teacher.h Person.h)

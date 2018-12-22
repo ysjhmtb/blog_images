@@ -121,3 +121,41 @@ M: 모두 기분이 어떠신가요? 우리는 곧 떠나기 시작해야 하므
 M: How is everyone doing? I hope you’ve enjoyed your lunch, because we need to start heading out soon. It’s just been forecast that a sandstorm will be heading across the desert in our direction, and will become much heavier by nightfall. This was unforeseen, as such weather conditions are unusual for this time of year. Nevertheless, we need to make it to the campsite before sundown or else our travels will get much more difficult. In particular, the camels slow down and get nervous when they cannot see where they’re going. If we leave in 15 minutes, we should reach our destination with an hour to spare, so please be ready by then.
 
 <br><br>
+
+## 6
+
+M: 우리는 오늘 새로운 스마트폰 출시를 위해 준비해야 할 것이 많아요. <br>
+
+W1: 저는 상품들이 제 시간에 도착하지 못할까 봐 걱정이에요. <br>
+
+W2: 제가 오전 6시 30분쯤 배달원과 이야기했는데, 그가 이곳에 오는 데 한 시간 정도 걸릴 것이라고 말했어요. <br>
+
+M: 그럼 그가 금방 도착하겠네요. <br>
+
+W1: 고객들이 오늘 여기에 와 있는 동안 다른 전자 제품을 구매하길 원한다면 어떻게 해야 하죠? <br>
+
+M: 그들은 자유롭게 상점을 둘러볼 수 있어요. 하지만, 새 휴대폰은 카운터 뒤에 놓일 예정이라 그곳에서 구매되어야만 해요. <br>
+
+W2: 그렇다면 핸드폰만 사길 원하는 사람들을 한 줄로 세우기 위해 제가 분리대를 배치해 놓을게요. <br>
+
+M: 좋은 생각이네요. <br>
+
+ <br>
+
+M: We have a lot to prepare for the launch of the new smart phone today. <br>
+
+W1: I’m worried that the products won’t arrive in time. <br>
+
+W2: I spoke to the delivery person around 6:30 A.M. and he said it would take about an hour to get here. <br>
+
+M: Then he should arrive any minute. <br>
+
+W1: What should we do if customers want to buy other electronics while they’re here today? <br>
+
+M: They can freely browse around the store. However, the new phones will be stocked behind the counter and must be purchased there. <br>
+
+W2: Then I’ll arrange barriers to line up people who only want the phone. <br>
+
+M: Good idea. <br>
+
+ <br>
