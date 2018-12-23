@@ -1,5 +1,26 @@
 <br><br>
 
+> 18/12/23 <br>
+> -1- <br>
+> 초단기 금리와 달러는 FOMC 결과를 완화적으로 받아들였지만, 미국 주식은 이 정도로는 부족하다는 비명을 질렀던 한 주. 미국채 2Y, 5Y 롱은 FOMC 전후로 일단 청산했고, 그 이후로 관심을 가지고 있는 것은 장기물 금리. 여전히 미국채는 언제 롱을 갈 것인지를 저울질해야 하는 상황이라고 생각 중인데, 1) 연준이 일련의 소동에 항복해 추가 인상을 중단하고 오히려 인하까지도 고려하게 될 수 있다고 본다면 단기물, 2) 이런 상황에도 연준이 점진적 인상 경로를 유지할 것으로 본다면 장기물을 선택해야 할 것. 일단 후자의 컨셉이 한 번 작동한 후에 전자 쪽으로 기울어지지 않을까 싶다. <br>
+>
+> -2- <br>
+> FOMC 이후 가장 격한 반응을 보이고 있는 것은 미국 주식. 무역이나 셧다운 등을 둘러싼 불확실성도 작용 중이겠지만 핵심은 결국 경기가 피크아웃하는 가운데 연준의 긴축이 진행되는 것을 견딜 수 없다는 것. 이러한 기조를 뒤집으려면 결국 둘 중 하나의 스토리가 필요하다. 첫째, 연준이 더 완화적인 스탠스를 보이는 것. 이번 반응으로 미루어 봤을 때 동결 정도가 아니라 인하를 고려할 정도의 스탠스 전환은 보여야 위험자산이 다시 고점을 높일 수 있을 듯. 둘째, 우려되는 것보다 미국 경기의 둔화가 심각하지는 않을 것이라는 점을 시장이 인지하기 시작하는 것. 이 스토리는 시기적으로 내년 1분기는 지나야 부각이 될 수 있을 것 같다. <br>
+>
+> 이러한 스토리와는 별개로 가격은 최대 어디까지를 염두에 두어야 할까. 바꿔말하면, 위의 스토리가 발현되지 않더라도 가격이 어느 지점까지 오면 비관이 이미 전부 반영된 것으로 보고 매수에 나설 것인가. S&P500 기준 2350, 나스닥종합 기준 5950을 보고 있다. 둘 다 200주 이평 언저리. <br>
+>
+> http://leenotes1.blogspot.com/2018/12/181223.html
+
+<br><br>
+
+[이 주의 그래픽 뉴스 - 상·하위 10% 임금 근로소득 배율](https://www.sisain.co.kr/?mod=news&act=articleView&idxno=33462)
+
+<br><br>
+
+[노동시장의 이중구조와 정책대응: 해외사례 및 시사점](https://www.bok.or.kr/portal/bbs/P0002454/view.do?nttId=10048755&menuNo=200431&pageIndex=1)
+
+<br><br>
+
 > Before Wednesday FOMC, I kept to long on 2yr Treasury futures. Yesterday morning, I took profits and returned to neutral. Short-end long seems attractive but a better chance will likely wait for me because I expect a rally of US stock market from today to year-end. Wish me luck. <br>
 > [오후 3:54 - 2018년 12월 20일](https://twitter.com/hubris2020/status/1075902245680537600)
 >
