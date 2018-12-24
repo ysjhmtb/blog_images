@@ -12,6 +12,10 @@
 
 <br><br>
 
+[The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ko.md)
+
+<br><br>
+
 [학습가이드#1 | 영어회화, 영어공부에 대한 오해와 올바른 방법](https://youtu.be/CYgbJLK7EM0)
 
 <br><br>
@@ -208,36 +212,6 @@
 > - AWS를 활용한 개발, 배포, 운영 경험
 >
 > https://www.wanted.co.kr/wd/14335
->
-> <br>
->
-> <br>
->
-> IT 인프라
->
-> <br>
->
-> 주요업무
->
-> - 사내 시스템 구축 및 운영
-> - 백업 시스템 운영 및 데이터 관리
-> - CI/CD 관련 운영
->
-> <br>
->
-> 자격요건
->
-> - 학사 이상
-> - 서버/네트워크/보안 관련 경력 및 지식 보유
-> - 개발/테스트/형상관리 시스템 관련 경력 및 지식 보유
-> - 개발 툴 관련 경력 및 지식 보유(git, Jenkins, SVN, Docker, nexus, WebDAV 등) 
-> - Script를 이용한 개발 가능자
->
-> <br>
->
-> 우대사항
->
-> - 개발 경력
 >
 > <br><br>
 >
