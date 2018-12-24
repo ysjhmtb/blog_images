@@ -26,12 +26,10 @@
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="559">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="83">
+              <caret line="14" column="12" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="12" />
               <folding>
                 <element signature="e#14#33#0" expanded="true" />
-                <element signature="e#60#69#0" expanded="true" />
-                <element signature="e#180#193#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -144,11 +142,12 @@
       <workItem from="1545473307080" duration="3654000" />
       <workItem from="1545561318315" duration="9278000" />
       <workItem from="1545576652870" duration="9822000" />
+      <workItem from="1545635402037" duration="7047000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61578000" />
+    <option name="totallyTimeSpent" value="68625000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="164" y="63" width="1600" height="794" extended-state="0" />
@@ -159,7 +158,6 @@
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32916668" />
       <window_info anchor="bottom" id="CMake" order="11" weight="0.32916668" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32916668" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32916668" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -172,6 +170,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32916668" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,12 +187,20 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#14#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1007">
           <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
           <folding>
             <element signature="e#14#33#0" expanded="true" />
-            <element signature="e#60#69#0" expanded="true" />
-            <element signature="e#180#193#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -211,8 +218,6 @@
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="e#14#33#0" expanded="true" />
-            <element signature="e#60#69#0" expanded="true" />
-            <element signature="e#180#193#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -380,10 +385,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
-          <folding>
-            <element signature="e#89#98#0" expanded="true" />
-            <element signature="e#325#327#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -398,21 +399,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="94">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#71#80#0" expanded="true" />
-            <element signature="e#290#292#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="83">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="12" />
           <folding>
             <element signature="e#14#33#0" expanded="true" />
-            <element signature="e#60#69#0" expanded="true" />
-            <element signature="e#180#193#0" expanded="true" />
           </folding>
         </state>
       </provider>

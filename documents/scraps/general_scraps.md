@@ -2,6 +2,12 @@
 
 <br><br>
 
+> https://qz.com/1503207/a-nobel-prize-winning-psychologist-defines-happiness-versus-satisfaction/ A Nobel Prize-winning psychologist says most people don’t really want to be happy 한 줄 요약: 사람들은 행복이 아니라 만족을 추구한다. (참고: 만족은 회고에서 얻고, 행복은 실시간으로 발생하는 특성이 있다.) <br>
+>
+> [오후 4:26 - 2018년 12월 23일](https://twitter.com/jrogue/status/1076997560772915200)
+
+<br><br>
+
 > 노인 클라이언트 면담하다가 그가 초기 치매일지도 모른다고 생각하게 되는 순간들. 수많은 노인 진상 중 몇 퍼센트는 저하된 인지력 때문에 자기 생각을 제대로 표현하지 못해서 성질부터 내거나 사기 당하는 건지도 모른다는데까지 생각이 미치니까 초고령사회가 끔찍하고 나는 무력해지고. <br>
 >
 > [오후 11:19 - 2018년 12월 17일](https://twitter.com/fish_globe/status/1074927168512131073)
