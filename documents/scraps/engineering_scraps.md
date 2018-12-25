@@ -12,6 +12,22 @@
 
 <br><br>
 
+[Enabling Faster, More Capable Robots With Real-Time Motion Planning](https://spectrum.ieee.org/automaton/robotics/robotics-software/enabling-faster-more-capable-robots-with-real-time-motion-planning)
+
+<br><br>
+
+[Robot Mechanic Could Prevent Satellites From Becoming Space Junk](https://spectrum.ieee.org/video/aerospace/robotic-exploration/robot-mechanic-could-prevent-satellites-from-becoming-space-junk)
+
+<br><br>
+
+[An Airplane With No Moving Parts](https://spectrum.ieee.org/cars-that-think/transportation/air/an-airplane-with-no-moving-parts)
+
+<br><br>
+
+[Your Next T-Shirt Will Be Made by a Robot](https://spectrum.ieee.org/robotics/industrial-robots/your-next-tshirt-will-be-made-by-a-robot)
+
+<br><br>
+
 [#Voyage는 1000만 명이 쓰는 간편 송금 앱 토스 창업부터 지금까지](https://youtu.be/uPhHPO98M84)
 
 <br><br>
