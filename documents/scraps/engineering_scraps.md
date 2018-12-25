@@ -12,6 +12,14 @@
 
 <br><br>
 
+[#Voyage는 1000만 명이 쓰는 간편 송금 앱 토스 창업부터 지금까지](https://youtu.be/uPhHPO98M84)
+
+<br><br>
+
+[#Voyage는 스물여덟 로봇 덕후 오상훈이 1000억 회사를 만들기까지](https://youtu.be/0oJJjA8aoQU)
+
+<br><br>
+
 [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ko.md)
 
 <br><br>
