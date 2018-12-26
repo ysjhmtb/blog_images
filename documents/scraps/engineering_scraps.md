@@ -12,22 +12,6 @@
 
 <br><br>
 
-[Enabling Faster, More Capable Robots With Real-Time Motion Planning](https://spectrum.ieee.org/automaton/robotics/robotics-software/enabling-faster-more-capable-robots-with-real-time-motion-planning)
-
-<br><br>
-
-[Robot Mechanic Could Prevent Satellites From Becoming Space Junk](https://spectrum.ieee.org/video/aerospace/robotic-exploration/robot-mechanic-could-prevent-satellites-from-becoming-space-junk)
-
-<br><br>
-
-[An Airplane With No Moving Parts](https://spectrum.ieee.org/cars-that-think/transportation/air/an-airplane-with-no-moving-parts)
-
-<br><br>
-
-[Your Next T-Shirt Will Be Made by a Robot](https://spectrum.ieee.org/robotics/industrial-robots/your-next-tshirt-will-be-made-by-a-robot)
-
-<br><br>
-
 [#Voyage는 1000만 명이 쓰는 간편 송금 앱 토스 창업부터 지금까지](https://youtu.be/uPhHPO98M84)
 
 <br><br>
@@ -37,10 +21,6 @@
 <br><br>
 
 [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ko.md)
-
-<br><br>
-
-[학습가이드#1 | 영어회화, 영어공부에 대한 오해와 올바른 방법](https://youtu.be/CYgbJLK7EM0)
 
 <br><br>
 
@@ -71,12 +51,6 @@
 > 그리고 베끼기로 완성하고 나면 자기들 실력이 매우 뛰어난걸로 착각한다. 그리고 결과는 유사한데 내용이 다른경우가 많다. 출력은 같은데 코드구성은 다른 뭐 그런 경우. 결국 다른 걸 만들때 활용이 어려운 경우가 많고 멘붕에 빠진다. <br>
 >
 > [오전 12:12 - 2018년 12월 23일](https://twitter.com/techisart/status/1076752307059011584)
-
-<br><br>
-
-> 놀랍게도 대부분의 프로그래머는 오류 메시지를 전혀 읽지 않는데, 그런 사람들은 새로운 프로그래밍 언어나 프레임워크 설명서보다 눈앞에서 발생한 오류의 메시지를 읽는 것이 실력과 연봉 향상에 훨씬 도움이 될 것이다. <br>
->
-> [오전 5:25 - 2018년 12월 20일](https://twitter.com/gyuwon_yi/status/1075744065377824769)
 
 <br><br>
 
@@ -306,12 +280,6 @@
 
 <br><br>
 
-> 자명하게도 이 두 게임회사는 돈이란걸 어떻게 벌어야 하는지 전혀 이해하지 못하고 있다! 게임이란건 말이다 “상품이 아닌 서비스”인 거고 수많은 자잘한 마이크로 트랜잭션으로 소비자를 우롱해 과금을 유도하는 것이다! 게임 하나 띡 만들어서 한번 팔면 끝이라니 생각이 20년 전에 멈춰있구나! <br>
->
-> https://twitter.com/demobjectified/status/1067823850023469056
-
-<br><br>
-
 > 프로의 제일 중요한 덕목은 자신을 아는것과 정직인 것 같다. 모르는 것은 모른다하고, 안되거나 일정이 밀리는 것을 빠르게, 그리고 사실대로 말해주는 것 만으로도 상대에게 큰 안정감을 줄 수 있다. 무리한 일정이나 능력 밖 최선을 한계까지 밀어붙이다가 문제가 터지고서야 알게되는 경우는 최악. <br>
 >
 > https://twitter.com/wickedev88/status/1068161389540401152 <br>
@@ -379,69 +347,13 @@
 
 <br><br>
 
-> 보통 하기 싫은 건 어렵거나 귀찮은 일로 나눠진다. 어려운 건 말 그대로 어려워서 힘드니 피하고 싶고 귀찮은 건 의욕이 안 생겨서 하기 싫다. 하지만 뭔가 삶을 개선하는 좋은 목표들은 이 두 영역에 다 발을 걸치고 있는 편이다. 독서, 운동, 외국어 학습 등 평생 꾸준히 해야 성과가 나오는 생활 목표들이 그렇다. <br>
->
-> 어려운 게 쉬워지려면 익숙해져야 한다. 귀찮은 게 끌리려면 인센티브가 있어야 하고. 습관과 보상 시스템을 잘 설계해야 이것들을 정복할 수 있는 셈이다. 습관은 저강도 고빈도 훈련이 중요하다. 평소에 책을 전혀 안 읽던 사람이 갑자기 어려운 책을 매일 한 권씩 읽을 순 없다. <br>
->
-> 잠깐이라도 좋으니 시간 될 때마다 틈틈이 읽어야 한다. 어딜 가도 근처에 책이 있어서 손 가는 대로 들춰 볼 수 있는 환경 설정이 필수다. 특히 명심할 건 반드시 쉽고 재밌는 책을 골라야 한다는 점이다. 습관이 붙으려면 시작은 무조건 가벼워야 한다. 항상 과욕을 부리니 독서 습관이 생기기도 전에 나가떨어지는 것이다. <br>
->
-> 보상은 자기와의 싸움이다. 개인 코치가 있어 따로 관리를 받으면 좋겠지만, 평범한 사람이 매번 학원이나 과외의 도움을 받을 순 없다. 그래서 늘 자신과 내기하는 것에 익숙해져야 한다. 나는 스시를 너무 좋아해 매일 먹고 싶지만, 다이어트 중이라 절제가 필요하다. 그래서 공원을 10바퀴 돌 때마다 한 번씩 스시를 먹을 수 있다는 규칙을 만들어 실천 중이다. <br>
->
-> 단기 목표를 정하고 그 할당량을 매일 채우는 식으로 계획을 짜면 로봇이 아닌 이상 지칠 수밖에 없다. 그런 계획들은 실패할 때마다 몸과 마음을 계속 원점으로 돌려놓는다. 그러니 계획 없이도 목표를 향해 계속 나아갈 수 있는 습관과 보상 시스템을 체화해야 한다. 이 방법에 익숙해진 후론 더는 일일이 계획을 세우지 않는다. 그래도 내 삶은 매일 나아지고 있다. <br>
->
-> http://moneyman.kr/archives/5906
-
-<br><br>
-
 > “머신러닝에 수학이 필요한가?” 오늘날의 머신러닝 응용에 함수해석학은 그다지 필요가 없다. 하지만 20대에 함수해석학을 공부해두 않으면 나중에 그걸 공부해서 함수해석학이 필요한 일을 할 수 있을 가능성은 매우매우매우 낮다. 20대 초반이라면 이런 관점에서 투자해야 한다. <br>
 >
 > https://twitter.com/d_ijk_stra/status/1066601532219518977
 
 <br><br>
 
-> 그의 전공은 수학 중에서도 ‘비선형 해석학’이다. 현대 사회의 복잡한 현상을 함수로 풀어내 문제를 풀어보고자 하는 것이 목적이다. 흐릿한 카메라의 이미지 복원과 교통신호 체계 분석 등 실생활의 다양한 분야에 적용할 수 있는 분야다. 세상이 복잡해질수록 비선형 해석학의 쓰임새는 더 많아질 수밖에 없다.  
->
-> https://news.joins.com/article/23160483
-
-<br><br>
-
 [작은 오픈소스 프로그램을 분석해서 실력을 쌓아 나간 사례](https://okky.kr/article/408595?fbclid=IwAR1ZIxswItTr69wniNhXaiWuV2YezBWrEOJrWIBuZl573QyQ2l_X9aocduY)
-
-<br><br>
-
-> Jbee @JbeeLjyhanll <br>
-> 1년도 더 지난 번역글이지만 글에서 말하고 있는 대부분의 내용에 동의했고 지금도 동의한다. [번역글] 프로그래머가 되고 싶은가? 그렇다면 대학 학위를 취득하는 일은 큰 시간 낭비일 수 있다  <br>
->
-> 오후 11:40 - 2018년 11월 23일 <br>
->
-> https://twitter.com/JbeeLjyhanll/status/1066235210805755904
->
-> <br>
->
-> redacted @minjang_kim <br>
-> 조언하면 무조건 꼰대 소리 듣는 세상이라 별 말 안 하고 싶긴한데.. 컴퓨터 코딩이라는게 "난 정말 코딩을 잘 해!"라고 착각에 빠뜨리기 참 좋습니다. 특히 어린 경력 얼마 안 된 친구나 프런트엔드(과거 GUI) 개발자일 수록. 번역한 영문 글도 매우 허접한 조언이니 읽을 가치는 별로 없습니다. <br>
->
-> 오후 9:50 - 2018년 11월 24일 <br>
->
-> https://twitter.com/minjang_kim/status/1066569748849156102
->
-> <br>
->
-> redacted @minjang_kim <br>
-> 그냥 영어로 쓰여있다고 뭔가 있는 글이 아니에요. 그 글 쓴 사람이 제대로 대학교에서 공부하고, 대기업에서 일도 좀 해보고, 스타텁에서도 해보고, 다양한 경험에서 저런 조언을 하면 모를까 그런 것도 아님. 그냥 자기가 본 얕은 경험에서 나오는 위험한 조언이니 귀담아 들으면 곤란합니다.
->
-> <br>
->
-> redacted @minjang_kim <br>
-> 프런트엔드를 얕잡아 보는 건 아니고 저 조차 프로그래밍의 본격 시작이 당시 MFC(...) 였고 GUI 프로그래밍 엄청 했죠. 이걸로 이것저것 앱 만들면 이제 컴퓨터 다 통달한 것 같다는 생각이 들죠. 일단 당신은 생각보다 코딩을 잘 못하고, 세상에 코딩도 잘 하고 학위도 있는 경쟁자가 널려있어요.
->
-> <br>
->
-> https://www.elemental.com/
->
-> <br>
->
-> https://www.howtogeek.com/183766/why-microsoft-makes-5-to-15-from-every-android-device-sold/
 
 <br><br>
 
@@ -490,44 +402,6 @@
 
 <br><br>
 
-> 뭐해 게임 안 만들고 @sungkkshawnpark <br>
-> 이번 지원 결과에 따라 내년에는 게임을 하나도 만들지 않을 수도 있다. 12월 31일까지 모든 일정을 마무리 짓고 내 실력만을 위한 코딩을 한다. 기술이 어느 수준에 도달할 때까지 개인 프로토타입들은 만들지 않겠다. 어줍잖은 실력이라도 원하는 곳은 있지만 그런 곳에 내 인생을 낭비할 수는 없다.
->
-> [오후 5:32 - 2018년 11월 21일](https://twitter.com/sungkkshawnpark/status/1065417797524578304)
-
-<br><br>
-
-> 개골님. "이번 노벨 생리학상을 수상한 혼조 선생님의 말. - 교과서에 써있는 것을 믿지 마라 - 네이처·사이언스에 쓰여져 있는 것은 9할이 거짓말 - 진실은 무엇인지 자신의 눈으로 확인하라 - 자신의 알고 싶은 것이 제대로 모르고 있으면 흔들린다 - 이상하다고 생각하는 마음을 소중히 한다 멋있고 공감." 이라는 글을 보았는데, 네이처 & 사이언스 내용의 9할이 거짓말이라는 부분을 어떻게 이해해야 할까요? 정말 글자 그대로 90%는 오류 혹은 허위인가요? <br>
-> 개골 <br>
-> 9할까지는 아니지만 재현성에 문제가 많다는 이야기가 요새 제기되고 있습니다.
-> 좋은 저널의 논문이라고 반드시 엄밀한 진실은 아니라는 말 정도로 이해하면 되겠죠. <br>
->
-> https://ask.fm/cfr0g/answers/151560820714
-
-<br><br>
-
-> 우산하 @ch___SaNa <br>
->
-> 블쟈 직원왈:
->
-> 1. 히오스는 사실상 망했고 오버워치도 이젠 인기가 떨어지고있고 와우는 성장하지 않고 있다. 
-> 2. 블쟈는 많은 사람들이 블쟈에대한 희망과 열정을 이용햐 사실상 열정페이하고 있다. 
-> 3. 블쟈 직원들의 사기는 매우 낮은 상태이다.
->
-> [오전 2:56 - 2018년 11월 21일](https://twitter.com/ch___SaNa/status/1065197200148316161)
->
-> 우산하  @ch___SaNa <br>
->
-> 4. 직장은 미국에서 제일 물가 비싼데에서 일하는데 봉급이 적어서 끼니를 희생해서라도 월세를 내는 직원들도 꽤 있으며 가정을 꾸리는것 자체는 거의 불가능할 정도로 봉급이 짠 편이다. <br>
->
-> 우산하 @ch___SaNa <br>
-> 블쟈 직원과 연줄이 있는 어느 유투버(Quartering)가 데이비드 브레빅이 다른 스트림에서 얘기한 블쟈 루머에 대해 얘기한적이 있는데 그것에 대해 두명의 익명의 블쟈 직원이 유투버에게 해명하면서 동시에 블쟈 현상황에 대해 내부고발하고
-> 내부고발이다 보니 그 해당 직원이 누군지는 알수 없을듯 <br>
->
-> https://www.youtube.com/watch?v=SrKDgDlbsS8
-
-<br><br>
-
 > redacted @minjang_kim <br>
 > 아마존이나 여기나 모두 장애로 난리군. 내 기준으로 "컴퓨터 잘 하는 사람"은 이런 장애 문제점 찾고 해결하는 사람들. 정말 대단함. 나 같은 리눅스 맹은 도저히 범접할 수 없는 영역. tmux 문제도 제대로 해결 못해서 짜증만 내고 리붓하는 사람. tmux source-file ~/.tmux.conf를 몰라서
 >
@@ -542,10 +416,6 @@
 > 오후 6:39 - 2011년 4월 21일 <br>
 >
 > https://twitter.com/Jiyun_Park/status/61242764809080832
-
-<br><br>
-
-[Want To Recruit Better Engineers? Open Source Your Code](https://angel.co/blog/want-to-recruit-better-engineers-open-source-your-code)
 
 <br><br>
 
@@ -636,26 +506,11 @@
 
 <br><br>
 
-> ζ이름뭐하지ζ @nameEO <br>
-> 사수/선배 있으면 좋긴 하겠지. 일감이라고 아무거나 따와서 회사에 제대로 할 줄 아는 사람 있지도 않은거 죽어라 찾아서 코딩하다보면 내가 연구직인지 무슨 스타트업 온건지 구분도 안가고 어떻게 돌아가게는 해놨는데 해놓고도 찝찝한채로 급하게 만들어서 코드 개판인거 유지보수 해야됨 <br>
->
-> [오후 10:25 - 2018년 11월 16일](https://twitter.com/nameEO/status/1063679469162913792)
-
-<br><br>
-
-[A 12 Step Program to Get from Zero to Hundreds of AWS-Certified Engineers](https://medium.com/aws-enterprise-collection/a-12-step-program-to-get-from-zero-to-hundreds-of-aws-certified-engineers-287a4b45d39a)
-
-<br><br>
-
 [Too Late To Start? Life Crisis and Late Bloomers – Infographic](https://blog.adioma.com/too-late-to-start-life-crisis-infographic/)
 
 <br><br>
 
 [Estimating the chances of something that hasn’t happened yet](https://www.johndcook.com/blog/2010/03/30/statistical-rule-of-three/)
-
-<br><br>
-
-[[번역] 자바스크립트 피로감을 줄여주기 위한 학습 계획](https://rhostem.github.io/posts/2016-12-19-A-Study-Plan-To-Cure-JavaScript-Fatigue/?fbclid=IwAR1ppnj5e8UrS8HMD51ilVm3zgxphj-3BRldRsuSWWIX9Xr1bSzKgAFpV-g)
 
 <br><br>
 
@@ -667,10 +522,6 @@
 > 여기서 소스코드 보면 진짜 배울게 많다. 주석 하나하나 기능 설명도 해주지, 타입스크립트로 되어있지, 작은 웹 컴포넌트 구현체들부터 코드 들여다보면 도움 많이될 듯
 >
 > [오전 6:34 - 2018년 11월 15일](https://twitter.com/adhrinae/status/1063077844002078720)
-
-<br><br>
-
-[50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 
 <br><br>
 
@@ -698,39 +549,6 @@
 <br><br>
 
 > Park JaeHo @jrogue <br>The cult of creativity is making us less creative https://qz.com/1450975/  via @qz 한 줄 요약: 창의성은 하늘에서 뚝 떨어지지 않으며, 엄청난 시간, 노력, 학습이 선행되어야 한다.
-
-<br><br>
-
->  김지현 @simnalamburt  <br> [8월 31일](https://mobile.twitter.com/simnalamburt/status/1035348364555051008)
->  그냥 피처 치는 클라이언트 개발자 하고싶으신게 아니라 엔진 프로그래밍 하고싶으신거라면, 그냥 빨리 취직하시는게 엄청 도움이 되는지는 전 잘 모르겠습니다
->
->  <br>
->
->  김지현 @simnalamburt <br>
->  [8월 31일](https://mobile.twitter.com/simnalamburt/status/1035349831160479744)
->  네 엔진개발자 커리어코스는 제가 잘 모르지만, 국내 게임 회사들은 제가 아주 조금은 아는것같은데, 그냥 무턱대고 취직해서 클라개발자로 일한다고 절대로 마법적으로 엔진개발자로 진화하지못합니다
->
->  <br>
->
->  김지현 @simnalamburt <br>
->  [8월 31일](https://mobile.twitter.com/simnalamburt/status/1035353142513135621)
->  엔진 개발하는데에 필요한게 아마, 렌더링, 시스템프로그래밍, 최적화, 네트워킹, 안터지게 C++ 짜기 이런거가 있을텐데
->
->  아무 회사 클라개발자로 취직하면 아마 엔진 사용법만 능숙해지고 저런것들 지식은 굉장히 천천히 늘것같아서요
->
->  <br>
->
->  김지현 @simnalamburt <br>
->  [8월 31일](https://mobile.twitter.com/simnalamburt/status/1035355341565771776)
->  방금 DX 만진다고 하셨는데, 대부분의 회사에선 그것조차도 안합니다. 엔진 사서쓰거나, 시니어 개발자들이 몇년전에 만들어놓은 쓰레기같은 자체엔진 몇년이고 울궈먹으면서 고치기나 하죠.
->
->  <br>
->
->  김지현 @simnalamburt <br>
->  [8월 31일](https://mobile.twitter.com/simnalamburt/status/1035355841837248512)
->  특히 이건 Chris Ohk님도 공감하실텐데, 국내 대부분의 C++ 개발자들은 C++ 엉망진창으로 짭니다. 그리고 국내 대부분의 게임회사 자체가 "터지는건 당연한거고 나중에 문제되면 고쳐라" 마인드로 일하고있어서, 나아지지도 않습니다.
->
->  C++에 미숙하신채로 일하시면 실력이 늘지않거나 퇴화하실거구요
 
 <br><br>
 
@@ -765,10 +583,6 @@
 <br>
 
 <br>
-
-[프런트엔드 개발자가 되고 싶지 않았던 프런트엔드 개발자의 이직기](https://milooy.wordpress.com/2018/02/07/moving-job/)
-
-<br><br>
 
 >**Cloudflare**‏ @Cloudflare <br>
 >
@@ -1013,10 +827,6 @@
 
 <br><br>
 
-[Golang UK Conference 2017 | Achilleas Anagnostopoulos - Can you write an OS Kernel in Go?](https://www.youtube.com/watch?v=8T3VxGrrJwc&feature=youtu.be)
-
-<br><br>
-
 > GreekSage @GreekSage
 >
 > <br>보통 현실이 불만족스럽지만 다른 대안을 찾아 나서지 못하는 이유는 실패가 두렵기 때문이다. 성취란 실패없이 이뤄지진 않는다는걸 알면서도.
@@ -1037,10 +847,6 @@
 > 네
 >
 > https://ask.fm/cfr0g/answers/151132240618
-
-<br><br>
-
-[매일 텝스 풀기](https://www.hackers.co.kr/?c=s_teps/teps_free_study/day_teps)
 
 <br><br>
 
@@ -1209,7 +1015,6 @@ mount   # ext4 확인
 3) 리눅스 자체에 대한 이해
 
 가 필요하다고 하셨다. 
-찾아보니 관련서적으로 <인사이드 안드로이드>, <안드로이드의 모든 것 NDK>가 있었다.
 
 ```
 
@@ -1270,10 +1075,6 @@ mount   # ext4 확인
 > <br>
 >
 > [learncpp.com](https://www.learncpp.com/)
-
-<br><br>
-
-[50 Most Frequently Used UNIX / Linux Commands (With Examples)](https://www.thegeekstuff.com/2010/11/50-linux-commands/?utm_source=feedburner)
 
 <br><br>
 
@@ -1457,15 +1258,6 @@ mount   # ext4 확인
 
 <br><br>
 
-> Journey @atmostbeautiful
-> 미래 가늠할 기술. 해양 생물 DNA 포함된 세계 특허 1만3천 건의 절반을 독일 화학기업 BASF가 확보. 그외 미 일 노르웨이 영 프 덴마크 캐나다 이스라엘 네덜란드 등 10개국이 전체 98% 보유. 바이오 인터넷에 해당하는 분야 독과점으로 새로운 불평등 심화 우려. 유엔 논의.
->
-> [What 13,000 Patents Involving the DNA of Sea Life Tell Us About the Future](https://www.nytimes.com/2018/09/17/science/patents-marine-dna.html)
->
-> [오후 3:56 - 2018년 9월 22일](https://twitter.com/atmostbeautiful/status/1043635072325189632)
-
-<br><br>
-
 [15 Patents That Changed the World](https://www.popularmechanics.com/technology/design/g20051677/patents-changed-the-world/)
 
 <br><br>
@@ -1499,21 +1291,6 @@ mount   # ext4 확인
 <br><br>
 
 [39도씨, “스마트폰만으로 다각도 생방송을”](http://www.bloter.net/archives/321107)
-
-<br><br>
-
-> [40세 신입사원 '나이 제한 없는 기업 찾아헤맸다'](http://news.chosun.com/misaeng/site/data/html_dir/2016/11/30/2016113000791.html)   
->
-> 2016년 상반기 부산교통공사 신입사원이 된 최이윤(40)씨. 자동차 관련 민간기업에서 10년간 재무·회계를 담당했습니다. 2014년 회사를 관두고 2년간 이직 준비를 했습니다. 처음에는 민간기업에 경력직으로 들어갈 계획을 세웠습니다. 이후 마음을 바꿔 공공기관 입사준비를 하게 됐다고 합니다.   
-
-<br><br>
-
-> redacted @29979245oo   
-> ‏이제 이 동네는 망했습니다. ⚡️ “Silicon Valley is losing its residents quickly” by @tictoc   
->
-> [Silicon Valley is losing its residents quickly](https://twitter.com/i/moments/1036338830973038597)   
->
-> [오후 4:29 - 2018년 9월 2일](https://twitter.com/29979245oo/status/1036395815005122561)   
 
 <br><br>
 
@@ -1594,14 +1371,6 @@ mount   # ext4 확인
 > The next major challenge was capturing micrometer waves surrounded by much larger, natural waves. The smallest ocean ripples on calm days, called capillary waves, are only about 2 centimeters tall, but that’s 100,000 times larger than the vibrations. Rougher seas can create waves 1 million times larger. “This interferes with the tiny acoustic vibrations at the water surface,” Adib says. “It’s as if someone’s screaming and you’re trying to hear someone whispering at the same time.”
 >
 > To solve this, the researchers developed sophisticated signal-processing algorithms. Natural waves occur at about 1 or 2 hertz — or, a wave or two moving over the signal area every second. The sonar vibrations of 100 to 200 hertz, however, are a hundred times faster. Because of this frequency differential, the algorithm zeroes in on the fast-moving waves while ignoring the slower ones.
-
-<br><br>
-
-> 4단계, 들리지 않는 장면의 대사를 구간 반복한다. 떠듬거리지 않고 배우처럼 자연스럽게 말할 수 있을 때까지 듣고 말하기(LS)를 반복한다.   
->
-> 5단계, 영어 자막을 보며 영화 한 편을 통째로 구간 반복했다면, 자막 없이 영화 LS를 97번 한다. 눈으로 보거나 귀로 들으면서 100LS를 완주한다.   
->
-> 개정판 | 9등급 꼴찌, 1년 만에 통역사 된 비법 | 장동완 저   
 
 <br><br>
 
@@ -1703,21 +1472,6 @@ mount   # ext4 확인
 >  <과학자가 되는 방법>
 
 <br><br>
-
-> DEV Community  👩‍💻 👨‍💻 @ThePracticalDev
->
-> 1. Make coding your hobby
-> 2. Have a long-term outlook
-> 3. Start a Coding Log
-> 4. Code in the mornings before work
-> 5. Make friends with smart people
-> 6. Go to local coding meetups
->
-> [Learning Code While Working a Full Time Job](https://dev.to/beznet/learning-code-while-working-a-full-time-job-365p)
->
-> [오전 4:46 - 2018년 8월 10일](https://twitter.com/ThePracticalDev/status/1027884002693263360)
-
- <br><br>
 
 [What is frequency response and how does it affect my music?](https://www.soundguys.com/frequency-response-explained-16507/)
 
@@ -1906,8 +1660,6 @@ console.log(b);
 > <img src="https://pbs.twimg.com/media/DiL8S6RUEAE8lRo.jpg">
 >
 > [오후 5:31 - 2018년 7월 15일](https://twitter.com/sioum/status/1018654359414923264)
->
-> 
 
 <br>
 
