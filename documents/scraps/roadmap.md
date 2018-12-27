@@ -2,9 +2,8 @@
 
 ```
 "하루하루는 성실하게. 인생 전체는 되는대로." - 이동진
-“일이 많을 땐 하나씩 하면 된다.” 
 Young man, in mathematics you don't understand things. You just get used to them. 
-TP DEV
+ONE BY ONE TP DEV
 ```
 
 <br>
