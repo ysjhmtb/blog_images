@@ -1,5 +1,9 @@
 <br><br>
 
+[The World’s Best and Worst Places for Ease of Doing Business](https://www.visualcapitalist.com/worlds-best-and-worst-places-for-business/)
+
+<br><br>
+
 > 18/12/23 <br>
 > -1- <br>
 > 초단기 금리와 달러는 FOMC 결과를 완화적으로 받아들였지만, 미국 주식은 이 정도로는 부족하다는 비명을 질렀던 한 주. 미국채 2Y, 5Y 롱은 FOMC 전후로 일단 청산했고, 그 이후로 관심을 가지고 있는 것은 장기물 금리. 여전히 미국채는 언제 롱을 갈 것인지를 저울질해야 하는 상황이라고 생각 중인데, 1) 연준이 일련의 소동에 항복해 추가 인상을 중단하고 오히려 인하까지도 고려하게 될 수 있다고 본다면 단기물, 2) 이런 상황에도 연준이 점진적 인상 경로를 유지할 것으로 본다면 장기물을 선택해야 할 것. 일단 후자의 컨셉이 한 번 작동한 후에 전자 쪽으로 기울어지지 않을까 싶다. <br>

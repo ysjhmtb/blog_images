@@ -2,6 +2,28 @@
 
 <br><br>
 
+> 페이스북을 일주일 동안 하지 않으면 남을 부러워하는 마음이 줄어들고 정신 건강이 좋아진다고. 
+>
+> 너드(nerd)들이 넘치는 트위터계로 이주를 권장할 이유가 분명해짐. 😂😂😂 <br>
+>
+> https://www.forbes.com/sites/alicegwalton/2016/12/23/want-mental-health-for-the-holidays-take-a-break-from-facebook-study-says/#64ff12995ce6
+>
+> [오후 4:41 - 2018년 12월 20일](https://twitter.com/syjkorea/status/1075914221307736064)
+>
+> <br>
+>
+> 얼마전 페이스북앱을 지웠다. 며칠만에 들어가본 페이스북은 예상 그대로다. 연말 트리사진, 먹는것, 파티, 여행 사진. 반복되니 재미없고, 뻔한 커멘트 다는것도 귀찮아서 “좋네요” 누르고 끝냈다. <br>
+>
+> [오전 11:14 - 2018년 12월 26일](https://twitter.com/sm_park/status/1078006207372177408)
+>
+> <br>
+>
+> 페북에 비교해 트위터는 항상 새롭다. 배울것, 얻는 정보의 양은 비교할수없이 많다. 두 서비스 이제 10년 조금 넘었는데, 트위터는 100년 후에도 쓰고있지 않을까싶다. <br>
+>
+> [오전 11:19 - 2018년 12월 26일](https://twitter.com/sm_park/status/1078007297459159040)
+
+<br><br>
+
 > https://qz.com/1503207/a-nobel-prize-winning-psychologist-defines-happiness-versus-satisfaction/ A Nobel Prize-winning psychologist says most people don’t really want to be happy 한 줄 요약: 사람들은 행복이 아니라 만족을 추구한다. (참고: 만족은 회고에서 얻고, 행복은 실시간으로 발생하는 특성이 있다.) <br>
 >
 > [오후 4:26 - 2018년 12월 23일](https://twitter.com/jrogue/status/1076997560772915200)
