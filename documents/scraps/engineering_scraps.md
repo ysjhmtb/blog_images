@@ -12,6 +12,62 @@
 
 <br><br>
 
+> [How to build your own custom Android ROM](https://www.androidauthority.com/build-custom-android-rom-720453/)
+>
+> <br>
+>
+> Warning <br>
+> Before we dive into the murky world of building custom versions of Android, we need to pause and assess the enormity of the task ahead, while keeping our expectations in check. **If you have absolutely no coding experience, zero experience with using the command line (on Linux or macOS), or no idea what is a “Makefile” then this isn’t for you.** <br>
+>
+> Android is a complete operating system. It is complex and contains many different subsystems. Creating an operating system as complex and useful as Android didn’t happen over night. This means that any customization that you wish to perform is going to have to start small. To create an alternative Android distribution that is radically different will take many, many hours of hard work and dedication. <br>
+>
+> **Having said that. If you are familiar with writing code, if you do know a bit about Makefiles and compilers then making your own version of Android can be a rewarding experience!** <br>
+>
+> <br>
+>
+> <br>
+>
+> Prerequisites <br>
+>
+> Theoretically it would be possible to build a custom Android firmware for any computing device capable of running a modern operating system. **However to make life easy we will limit ourselves to building Android to devices which have support “out of the box”, namely Nexus devices. For my demo build I used a Nexus 5X.** <br>
+>
+> **To build Android you are going to need access to (and familiarity with) and Linux machine or a Mac. In both cases you will be using the terminal a lot and you need to be confident with shell commands.** I did my first build using a Linux virtual machine, however it wouldn’t recognize the Nexus 5X when in bootloader mode, so I was unable to flash the new firmware on the device. So then I switched to a Mac and it worked without too many problems. <br>
+>
+> You will need 130GB of disk space and probably around 8GB of RAM. I tried building Android with just 4GB of RAM and I ran into lots of problems. I also ran into similar problems with 8GB of RAM, however using some tricks (see later) I was able to create a successful build. <br>
+>
+> **Learn patience. Building Android isn’t quick. To synchronize the source repository with my local machine took almost 24 hours! Also, a full clean build will take several hours to complete. Even after making a minor change you might need to wait 10 to 20 minutes for a build. It all depends on your hardware, however don’t expect to have your new version of Android up and running in just a few moments.** <br>
+>
+> The Android Open Source Project version of Android does not include any Google services. So things like Google Play, YouTube, Gmail and Chrome will be missing. There are ways to flash those “gapps” onto your own custom firmware, but I will leave you to find out how to do that. **Hint: Search for “install gapps”.** <br>
+>
+> <br><br>
+>
+> Where to start <br>
+> The basic process is this. Download and build Android from the Android Open Source Project, then modify the source code to get your own custom version. Simple! <br>
+>
+> Google provides some excellent [documentation about building AOSP](https://source.android.com/setup/build/requirements). **You need to read it and then re-read it and then read it again. Don’t jump any steps and don’t assume you know what it will say next and skim over parts.** <br>
+
+<br><br>
+
+> 1.  iamroot.org 사이트 추천합니다.
+>    매년 초에 리눅스 OS를 소스레벨에서 분석하는 스터디 모임입니다.(다른 스터디도 있어요)
+>     여기 주인장님이 쓰신 "리눅스 커널 내부구조" 라는 책도 추천합니다.
+>     사이트는 http://kelp.or.kr/ 라는 사이트도 있어요. 참고하세요.
+>    디바이스 드라이버 개발에 관심이 있으면 "유영창"님이 쓰신 "리눅스 디바이스 드라이버" 책 추천해요.
+>    http://book.naver.com/bookdb/book_detail.nhn?bid=1477444
+>
+> <br>
+>
+> 3. 예전에는 ARM9 기반 보드로 많이 했던거 같은데, 요즘엔 라즈베리파이나 아두이노를 이용해서 이것저것 해보는 게 추세 같아요.
+>    엘레파츠나 디바이스마트(오프라인으로도 있어요) 이런대서 살수 있을거에요.
+>    http://www.devicemart.co.kr/
+>    https://www.eleparts.co.kr
+>
+> <br>
+>
+> http://hasunjjang.blogspot.com/2016/08/blog-post_20.html
+
+<br><br>
+
 > 면접에서 물어보는 매번 당황하던 질문이 있었죠. '왜 지원했냐?' 속으로 니네가 광고내서라고 솔직히 답하고 싶었지만 대충 얼버무린 기억입니다. 사실 이 질문의 본뜻은 '네가 지금까지 해온 일에서 이 자리가 네 직업성취에 어떤 발전적인 역할을 하겠냐'라는 걸 한참 나중에 알았습니다. <br>
 >
 > [오후 4:48 - 2018년 12월 25일](https://twitter.com/JongraeK/status/1077727801887748096)

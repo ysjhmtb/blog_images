@@ -1,5 +1,13 @@
 <br><br>
 
+> The #VIX index neatly reflects the regime shift in equity markets we have seen this year. 2017 average VIX level of 11 with zero spikes, 2018 average VIX level > 16 with four spikes at or over 25. <br>
+>
+> <img src="https://pbs.twimg.com/media/DvaC1hZXcAAfuaw.jpg">
+>
+> [오후 11:37 - 2018년 12월 26일](https://twitter.com/jsblokland/status/1078193090932981761/)
+
+<br><br>
+
 [The World’s Best and Worst Places for Ease of Doing Business](https://www.visualcapitalist.com/worlds-best-and-worst-places-for-business/)
 
 <br><br>
