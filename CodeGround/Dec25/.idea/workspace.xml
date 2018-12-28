@@ -26,10 +26,16 @@
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="887">
-              <caret line="73" column="37" selection-start-line="73" selection-start-column="37" selection-end-line="73" selection-end-column="37" />
+            <state relative-caret-position="152">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="e#14#33#0" expanded="true" />
+                <element signature="e#867#876#0" expanded="true" />
+                <element signature="e#1444#1468#0" expanded="true" />
+                <element signature="e#1783#1807#0" expanded="true" />
+                <element signature="e#3940#3964#0" expanded="true" />
+                <element signature="e#4078#4102#0" expanded="true" />
+                <element signature="e#4798#4810#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -72,11 +78,6 @@
             <path>
               <item name="Dec25" type="b2602c69:ProjectViewProjectNode" />
               <item name="Dec25" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Dec25" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Dec25" type="462c0819:PsiDirectoryNode" />
-              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -127,12 +128,12 @@
       <updated>1545723605580</updated>
       <workItem from="1545723606801" duration="7027000" />
       <workItem from="1545892121585" duration="5258000" />
-      <workItem from="1545980581659" duration="13875000" />
+      <workItem from="1545980581659" duration="27481000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26160000" />
+    <option name="totallyTimeSpent" value="39766000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="164" y="63" width="1600" height="794" extended-state="0" />
@@ -144,7 +145,7 @@
       <window_info anchor="bottom" id="CMake" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32916668" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32916668" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -176,6 +177,12 @@
           <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
           <folding>
             <element signature="e#14#33#0" expanded="true" />
+            <element signature="e#867#876#0" expanded="true" />
+            <element signature="e#1444#1468#0" expanded="true" />
+            <element signature="e#1783#1807#0" expanded="true" />
+            <element signature="e#3940#3964#0" expanded="true" />
+            <element signature="e#4078#4102#0" expanded="true" />
+            <element signature="e#4798#4810#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -186,6 +193,12 @@
           <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
           <folding>
             <element signature="e#14#33#0" expanded="true" />
+            <element signature="e#867#876#0" expanded="true" />
+            <element signature="e#1444#1468#0" expanded="true" />
+            <element signature="e#1783#1807#0" expanded="true" />
+            <element signature="e#3940#3964#0" expanded="true" />
+            <element signature="e#4078#4102#0" expanded="true" />
+            <element signature="e#4798#4810#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -219,10 +232,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="887">
-          <caret line="73" column="37" selection-start-line="73" selection-start-column="37" selection-end-line="73" selection-end-column="37" />
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#14#33#0" expanded="true" />
+            <element signature="e#867#876#0" expanded="true" />
+            <element signature="e#1444#1468#0" expanded="true" />
+            <element signature="e#1783#1807#0" expanded="true" />
+            <element signature="e#3940#3964#0" expanded="true" />
+            <element signature="e#4078#4102#0" expanded="true" />
+            <element signature="e#4798#4810#0" expanded="true" />
           </folding>
         </state>
       </provider>

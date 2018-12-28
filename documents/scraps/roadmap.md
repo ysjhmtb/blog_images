@@ -5,7 +5,7 @@
 Young man, in mathematics you don't understand things. You just get used to them. 
 ONE BY ONE 
 TP 
-DEV( C++ -> Algorithm -> Bash Makefile -> Customizing AOSP )
+DEV( C++ -> Algorithm TDD -> Bash Makefile -> Customizing AOSP )
 ```
 
 <br>
