@@ -24,6 +24,21 @@
 
 <br><br>
 
+> [How to Build a Custom ROM from Android Open Source Project](https://appuals.com/build-custom-rom-android-open-source-project/)
+>
+> <br>
+>
+> This guide will walk you through the basics of developing your own custom Android ROM. It should be noted that this is a massive undertaking – if you have zero experience in coding or fooling around in Linux terminals, you may want to get some knowledge under your belt before diving into this deep-end. But if you have at least a basic idea of those things, I will try to explain things as simply as possible, so you can follow along. <br>
+>
+>
+> Basically what we’re doing is downloading the raw Android source code (AOSP) and modifying it to our liking. Because there are so many sources to choose from for different devices, this guide will simply reference the master source known as AOSP (Android Open Source Project). <br>
+>
+> Now the thing about the AOSP is that the pure source code does not include device-specific hardware proprieties. In layman’s terms, hardware like your camera and GPU will not work “out of the box” when developing with the AOSP. In fact, your device will not even boot without these hardware binaries. <br>
+>
+> If you’re developing for a Google-branded phone (Pixel, Nexus, etc) you can find the hardware binaries directly from Google, and this guide will walk you through obtaining and building them into your ROM. However, if you’re developing a ROM for a brand-name phone (Sony, Samsung, etc)… well, bless your heart, because you’re in for a ride. <br>
+
+<br><br>
+
 > [How to build your own custom Android ROM](https://www.androidauthority.com/build-custom-android-rom-720453/)
 >
 > <br>
@@ -57,6 +72,12 @@
 > The basic process is this. Download and build Android from the Android Open Source Project, then modify the source code to get your own custom version. Simple! <br>
 >
 > Google provides some excellent [documentation about building AOSP](https://source.android.com/setup/build/requirements). **You need to read it and then re-read it and then read it again. Don’t jump any steps and don’t assume you know what it will say next and skim over parts.** <br>
+
+<br><br>
+
+> [도대체 CPU의 캐시는 왜 L1, L2, L3 같은 다층 구조로 구성되어 있는가? ](http://isao76.egloos.com/2595696)
+>
+> [Why do CPUs have multiple cache levels?](https://fgiesen.wordpress.com/2016/08/07/why-do-cpus-have-multiple-cache-levels/)
 
 <br><br>
 
