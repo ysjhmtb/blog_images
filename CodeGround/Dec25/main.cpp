@@ -45,14 +45,50 @@
     예시 출력 2
     2112
 
+
+
+    11 22 33 44 55 66 77 88 99
+    101 111 121 131 141 151 161 171 181 191
+    1001 1111 1221 1331 1441 1551 1661 1771 1881 1991
+    10001 11011 11111
+
+    후보들을 먼저 모두 나열한 후에 다시 방법을 찾기.
+
+
  */
 
 #include <iostream>
+#include <vector>
+#include <string>
+
+class Solution {
+private:
+    std::vector<int> candidates;
+
+public:
+    bool isMirror(int number) {
+        std::string temp = std::to_string(number);  // 101 1001
+
+        int i = 0;
+        int j = temp.length() - 1;
+        while (i <= j) {
+            if (temp.at(i) != temp.at(j))
+                return false;
+            i++;
+            j--;
+        }
+        return true;
+    }
+};
 
 int main() {
 
+    Solution ref;
 
-
+    std::cout << std::boolalpha;
+    std::cout << ref.isMirror(101) << std::endl;
+    std::cout << ref.isMirror(1001) << std::endl;
+    std::cout << ref.isMirror(1010) << std::endl;
 
 
     return 0;
