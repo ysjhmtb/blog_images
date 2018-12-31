@@ -1,5 +1,9 @@
 <br><br>
 
+[What Are Economic Models?](https://www.imf.org/external/pubs/ft/fandd/2011/06/basics.htm)
+
+<br><br>
+
 > 1) 점도표가 2번으로 줄어도, 3번으로 유지돼도 미 10년 금리는 하락이라는 방향성이 달라지지 않는다. <br>
 >
 > 2) 미국의 경제지표는 성장과 관련된 지표들이 대부분 둔화된 반면 임금관려 지표는 상승해 혼재. >> 전형적인 late cycle 패턴.  <br>
