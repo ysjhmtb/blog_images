@@ -3,9 +3,9 @@
 ```
 "하루하루는 성실하게. 인생 전체는 되는대로." - 이동진
 Young man, in mathematics you don't understand things. You just get used to them. 
-ONE BY ONE 
+ 
 TP 
-DEV( C++ -> Algorithm TDD -> Bash Makefile -> Customizing AOSP )
+DEV( C++ repeated in my spare time -> Algorithm -> Linux )
 ```
 
 <br>
