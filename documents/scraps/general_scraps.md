@@ -2,6 +2,10 @@
 
 <br><br>
 
+[IQ is largely a pseudoscientific swindle](https://medium.com/incerto/iq-is-largely-a-pseudoscientific-swindle-f131c101ba39)
+
+<br><br>
+
 > 내가 늘 지적하는 바지만, 법인세와 투자 사이의 연결고리는 사람들이 생각하는 것만큼 확실하지 못합니다.
 > 예를 들어 법인세율을 크게 내려준다 해서 투자가 분명하게 늘어난다는 보장이 없다는 말입니다.
 > 법인세가 투자에 미치는 영향에 관해 연구한 수많은 논문의 결과가 그렇습니다. 

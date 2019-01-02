@@ -5,7 +5,7 @@
 Young man, in mathematics you don't understand things. You just get used to them. 
  
 TP 
-DEV( C++ repeated in my spare time -> Algorithm -> Linux )
+DEV( C++ repeated in my spare time -> Algorithm -> Makefile -> AOSP )
 ```
 
 <br>
