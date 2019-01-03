@@ -125,6 +125,10 @@
 
 <br><br>
 
+[Rico's cheatsheets](<https://devhints.io/>)
+
+<br><br>
+
 [파이썬으로 만드는 나만의 커맨드라인 프로그램 #1 - argparse](https://sjquant.github.io/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%BB%A4%EB%A7%A8%EB%93%9C%EB%9D%BC%EC%9D%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-1/)
 
 <br><br>

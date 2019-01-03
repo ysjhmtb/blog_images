@@ -2,6 +2,21 @@
 
 <br><br>
 
+> 성공하는 사람들의 공통점인 끈기(grit), 그 ‘끈기’의 특성들: 
+> -실패에 대한 두려움을 통제하는 용기 
+> -성취지향적인 성실함
+> -장기목표를 향한 인내
+> -실패해도 다시 시작하는 복원력
+> -완벽함이 아닌 우수함 추구
+>
+> 당신은 이 중 몇 가지나 갖고있습니까?
+>
+> https://t.co/MXVJTINusw
+>
+> https://twitter.com/syjkorea/status/1080544473925500928
+
+<br><br>
+
 [IQ is largely a pseudoscientific swindle](https://medium.com/incerto/iq-is-largely-a-pseudoscientific-swindle-f131c101ba39)
 
 <br><br>
