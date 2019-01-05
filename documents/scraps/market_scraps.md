@@ -1,5 +1,17 @@
 <br><br>
 
+[Are you in the American middle class? Find out with our income calculator](http://www.pewresearch.org/fact-tank/2018/09/06/are-you-in-the-american-middle-class/)
+
+<br><br>
+
+[Employees Who Stay In Companies Longer Than Two Years Get Paid 50% Less](https://www.forbes.com/sites/cameronkeng/2014/06/22/employees-that-stay-in-companies-longer-than-2-years-get-paid-50-less/#4f824df7e07f)
+
+<br><br>
+
+[Man who called Dow 20,000 says if ‘we avoid a recession, we’re going to have a really good’ stock market](https://www.marketwatch.com/story/man-who-called-dow-20000-says-if-we-avoid-a-recession-were-going-to-have-a-really-good-stock-market-2019-01-02)
+
+<br><br>
+
 [What Are Economic Models?](https://www.imf.org/external/pubs/ft/fandd/2011/06/basics.htm)
 
 <br><br>
@@ -22,7 +34,7 @@
 
 > 1월 전망    
 > 현재의 금리상황은 장기화되기 어렵다는 판단. 완만한 금리상승에 무게   
-> (예상 레인지: 국고3년 1.78~1.95%, 국고 10년 1.93~2.15%)      
+> (예상 레인지: 국고3년 1.78\~1.95%, 국고 10년 1.93\~2.15%)      
 >
 > 2018_12_24 1월 채권시장 전망, Economist/ Fixed Income 김지만
 

@@ -714,4 +714,6 @@
 >하여간 자신만의 차별점, 흔히 USP(unique selling proposition)로 사람들을 무장해제(?) 시켜야....
 >그래서 단점을 보완할 생각말고 장점(매력)을 키울 생각을 해라... 는 결론이.
 
+<br><br>
 
+[What you need to know about assisted suicide in Switzerland](https://www.thelocal.ch/20180503/what-you-need-to-know-about-assisted-death-in-switzerland)
