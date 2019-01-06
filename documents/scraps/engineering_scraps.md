@@ -125,11 +125,23 @@
 
 <br><br>
 
+> MS가 기술면접 프로세스를 개선하여 구직자들에게 좋은 반응을 얻고 있다고: 수수께끼 같은 질문 배제, 면접 프로세스와 내용을 미리 공유, 실무와 직접 관련된 내용으로 협업하는 형태, 두명의 면접관이 함께 면접 진행 등. 특히 실무를 직접 함께 해본다는 것이 참신하네요. <br>
+>
+> https://www.inc.com/minda-zetlin/microsoft-changes-job-interview-process-no-more-brain-teasers.html <br>
+>
+> [오후 4:27 - 2019년 1월 5일](https://twitter.com/ksoonson/status/1081708907351859200)
+
+<br><br>
+
 [Rico's cheatsheets](<https://devhints.io/>)
 
 <br><br>
 
 [파이썬으로 만드는 나만의 커맨드라인 프로그램 #1 - argparse](https://sjquant.github.io/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%BB%A4%EB%A7%A8%EB%93%9C%EB%9D%BC%EC%9D%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-1/)
+
+<br><br>
+
+[why-telegram-is-insecure](https://gitlab.com/edu4rdshl/blog/blob/master/why-telegram-is-insecure.md)
 
 <br><br>
 
