@@ -141,6 +141,10 @@
 
 <br><br>
 
+[How to Run Your Own Git Server](https://www.linux.com/learn/how-run-your-own-git-server)
+
+<br><br>
+
 [why-telegram-is-insecure](https://gitlab.com/edu4rdshl/blog/blob/master/why-telegram-is-insecure.md)
 
 <br><br>
