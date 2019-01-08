@@ -141,6 +141,17 @@
 
 <br><br>
 
+> *Must read* for web developers: an inside look at how modern browsers work by @kosamari
+>
+> 1️⃣ https://bit.ly/browsers-pt1 
+> 2️⃣ https://bit.ly/browsers-pt2 
+> 3️⃣ https://bit.ly/browsers-pt3 
+> 4️⃣ https://bit.ly/browsers-pt4 
+>
+> [오후 11:30 - 2019년 1월 6일](https://twitter.com/addyosmani/status/1082177515618295808)
+
+<br><br>
+
 [How to Run Your Own Git Server](https://www.linux.com/learn/how-run-your-own-git-server)
 
 <br><br>

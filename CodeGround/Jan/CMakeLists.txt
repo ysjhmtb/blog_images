@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.10)
-project(Dec25)
+project(Jan)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Dec25 main.cpp Resource.h)
+add_executable(Jan main.cpp)
