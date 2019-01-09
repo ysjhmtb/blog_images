@@ -1,3 +1,8 @@
+
+
+
+
+```C++
 /*
 
     https://academy.elice.io/courses/486/lectures/3420/materials/23
@@ -90,3 +95,7 @@ int main() {
     std::cout << ref.getAnswer() << std::endl;
     return 0;
 }
+
+
+```
+
