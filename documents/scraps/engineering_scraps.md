@@ -145,6 +145,10 @@
 
 <br><br>
 
+[미래팩 1.2.2 사각형 안의 점들](https://youtu.be/MlOvGxLNrJI)
+
+<br><br>
+
 [Rico's cheatsheets](<https://devhints.io/>)
 
 <br><br>
