@@ -12,36 +12,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31645c00-8a09-4aa5-8004-461c7f400dca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Dec/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dec/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dec/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dec/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dec/AutoPtr.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dec/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dec/Cents.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dec/Cents.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dec/Monster.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dec/Monster.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dec/MyArray.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dec/MyArray.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dec/Person.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dec/Position2D.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dec/Resource.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dec/Storage.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dec/Storage.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dec/Storage8.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dec/Student.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dec/Teacher.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dec/Timer.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dec/Worker.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dec/Worker.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dec/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jan/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jan/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jan/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jan/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jan/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jan/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../documents/VIVA BRUTE FORCE/CODING/2018 04 18 읽어야 할 것들.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../documents/VIVA BRUTE FORCE/CODING/C++/윤성우 열혈 C++ 135.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../documents/VIVA BRUTE FORCE/CODING/C++/윤성우 열혈 C++ 80.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../documents/VIVA BRUTE FORCE/CODING/HighPerformanceWebSites/ChapterA/ChapterA.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../documents/VIVA BRUTE FORCE/CODING/HighPerformanceWebSites/ChapterA/FigureA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../documents/VIVA BRUTE FORCE/CODING/HighPerformanceWebSites/ChapterA/HighPerformanceWebSites.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../documents/VIVA BRUTE FORCE/CODING/[진행 중]A lesson in wireless engineering from the Raspberry Pi .md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../documents/VIVA BRUTE FORCE/CODING/[진행 중]After All These Years, the World is Still Powered by C Programming.md" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,7 +31,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor" />
@@ -61,8 +40,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            <state relative-caret-position="950">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
             </state>
           </provider>
         </entry>
@@ -133,25 +112,20 @@
       <option name="presentableId" value="Default" />
       <updated>1547394326378</updated>
       <workItem from="1547394328942" duration="569000" />
+      <workItem from="1547397121906" duration="116000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="569000" />
+    <option name="totallyTimeSpent" value="685000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="260" y="43" width="1628" height="952" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21374527" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21626733" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="CMake" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.32906976" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32906976" />
@@ -159,10 +133,16 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32906976" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="CMake" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,8 +154,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        <state relative-caret-position="950">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
         </state>
       </provider>
     </entry>
