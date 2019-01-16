@@ -1,3 +1,4 @@
+```C++
 /*
  https://academy.elice.io/courses/486/lectures/3420/materials/21/
 
@@ -121,3 +122,6 @@ int main() {
 
     return 0;
 }
+
+```
+

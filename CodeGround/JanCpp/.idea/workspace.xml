@@ -12,9 +12,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31645c00-8a09-4aa5-8004-461c7f400dca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../documents/scraps/engineering_scraps.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../documents/scraps/engineering_scraps.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,17 +30,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testcase.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            <state relative-caret-position="359">
+              <caret line="120" selection-start-line="120" selection-end-line="120" />
+              <folding>
+                <element signature="e#736#755#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -139,13 +134,11 @@
       <workItem from="1547394328942" duration="569000" />
       <workItem from="1547397121906" duration="116000" />
       <workItem from="1547444512354" duration="2008000" />
+      <workItem from="1547644825616" duration="47000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_testcase_cpp - 2019.01.14 at 15h 03m 05s.xml">
-      <configuration name="All in testcase.cpp" configurationId="CMakeCatchTestRunConfigurationType" />
-    </history-entry>
     <history-entry file="All_in_testcase_cpp - 2019.01.14 at 15h 04m 39s.xml">
       <configuration name="All in testcase.cpp" configurationId="CMakeCatchTestRunConfigurationType" />
     </history-entry>
@@ -173,9 +166,12 @@
     <history-entry file="All_in_testcase_cpp - 2019.01.14 at 15h 16m 37s.xml">
       <configuration name="All in testcase.cpp" configurationId="CMakeCatchTestRunConfigurationType" />
     </history-entry>
+    <history-entry file="All_in_testcase_cpp - 2019.01.16 at 22h 20m 57s.xml">
+      <configuration name="All in testcase.cpp" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2693000" />
+    <option name="totallyTimeSpent" value="2740000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -190,20 +186,20 @@
     <frame x="260" y="43" width="1628" height="952" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21878941" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22131148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4930643" weight="0.32906976" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4924338" weight="0.32906976" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49810845" weight="0.32906976" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info active="true" anchor="bottom" id="Messages" order="8" sideWeight="0.4930643" visible="true" weight="0.32906976" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.4930643" weight="0.32906976" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49936947" weight="0.32906976" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5069357" side_tool="true" visible="true" weight="0.32906976" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5075662" side_tool="true" visible="true" weight="0.32906976" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49936947" weight="0.32906976" />
       <window_info anchor="bottom" id="CMake" order="12" sideWeight="0.49936947" weight="0.32906976" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -449,14 +445,17 @@
     <entry file="file://$PROJECT_DIR$/testcase.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="359">
+          <caret line="120" selection-start-line="120" selection-end-line="120" />
+          <folding>
+            <element signature="e#736#755#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

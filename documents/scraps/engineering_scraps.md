@@ -44,6 +44,20 @@
 
 <br><br>
 
+> A warning though.. neither is “easy”. Both languages require that you learn a little bit about how computers work to fully grasp why the languages behave the way that they do. That is hidden from view when programming in JavaScript or Python. <br>
+>
+> [Is Rust harder to learn than C++?](https://www.quora.com/Is-Rust-harder-to-learn-than-C)
+
+<br>
+
+[Why people don't read error messages, and Clang](http://forum.arduino.cc/index.php?topic=154477.0)
+
+<br>
+
+[A Short Guide to understanding C++ compiler errors](https://www.sjbaker.org/wiki/index.php?title=A_Short_Guide_to_understanding_C%2B%2B_compiler_errors)
+
+<br><br>
+
 > 주니어 개발자 <br>
 > 그래도 한국 사람이라고 공부머리는 남아 있어서 나름 대학원을 우수한 성적으로 졸업하고, 멘토링을 해주시던 교수님께서 레퍼런스를 잘 해주셔서 졸업과 동시에 주니어 개발자로 시작을 할 수 있었다. 이게 2007년 11월이었지. 딱 6년 전이네. 나이 서른 중반에 주니어 개발자라니! 그래도 시작했다. 그러고보니 연봉도 지금의 딱 절반 수준이었군. 완전 최저임금만 받고 다닌 거였다. <br>
 >
@@ -154,6 +168,10 @@
 <br><br>
 
 [파이썬으로 만드는 나만의 커맨드라인 프로그램 #1 - argparse](https://sjquant.github.io/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%BB%A4%EB%A7%A8%EB%93%9C%EB%9D%BC%EC%9D%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-1/)
+
+<br><br>
+
+[Fast inverse square root](https://en.wikipedia.org/wiki/Fast_inverse_square_root)
 
 <br><br>
 
