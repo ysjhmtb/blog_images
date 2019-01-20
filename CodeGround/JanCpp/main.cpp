@@ -64,12 +64,18 @@
 #include <cmath>
 #include <cassert>
 
+
+#include "unique_ptr.hpp"
+
+
 class Solution {
 
 };
 
+
 int main() {
 
+    usingUniquePtr();
 
 
     return 0;
