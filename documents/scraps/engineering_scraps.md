@@ -44,6 +44,39 @@
 
 <br><br>
 
+> [How to split a string in C++](https://www.fluentcpp.com/2017/04/21/how-to-split-a-string-in-c/)
+>
+> ```C++
+> // Solution 2: Using boost::split
+> 
+> #include <boost/algorithm/string.hpp>
+>  
+> std::string text = "Let me split this into words";
+> std::vector<std::string> results;
+>  
+> boost::split(results, text, [](char c){return c == ' ';});
+> ```
+>
+> <br>
+>
+> ```C++
+> // Solution 3 (for the future): Using ranges
+> 
+> std::string text = "Let me split this into words";
+> auto splitText = text | view::split(' ');
+> ```
+
+<br><br>
+
+> 할 수 있을까요? 예를 들어, '극한의 엄밀한 정의'는 모르더라도 미분 수치해석을 구현할 수 있다면 미분에 대한 직관적인 이해를 갖춘 것으로 볼 수 있겠지요? <br>
+>
+> [개골](https://ask.fm/cfr0g/answers/152677731050)
+> <br>
+> 네. 그 부분에 대한 직관은 생기겠죠, 아무래도. 
+> 직관은 여러가지 개념들이 연결되며 팟하고 생겨나는 인식이므로, 개념의 여러측면들을 많이 알수록 직관력도 높아지지 않을까 합니다.
+
+<br><br>
+
 > A warning though.. neither is “easy”. Both languages require that you learn a little bit about how computers work to fully grasp why the languages behave the way that they do. That is hidden from view when programming in JavaScript or Python. <br>
 >
 > [Is Rust harder to learn than C++?](https://www.quora.com/Is-Rust-harder-to-learn-than-C)

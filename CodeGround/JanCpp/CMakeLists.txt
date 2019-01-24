@@ -3,4 +3,4 @@ project(JanCpp)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(JanCpp main.cpp catch.hpp unique_ptr.hpp)
+add_executable(JanCpp main.cpp unique_ptr.hpp)

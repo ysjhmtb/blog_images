@@ -1,5 +1,9 @@
 <br><br>
 
+[Watch CNBC's full interview with Bridgewater founder...](https://www.cnbc.com/video/2019/01/22/watch-cnbcs-full-interview-with-bridgewater-founder-ray-dalio.html)
+
+<br><br>
+
 > 안녕하세요, 개골님. 주식 짤짤이를 할때 반대되는 포지션을 동시에 보유할 때는 어떤 목적이 있는 것일까요? 예를 들어, long 0.6, short 0.4의 비율로 가져가는 포지션라면 그냥 long 0.2, 현금 0.8로 구성하면 안 되나요? <br>
 >
 > [개골](https://ask.fm/cfr0g/answers/152527338474) <br>
