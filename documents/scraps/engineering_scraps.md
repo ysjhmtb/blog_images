@@ -44,6 +44,14 @@
 
 <br><br>
 
+[좋은 책 하나 잡고 큰 소리로 소리내서 읽으세요. 수준에 따라서 영어 동화책도 좋고 리더스 다이제스트도 좋고 신문이나 소설도 좋습니다. 냉수 한 그릇 옆에 갖다 놓고 목을 축여 가면서 큰 소리로 읽고 또 읽는 겁니다. 책 한 권을 처음부터 끝까지 읽기보다는 한 페이지씩 읽으세요. 한 페이지당 최소 20-30번은 읽어야 하는데 100번 이상 읽어야 될 수도 있습니다. 다음 페이지로 넘어가는 기준은 하도 많이 읽어서 거의 외워져서 다음 문장이 뭐가 나오는지 예상이 될 정도가 되어야 합니다. 단 외우려고 노력하지는 마세요. 어떻게 영어 한 페이지를 다 외웁니까. 천재도 아니고. 그냥 읽는 겁니다. 기억은 입 근육과 혀 근육에 됩니다. 그냥 술술술 나오는 것이죠.](http://ko.usmlelibrary.com/entry/english-common-method?category=187112) 
+
+<br><br>
+
+[Oracle VM VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads)
+
+<br><br>
+
 [Computational periscopy with an ordinary digital camera](https://www.nature.com/articles/s41586-018-0868-6)
 
 <br><br>
