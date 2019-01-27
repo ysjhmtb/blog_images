@@ -44,6 +44,10 @@
 
 <br><br>
 
+[Computational periscopy with an ordinary digital camera](https://www.nature.com/articles/s41586-018-0868-6)
+
+<br><br>
+
 > [How to split a string in C++](https://www.fluentcpp.com/2017/04/21/how-to-split-a-string-in-c/)
 >
 > ```C++
