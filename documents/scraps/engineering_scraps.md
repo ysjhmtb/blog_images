@@ -48,6 +48,36 @@
 
 <br><br>
 
+[Raspberry with C++ program](https://www.raspberrypi.org/forums/viewtopic.php?f=33&t=215377&sid=4cbe1ba3011e38d94c8ab78c13b1fe56) <br>
+
+[SOUND CLASSIFICATION WITH TENSORFLOW ON RASPBERRY PI](https://github.com/GianlucaPaolocci/Sound-classification-on-Raspberry-Pi-with-Tensorflow) <br>
+
+[Speech detection with Tensorflow 1.4 on Raspberry Pi 3 – Part 1: Getting audio file using PyAudio](http://www.kiranjose.in/blogs/speech-detection-with-tensorflow-1-4-on-raspberry-pi-3-part-1-getting-audio-file-using-pyaudio/) <br>
+
+[Intelligent mobile projects with TensorFlow: Build a basic Raspberry Pi robot that listens, moves, sees, and speaks [Tutorial]](https://hub.packtpub.com/intelligent-mobile-projects-with-tensorflow-build-a-basic-raspberry-pi-robot-that-listens-moves-sees-and-speaks-tutorial/) <br>
+
+[tensorflow 모델을 C++ 로 불러오는 방법](https://dev-strender.github.io/articles/2017-10/tensorflow-load-model-with-cpp) <br>
+
+[Exporting trained TensorFlow models to C++ the RIGHT way!](https://medium.com/@hamedmp/exporting-trained-tensorflow-models-to-c-the-right-way-cf24b609d183) <br>
+
+<br>
+
+<br>
+
+> 암기가 얼마나 중요한데. 이해라는 건 알고보면 체계화된 암기일 뿐. 학교 수학도 철저히 암기. 정말 새로운 문제를 창의적으로 푸는 건 수학경시대회에서나. 보통 시험은 이미 풀어본 문제를 살짝 응용. 결국 문제 푼걸 기억하고 있어야 함. 킬러 문항은 타고난 머리 아니면 고액과외(...) <br>
+>
+> [오후 3:51 - 2019년 1월 28일](https://twitter.com/minjang_kim/status/1090034572488728577)
+>
+> <br>
+>
+> 대학교 와서도 암기는 여전히 중요. 공학수학 같은 걸 다 외울 수는 없지만 최소 메타정보, 즉 어디에 이 정보가 있더라 정도는 알면 좋죠. 예를 들어 룽게 쿤타.. 뭐였더라? 요즘 구글 좋으니 이걸 단서로 검색하면 척 나오고 내용 보고 사용하면 되죠. 내용은 까먹어도 이름 정도는 외우면 좋습니다. <br>
+>
+> [오후 3:51 - 2019년 1월 28일](https://twitter.com/minjang_kim/status/1090034573323448321)
+
+<br>
+
+<br>
+
 [Oracle VM VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads)
 
 <br><br>
