@@ -48,6 +48,12 @@
 
 <br><br>
 
+[Easily Format a SD Card in OSX to FAT32](https://www.michaelcrump.net/the-magical-command-to-get-sdcard-formatted-for-fat32/) <br>
+
+[맥에 라즈비안 OS 설치](https://new93helloworld.tistory.com/238) <br>
+
+<br><br>
+
 [Raspberry with C++ program](https://www.raspberrypi.org/forums/viewtopic.php?f=33&t=215377&sid=4cbe1ba3011e38d94c8ab78c13b1fe56) <br>
 
 [SOUND CLASSIFICATION WITH TENSORFLOW ON RASPBERRY PI](https://github.com/GianlucaPaolocci/Sound-classification-on-Raspberry-Pi-with-Tensorflow) <br>
