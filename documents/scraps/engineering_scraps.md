@@ -48,6 +48,10 @@
 
 <br><br>
 
+[Complete Beginner: Where to Start?](https://forums.unrealengine.com/development-discussion/content-creation/103133-complete-beginner-where-to-start)
+
+<br><br>
+
 [Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.](https://github.com/chrislgarry/Apollo-11)
 
 <br><br>
