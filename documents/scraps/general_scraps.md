@@ -2,6 +2,12 @@
 
 <br><br>
 
+> 이들이 원하는 RIC의 핵심은 ‘온라인 청원으로 70만 명 이상의 서명을 얻으면 국민투표를 실시하도록 헌법을 바꾸자’는 것이다. 프랑스 헌법은 등록 유권자의 10분의 1 이상(약 470만 명) 서명 혹은 전체 의원 5분의 1 이상의 동의가 있을 때 국민투표가 가능하다. 이 요건을 대폭 낮추자는 것이 이들의 주장이다. <br>
+>
+> [곳곳서 툭하면 “국민투표하자”… 민주주의 꽃인가, 혼란의 늪인가 ](http://news.donga.com/East/MainNews/3/all/20190202/93972517/1)
+
+<br><br>
+
 [American English MOOCs for English Language Learners](https://americanenglish.state.gov/american-english-moocs)
 
 <br><br>
