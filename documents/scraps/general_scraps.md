@@ -2,6 +2,20 @@
 
 <br><br>
 
+> 설탕이 type-2 당뇨병에 안좋다는 건 알고 있고, 알츠하이머, 치매에 안좋다는 연구 결과. 알츠하이머를 type-3 당뇨라고 까지 적고 있다. 이미 질환을 겪고 있는 사람들에게는 케토 다이어트를 권장하고, 병의 예방을 위해서는 모든 설탕을 끊고, 탄수화물을 줄이라는 것. <br>
+>
+> [Alzheimer’s disease and the sugar connection](https://allyoucaneat.org.uk/wp/767-2/) <br>
+>
+> [오전 8:45 - 2019년 2월 2일](https://twitter.com/DrOMD/status/1091739373891014656) <br>
+>
+> No one needs sugar. No one needs cookies, cakes, candies, chips and soda. Your body just needs real, wholesome food. You need plenty of protein — meat, fish, eggs, cheese — and plenty of vegetables to go with that protein 
+>
+> Human dietary requirements are surprisingly simple. <br>
+>
+> [오전 8:47 - 2019년 2월 2일](https://twitter.com/DrOMD/status/1091739809058443264)
+
+<br><br>
+
 > 이들이 원하는 RIC의 핵심은 ‘온라인 청원으로 70만 명 이상의 서명을 얻으면 국민투표를 실시하도록 헌법을 바꾸자’는 것이다. 프랑스 헌법은 등록 유권자의 10분의 1 이상(약 470만 명) 서명 혹은 전체 의원 5분의 1 이상의 동의가 있을 때 국민투표가 가능하다. 이 요건을 대폭 낮추자는 것이 이들의 주장이다. <br>
 >
 > [곳곳서 툭하면 “국민투표하자”… 민주주의 꽃인가, 혼란의 늪인가 ](http://news.donga.com/East/MainNews/3/all/20190202/93972517/1)

@@ -52,31 +52,15 @@
 
 <br><br>
 
+> django니 express니 rails니 이딴거 만지니까 왭서버 개발이 쉬워보이는거다. http request header 파싱부터 한땀한땀 다시 짜서 웹서버를 구현해야한다. 회사에서 이짓하면 생산성은 똥망이 되지만 포트폴리오가 되고 기술 딸딸이를 칠수 있으니 좋은 방법이다 <br>
+>
+> [오전 5:21 - 2019년 1월 31일](https://twitter.com/if1live/status/1090963283819909121)
+
+<br><br>
+
 [Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.](https://github.com/chrislgarry/Apollo-11)
 
 <br><br>
-
-[Easily Format a SD Card in OSX to FAT32](https://www.michaelcrump.net/the-magical-command-to-get-sdcard-formatted-for-fat32/) <br>
-
-[맥에 라즈비안 OS 설치](https://new93helloworld.tistory.com/238) <br>
-
-<br><br>
-
-[Raspberry with C++ program](https://www.raspberrypi.org/forums/viewtopic.php?f=33&t=215377&sid=4cbe1ba3011e38d94c8ab78c13b1fe56) <br>
-
-[SOUND CLASSIFICATION WITH TENSORFLOW ON RASPBERRY PI](https://github.com/GianlucaPaolocci/Sound-classification-on-Raspberry-Pi-with-Tensorflow) <br>
-
-[Speech detection with Tensorflow 1.4 on Raspberry Pi 3 – Part 1: Getting audio file using PyAudio](http://www.kiranjose.in/blogs/speech-detection-with-tensorflow-1-4-on-raspberry-pi-3-part-1-getting-audio-file-using-pyaudio/) <br>
-
-[Intelligent mobile projects with TensorFlow: Build a basic Raspberry Pi robot that listens, moves, sees, and speaks [Tutorial]](https://hub.packtpub.com/intelligent-mobile-projects-with-tensorflow-build-a-basic-raspberry-pi-robot-that-listens-moves-sees-and-speaks-tutorial/) <br>
-
-[tensorflow 모델을 C++ 로 불러오는 방법](https://dev-strender.github.io/articles/2017-10/tensorflow-load-model-with-cpp) <br>
-
-[Exporting trained TensorFlow models to C++ the RIGHT way!](https://medium.com/@hamedmp/exporting-trained-tensorflow-models-to-c-the-right-way-cf24b609d183) <br>
-
-<br>
-
-<br>
 
 > 암기가 얼마나 중요한데. 이해라는 건 알고보면 체계화된 암기일 뿐. 학교 수학도 철저히 암기. 정말 새로운 문제를 창의적으로 푸는 건 수학경시대회에서나. 보통 시험은 이미 풀어본 문제를 살짝 응용. 결국 문제 푼걸 기억하고 있어야 함. 킬러 문항은 타고난 머리 아니면 고액과외(...) <br>
 >
@@ -139,13 +123,7 @@
 
 <br>
 
-[Why people don't read error messages, and Clang](http://forum.arduino.cc/index.php?topic=154477.0)
-
 <br>
-
-[A Short Guide to understanding C++ compiler errors](https://www.sjbaker.org/wiki/index.php?title=A_Short_Guide_to_understanding_C%2B%2B_compiler_errors)
-
-<br><br>
 
 > 내가 생각해낼 수 있는 범위 내에서 대안이라고 한다면 코딩과 수학을 결합시키는 것이다. 곡선의 방정식을 배운다면 코딩으로 곡선을 그려보도록 하고 직선과 곡선의 교점을 찾아보게 한다든가, 더 나아가 f=ma를 게임 물리 처럼 직접 코딩하면서 가지고 놀도록 해주면 어떨까? <br>
 >
@@ -166,12 +144,6 @@
 > 그러고보니, 주니어때는 지금 연봉의 절반이었지만, 그땐 과외를 많이 해서 지금보다 현찰은 더 많았군. 지금은 과외가 많이 줄어서 월급으로만 먹고 살아야 하다보니 너무 빡세. <br>
 >
 > https://justinchronicles.net/ko/2013/11/07/became-a-senior-developer/
-
-<br><br>
-
-> 밤쉘: 엔지니어로 성장하려면 아이디어만으로는 2% 부족하다는 사실을 다시 한 번 느낌 <br>
->
-> http://jhrogue.blogspot.com/2018/12/2018.html
 
 <br><br>
 
@@ -285,66 +257,7 @@
 
 <br><br>
 
-[How to Run Your Own Git Server](https://www.linux.com/learn/how-run-your-own-git-server)
-
-<br><br>
-
-[why-telegram-is-insecure](https://gitlab.com/edu4rdshl/blog/blob/master/why-telegram-is-insecure.md)
-
-<br><br>
-
 [(MAC & PC) macOS Multi Boot USB Project [KEAL-kealOS’es] – Kemal ALKIN – RAW Image](https://www.macosforeveryone.com/mac-pc-macos-multi-boot-usb-project-keal-kealoses-kemal-alkin-raw-image/)
-
-<br><br>
-
-> [How to Build a Custom ROM from Android Open Source Project](https://appuals.com/build-custom-rom-android-open-source-project/)
->
-> <br>
->
-> This guide will walk you through the basics of developing your own custom Android ROM. It should be noted that this is a massive undertaking – if you have zero experience in coding or fooling around in Linux terminals, you may want to get some knowledge under your belt before diving into this deep-end. But if you have at least a basic idea of those things, I will try to explain things as simply as possible, so you can follow along. <br>
->
->
-> Basically what we’re doing is downloading the raw Android source code (AOSP) and modifying it to our liking. Because there are so many sources to choose from for different devices, this guide will simply reference the master source known as AOSP (Android Open Source Project). <br>
->
-> Now the thing about the AOSP is that the pure source code does not include device-specific hardware proprieties. In layman’s terms, hardware like your camera and GPU will not work “out of the box” when developing with the AOSP. In fact, your device will not even boot without these hardware binaries. <br>
->
-> If you’re developing for a Google-branded phone (Pixel, Nexus, etc) you can find the hardware binaries directly from Google, and this guide will walk you through obtaining and building them into your ROM. However, if you’re developing a ROM for a brand-name phone (Sony, Samsung, etc)… well, bless your heart, because you’re in for a ride. <br>
-
-<br><br>
-
-> [How to build your own custom Android ROM](https://www.androidauthority.com/build-custom-android-rom-720453/)
->
-> <br>
->
-> Warning <br>
-> Before we dive into the murky world of building custom versions of Android, we need to pause and assess the enormity of the task ahead, while keeping our expectations in check. **If you have absolutely no coding experience, zero experience with using the command line (on Linux or macOS), or no idea what is a “Makefile” then this isn’t for you.** <br>
->
-> Android is a complete operating system. It is complex and contains many different subsystems. Creating an operating system as complex and useful as Android didn’t happen over night. This means that any customization that you wish to perform is going to have to start small. To create an alternative Android distribution that is radically different will take many, many hours of hard work and dedication. <br>
->
-> **Having said that. If you are familiar with writing code, if you do know a bit about Makefiles and compilers then making your own version of Android can be a rewarding experience!** <br>
->
-> <br>
->
-> <br>
->
-> Prerequisites <br>
->
-> Theoretically it would be possible to build a custom Android firmware for any computing device capable of running a modern operating system. **However to make life easy we will limit ourselves to building Android to devices which have support “out of the box”, namely Nexus devices. For my demo build I used a Nexus 5X.** <br>
->
-> **To build Android you are going to need access to (and familiarity with) and Linux machine or a Mac. In both cases you will be using the terminal a lot and you need to be confident with shell commands.** I did my first build using a Linux virtual machine, however it wouldn’t recognize the Nexus 5X when in bootloader mode, so I was unable to flash the new firmware on the device. So then I switched to a Mac and it worked without too many problems. <br>
->
-> You will need 130GB of disk space and probably around 8GB of RAM. I tried building Android with just 4GB of RAM and I ran into lots of problems. I also ran into similar problems with 8GB of RAM, however using some tricks (see later) I was able to create a successful build. <br>
->
-> **Learn patience. Building Android isn’t quick. To synchronize the source repository with my local machine took almost 24 hours! Also, a full clean build will take several hours to complete. Even after making a minor change you might need to wait 10 to 20 minutes for a build. It all depends on your hardware, however don’t expect to have your new version of Android up and running in just a few moments.** <br>
->
-> The Android Open Source Project version of Android does not include any Google services. So things like Google Play, YouTube, Gmail and Chrome will be missing. There are ways to flash those “gapps” onto your own custom firmware, but I will leave you to find out how to do that. **Hint: Search for “install gapps”.** <br>
->
-> <br><br>
->
-> Where to start <br>
-> The basic process is this. Download and build Android from the Android Open Source Project, then modify the source code to get your own custom version. Simple! <br>
->
-> Google provides some excellent [documentation about building AOSP](https://source.android.com/setup/build/requirements). **You need to read it and then re-read it and then read it again. Don’t jump any steps and don’t assume you know what it will say next and skim over parts.** <br>
 
 <br><br>
 
@@ -377,14 +290,6 @@
 > 면접에서 물어보는 매번 당황하던 질문이 있었죠. '왜 지원했냐?' 속으로 니네가 광고내서라고 솔직히 답하고 싶었지만 대충 얼버무린 기억입니다. 사실 이 질문의 본뜻은 '네가 지금까지 해온 일에서 이 자리가 네 직업성취에 어떤 발전적인 역할을 하겠냐'라는 걸 한참 나중에 알았습니다. <br>
 >
 > [오후 4:48 - 2018년 12월 25일](https://twitter.com/JongraeK/status/1077727801887748096)
-
-<br><br>
-
-[#Voyage는 1000만 명이 쓰는 간편 송금 앱 토스 창업부터 지금까지](https://youtu.be/uPhHPO98M84)
-
-<br><br>
-
-[#Voyage는 스물여덟 로봇 덕후 오상훈이 1000억 회사를 만들기까지](https://youtu.be/0oJJjA8aoQU)
 
 <br><br>
 
@@ -507,26 +412,6 @@
 
 <br><br>
 
-> 더 깊게 들어가서 코드가 어떻게 작동하는지 이해하는 것은 좋다. 하지만 항상 학습하실 때는 가성비를 생각하셔야 한다. - 백기선 
-
-<br><br>
-
-> **주변 지인을 본보기로** <br>
->
-> 모임에서 만난 한 지인은 백기선 개발자에게 취업 자리를 제안하기도 했다. 그렇게 백기선 개발자는 ‘아키텍트’라는 직함을 가진 직업을 얻게 된다. 하지만 그는 그 일을 한 달 만에 그만뒀다. 코딩을 더 하는 직업을 찾기 위해서다. 아키텍트는 직접 코딩을 하면서 무엇인가 만들기보다 컨설팅 같은 기술 자문을 많이 한다. 현장에서 코딩을 하고 싶었던 그는 다른 직업을 찾던 중 다시 다른 공부 모임에서 만난 지인의 회사로 들어간다. <br>
->
-> 백기선 개발자는 “순전히 그 지인의 실력에 감탄하고 그 지인에게 많이 배우고 싶었다”라며 “그래서 그분이 일하던 회사라면 무조건 좋다는 생각으로 들어갔다”라고 설명했다. 실제로 그 기업은 전직원이 3명일 정도로 규모는 작았지만, 백기선 개발자는 많은 공부를 했던 시기로 기억하고 있다. <br>
->
-> **“학습 속도는 개발자의 중요한 역량”** <br>
->
-> 현재 백기선 개발자는 서버분야를 개발하고 있지만, 프론트엔드나 모바일 등에도 관심이 많다. 결국 한 서비스는 한쪽 기술만으로는 만들어지지 않기 때문에 다 같이 공부해야 한다는 게 그의 지론이다. 그가 공부하는 기술 중에는 최근에 나온 기술들도 많다. 새로운 기술들을 어떻게 접하고 공부할까. 백기선 개발자는 “그냥 눈으로 읽는 게 아니라 직접 사용해보려고 한다”라며 “이 기술이 좋다 나쁘다는 식의 편견도 갖지 않으려고 한다”라고 말했다. <br>
->
-> “한 서비스를 만들 때 자바스크립트만 알아도 물론 개발할 수 있죠. 그런데 최근 주목받는 ‘[앵귤러JS](https://angularjs.org/)’를 일부러 한번 써보기도 해요. 저는 개발자에게 필요한 역량 중 하나가 ‘얼마나 빨리 학습할 수 있느냐’라고 보거든요. 학습 속도도 중요하다는 거죠. 이 속도를 늘리기 위해선 스스로 새로운 기술을 접하고 배울 수 있는 기본기를 만들어놔야 합니다. 그래야 비슷한 기술들 중 어떤 것이 적합한지 직접 판단할 수 있겠죠.” <br>
->
-> http://www.bloter.net/archives/216122
-
-<br><br>
-
 > 안녕하세요, 개골님. https://deepmind.com/blog/alphafold/ 를 발견하고 질문드리고 싶은 점이 있습니다. 1) 게임의 규칙이 분명하면 딥러닝은 확실히 강력한 도구인가요? 2) 과학이나 공학에서 (논문으로 출판이 될) 연구 주제들은 게임의 규칙이 분명하다고 봐야 할까요? <br>
 > 개골 <br>
 > 게임의 규칙이라고 하면 좀 애매하니 바꿔서 말하자면,
@@ -607,13 +492,6 @@
 > <br>
 >
 > https://ask.fm/cfr0g/answers/151674170602
-
-<br><br>
-
-> anoa @go_anoa <br>
-> life is short. you need python!  요즘 온몸으로 감동중인 문구. <br>
->
-> 오전 12:13 - 2018년 11월 27일 https://twitter.com/go_anoa/status/1067330457098870784
 
 <br><br>
 
@@ -736,23 +614,7 @@
 
 <br><br>
 
-> 학생들은 보통 공부를 하다가 알 것 같다는 기분이 들면 그 내용은 그만 공부하고 다음 내용으로 넘어가게 된다. 문제는 그 기분이 별로 정확하지 않다는 것이다. 그래서 실제로는 잘 모르는데도 충분히 공부를 안하게 된다. 
->
-> http://169254.tumblr.com/post/92633286949/%EB%A8%B8%EB%A6%AC-%EB%82%98%EC%81%98%EB%A9%B4-%EA%B3%B5%EB%B6%80%ED%95%B4%EB%8F%84-%EC%86%8C%EC%9A%A9%EC%9D%B4-%EC%97%86%EC%9D%84%EA%B9%8C
-
-<br><br>
-
-> 약 4년 전쯤 깃랩이 나온지 얼마 안 되었을 때 당시 일하고 있던 회사에서 깃랩을 도입해 사용했었다. 당시에는 깃허브에 비해 부족한 부분이 많아 아쉬움이 있었는데 시간이 지난 지금은 깃허브에 견줄 수 있을만큼 기능을 갖춘 것으로 보인다.
->
-> http://techneedle.com/archives/36570
-
-<br><br>
-
-[Essential Go](https://www.programming-books.io/essential/go/)
-
-<br><br>
-
-[The Case Against Quantum Computing](https://spectrum.ieee.org/computing/hardware/the-case-against-quantum-computing)
+> [학생들은 보통 공부를 하다가 알 것 같다는 기분이 들면 그 내용은 그만 공부하고 다음 내용으로 넘어가게 된다. 문제는 그 기분이 별로 정확하지 않다는 것이다. 그래서 실제로는 잘 모르는데도 충분히 공부를 안하게 된다. ](http://169254.tumblr.com/post/92633286949/%EB%A8%B8%EB%A6%AC-%EB%82%98%EC%81%98%EB%A9%B4-%EA%B3%B5%EB%B6%80%ED%95%B4%EB%8F%84-%EC%86%8C%EC%9A%A9%EC%9D%B4-%EC%97%86%EC%9D%84%EA%B9%8C)
 
 <br><br>
 
@@ -854,16 +716,6 @@
 
 <br>
 
->**Cloudflare**‏ @Cloudflare <br>
->
->1 Thing You Can Do To Make Your Internet Safer And Faster - [#1dot1dot1dot1](https://twitter.com/hashtag/1dot1dot1dot1?src=hash) - 
->
->https://blog.cloudflare.com/1-thing-you-can-do-to-make-your-internet-safer-and-faster/
->
->[오전 5:10 - 2018년 11월 11일](https://twitter.com/Cloudflare/status/1061606973311987712)
-
-<br><br>
-
 > "만들려고 배우지 말고, 배우기 위해 만들어라"에 동의하시나요?
 >
 > <br>[개골](https://ask.fm/cfr0g/answers/151360822250)
@@ -942,22 +794,6 @@
 
 <br><br>
 
-> 안희종 @heejongahn
->
-> <br>
->
-> “일이 많을 땐 하나씩 하면 된다.” 
->
-> <br>
->
-> 언젠가 동료가 페이스북에 올린 이 문장이 참 좋았다. 끝없이 쌓이는 듯한 일더미 앞에서 막막할 때면 자주 되뇌인다. 가만 냅둔다고 사라지는 일은 없다. 그냥 중요한 것부터 하나씩 차근차근 처리하면 되고, 그거 말곤 다른 방법도 없다.
->
-> <br>
->
-> [오전 4:20 - 2018년 11월 2일](https://twitter.com/heejongahn/status/1058317817844400128)
-
-<br><br>
-
 [Real science. Now in real time.](https://cseweb.ucsd.edu/~jmcauley/?fbclid=IwAR2ldcIZ4TIuGd9KnngJSdD_Xo98yuV_kBiL5H6HSrdEHClYrTaOxNFkhtg)
 
 <br><br>
@@ -991,10 +827,6 @@
 <br><br>
 
 [머리도 쓰면 좋아져요](https://youtu.be/vrvN_itJ9as)
-
-<br><br>
-
-[What is numerical methods?](https://www.quora.com/What-is-numerical-methods/answer/Ahmed-Fawzy-Elaraby)
 
 <br><br>
 
@@ -1066,20 +898,6 @@
 > [Here's one article showing this with neural networks in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
 >
 > [오전 10:36 - 2018년 11월 3일](https://twitter.com/hmason/status/1058774912201035776)
-
-<br><br>
-
-> [Battlefield 5 공식 공개 트레일러](https://www.youtube.com/watch?v=fb1MR85XFOc&feature=youtu.be)
->
-> [Battlefield 5: 공식 멀티플레이어 트레일러](https://www.youtube.com/watch?v=SWVtV59mczk&feature=youtu.be)
->
-> [Battlefield 5 – 공식 Gamescom 트레일러 – 로테르담의 폐허](https://www.youtube.com/watch?v=-FEgeuGsmzQ&feature=youtu.be)
->
-> [Battlefield 5 - '중대' 공식 트레일러](https://www.youtube.com/watch?v=JUaUciRJy3Y&feature=youtu.be)
->
-> [Battlefield V - 공식 싱글 플레이어 트레일러](https://www.youtube.com/watch?v=PUPimAwTo3E&feature=youtu.be)
->
-> [Battlefield V – 공식 발매 전장](https://www.youtube.com/watch?v=nLR5DXRqtis&feature=youtu.be)
 
 <br><br>
 
@@ -1271,25 +1089,6 @@ mount   # ext4 확인
 
 <br><br>
 
-```bash
-# 2018 10 24
-
-출근하고 나서 옆에 계신 매니저님께 월요일에 주문한 책이 <그림으로 쉽게 설명하는 안드로이드 프로그래밍>이라고 말씀드렸다.
-
-이후 해주신 조언이 다음과 같다.
-
-이 책의 내용 외에도
-
-1) 안드로이드 프레임웍
-2) 임베디드 안드로이드
-3) 리눅스 자체에 대한 이해
-
-가 필요하다고 하셨다. 
-
-```
-
-<br><br>
-
 >  [Technical Interview Guidelines for beginners](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 >
 > [2019 카카오 신입 공채 1차 코딩 테스트 문제 해설](http://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/)
@@ -1337,14 +1136,6 @@ mount   # ext4 확인
 > - 캐시 동작 방식(CPU, 메모리, 디스크)
 >
 > 여기에 IDE 사용 방법(자유자재로...)과 셸/CMD 기초 사용법, 네트워크 관련 일반 지식이 더해지면 초급 개발자로서 한 몫을 다 하리라 생각한다.
-
-<br><br>
-
->  [여러분 반갑습니다. 유튜브 광고가 여러분의 몰입을 방해하는 것이 참 미안하던차에 인프런에서 인사드릴 수 있어서 기쁩니다. 여러분이 초보자라면 따라해보시는 것만으로 머릿속에 중요한 개념들이 자라기 시작합니다.  이해가 가지 않더라도 꾸준히 정진해나가시기를 권장합니다. 만일, 여러분이 왕초보 단계를 벗어나셨다면 남들보다 빠르게 중급 이상으로 앞서나가는 기쁨을 누리실 수 있을겁니다. 이미 중급 이상을 넘보고 계신 분들이시라면, 잘 오셨습니다. 고급으로 가는 황금 열쇠를 손에 쥐시게 될겁니다. 제 강의를 선택하신 분들이라면 이미 높은 가능성을 품고 계시리라고 확신합니다. 저도 여러분이 높이 날아오를 날을 위해 꾸준히 도와드리겠습니다. 감사합니다. * 강의를 보신 분들은 좋은 '강좌평' 부탁드립니다. 홍정모 드림.](https://www.inflearn.com/course/following-c-plus/)
->
-> <br>
->
-> [learncpp.com](https://www.learncpp.com/)
 
 <br><br>
 
@@ -2095,23 +1886,6 @@ console.log(b);
 [Hedy Lamarr – the 1940s ‘bombshell’ who helped invent wifi](https://www.theguardian.com/film/2018/mar/08/hedy-lamarr-1940s-bombshell-helped-invent-wifi-missile)
 
 <br><br>
-
-> énie @enie_latente
->
-> 딸아, 수학 공부는 벼락치기로는 안된단다. 네 이해력이 아무리 좋다해도 문제를 풀면서 직접 연습하는게 쌓이지 않으면 시험에서 네 손이 움직이지 않을 것이고, 계산만 연습하면 생각하는 훈련이 되지 않아서 조금만 문제가 어려워도 머리가 멈추지.
->
-> [오전 11:47 - 2018년 5월 21일](https://twitter.com/enie_latente/status/998636340521635841)
->
-> énie @enie_latente
->
-> 시험 전 날 열시간을 공부해도 머리에 남지 않는게 수학이야. 
-> 음악 연습이랑 같아. 평소에 연습이 되어 있지 않으면 음악이 흐를 수가 없잖아. 
->
-> 연습은 매일 조금씩 하는 거야. 수학도 음악도 운동도. 반복된 시간이 흐르고 쌓여서 깊어지는 너의 생각을 직접 체험하기를.
->
-> [오전 11:49 - 2018년 5월 21일](https://twitter.com/enie_latente/status/998636862033014784)
-
-<br>
 
 > 안희종  @heejongahn
 >
