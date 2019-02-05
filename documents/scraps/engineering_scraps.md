@@ -64,6 +64,12 @@
 
 <br><br>
 
+> 넷플릭스에서 CDN SW/HW를 자체개발해서 사용중인데 운영체제로 FreeBSD를, 더군다나 최신 Head버전에 맞춰 테스트중인 기능만 local diff에 두고 나머지는 모두 업스트림으로 반영중이라네요. 개발팀이 이를 원했고 커미터도 있어서 가능했다고. 이런게 역량이고 실력. https://openconnect.netflix.com/en/software/ <br>
+>
+> [오후 2:45 - 2019년 2월 4일](https://twitter.com/ksoonson/status/1092554741161152512)
+
+<br><br>
+
 [Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.](https://github.com/chrislgarry/Apollo-11)
 
 <br><br>
