@@ -136,6 +136,20 @@ Jupyter 에서 정상적인 출력이 이루어지면 설치가 잘 된 것이�
 
 <br>
 
+```json
+# 백엔드로 구동되는 딥러닝 엔진을 TensorFlow에서 Theano로 변경하려면?
+# /Users/yun/.keras/keras.json
+
+{
+    "floatx": "float32",
+    "epsilon": 1e-07,
+    "backend": "theano",
+    "image_data_format": "channels_last"
+}
+```
+
+<br>
+
 6) [keras2cpp](https://github.com/pplonski/keras2cpp)
 
 <br>
