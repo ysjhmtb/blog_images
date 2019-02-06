@@ -59,23 +59,86 @@ $ source ./venv/bin/activate  # sh, bash, ksh, or zsh
 
 <br>
 
-4) [Installing Keras with TensorFlow backend](https://www.pyimagesearch.com/2016/11/14/installing-keras-with-tensorflow-backend/)
+4) [mac에 pyenv를 이용해 python 설치하기](https://blog.seotory.com/post/2017/03/install-python-in-mac-using-pyenv)
+
+```bash
+$ brew install pyenv
+$ pyenv install 3.6.0
+$ pyenv global 3.6.0
+$ eval "$(pyenv init -)"
+$ echo 'eval "$(pyenv init -)"' >> ~/.bash_profile
+$ . ~/.bash_profile
+```
+
+<br>
+
+5) [맥에서 케라스 설치하기](https://tykimos.github.io/2017/08/07/Keras_Install_on_Mac/)
 
 <br>
 
 ```bash
-$ mkvirtualenv keras_tf -p python3
-$ workon keras_tf
-(keras_tf)$ pip install --upgrade tensorflow
+$ sudo pip install virtualenv	# pip3 사용하지 말고 pip라고 한다.
+$ virtualenv venv
+$ source venv/bin/activate
 
 
 
+(venv) $ pip install ipython[notebook]
+(venv) $ jupyter notebook
+
+
+
+(venv) $ pip install numpy
+(venv) $ pip install scipy
+(venv) $ pip install scikit-learn
+(venv) $ pip install matplotlib
+(venv) $ pip install pandas
+(venv) $ pip install pydot
+(venv) $ pip install h5py 
+
+(venv) $ brew install graphviz
+
+(venv) $ pip install theano
+(venv) $ pip install tensorflow
+(venv) $ pip install keras
 
 ```
 
+<br>
 
+```python
+import scipy
+import numpy
+import matplotlib
+import pandas
+import sklearn
+import pydot
+import h5py
 
+import theano
+import tensorflow
+import keras
 
+print('scipy ' + scipy.__version__)
+print('numpy ' + numpy.__version__)
+print('matplotlib ' + matplotlib.__version__)
+print('pandas ' + pandas.__version__)
+print('sklearn ' + sklearn.__version__)
+print('pydot ' + pydot.__version__)
+print('h5py ' + h5py.__version__)
+
+print('theano ' + theano.__version__)
+print('tensorflow ' + tensorflow.__version__)
+print('keras ' + keras.__version__)
+```
+
+Jupyter 에서 정상적인 출력이 이루어지면 설치가 잘 된 것이다.
+
+<br>
+
+6) [keras2cpp](https://github.com/pplonski/keras2cpp)
+
+<br>
 
 
 
