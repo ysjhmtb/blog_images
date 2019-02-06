@@ -59,8 +59,33 @@ $ source ./venv/bin/activate  # sh, bash, ksh, or zsh
 
 <br>
 
-4) How to call a trained TensorFlow model in C++ 
+4) [Installing Keras with TensorFlow backend](https://www.pyimagesearch.com/2016/11/14/installing-keras-with-tensorflow-backend/)
 
 <br>
 
- 
+```bash
+$ mkvirtualenv keras_tf -p python3
+$ workon keras_tf
+(keras_tf)$ pip install --upgrade tensorflow
+
+
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

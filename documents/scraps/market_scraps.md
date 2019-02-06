@@ -1,5 +1,11 @@
 <br><br>
 
+> The proposal is for a central bank to divide the monetary base into two separate local currencies—cash and electronic money (e-money). E-money would be issued only electronically and would pay the policy rate of interest, and cash would have an exchange rate—the conversion rate—against e-money. This conversion rate is key to the proposal. When setting a negative interest rate on e-money, the central bank would let the conversion rate of cash in terms of e-money depreciate at the same rate as the negative interest rate on e-money. The value of cash would thereby fall in terms of e-money. <br>
+>
+> [Cashing In: How to Make Negative Interest Rates Work](https://blogs.imf.org/2019/02/05/cashing-in-how-to-make-negative-interest-rates-work/)
+
+<br><br>
+
 >  개골님. 할인율로 미래가치를 현재가치로 환산하는 방식이 주식시장에서 잘 작동한다고 보시나요? 장기적(1년의 시계?)으로 작동한다고 보시나요?
 >
 >  <br>
