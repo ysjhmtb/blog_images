@@ -148,13 +148,27 @@ Jupyter 에서 정상적인 출력이 이루어지면 설치가 잘 된 것이�
 }
 ```
 
-<br>
-
-6) [keras2cpp](https://github.com/pplonski/keras2cpp)
-
-<br>
+<br><br>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Training and Serving ML models with tf.keras](https://medium.com/tensorflow/training-and-serving-ml-models-with-tf-keras-fd975cc0fa27)
 
 
 
