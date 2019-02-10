@@ -66,6 +66,55 @@
 
 <br><br>
 
+> 50세 프로그래머 여성이 15세 아들을 두고 "너는 게임을 좋아하니 게임 개발자가 되렴"이라고 조언한 다음 '그런데 나도 게임을 좋아하잖아? 하지만 난 50세에 여성이지'하고 포기했다가 친구의 "사람은 숫자로 결정되지 않아"라는 말을 듣고 바로 게임 업계에 이력서를 던지기 시작.
+>
+> [오전 7:22 - 2019년 2월 9일](https://twitter.com/rabapyca/status/1094255281767235585)
+>
+> <br>
+>
+> 처음에는 다소 어려움을 겪었지만 기술이 있었기 때문에 MMO 게임의 리스폰에 사용할 생체 시뮬레이션을 개발하던 도중 개발자 포럼에 분석글을 올린게 이력서 역할을 해서 UBI 소프트에 입사(...)
+>
+> [오전 7:24 - 2019년 2월 9일](https://twitter.com/rabapyca/status/1094255781589876736)
+>
+> 
+
+<br><br>
+
+> 유명한 UB죠. 저 경우 연산순서를 정하지 않기 때문에 무슨 일이 일어나도 받아들여야 합니다.
+>
+> > c++
+> > int x = 0;
+> > cout << x++ << ++x;
+> > 이거 1 2임??
+> > cout << x++ << x++;
+> > 이거 왜  1 0임????
+> > cout << ++x << ++x;
+> > 이건 또 왜 2 2임??????????
+> >
+> > [오후 11:40 - 2019년 2월 8일](https://twitter.com/_DAEDU_/status/1094138871548235777)
+>
+> [오전 12:42 - 2019년 2월 9일](https://twitter.com/pubTirr/status/1094154573873217537)
+>
+> <br>
+>
+> 극단적으로는 저걸 실행했더니 펌웨어가 날아가도 받아들여야 합니다...
+>
+> [오전 12:45 - 2019년 2월 9일](https://twitter.com/pubTirr/status/1094155400562102272)
+
+
+
+<br><br>
+
+[How OpenGL works: software rendering in 500 lines of code](https://github.com/ssloy/tinyrenderer/wiki)
+
+<br><br>
+
+> What a great role model: Switzerland has decided that the source code of online voting systems must be published and the systems need to be publicly tested. Bounty up to 50,000 Swiss francs! https://onlinevote-pit.ch/details/ 
+>
+> [오후 12:01 - 2019년 2월 9일](https://twitter.com/martenmickos/status/1094325483607678976)
+
+<br><br>
+
 > [Oracle Database 12.2.](https://news.ycombinator.com/item?id=18442941)
 > It is close to 25 million lines of C code.
 >
