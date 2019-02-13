@@ -66,6 +66,50 @@
 
 <br><br>
 
+[CPU Clocks and Clock Interrupts, and Their Effects on Schedulers](https://accu.org/index.php/journals/2185)
+
+<br>
+
+> 오스트리아 그라츠공과대학 연구진이, 인텔이 스카이레이크 제품부터 탑재한 보안 기능인 소프트웨어 가드 엑스텐션(SGX)을 역이용해 안티바이러스 소프트웨어가 악성코드 구동을 탐지할 수 없도록 할 수 있는 방법을 밝혔다고…     
+>
+> [Researchers use Intel SGX to put malware beyond the reach of antivirus software](https://arstechnica.com/gadgets/2019/02/researchers-use-intel-sgx-to-put-malware-beyond-the-reach-of-antivirus-software/)
+>
+> [오후 5:35 - 2019년 2월 12일](https://twitter.com/metavital/status/1095496704986513408)
+
+<br>
+
+> 쿠킹호일 모자 쓰는 영역으로 진입하면, 최근에는 스트리밍 서비스의 암호화된 영상 패킷 메타데이터를 네트워크에서 분석해서 사용자가 어떤 영상을 보고 있는지 도출할 수 있는 연구[1]나, 암호화된 Tor 트래픽을 네트워크에서 자동 분석해 사용자가 어떤 사이트를 방문하는지 알아내는 연구[2], —
+>
+> [오후 9:47 - 2019년 2월 12일](https://twitter.com/kid1ng/status/1095559959595560960)
+>
+> <br>
+>
+> 스마트폰에서 발생하는 암호화된 패킷을 네트워크에서 분석해 사용자 스마트폰에 어떤 앱이 설치돼 있는지 알아내는 연구[3] 등 암호화의 의미를 기상천외한 방법으로 어떤 방면으로든 무력화하려는 시도가 계속되고 있습니다. —
+>
+> [오후 9:47 - 2019년 2월 12일](https://twitter.com/kid1ng/status/1095559995737792512)
+>
+> <br>
+>
+> [1]: Schuster et al., 2017 [Beauty and the Burst: Remote Identification of Encrypted Video Streams](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/schuster)
+>
+> [2]: Rimmer et al., 2018 [Automated Website Fingerprinting through Deep Learning](https://www.ndss-symposium.org/ndss2018/programme/#03A)
+>
+> [3]: Taylor et al., 2018 [Robust Smartphone App Identification via Encrypted Network Traffic Analysis](https://ieeexplore.ieee.org/abstract/document/8006282)
+>
+> [오후 9:47 - 2019년 2월 12일](https://twitter.com/kid1ng/status/1095560037102047232)
+>
+> 
+
+
+
+<br><br>
+
+> 나는 위의 문제를 하나하나 접해가면서 개발자로 커리어 전환을 하였다. 하지만 개발자는 학원의 자극적인 광고만 보고 접근하기엔 위험이 많이 따른다. 그럴 수 밖에 없는게 평생 공부하고 개선하는 과정들을 개발자를 그만두는 그 순간까지 반복해야만하기 때문이다. 나는 첫 회사를 다니면서 2년 동안 개인적인 시간이 거의 없었다. 집에 11시에 들어가면 어머니께서 오늘은 일찍 들어왔다고 말씀하실 정도였다. 일을 위해서 많은 것들을 포기했고 이런 과정들을 지나온 나로서는 학원의 자극적인 광고가 정말 와닿지 않는다. 하루가 멀다하고 학원에서 쏟아져나오는 사람들은 대체로 3년을 버티기가 쉽지않다. 위에서 내가 언급한 문제뿐만 아니라 업무강도도 타 직업군에 비해서 더하면 더했지 덜하지 않기 때문이다. 이는 미디어에서 노출되는 것처럼 행복한 것들만 존재하지 않는다는 것이다. 물론 좋은 점도 많이 있지만 개발을 하는 행위 자체가 취미가 될 수 있는 사람에게나 가능한 장점이 더 많다. <br>
+>
+> [내가 느낀 비전공자 신입의 문제점](https://medium.com/@rosd0000/%EB%82%B4%EA%B0%80-%EB%8A%90%EB%82%80-%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90-%EC%8B%A0%EC%9E%85%EC%9D%98-%EB%AC%B8%EC%A0%9C%EC%A0%90-70c6cfb6626)
+
+<br><br>
+
 > 50세 프로그래머 여성이 15세 아들을 두고 "너는 게임을 좋아하니 게임 개발자가 되렴"이라고 조언한 다음 '그런데 나도 게임을 좋아하잖아? 하지만 난 50세에 여성이지'하고 포기했다가 친구의 "사람은 숫자로 결정되지 않아"라는 말을 듣고 바로 게임 업계에 이력서를 던지기 시작.
 >
 > [오전 7:22 - 2019년 2월 9일](https://twitter.com/rabapyca/status/1094255281767235585)
