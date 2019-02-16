@@ -89,6 +89,28 @@
 
 <br><br>
 
+> We look at 7 indicators:
+>
+> •**Stock Price Momentum:** The S&P 500 ([**SPX**](https://money.cnn.com/data/markets/sandp/?source=story_quote_link)) versus its 125-day moving average
+>
+> •**Stock Price Strength:** The number of stocks hitting 52-week highs and lows on the New York Stock Exchange
+>
+> •**Stock Price Breadth:** The volume of shares trading in stocks on the rise versus those declining.
+>
+> •**Put and Call Options:** The put/call ratio, which compares the trading volume of bullish call options relative to the trading volume of bearish put options
+>
+> •**Junk Bond Demand:** The spread between yields on investment grade bonds and junk bonds
+>
+> •**Market Volatility:** The VIX ([**VIX**](https://money.cnn.com/quote/quote.html?symb=VIX)), which measures volatility
+>
+> •**Safe Haven Demand:** The difference in returns for stocks versus Treasuries
+>
+> <br>
+>
+> [What is the Fear & Greed Index?](https://money.cnn.com/investing/about-fear-greed-tool/)
+
+<br><br>
+
 > -그럼에도 투자자들이 **올해 핵심적으로 봐야할 리스크**가 있다면? <br>
 >
 > "역시 유럽이다. 다 알려진 악재는 악재가 아니지만 **노딜 브렉시트**(영국이 EU와 아무런 협정을 맺지 못하고 탈퇴하는 것), 양극화에 따른 **유럽 정치적 불안정성** 등을 꼽을 수 있다." <br>
