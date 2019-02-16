@@ -1,5 +1,14 @@
 <br><br>
 
+> 운동이나 영어나 그냥 하루에 A4용지 한 장 쌓기와 다를 바 없어.. 하루에 한 장 쌓아봤자 뭐하나 싶지..그런데 며칠 안 하면 분명 티가 나기 시작해..
+> 그냥 하루에 한 장씩 반듯반듯하게 쌓고 또 쌓는 거지. 그러면 몇 개월 뒤에나 이제 조금씩 성과가 보이기 시작..
+>
+> <img src="https://pbs.twimg.com/media/DzZaGXtV4AASexd.jpg:large">
+>
+> [오후 1:41 - 2019년 2월 14일](https://twitter.com/GomTaengEe/status/1096162629133856768)
+
+<br><br>
+
 > [Depth-sensing imaging system can peer through fog](http://news.mit.edu/2018/depth-sensing-imaging-system-can-peer-through-fog-0321)
 >
 > [Wireless communication breaks through water-air barrier](http://news.mit.edu/2018/wireless-communication-through-water-air-0822)
@@ -63,6 +72,18 @@
 <br><br>
 
 [좋은 책 하나 잡고 큰 소리로 소리내서 읽으세요. 수준에 따라서 영어 동화책도 좋고 리더스 다이제스트도 좋고 신문이나 소설도 좋습니다. 냉수 한 그릇 옆에 갖다 놓고 목을 축여 가면서 큰 소리로 읽고 또 읽는 겁니다. 책 한 권을 처음부터 끝까지 읽기보다는 한 페이지씩 읽으세요. 한 페이지당 최소 20-30번은 읽어야 하는데 100번 이상 읽어야 될 수도 있습니다. 다음 페이지로 넘어가는 기준은 하도 많이 읽어서 거의 외워져서 다음 문장이 뭐가 나오는지 예상이 될 정도가 되어야 합니다. 단 외우려고 노력하지는 마세요. 어떻게 영어 한 페이지를 다 외웁니까. 천재도 아니고. 그냥 읽는 겁니다. 기억은 입 근육과 혀 근육에 됩니다. 그냥 술술술 나오는 것이죠.](http://ko.usmlelibrary.com/entry/english-common-method?category=187112) 
+
+<br><br>
+
+> 사실 아마존도 유니티를 사기를 원했는데, 유니티가 넘 비싸게 부르는 바람에 (사실 그 부르는 가격대로 샀어야 했음 ㅜ) 포기하고 크라이엔진 3.8 스냅샷을 사옴.. 아무래도그건 아니었는데.. 암튼 그것때문에 내 캐리어도 일부 꼬이고 아마존 퇴사하게 된 결정적인 계기도 되었음 ㅠ 
+>
+> [오전 10:43 - 2019년 2월 15일](https://twitter.com/teralode/status/1096480087552098304)
+>
+> <br>
+>
+> 2015에 unity 를 사기원했다는 저커버그.  이게 이루어졌다면 페북에겐 큰 기회였을듯. 왜 그리 구글, 애플의 생태계에서 벗어나기 원하는지 이해가 될듯.
+>
+> [오전 2:55 - 2019년 2월 15일](https://twitter.com/sm_park/status/1096362481818030081)
 
 <br><br>
 
