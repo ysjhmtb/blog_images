@@ -1,5 +1,23 @@
 <br><br>
 
+> [MLIR Primer: A Compiler Infrastructure for the End of Moore’s Law](https://drive.google.com/file/d/1hUeAJXcAXwz82RXA5VtO5ZoH8cVQhrOK/view) 크리스 래트너 선생 MLIR로 LLVM에서 맺힌 한을 푸시는구나
+>
+> [오후 8:52 - 2019년 2월 21일](https://twitter.com/summerlight00/status/1098807818453303296)
+>
+> <br>
+>
+> 앞으로 구글에서 컴파일러 인력 많이 뽑을 것 같음
+>
+> [오후 8:55 - 2019년 2월 21일](https://twitter.com/summerlight00/status/1098808423997530112)
+>
+> <br>
+>
+> 일단 LLVM에서 못하던 일들 많이 할 수 있는데 nested region 지원 덕분에 polyhedral 모델 같은 것도 훨씬 자연스럽게 지원 가능하다는 모양 다만 난 전문가가 아니라 디테일까진 모름
+>
+> [오후 9:08 - 2019년 2월 21일](https://twitter.com/summerlight00/status/1098811761346588672)
+
+<br><br>
+
 [Mesh: Compacting Memory Management for C/C++ Applications](https://arxiv.org/abs/1902.04738)
 
 <br><br>
