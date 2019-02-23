@@ -2,6 +2,10 @@
 
 <br><br>
 
+[It’s the End of the Gene As We Know It](http://nautil.us/issue/68/context/its-the-end-of-the-gene-as-we-know-it)
+
+<br><br>
+
 > 어학은 매일 한 시간씩 공부하는 것보다 하루에 일곱 시간을 공부하는 게 낫다. 좋은 선생이 있으면 금상첨화. 선생이 할 일은 좋은 텍스트를 골라서 (이게 생각보다 어렵다) 읽게 한 후 (내 몫이자 본질) 그것에 대해서 이야기해보는 것이다. 똑똑한 원어민 선생이 있으면 실력이 일취월장한다. <br>
 >
 > [오후 3:43 - 2019년 2월 7일](https://twitter.com/hubris2020/status/1093656579679735808)
