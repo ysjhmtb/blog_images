@@ -1,5 +1,19 @@
 <br><br>
 
+> 영플책
+>
+> 하루하루는 성실하게, 인생 전체는 되는대로. - 이동진
+
+<br><br>
+
+[2018년, 내가 모르는 기술들](https://velog.io/@chris/%EB%B2%88%EC%97%AD-2018%EB%85%84-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B8%B0%EC%88%A0%EB%93%A4-rnjr3h8mgj)
+
+<br><br>
+
+[A visual guide to Go Memory Allocator from scratch (Golang)](https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed)
+
+<br><br>
+
 > [MLIR Primer: A Compiler Infrastructure for the End of Moore’s Law](https://drive.google.com/file/d/1hUeAJXcAXwz82RXA5VtO5ZoH8cVQhrOK/view) 크리스 래트너 선생 MLIR로 LLVM에서 맺힌 한을 푸시는구나
 >
 > [오후 8:52 - 2019년 2월 21일](https://twitter.com/summerlight00/status/1098807818453303296)
