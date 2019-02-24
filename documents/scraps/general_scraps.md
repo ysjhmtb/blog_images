@@ -2,6 +2,12 @@
 
 <br><br>
 
+> 트위터는 재미있는 곳이다. 분노포인트의 스위치가 매우 연약한 곳이고, 대부분의 분노포인트는 본인 자신의 약점에서 기인한다. 이상한 곳에서 스위치가 켜진걸 발견했다면 그게 그 사람의 약점이란 의미로 봐도 크게 틀리지 않다. 마찬가지로 내 약점도 객관적으로 볼 수 있게 해주기도 한다    
+>
+> [오후 8:33 - 2019년 2월 23일](https://twitter.com/JPcorps/status/1099527808022306817)
+
+<br><br>
+
 [It’s the End of the Gene As We Know It](http://nautil.us/issue/68/context/its-the-end-of-the-gene-as-we-know-it)
 
 <br><br>

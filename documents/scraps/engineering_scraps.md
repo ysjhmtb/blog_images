@@ -6,6 +6,32 @@
 
 <br><br>
 
+> [How can one learn Android Kernel Development ? what are good learning resources available?](https://www.quora.com/How-can-one-learn-Android-Kernel-Development-what-are-good-learning-resources-available/answer/Sylvain-Huard-1)
+>
+> <br>
+> Sylvain Huard
+> Updated Nov 17, 2013
+>
+> <br>
+>
+> I just did that in the past 9 months. **Android Kernel is based on a Linux Kernel 2.6.x.** I use on a regular basis some books:   
+> O'Reilly- Understanding The Linux Kernel
+> O'Reilly- Linux Device Drivers 3rd edition     
+>
+> <br>
+>
+> Make sure you use documents referring to Kernel version 2.6.x and higher since the 2.4.x has significant differences. **You don't need to read and learn everything to start with. I often use those book as reference when needed.**
+>
+> <br>
+>
+> **The second step is to practice.** Get the free kernel development platform from google android website. **Then, if you really want to learn, get a development platform.** Yes some real hardware that you can hook-up some devices to it (USB or other). There are many available on the web with price ranging from 400$ and up. Make sure the chosen platform is delivered with a full working Android source kit. **It's always easier to start from something that works and modify it than from completely from scratch.** I started my learning with an off-the shelf Android tablet and it was a nightmare. Even though those manufacturers have to publish the source code because of GPL but, you are never sure if you have the right version for the hardware you have and the information about your hardware is not very accessible. That's why I say use an evaluation board. It's well worth the expense. 
+>
+> **The third advice is be patient.** When you install the Kernel, you will see over 35000 files getting written on your harddisk just for the Kernel and more than 135000 for Android. **This is a lot and I don't think anybody can master the whole thing. You will acquire knowledge in the area you need and see the rest as black boxes.** When you get stuck, you often find answers using google searches or site like stackoverflow. The tough part is there are thousand more information available on Android application than Android Kernel.
+>
+> Good luck and enjoy!
+
+<br><br>
+
 [2018년, 내가 모르는 기술들](https://velog.io/@chris/%EB%B2%88%EC%97%AD-2018%EB%85%84-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B8%B0%EC%88%A0%EB%93%A4-rnjr3h8mgj)
 
 <br><br>
