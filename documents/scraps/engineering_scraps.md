@@ -6,6 +6,14 @@
 
 <br><br>
 
+[How should I get started on writing device drivers? ](https://stackoverflow.com/questions/2222763/how-should-i-get-started-on-writing-device-drivers)
+
+[Linux Device Drivers, Third Edition](https://lwn.net/Kernel/LDD3/)
+
+[The Linux Kernel Module Programming Guide](http://tldp.org/LDP/lkmpg/2.6/html/lkmpg.html)
+
+<br><br>
+
 > [How can one learn Android Kernel Development ? what are good learning resources available?](https://www.quora.com/How-can-one-learn-Android-Kernel-Development-what-are-good-learning-resources-available/answer/Sylvain-Huard-1)
 >
 > <br>

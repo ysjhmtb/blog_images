@@ -2,6 +2,12 @@
 
 <br><br>
 
+> [The Surprising Value of Obvious Insights](https://sloanreview.mit.edu/article/the-surprising-value-of-obvious-insights/) Adam Grant의 인사이트 넘치는 아티클. 특히, 데이터를 가지고 사람들을 설득해야하는 일을 하는 사람이라면 많은 영감을 받을 수 있을 것. 강력하게 추천하는 글.
+>
+> [오전 9:08 - 2019년 2월 24일](https://twitter.com/bluepygmi/status/1099717773712748544)
+
+<br><br>
+
 > 트위터는 재미있는 곳이다. 분노포인트의 스위치가 매우 연약한 곳이고, 대부분의 분노포인트는 본인 자신의 약점에서 기인한다. 이상한 곳에서 스위치가 켜진걸 발견했다면 그게 그 사람의 약점이란 의미로 봐도 크게 틀리지 않다. 마찬가지로 내 약점도 객관적으로 볼 수 있게 해주기도 한다    
 >
 > [오후 8:33 - 2019년 2월 23일](https://twitter.com/JPcorps/status/1099527808022306817)
