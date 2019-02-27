@@ -1,5 +1,11 @@
 <br><br>
 
+> NDR's Global #Recession Probability model almost 96%... yikes
+>
+> [오전 11:02 - 2019년 2월 25일](https://twitter.com/TN/status/1100108845848977408)
+
+<br><br>
+
 [Oil Price Dynamics Report](https://www.newyorkfed.org/research/policy/oil_price_dynamics_report)
 
 <br><br>
