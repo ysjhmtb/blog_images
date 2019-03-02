@@ -2,6 +2,10 @@
 
 <br><br>
 
+[Manage Your Energy, Not Your Time](https://hbr.org/2007/10/manage-your-energy-not-your-time)
+
+<br><br>
+
 > [The Surprising Value of Obvious Insights](https://sloanreview.mit.edu/article/the-surprising-value-of-obvious-insights/) Adam Grant의 인사이트 넘치는 아티클. 특히, 데이터를 가지고 사람들을 설득해야하는 일을 하는 사람이라면 많은 영감을 받을 수 있을 것. 강력하게 추천하는 글.
 >
 > [오전 9:08 - 2019년 2월 24일](https://twitter.com/bluepygmi/status/1099717773712748544)
