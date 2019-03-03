@@ -1,5 +1,17 @@
 <br><br>
 
+> 건축가들중에서 고밀도 건물을 사랑하는 사람은 많지 않아보이지만 고밀도로 개발된 장소가 여러가지로 유리하다고 생각하는 경제학자는 많다. Stuart Rosenthal과 William Strange의 2008년 리서치에 의하면 고밀도로 개발하기 쉬운 곳에서 노동 생산성과 임금은 훨씬 높다. https://www.sciencedirect.com/science/article/pii/S0094119008000193 
+>
+> [오후 5:47 - 2019년 3월 2일](https://twitter.com/hubris2020/status/1102022570012946433)
+
+<br><br>
+
+> 세상에서 가장 좋은 시장은 사자와 팔자가 많은 시장이다. 호가가 사라진 시장이 가장 나쁜 시장이다. 도시가 시골보다 좋은 이유, 대기업이 중소기업보다 좋은 이유, 메이저 리그가 다른 리그보다 압도적인 이유는 사자와 팔자가 많은 시장이기 때문이다. 꼰대질도 갑질도 위선도 통하지 않는다.
+>
+> [오후 5:18 - 2019년 3월 2일](https://twitter.com/hubris2020/status/1102015277972115457)
+
+<br><br>
+
 > NDR's Global #Recession Probability model almost 96%... yikes
 >
 > [오전 11:02 - 2019년 2월 25일](https://twitter.com/TN/status/1100108845848977408)
