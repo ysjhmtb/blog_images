@@ -1,5 +1,9 @@
 <br><br>
 
+[See How Your Salary Compares](https://www.wsj.com/graphics/how-does-your-pay-stack-up/)
+
+<br><br>
+
 > 건축가들중에서 고밀도 건물을 사랑하는 사람은 많지 않아보이지만 고밀도로 개발된 장소가 여러가지로 유리하다고 생각하는 경제학자는 많다. Stuart Rosenthal과 William Strange의 2008년 리서치에 의하면 고밀도로 개발하기 쉬운 곳에서 노동 생산성과 임금은 훨씬 높다. https://www.sciencedirect.com/science/article/pii/S0094119008000193 
 >
 > [오후 5:47 - 2019년 3월 2일](https://twitter.com/hubris2020/status/1102022570012946433)
