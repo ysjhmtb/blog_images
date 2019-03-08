@@ -4,6 +4,12 @@
 
 <br><br>
 
+> ―새로운 길에 도전할 때마다 고민된 적은 없나. <br>
+>
+> “지나고 나니 미화가 되는 것 같은데, 모든 수험생은 ‘시험에 떨어지면 어떻게 하지’라는 고민을 한다. 그런데 고민을 하든 안 하든, 시험 날짜는 다가오고 있고, 공부를 때려치울 게 아니라면 계속 해야 하는 거니깐, 고민 자체를 안 하려고 했다. 안 하는 게 맞는다고 생각했다.” <br>
+
+<br><br>
+
 > 요즘 연구하고 있는 문제가 물건을 손으로 밀었을때 위치를 추정하는 문제입니다. 제어된 환경에서 최대한 정확하게 측정된 자료를 가지고도 미래의 위치를 예측하는 것은 매우 어렵습니다. 반면 미래를 예측한다는 사람은 곳곳에 넘쳐 납니다.
 >
 > [오후 12:06 - 2019년 3월 5일](https://twitter.com/JongraeK/status/1103023967701475329)
@@ -183,6 +189,47 @@
 [Linux Device Drivers, Third Edition](https://lwn.net/Kernel/LDD3/)
 
 [The Linux Kernel Module Programming Guide](http://tldp.org/LDP/lkmpg/2.6/html/lkmpg.html)
+
+<br><br>
+
+> [What are the best resources to learn about the internal workings of Android OS?](https://www.quora.com/What-are-the-best-resources-to-learn-about-the-internal-workings-of-Android-OS)
+>
+> <br>
+>
+> [Akash Panchal](https://www.quora.com/profile/Akash-Panchal-5), Worked on AOSP in Bluetooth Stack.
+>
+> [Answered Oct 29, 2016](https://www.quora.com/What-are-the-best-resources-to-learn-about-the-internal-workings-of-Android-OS/answer/Akash-Panchal-5)
+>
+> Android is an OS, so the learning the internals is goddamn huge thing. But you can pick and learn particular module.
+>
+> As an example if you want to understand how Bluetooth works in Android. (From the UI-> Service layer-> Stack-> JNI layer-> Native Stack-> Firmware-> RFComm).
+>
+> You can find the topology here: [Android Open Source Project](https://source.android.com/devices/bluetooth.html)
+>
+> Now for the coding part: You can always refer to [official github page of AOSP.](https://github.com/android)
+>
+> But i would suggest [AndroidXRef](http://androidxref.com/), it is very easy to browse files with neat and clean user-interface. If you understand C and JAVA, you can understand Android.
+>
+> Hope, This will be enough to start you up.
+
+<br><br>
+
+> [Computer Programmers: I want to learn how to make Android ROM for a device from scratch (using AOSP code). I want to learn everything. From where should I learn? What should I learn?](https://www.quora.com/Computer-Programmers-I-want-to-learn-how-to-make-Android-ROM-for-a-device-from-scratch-using-AOSP-code-I-want-to-learn-everything-From-where-should-I-learn-What-should-I-learn)
+>
+> <br>
+>
+> [Nithish Valankumeri](https://www.quora.com/profile/Nithish-Valankumeri), Linux Enthusiast, PC Gamer, Android.. etc
+>
+> [Answered May 19, 2015](https://www.quora.com/Computer-Programmers-I-want-to-learn-how-to-make-Android-ROM-for-a-device-from-scratch-using-AOSP-code-I-want-to-learn-everything-From-where-should-I-learn-What-should-I-learn/answer/Nithish-Valankumeri)
+>
+> 
+>
+> Start with these tutorials.
+> [Android Developers - Downloading and Building](https://source.android.com/source/building.html)
+> [[GUIDE\] HOWTO: Build your own AOSP ROM](http://androidforums.com/threads/guide-howto-build-your-own-aosp-rom.195756/)
+> [Getting Started: Building Android From Source - XDA-University](http://xda-university.com/as-a-developer/getting-started-building-android-from-source)
+>
+> [XDA-Developers ](http://www.xda-developers.com/)forum is usually able to answer any questions regarding android customization. You should definitely check here.
 
 <br><br>
 

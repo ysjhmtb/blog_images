@@ -2,6 +2,10 @@
 
 <br><br>
 
+[The Swiss Have Liberal Gun Laws, Too](https://www.theatlantic.com/international/archive/2018/02/swiss-guns/553448/)
+
+<br><br>
+
 > ["내 공부 비결은 스톱워치" 마이스터高·부산大 기계과 나와 사법연수원 수석](http://news.chosun.com/site/data/html_dir/2019/03/01/2019030101455.html)
 >
 > ―어떻게 공부했나. <br>
