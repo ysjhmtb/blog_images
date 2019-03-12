@@ -2,6 +2,20 @@
 
 <br><br>
 
+> 마시기만 해도 피부가 좋아지고 머릿결이 좋아지고 살도 빠지고 몸의 노폐물도 줄여주고 근육도 탄탄해지는 마법의 식품이 있습니다!!
+> 바로 일산화이소수입니다 :)
+> 2리터는 꼭 챙겨드세요. 정수기 틀면 나옴
+>
+> [오전 1:09 - 2019년 3월 12일](https://twitter.com/charmerofficial/status/1105380367073079297)
+>
+> <br>
+>
+> 군살없는 몸을 위한 철칙 No.5 : 하루 1분 플랭크. https://youtu.be/pSHjTRCQxIw 00:46초 부근 자세로 버티세요. 허리가 아니라 배에 힘 팍 주고. 자세 곧아지죠, 복근 생기죠. 익숙해지면 더하기
+>
+> [오전 1:39 - 2019년 3월 12일](https://twitter.com/charmerofficial/status/1105387920779706368)
+
+<br><br>
+
 [The Swiss Have Liberal Gun Laws, Too](https://www.theatlantic.com/international/archive/2018/02/swiss-guns/553448/)
 
 <br><br>
