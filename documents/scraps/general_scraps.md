@@ -2,6 +2,14 @@
 
 <br><br>
 
+[아이큐 테스트 기원에 '인종주의' 그림자가](http://www.newstof.com/news/articleView.html?idxno=1345)
+
+<br><br>
+
+[New research finds parallels between German votes in 1933 and now](https://www.economist.com/graphic-detail/2019/03/16/new-research-finds-parallels-between-german-votes-in-1933-and-now?fsrc=scn/tw/te/bl/ed/newresearchfindsparallelsbetweengermanvotesin1933andnownationalismsdeeproots)
+
+<br><br>
+
 > 보통 사람들이 방황하는 이유중 하나는 자기가 정확히 뭘 원하는지...감이 없거나 (동시에 잡을수없는) 여러가지를 한꺼번에 다 원하니까 생기는 문제이구나 하는걸 오늘 다시 한번 느끼게 되고...
 >
 > [오후 4:42 - 2019년 3월 12일](https://twitter.com/Beeeender/status/1105615034590289920)

@@ -1,5 +1,17 @@
 <br><br>
 
+[VirtualBox, 자유롭게 화면 해상도 조절하기.](https://technote.kr/157)
+
+<br><br>
+
+[How to install KDE plasma desktop on Ubuntu 18.04 Bionic Beaver Linux](https://linuxconfig.org/how-to-install-kde-plasma-desktop-on-ubuntu-18-04-bionic-beaver-linux)
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/ysjhmtb/blog_images/master/images/posting/%EA%B0%80%EC%9E%A5%20%EC%A4%91%EC%9A%94%ED%95%9C%20%EC%A3%BC%ED%8A%B9%EA%B8%B0.JPG">
+
+<br><br>
+
 > 확률과 통계 문제 만큼 컴퓨터로 실험하기 좋은, 흥미로운 주제도 흔치 않다. 개인적으로 가장 존경하는 과학자가 실험 과학자로 유명했던 마이클 패러데이 이기도 하고, 아인슈타인도 패러데이를 존경해 침실 벽면에 그의 초상화를 붙여두었다고 한다.
 >
 > 컴퓨터를 통한 최초의 수학 증명은 1976년 4색 정리였다. 당시만 해도 고작 1,936개의 모델을 계산하는데 두 대의 컴퓨터로 50일이 넘게 걸렸다. 뿐만 아니라 수학적으로 우아하지 못하다는 비판이 잇따랐지만 역사적으로 볼때 공학적 기술은 언제나 이론을 앞서갔다.

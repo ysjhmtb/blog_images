@@ -1,0 +1,3 @@
+SPI example :
+
+http://raspberrypi.ssu.ac.kr/control/549
