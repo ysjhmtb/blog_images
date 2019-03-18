@@ -886,4 +886,8 @@
 
 <br><br>
 
+[DIGNITAS](http://www.dignitas.ch/?lang=en)
+
+<br><br>
+
 [What you need to know about assisted suicide in Switzerland](https://www.thelocal.ch/20180503/what-you-need-to-know-about-assisted-death-in-switzerland)
