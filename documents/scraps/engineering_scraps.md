@@ -1,6 +1,12 @@
 <br><br>
 
+[Apache Reverse Proxy 구성 예제](https://jinhokwon.tistory.com/121)
+
 [How To Configure Apache Virtual Hosts In Ubuntu 18.04 LTS](https://www.ostechnix.com/configure-apache-virtual-hosts-ubuntu-part-1/)
+
+<br><br>
+
+[x86 Bare Metal Examples](https://github.com/cirosantilli/x86-bare-metal-examples)
 
 <br><br>
 
