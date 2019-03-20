@@ -2,6 +2,10 @@
 
 <br><br>
 
+[Mourning the Loss of Alan Krueger](https://www.nytimes.com/2019/03/19/opinion/alan-krueger-dies.html)
+
+<br><br>
+
 [아이큐 테스트 기원에 '인종주의' 그림자가](http://www.newstof.com/news/articleView.html?idxno=1345)
 
 <br><br>

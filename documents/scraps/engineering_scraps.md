@@ -1,5 +1,13 @@
 <br><br>
 
+[nRF52 Development Kit (for nRF52832)](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fdevelopment%2Fnrf52_dev_kit.html)
+
+<br><br>
+
+[Unix History Repository](https://github.com/dspinellis/unix-history-repo)
+
+<br><br>
+
 [Apache Reverse Proxy 구성 예제](https://jinhokwon.tistory.com/121)
 
 [How To Configure Apache Virtual Hosts In Ubuntu 18.04 LTS](https://www.ostechnix.com/configure-apache-virtual-hosts-ubuntu-part-1/)
