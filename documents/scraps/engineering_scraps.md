@@ -1,5 +1,9 @@
 <br><br>
 
+[How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
+
+<br><br>
+
 [nRF52 Development Kit (for nRF52832)](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fdevelopment%2Fnrf52_dev_kit.html)
 
 <br><br>

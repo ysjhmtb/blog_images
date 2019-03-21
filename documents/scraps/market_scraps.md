@@ -1,5 +1,15 @@
 <br><br>
 
+[Understanding the Fed’s Dovish Turn](https://www.project-syndicate.org/commentary/fed-interest-rate-pause-by-nouriel-roubini-2019-03)
+
+<br><br>
+
+> 오늘 FOMC 결과를 새벽 3시까지 기다려 볼 자신은 없어서 닥스 포지션은 이익 실현. 숏 포지션은 언제나 굵고 짧아야 한다.
+>
+> [오전 7:41 - 2019년 3월 20일](https://twitter.com/hubris2020/status/1108377975609659392)
+
+<br><br>
+
 [See How Your Salary Compares](https://www.wsj.com/graphics/how-does-your-pay-stack-up/)
 
 <br><br>
