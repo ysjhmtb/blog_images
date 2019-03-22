@@ -1,5 +1,9 @@
 <br><br>
 
+[Column: Oil and equities prepare to party like it's 1999](https://uk.reuters.com/article/uk-oil-economy-kemp-idUKKCN1R01S2)
+
+<br><br>
+
 [Understanding the Fed’s Dovish Turn](https://www.project-syndicate.org/commentary/fed-interest-rate-pause-by-nouriel-roubini-2019-03)
 
 <br><br>

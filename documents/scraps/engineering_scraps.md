@@ -1,5 +1,53 @@
 <br><br>
 
+> [Getting started for beginners](https://devzone.nordicsemi.com/f/nordic-q-a/30338/getting-started-for-beginners)
+>
+> [Martin Lesund ](https://devzone.nordicsemi.com/members/male)
+>
+> Hello Dominik,
+>
+>   If you are a total beginner I would highly recommend you to get the [nRF52 DK](https://www.nordicsemi.com/eng/Products/Bluetooth-low-energy/nRF52-DK) *"which provides our nRF52832 chip with all the I/O and interfaces via connectors and has 4 LEDs and 4 buttons which are user-programmable".* It also includes an on-board debugger/programmer which mean that you can plug it directly to your computer via a µUSB cable, and start developing and testing right away.  This makes it very user friendly and easy to test out the different functionality and features of our nRF52832 chip.
+>
+>   We also provide the "[Software Development Kit](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.sdk%2Fdita%2Fsdk%2Fsdk.html&cp=4)s" (SDK) which is the environment you will develop your application with. It provides the all the drivers, libraries, lots of already made[ example](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.sdk5.v14.2.0%2Fexamples.html&cp=4_0_0_4)s to make development more convenient. You will know what I mean when you start programming. *(note: we have examples in the SDK for how to use the TWI, GPIO,UART...)*
+>
+> 
+>
+>  Please take your time and look at these different links which should provide the necessary information to get you started:
+>
+> - [nRF5 Getting Started](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.gs%2Fdita%2Fgs%2Fgs.html&cp=1)
+>
+> *This link includes an overview of **Development Kits**, **Product Specification, Available Protocols, Nordic tools and Downloads, Software Development** etc.*
+>
+> - [Getting Started with the SDK and running examples](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.sdk5.v14.2.0%2Fnrf51_getting_started.html&cp=4_0_0_1)
+>
+> *This link will show you how to get started with **Installing the SDK, Compiling/running your first example** etc.*
+>
+> - [Getting Started with SEGGER Embedded Studio IDE](https://www.youtube.com/watch?v=YZouRE_Ol8g&list=PLx_tBuQ_KSqGHmzdEL2GWEOeix-S5rgTV) 
+>
+> *This link shows a video tutorial series how to use "SES" to program, compile, flash application to your device.*
+>
+> - [Tutorial Page ](https://devzone.nordicsemi.com/tutorials/) ( [Getting started](https://devzone.nordicsemi.com/tutorials/b/getting-started),  [BLE](https://devzone.nordicsemi.com/tutorials/b/bluetooth-low-energy), [SDK](https://devzone.nordicsemi.com/tutorials/b/software-development-kit), [Hardware and Layout](https://devzone.nordicsemi.com/tutorials/b/hardware-and-layout), [Design Example](https://devzone.nordicsemi.com/tutorials/b/design-examples))
+>
+> *This link is for general tutorials (step-by-step guides)* 
+>
+> 
+>
+> **UPDATE 17.07.18**
+>
+> **- Getting Started Guide SEGGER**
+>
+> **- Getting Started Guide ARM Keil**
+>
+> 
+>
+>  Best Regards,
+>
+> 
+>
+>   Martin L.
+
+<br><br>
+
 [How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
 
 <br><br>
