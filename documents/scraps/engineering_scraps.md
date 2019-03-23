@@ -1,5 +1,15 @@
 <br><br>
 
+[Mastering Android Handler](https://medium.com/mindorks/mastering-android-handler-4f710296bdc6)
+
+<br><br>
+
+> At both Viaweb and YC, every minute I spent thinking about competitors was, in retrospect, a minute wasted.
+>
+> [오후 3:30 - 2019년 3월 22일](https://twitter.com/paulg/status/1109220781035307009)
+
+<br><br>
+
 > [Getting started for beginners](https://devzone.nordicsemi.com/f/nordic-q-a/30338/getting-started-for-beginners)
 >
 > [Martin Lesund ](https://devzone.nordicsemi.com/members/male)

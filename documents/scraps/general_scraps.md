@@ -2,6 +2,10 @@
 
 <br><br>
 
+> [이치로는 2012 시즌 중반 뉴욕 양키스로 팀을 옮긴 후부턴 "언제든 해고될 수 있다는 생각을 갖고 살았다"고 했다. 당시 39세였다. 그래서 스스로 끊임없이 채찍질했다. 그는 지난 21일 밤늦게 열린 은퇴 기자회견에서 "한 번에 높은 곳에 오를 수 없다. 매일 반복하는 일이 쌓이면 작은 벽을 넘게 된다. 내겐 선택의 여지가 없었다"고 말했다.](http://news.chosun.com/site/data/html_dir/2019/03/22/2019032203214.html)
+
+<br><br>
+
 [Mourning the Loss of Alan Krueger](https://www.nytimes.com/2019/03/19/opinion/alan-krueger-dies.html)
 
 <br><br>
