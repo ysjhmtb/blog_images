@@ -1,5 +1,21 @@
 <br><br>
 
+> 사업하며 느낀 점들을 타래로 적어봄
+>
+> - 제품은 다 고만고만하다. 쓰레기 같은 제품은 잘 없음. 제품력보다는 물건을 파는 능력이 더 중요하다.
+>
+> - 사업은 결국 돈을 버는 일이다. 아무도 알아주지 않는 장인의 제품을 만드는 것도 좋지만, 무난한 제품을 싸게 많이 파는 기업도 꼭 필요하다.
+>
+> [오전 1:04 - 2019년 3월 27일](https://twitter.com/angerindisguise/status/1110814950652407808)
+
+<br><br>
+
+> 혹시! 로스쿨을 가시려는 분들은 차라리 그 돈 싸들고 가서 종로5가 장수보쌈 할머니께 가서 고기 삶는 법이나 배우쇼! 그 기술이면 뉴욕, 도쿄, 파리, 월면도시 어디에서도 통할 것이오!
+>
+> [오후 6:44 - 2019년 3월 30일](https://twitter.com/Vajrahomo/status/1112168832682987522)
+
+<br><br>
+
 [Column: Oil and equities prepare to party like it's 1999](https://uk.reuters.com/article/uk-oil-economy-kemp-idUKKCN1R01S2)
 
 <br><br>
