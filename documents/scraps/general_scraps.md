@@ -2,6 +2,10 @@
 
 <br><br>
 
+[Story of Dean and Nala](http://www.monitor.hr/story-of-dean-and-nala/)
+
+<br><br>
+
 > 영문으로 글 쓸때 참고하면 좋을 사이트
 >
 > ✍🏻 문법 교정해주고 글을 좀더 매끄럽고 스타일리쉬하게 만들어줌
