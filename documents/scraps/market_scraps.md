@@ -1,5 +1,23 @@
 <br><br>
 
+> Global recession already occurring and very dismal global trade numbers.
+>
+> This is precisely the time to be buying cyclical trade oriented markets like Germany & South Korea.
+>
+> \$ EWG \$EWY
+>
+> > Recession model from @NDR_Research based on @OECD_Stat show high likelihood of global recession underway (FWIW, global recessions are generally when global growth slows to <3%...not defined same way as US recessions)...caveat: fortunately, some data has been rebounding
+> >
+> > <img src="https://pbs.twimg.com/media/D3UchTYWkAERtkq.jpg">
+> >
+> > [오전 8:37 - 2019년 4월 4일](https://twitter.com/LizAnnSonders/status/1113827867140481029)
+>
+> [오후 5:35 - 2019년 4월 4일](https://twitter.com/TihoBrkan/status/1113963295038267392)
+
+
+
+<br><br>
+
 > 사업하며 느낀 점들을 타래로 적어봄
 >
 > - 제품은 다 고만고만하다. 쓰레기 같은 제품은 잘 없음. 제품력보다는 물건을 파는 능력이 더 중요하다.
