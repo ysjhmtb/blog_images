@@ -2,6 +2,72 @@
 
 <br><br>
 
+> 경험은 복리로 쌓인다는걸 믿게 된건 강여사님 때문. 결혼 전에는 라면 한번 끓여본 적이 없는 사람이었고 결혼한 직후엔 (당연히 자취 15년한) 내가 훨씬 더 음식을 더 잘했는데 불과 3년만에 난 완벽히 주방보조로 밀려났다. 핵심은 1)충분히 긴 기간 동안 2)반복적으로 3)조금씩 나아질 것.
+>
+> [오후 8:12 - 2019년 4월 7일](https://twitter.com/shinhh/status/1115090045143220224)
+>
+> 모든 사안에서 복리게임을 할 수는 없다. 일정 기간 지속할 수 있게 동기를 유지해야 하고, 반복이 지겹지 않게 자신에게 흥미로운 일이어야 하고, 조금씩 나아질 수 있도록 추동하는 누군가가 필요하다. 하지만 돌이켜보면 일이든 덕질이든 특출난 사람들은 다 이 게임을 해왔더라고.
+>
+> 오후 8:22 - 2019년 4월 7일
+>
+> 언제나 멀찍이 앞서가 있는 사람을 보면 왠지 초조해지지만, 그래도 이 모든 것이 반복되는 긴 게임이라고 생각하면 마음이 편해진다.
+>
+> 오후 8:48 - 2019년 4월 7일
+>
+> 반복하려면 재미있어야 하고 지치지 않고 지속하려면 피드백에 너무 목매면 안된다. 그럴려면 내 스스로 만족스러울만큼 '잘' 해야 한다. 그 '잘함'의 기준은 자기가 정하고 스스로 평가해야 함. 그러다보면 3)번의 벽에 부딪힌다. 조금씩이라도 장기적으로 꾸준히 나아지는건 너무나 어려운 일.
+>
+> 오전 4:41 - 2019년 4월 8일
+>
+> 지속적인 성장은 어렵더라도 뭔가를 꾸준히 반복적으로 하다보면 최소한 (-)가 되지는 않는다. 마이너스 성장도 복리로 쌓인다면 사실 현재 상태를 유지하는 것만으로도 Evolution Index로 보면 상대적인 성장을 하고 있는 것(일 수도 있다며 스스로를 위로하고 있다). 그래서 나는 1번과 2번에 집중.
+>
+> 오전 5:04 - 2019년 4월 8일 Manhattan, NY에서
+
+<br><br>
+
+> So Amazon isn't coming to New York. Is this a good thing or a bad thing? Let me tell you a secret: NOBODY KNOWS 1/
+>
+> [오후 12:55 - 2019년 2월 16일](https://twitter.com/paulkrugman/status/1096875749699575808)
+>
+> The crude argument for the deal – Amazon would bring jobs! – is basically stupid. New York in general and Queens in particular have very low unemployment by historical standards, so any job creation would mainly involve bringing in more people 2/
+>
+> 오후 12:59 - 2019년 2월 16일
+>
+> These additional people would add to the city economy, but also receive salaries. So where's the net gain? Well, they would pay taxes – and NYC has high marginal tax rates, so that's a fairly big deal 3/
+>
+> 오후 1:01 - 2019년 2월 16일
+>
+> They would also expand the (already huge) pool of skilled labor and strengthen the (already huge) information spillovers, so the positive externalities of New York's size would grow. But ... 4/
+>
+> 오후 1:02 - 2019년 2월 16일
+>
+> New York also has huge negative externalities. Traffic congestion costs the average resident of Queens $1500 a year 5/ http://pfnyc.org/wp-content/uploads/2018/01/2018-01-Congestion-Pricing.pdf
+>
+> 오후 1:03 - 2019년 2월 16일
+>
+> I haven't found a standard estimate of the social costs imposed by adding another commuter to NY streets, but they have to be in the thousands, probably tens of thousands of dollars 6/
+>
+> 오후 1:08 - 2019년 2월 16일
+>
+> And there's some social cost to adding more high-paid workers to a housing market that already prices out middle- and lower-income workers. The right answer is less NIMBYism and more housing, but that will take time 7/
+>
+> 오후 1:09 - 2019년 2월 16일
+>
+> So put it all together and the best bet is that Amazon would have a significant effect on the welfare of NY residents -- but whether it's significantly positive or significantly negative is really anyone's guess 8/
+>
+> 오후 1:10 - 2019년 2월 16일
+>
+> The question then is whether you should invest large sums in tax breaks so that you get to roll the dice on positive versus negative externalities. Doesn't sound like great policy to me 9/
+>
+> 오후 1:11 - 2019년 2월 16일
+
+<br><br>
+
+[HOW DOCTORS DIE](https://www.zocalopublicsquare.org/2011/11/30/how-doctors-die/ideas/nexus/)
+
+<br>
+
+<br>
+
 > 제가 불면증으로 오래 고생을 해왔거든요. 어떨 때는 2-3시간을 누워서 뒤척거리기도 하고요. 요새 새로운 트릭을 배워서 시도 중인데 의외로 효과 괜찮은 듯해요. 자려고 누우면 예전에 행복했던 즐거웠던 기억들을 계속 떠올려요.
 >
 > 오전 6:15 - 2019년 4월 2일
