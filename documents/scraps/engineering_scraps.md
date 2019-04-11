@@ -4,6 +4,16 @@
 
 <br><br>
 
+[How to take a picture of a black hole](https://www.ted.com/talks/katie_bouman_what_does_a_black_hole_look_like)
+
+<br><br>
+
+> [This is Dr Katie Bouman the computer scientist behind the first ever image of a black-hole. She developed the algorithm that turned telescopic data into the historic photo we see today.](https://www.reddit.com/r/pics/comments/bbql1i/this_is_dr_katie_bouman_the_computer_scientist/)
+>
+> <img src="https://preview.redd.it/shhy0jzoshr21.jpg?width=960&crop=smart&auto=webp&s=3963a1935e7498d031d31c96736054bb68ec6203">
+
+<br><br>
+
 > 공부를 한다는 일은 좋은 설명을 찾는 과정이다. 어떤 내용이 이해가 안가거든 이유는 항상 둘 중 하나다. 1) 내가 이걸 이해하는데 필요한 사전 공부가 안돼있다. 2) 나에게 설명을 해주는 사람도 사실은 이해를 못하고 있다. 1번이 아니라면 2번의 경우라고 보면 된다.
 >
 > [오후 8:28 - 2019년 4월 5일](https://twitter.com/daesanhwang/status/1114369301039869953)
@@ -26,13 +36,17 @@
 
 <br><br>
 
-[Mastering Android Handler](https://medium.com/mindorks/mastering-android-handler-4f710296bdc6)
-
-<br><br>
-
 > At both Viaweb and YC, every minute I spent thinking about competitors was, in retrospect, a minute wasted.
 >
 > [오후 3:30 - 2019년 3월 22일](https://twitter.com/paulg/status/1109220781035307009)
+
+<br><br>
+
+[What are good resources for learning STM microcontrollers?](https://www.quora.com/What-are-good-resources-for-learning-STM-microcontrollers)
+
+<br><br>
+
+[Bluetooth low energy Services, a beginner's tutorial](https://devzone.nordicsemi.com/tutorials/b/bluetooth-low-energy/posts/ble-services-a-beginners-tutorial)
 
 <br><br>
 
@@ -84,6 +98,10 @@
 
 <br><br>
 
+[What does device tree mean in Android?](https://www.quora.com/What-does-device-tree-mean-in-Android/answer/Vijay-Jaiswal-79)
+
+<br><br>
+
 [How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
 
 <br><br>
@@ -110,10 +128,6 @@
 
 <br><br>
 
-[How to install KDE plasma desktop on Ubuntu 18.04 Bionic Beaver Linux](https://linuxconfig.org/how-to-install-kde-plasma-desktop-on-ubuntu-18-04-bionic-beaver-linux)
-
-<br><br>
-
 <img src="https://raw.githubusercontent.com/ysjhmtb/blog_images/master/images/posting/%EA%B0%80%EC%9E%A5%20%EC%A4%91%EC%9A%94%ED%95%9C%20%EC%A3%BC%ED%8A%B9%EA%B8%B0.JPG">
 
 <br><br>
@@ -123,10 +137,6 @@
 > 컴퓨터를 통한 최초의 수학 증명은 1976년 4색 정리였다. 당시만 해도 고작 1,936개의 모델을 계산하는데 두 대의 컴퓨터로 50일이 넘게 걸렸다. 뿐만 아니라 수학적으로 우아하지 못하다는 비판이 잇따랐지만 역사적으로 볼때 공학적 기술은 언제나 이론을 앞서갔다.
 >
 > [사다리 게임, 절대 걸리지 않는 법](http://docs.likejazz.com/ghost-leg-probabilities/)
-
-<br><br>
-
-[Effective Kotlin](https://blog.kotlin-academy.com/effective-kotlin/home)
 
 <br><br>
 
@@ -705,10 +715,6 @@
 > [3]: Taylor et al., 2018 [Robust Smartphone App Identification via Encrypted Network Traffic Analysis](https://ieeexplore.ieee.org/abstract/document/8006282)
 >
 > [오후 9:47 - 2019년 2월 12일](https://twitter.com/kid1ng/status/1095560037102047232)
->
-> 
-
-
 
 <br><br>
 
