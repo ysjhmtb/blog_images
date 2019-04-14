@@ -4,6 +4,25 @@
 
 <br><br>
 
+> grep Tuner
+>
+> 
+>
+> 안드로이드 스튜디오에서의 NDK 빌드 환경
+>
+> Java에서 C/C++ 호출
+>
+> C/C++에서 Java 호출
+>
+>
+> RTC DS1302
+
+<br><br>
+
+[리눅스(samba)서버에 윈도우 PC [네트워크 드라이브 연결] 하기](https://seeds.tistory.com/632)
+
+<br><br>
+
 [How to take a picture of a black hole](https://www.ted.com/talks/katie_bouman_what_does_a_black_hole_look_like)
 
 <br><br>
