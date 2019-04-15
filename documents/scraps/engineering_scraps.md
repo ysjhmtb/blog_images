@@ -6,7 +6,11 @@
 
 > grep Tuner
 >
-> 
+> 8051
+>
+> OPIC
+>
+> <br>
 >
 > 안드로이드 스튜디오에서의 NDK 빌드 환경
 >
@@ -14,8 +18,31 @@
 >
 > C/C++에서 Java 호출
 >
+> <br>
+>
 >
 > RTC DS1302
+
+<br><br>
+
+> // Dockerfile 위치 디렉토리에서
+> sudo docker build --tag marsh_build_img 
+>
+> sudo docker run -v /data2/docker_data/marshmallow:/home -it marsh_build_img
+>
+> 
+>
+> ll /bin/bash
+> sudo rm -rf /bin/sh
+> sudo ln -s /bin/bash /bin/sh 
+
+<br><br>
+
+> - downloadly.ir 에서 IAR EMBEDDED WORKBENCH FOR ARM 8.32.1 + IAR PACK 2019-03-14 download
+>
+> - digikey.com nRF52832 and J-Link
+> - nordicsemi.com nRFgo Studio
+> - nordicsemi.com SEGGER
 
 <br><br>
 
