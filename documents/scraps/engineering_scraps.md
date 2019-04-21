@@ -1,27 +1,31 @@
 <br><br>
 
+> 운동이나 영어나 그냥 하루에 A4용지 한 장 쌓기와 다를 바 없어.. 하루에 한 장 쌓아봤자 뭐하나 싶지..그런데 며칠 안 하면 분명 티가 나기 시작해..
+> 그냥 하루에 한 장씩 반듯반듯하게 쌓고 또 쌓는 거지. 그러면 몇 개월 뒤에나 이제 조금씩 성과가 보이기 시작..
+>
+> <img src="https://pbs.twimg.com/media/DzZaGXtV4AASexd.jpg:large">
+>
+> [오후 1:41 - 2019년 2월 14일](https://twitter.com/GomTaengEe/status/1096162629133856768)
+
+<br><br>
+
 > YKH : ex) HDMI >> terminology >> code git 
 
 <br><br>
 
-> grep Tuner
+> Practice makes perfect - that’s a false statement. You will never get any closer to perfection in your lifetime. That’s the reason you need to enjoy the journey. Sometimes the journey itself needs to be a goal.
 >
-> 8051
+> [오후 11:01 - 2019년 4월 19일](https://twitter.com/bjlee72/status/1119481286630883328)
+
+<br><br>
+
+> 1965년 노벨 물리학상을 수상한 물리학자 리처드 파인만은 대중적으로도 아주 널리 알려진 사람이다. 그는 과학을 전공하는 여동생에게 질문을 받았다.
 >
-> OPIC
+> > “이해하기 어려운 책을 읽을 때는 어떻게 해야 하지?”
 >
-> <br>
+> 그가 준 답은 이랬다.
 >
-> 안드로이드 스튜디오에서의 NDK 빌드 환경
->
-> Java에서 C/C++ 호출
->
-> C/C++에서 Java 호출
->
-> <br>
->
->
-> RTC DS1302
+> > “그 책을 읽다가 도무지 뭐가 뭔지 모르겠거든 거기서 멈춰. 그리고 **처음부터 다시 읽도록 해**. 그걸 다 읽을 때까지 반복하는 거지.”
 
 <br><br>
 
@@ -50,10 +54,6 @@
 
 <br><br>
 
-[How to take a picture of a black hole](https://www.ted.com/talks/katie_bouman_what_does_a_black_hole_look_like)
-
-<br><br>
-
 > [This is Dr Katie Bouman the computer scientist behind the first ever image of a black-hole. She developed the algorithm that turned telescopic data into the historic photo we see today.](https://www.reddit.com/r/pics/comments/bbql1i/this_is_dr_katie_bouman_the_computer_scientist/)
 >
 > <img src="https://preview.redd.it/shhy0jzoshr21.jpg?width=960&crop=smart&auto=webp&s=3963a1935e7498d031d31c96736054bb68ec6203">
@@ -66,85 +66,9 @@
 
 <br><br>
 
-> 나는 좋은 개발자가 되기 위한 가장 중요한 요소가 "의지" 혹은 "끈기" 라고 생각한다. 이해가 안돼도 계속 이해하려는 시도를 하는 것, 해결하기 어려운 문제가 있을 때 계속 부딪혀보는 것. 버거워 포기하면 당연히 성장이 없는 답보상태에 머무르게 된다.
->
-> [오후 7:16 - 2019년 4월 1일](https://twitter.com/HyunSeob_/status/1112901713583779840)
-
-<br><br>
-
-> 개발로 8-9년 먹고 살면서 철학이 몇가지 생겼다. 컴퓨터 기술에 어려운건 없다. 단지 아느냐 모르냐만 있을 뿐이다. 응용력은 반복적 학습과 활용을 기초로 나온다. 내가 모르는게 뭔지를 파악하는게 실력이다. 내가 신기술을 익히는 속도보다 신기술은 언제나 빠르게 발전한다
->
-> [오후 7:09 - 2019년 3월 25일](https://twitter.com/SongAndSook/status/1110363194227195905)
->
-> 무엇이든 나누고 정리해서 하나씩 처리하는것이 정도이다. 요행은 운이고 운은 항상 함께하지 않는다. 내눈으로 확인하지 못한것을 확신하지 말라. 나와 다른 결과를 다른사람의 경험으로 제시하면 나부터 의심하라. 컴퓨터는 거짓말을 하지 않는다.
->
-> [오후 7:13 - 2019년 3월 25일](https://twitter.com/SongAndSook/status/1110364171424522240)
-
-<br><br>
-
 > At both Viaweb and YC, every minute I spent thinking about competitors was, in retrospect, a minute wasted.
 >
 > [오후 3:30 - 2019년 3월 22일](https://twitter.com/paulg/status/1109220781035307009)
-
-<br><br>
-
-[What are good resources for learning STM microcontrollers?](https://www.quora.com/What-are-good-resources-for-learning-STM-microcontrollers)
-
-<br><br>
-
-[Bluetooth low energy Services, a beginner's tutorial](https://devzone.nordicsemi.com/tutorials/b/bluetooth-low-energy/posts/ble-services-a-beginners-tutorial)
-
-<br><br>
-
-> [Getting started for beginners](https://devzone.nordicsemi.com/f/nordic-q-a/30338/getting-started-for-beginners)
->
-> [Martin Lesund ](https://devzone.nordicsemi.com/members/male)
->
-> Hello Dominik,
->
->   If you are a total beginner I would highly recommend you to get the [nRF52 DK](https://www.nordicsemi.com/eng/Products/Bluetooth-low-energy/nRF52-DK) *"which provides our nRF52832 chip with all the I/O and interfaces via connectors and has 4 LEDs and 4 buttons which are user-programmable".* It also includes an on-board debugger/programmer which mean that you can plug it directly to your computer via a µUSB cable, and start developing and testing right away.  This makes it very user friendly and easy to test out the different functionality and features of our nRF52832 chip.
->
->   We also provide the "[Software Development Kit](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.sdk%2Fdita%2Fsdk%2Fsdk.html&cp=4)s" (SDK) which is the environment you will develop your application with. It provides the all the drivers, libraries, lots of already made[ example](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.sdk5.v14.2.0%2Fexamples.html&cp=4_0_0_4)s to make development more convenient. You will know what I mean when you start programming. *(note: we have examples in the SDK for how to use the TWI, GPIO,UART...)*
->
-> 
->
->  Please take your time and look at these different links which should provide the necessary information to get you started:
->
-> - [nRF5 Getting Started](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.gs%2Fdita%2Fgs%2Fgs.html&cp=1)
->
-> *This link includes an overview of **Development Kits**, **Product Specification, Available Protocols, Nordic tools and Downloads, Software Development** etc.*
->
-> - [Getting Started with the SDK and running examples](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.sdk5.v14.2.0%2Fnrf51_getting_started.html&cp=4_0_0_1)
->
-> *This link will show you how to get started with **Installing the SDK, Compiling/running your first example** etc.*
->
-> - [Getting Started with SEGGER Embedded Studio IDE](https://www.youtube.com/watch?v=YZouRE_Ol8g&list=PLx_tBuQ_KSqGHmzdEL2GWEOeix-S5rgTV) 
->
-> *This link shows a video tutorial series how to use "SES" to program, compile, flash application to your device.*
->
-> - [Tutorial Page ](https://devzone.nordicsemi.com/tutorials/) ( [Getting started](https://devzone.nordicsemi.com/tutorials/b/getting-started),  [BLE](https://devzone.nordicsemi.com/tutorials/b/bluetooth-low-energy), [SDK](https://devzone.nordicsemi.com/tutorials/b/software-development-kit), [Hardware and Layout](https://devzone.nordicsemi.com/tutorials/b/hardware-and-layout), [Design Example](https://devzone.nordicsemi.com/tutorials/b/design-examples))
->
-> *This link is for general tutorials (step-by-step guides)* 
->
-> 
->
-> **UPDATE 17.07.18**
->
-> **- Getting Started Guide SEGGER**
->
-> **- Getting Started Guide ARM Keil**
->
-> 
->
->  Best Regards,
->
-> 
->
->   Martin L.
-
-<br><br>
-
-[What does device tree mean in Android?](https://www.quora.com/What-does-device-tree-mean-in-Android/answer/Vijay-Jaiswal-79)
 
 <br><br>
 
@@ -152,25 +76,7 @@
 
 <br><br>
 
-[nRF52 Development Kit (for nRF52832)](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fdevelopment%2Fnrf52_dev_kit.html)
-
-<br><br>
-
-[Unix History Repository](https://github.com/dspinellis/unix-history-repo)
-
-<br><br>
-
-[Apache Reverse Proxy 구성 예제](https://jinhokwon.tistory.com/121)
-
-[How To Configure Apache Virtual Hosts In Ubuntu 18.04 LTS](https://www.ostechnix.com/configure-apache-virtual-hosts-ubuntu-part-1/)
-
-<br><br>
-
 [x86 Bare Metal Examples](https://github.com/cirosantilli/x86-bare-metal-examples)
-
-<br><br>
-
-[VirtualBox, 자유롭게 화면 해상도 조절하기.](https://technote.kr/157)
 
 <br><br>
 
@@ -189,10 +95,6 @@
 > 바쁠수록 하루에 두가지씩만 끝내자. 오늘의 투두 리스트는 1) 위치정보 관련 앱 크래시 버그 수정 2) 자바스크립트 => 루비 트랜스파일러 구현
 >
 > [오후 6:42 - 2019년 3월 12일](https://twitter.com/daesanhwang/status/1105645271545868288)
-
-<br><br>
-
-[Usability improvements in GCC 9](https://developers.redhat.com/blog/2019/03/08/usability-improvements-in-gcc-9/)
 
 <br><br>
 
@@ -415,194 +317,13 @@
 
 <br><br>
 
-[39 studies about human perception in 30 minutes](https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73)
-
-<br><br>
-
 > AI가 배너광고 디자인도 하는 시대다. 100명의 디자이너가 300년간 작업할 량인 1.7억개의 디자인을 뽑아냈다고 한다. 심지어 인간이 만든 것보다 광고효과가 더 뛰어났다. 인공지능(그외 머신러닝, 블록체인 등) 기술력은 이렇게 많은 직업을 없애버릴 것이다. 다들 미래를 체크하라.
 >
 > [오전 2:51 - 2019년 3월 2일](https://twitter.com/LetUs___Burn/status/1101797211497590785)
 
 <br><br>
 
-> [40대 후반 개발자의 고민에 대하여](https://brunch.co.kr/@nashorn74/18)
->
-> <br>
->
-> 우선 이 자체는 인정을 받아야 마땅하다. 필자 역시 8비트 DOS 시절을 거쳐서 16비트 DOS에서 32비트 윈도우로 넘어가면서 한바탕 홍역을 치뤘고, C++ 중심의 응용 프로그래밍에서 Java 중심의 웹 프로그래밍, 그리고 또다시 Object-C와 Java 베이스의 모바일 프로그래밍으로 넘어가는 과정을 통과해야 했다. 거기에서 그치는 것이 아니라 Javascript와 Python으로 프론트엔드/백엔드를 아우르는 풀 스택 프로그래밍으로 넘어와서 현재까지 이어질 수 있었다. 말이 쉽지 새로운 기술을 사용하면서 계속 경력을 이어간다는 것이 쉬운일은 아니기 때문이다. 그런데 아쉬운점은, 그럼에도 불구하고 글쓴이가 "나이가 있는데다가 영어를 못해서 해외로 눈을 돌리지 못한다" 라고 댓글을 달았다는 점이다. 24년 동안 새로운 기술에 대한 공부는 열심히 해왔고 앞으로도 공부하겠지만, "영어"는 공부할 생각이 없다는 뜻으로 보이고 굳이 "나이"를 언급하는 것을 보면 외국 생활을 하기는 적합치 않아 보인다. "나이"를 중요하게 생각하고 거기에 얽매는 것은 우리나라를 비롯한 동양권에 제한되는 이야기일 뿐 조금만 밖으로 나오면 "나이"나 "영어"는 우리 인생의 걸림돌이 되지 않는다. 다시 한번 더 말하지만, 독일에서 영어와 독일어를 잘못하는 필자의 친구들이나 동료들은 최소 10년에서 15년 이상 나이 차이가 나지만 같이 어울리거나 일하는데 전혀 지장을 받지 않는다. 
-
-<br><br>
-
-> [[개기자의 개터뷰 #9] 이동욱 배달의민족 개발자 “개발자는 문제 해결사, 재능이 전부가 아니다”](https://www.imaso.co.kr/archives/4869)
->
-> <br>
->
-> **– 힘들게 SI 회사에 들어갔는데, 재밌었나?**
->
-> 다이내믹… 했다.
->
-> SI 회사 갔을 때 큰 착각이 발주 금액이 높은 프로젝트가 내 커리어에 좋다고 생각했다. 하지만 신입이 큰 프로젝트에 가면 사용자 테스트, 문서 만들고 그랬다.
->
-> 코딩 안 시켜주더라. 테스트만 3개월 하고 그랬다. 10개월 다니다가 퇴사했다.
->
-> 
->
-> 
-> **– 어디로 갔나?**
->
-> 포털사이트 줌(ZUM)으로 갔다.
->
-> 
->
-> 
-> **– SI에서 가기 쉽지 않았을 텐데?**
->
-> SI 회사 합격 날부터 계속 이력서 썼다.
->
-> 2년 차 이하는 중고신입으로 지원할 수 있다 생각했다. 합격 한 날도 이력서 쓰고, 상반기 하반기 다 썼다. 퇴근 후 코딩 테스트도 보러 다니고 그랬다.
->
-> 4학년 2학기부터 2년 반 동안 서비스 회사에 이력서를 냈다. 가고 싶은 곳에 이력서를 다 써봤다.
->
-> 그러다가 줌에 들어가게 됐다.
->
-> 
->
-> 
-> **– 회사 다니면서 이력서는 언제 준비했나?**
->
-> SI는 야근이 언제 끝날지 모르니 무조건 아침에 일찍 출근해서 코딩테스트, 스프링 등 계속 공부했다.
->
-> 회사 출근 시간이 9시였는데, 7시 반까지 갔다. 매일 5시 반에 일어나서 6시에 집을 나왔다. SI 시절 10개월 동안 매일 그랬다.
->
-> 회식을 3~4시까지 해도 매일 그렇게 했다.
->
-> 
->
-> 
-> **– 주말 출근은 없었나?**
->
-> 주말 출근 있었다. 그래도 계속 공부했다. 아예 회사에서 밤새고 일어나 아침에 공부하기도 했다.
->
-> 
->
-> 
-> **– 대단하다… 개발자로서 자괴감 안 들었나?**
->
-> … 엄청 많이 들었다.
->
-> 친구랑 같이 원룸에서 살았는데, 내가 술 마시고 퇴근해서 난리 치고 그랬단다. 난 기억이 나지 않는다. 같이 살던 친구가 무슨 일 난 줄 알았다더라.
->
-> 2년 안에 SI 탈출 못 하면 집으로 내려가려 했다. SI 개발자는 내가 원했던 게 아니었다.
->
-> 
->
-> 
-> **– 뭘 원했나?**
->
-> 내 기술력이 느는 게 보이고, 같이 일하는 사람들이 항상 개발 이야기를 하고. 그런 것을 꿈꿨다.
->
-> 그런데 SI 회사에서는 영업이 더 중요하니 개발 공부하지 말라고 했다. 나중에 PL(Project Leader), PM(Project Manager) 되면 제안서 발표해야 하니, 그런 걸 준비하라고 했다.
-
-<br><br>
-
-[How should I get started on writing device drivers? ](https://stackoverflow.com/questions/2222763/how-should-i-get-started-on-writing-device-drivers)
-
-[Linux Device Drivers, Third Edition](https://lwn.net/Kernel/LDD3/)
-
-[The Linux Kernel Module Programming Guide](http://tldp.org/LDP/lkmpg/2.6/html/lkmpg.html)
-
-<br><br>
-
-> [What are the best resources to learn about the internal workings of Android OS?](https://www.quora.com/What-are-the-best-resources-to-learn-about-the-internal-workings-of-Android-OS)
->
-> <br>
->
-> [Akash Panchal](https://www.quora.com/profile/Akash-Panchal-5), Worked on AOSP in Bluetooth Stack.
->
-> [Answered Oct 29, 2016](https://www.quora.com/What-are-the-best-resources-to-learn-about-the-internal-workings-of-Android-OS/answer/Akash-Panchal-5)
->
-> Android is an OS, so the learning the internals is goddamn huge thing. But you can pick and learn particular module.
->
-> As an example if you want to understand how Bluetooth works in Android. (From the UI-> Service layer-> Stack-> JNI layer-> Native Stack-> Firmware-> RFComm).
->
-> You can find the topology here: [Android Open Source Project](https://source.android.com/devices/bluetooth.html)
->
-> Now for the coding part: You can always refer to [official github page of AOSP.](https://github.com/android)
->
-> But i would suggest [AndroidXRef](http://androidxref.com/), it is very easy to browse files with neat and clean user-interface. If you understand C and JAVA, you can understand Android.
->
-> Hope, This will be enough to start you up.
-
-<br><br>
-
-> [Computer Programmers: I want to learn how to make Android ROM for a device from scratch (using AOSP code). I want to learn everything. From where should I learn? What should I learn?](https://www.quora.com/Computer-Programmers-I-want-to-learn-how-to-make-Android-ROM-for-a-device-from-scratch-using-AOSP-code-I-want-to-learn-everything-From-where-should-I-learn-What-should-I-learn)
->
-> <br>
->
-> [Nithish Valankumeri](https://www.quora.com/profile/Nithish-Valankumeri), Linux Enthusiast, PC Gamer, Android.. etc
->
-> [Answered May 19, 2015](https://www.quora.com/Computer-Programmers-I-want-to-learn-how-to-make-Android-ROM-for-a-device-from-scratch-using-AOSP-code-I-want-to-learn-everything-From-where-should-I-learn-What-should-I-learn/answer/Nithish-Valankumeri)
->
-> 
->
-> Start with these tutorials.
-> [Android Developers - Downloading and Building](https://source.android.com/source/building.html)
-> [[GUIDE\] HOWTO: Build your own AOSP ROM](http://androidforums.com/threads/guide-howto-build-your-own-aosp-rom.195756/)
-> [Getting Started: Building Android From Source - XDA-University](http://xda-university.com/as-a-developer/getting-started-building-android-from-source)
->
-> [XDA-Developers ](http://www.xda-developers.com/)forum is usually able to answer any questions regarding android customization. You should definitely check here.
-
-<br><br>
-
-> [How can one learn Android Kernel Development ? what are good learning resources available?](https://www.quora.com/How-can-one-learn-Android-Kernel-Development-what-are-good-learning-resources-available/answer/Sylvain-Huard-1)
->
-> <br>
-> Sylvain Huard
-> Updated Nov 17, 2013
->
-> <br>
->
-> I just did that in the past 9 months. **Android Kernel is based on a Linux Kernel 2.6.x.** I use on a regular basis some books:   
-> O'Reilly- Understanding The Linux Kernel
-> O'Reilly- Linux Device Drivers 3rd edition     
->
-> <br>
->
-> Make sure you use documents referring to Kernel version 2.6.x and higher since the 2.4.x has significant differences. **You don't need to read and learn everything to start with. I often use those book as reference when needed.**
->
-> <br>
->
-> **The second step is to practice.** Get the free kernel development platform from google android website. **Then, if you really want to learn, get a development platform.** Yes some real hardware that you can hook-up some devices to it (USB or other). There are many available on the web with price ranging from 400$ and up. Make sure the chosen platform is delivered with a full working Android source kit. **It's always easier to start from something that works and modify it than from completely from scratch.** I started my learning with an off-the shelf Android tablet and it was a nightmare. Even though those manufacturers have to publish the source code because of GPL but, you are never sure if you have the right version for the hardware you have and the information about your hardware is not very accessible. That's why I say use an evaluation board. It's well worth the expense. 
->
-> **The third advice is be patient.** When you install the Kernel, you will see over 35000 files getting written on your harddisk just for the Kernel and more than 135000 for Android. **This is a lot and I don't think anybody can master the whole thing. You will acquire knowledge in the area you need and see the rest as black boxes.** When you get stuck, you often find answers using google searches or site like stackoverflow. The tough part is there are thousand more information available on Android application than Android Kernel.
->
-> Good luck and enjoy!
-
-<br><br>
-
 [2018년, 내가 모르는 기술들](https://velog.io/@chris/%EB%B2%88%EC%97%AD-2018%EB%85%84-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B8%B0%EC%88%A0%EB%93%A4-rnjr3h8mgj)
-
-<br><br>
-
-[A visual guide to Go Memory Allocator from scratch (Golang)](https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed)
-
-<br><br>
-
-> [MLIR Primer: A Compiler Infrastructure for the End of Moore’s Law](https://drive.google.com/file/d/1hUeAJXcAXwz82RXA5VtO5ZoH8cVQhrOK/view) 크리스 래트너 선생 MLIR로 LLVM에서 맺힌 한을 푸시는구나
->
-> [오후 8:52 - 2019년 2월 21일](https://twitter.com/summerlight00/status/1098807818453303296)
->
-> <br>
->
-> 앞으로 구글에서 컴파일러 인력 많이 뽑을 것 같음
->
-> [오후 8:55 - 2019년 2월 21일](https://twitter.com/summerlight00/status/1098808423997530112)
->
-> <br>
->
-> 일단 LLVM에서 못하던 일들 많이 할 수 있는데 nested region 지원 덕분에 polyhedral 모델 같은 것도 훨씬 자연스럽게 지원 가능하다는 모양 다만 난 전문가가 아니라 디테일까진 모름
->
-> [오후 9:08 - 2019년 2월 21일](https://twitter.com/summerlight00/status/1098811761346588672)
 
 <br><br>
 
@@ -640,15 +361,6 @@
 > 그런데, 실패의 이유도 안 되는 것을 되게 하려고 투자는 열심히 했는데 시장이 무르익지 않아서가 가장 많은 것 같아요. 그래서, 실패하지 않으려면 세상보다 딱 반발자국만 앞서 가면 됩니다. 도덕성도 세상보다 딱 반 발자국만 더 엄격하면 됩니다.
 >
 > [오전 12:46 - 2019년 2월 12일](https://twitter.com/dwkimPNS/status/1095242653736656896)
-
-<br><br>
-
-> 운동이나 영어나 그냥 하루에 A4용지 한 장 쌓기와 다를 바 없어.. 하루에 한 장 쌓아봤자 뭐하나 싶지..그런데 며칠 안 하면 분명 티가 나기 시작해..
-> 그냥 하루에 한 장씩 반듯반듯하게 쌓고 또 쌓는 거지. 그러면 몇 개월 뒤에나 이제 조금씩 성과가 보이기 시작..
->
-> <img src="https://pbs.twimg.com/media/DzZaGXtV4AASexd.jpg:large">
->
-> [오후 1:41 - 2019년 2월 14일](https://twitter.com/GomTaengEe/status/1096162629133856768)
 
 <br><br>
 
@@ -1089,12 +801,6 @@
 
 <br><br>
 
-> 뭘 좀 알겠다 싶으면 이미 늦은 경우가 대부분이다. 잘 몰라도 그냥 치고 나갈 필요가 있다. <br>
->
-> [오후 10:58 - 2018년 12월 20일](https://twitter.com/nicehide/status/1076008931359485952)
-
-<br><br>
-
 > # 9. 맺으며
 >
 > ### *어려움
@@ -1154,23 +860,11 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/ysjhmtb/blog_images/master/images/posting/20181208_173456.jpg">
-
-<br><br>
-
 > https://www.linkedin.com/pulse/pythons-pandas-c-hossein-moein/   
 >
 > http://projects.icbse.com/subject/cpp    
 >
 > "이런걸 자잘하게 만들어서 깃헙에 올리래. 그리고 기왕이면 관심있는 수치해석이나 금융 관련 모델을 C++로 구현해서 올리래. 프로젝트가 대단한게 아니고 다양한 구현과 꾸준한 관심을 보여줘야 한대. 한개라도 더 구현해본 사람 좋아한대"
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/ysjhmtb/blog_images/master/images/posting/20181204_142107.jpg">
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/ysjhmtb/blog_images/master/images/posting/20181204_142047.jpg">
 
 <br><br>
 
@@ -1194,16 +888,6 @@
 > 김지현 [@simnalamburt](https://twitter.com/simnalamburt) 의 스타트업 법칙: “충분히 공들인 사기는 스타트업과 구분할 수 없다.” <br>
 >
 > 오전 4:14 - 2018년 12월 2일 https://twitter.com/xtendo_org_ko/status/1069203125171499008
-
-<br><br>
-
-> 프로의 제일 중요한 덕목은 자신을 아는것과 정직인 것 같다. 모르는 것은 모른다하고, 안되거나 일정이 밀리는 것을 빠르게, 그리고 사실대로 말해주는 것 만으로도 상대에게 큰 안정감을 줄 수 있다. 무리한 일정이나 능력 밖 최선을 한계까지 밀어붙이다가 문제가 터지고서야 알게되는 경우는 최악. <br>
->
-> https://twitter.com/wickedev88/status/1068161389540401152 <br>
->
-> 하지만 많은 인턴이나 신입들이 부정적인 피드백이 두렵거나 기대를 충족시키지 못할까봐 전전긍긍한다. 나도 그러한 시기가 있었는데, 더 이상 그런식으로 일하지 않는다. 상황을 투명하게 공개할 때 긍정적인 경험(구현 범위를 줄인다던지, 현실적인 대안)을 하게해준 윗분들에게 감사할 따름. <br>
->
-> https://twitter.com/wickedev88/status/1068161391826092032 <br>
 
 <br><br>
 
@@ -1263,10 +947,6 @@
 
 <br><br>
 
-[작은 오픈소스 프로그램을 분석해서 실력을 쌓아 나간 사례](https://okky.kr/article/408595?fbclid=IwAR1ZIxswItTr69wniNhXaiWuV2YezBWrEOJrWIBuZl573QyQ2l_X9aocduY)
-
-<br><br>
-
 > 금요일, 11월 23, 2018 <br>
 > [B급 프로그래머] 데이터 과학자로 취직하려면 남들처럼 하지 마라. 
 >
@@ -1312,13 +992,6 @@
 
 <br><br>
 
-> redacted @minjang_kim <br>
-> 아마존이나 여기나 모두 장애로 난리군. 내 기준으로 "컴퓨터 잘 하는 사람"은 이런 장애 문제점 찾고 해결하는 사람들. 정말 대단함. 나 같은 리눅스 맹은 도저히 범접할 수 없는 영역. tmux 문제도 제대로 해결 못해서 짜증만 내고 리붓하는 사람. tmux source-file ~/.tmux.conf를 몰라서
->
-> [오후 4:23 - 2018년 11월 21일](https://twitter.com/minjang_kim/status/1065400400596033536)
-
-<br><br>
-
 > Ji Yun Park @Jiyun_Park <br>
 > 창의성이란 '과거의 경험과 지식, 정보를 통합, 분해, 연결, 재해석, 분리하여 새로운 관점의 해결책을 내놓는 과정'
 > ->"새로운 조합을 만드는 능력" - 피터 드러커 <br>
@@ -1344,13 +1017,6 @@
 > Noori Lee @noori_lee <br>
 > 최대의 악순환은 늘 자신의 인생이 허비된다고 느끼면서, 거기서 오는 불안감을 잊기 위해 또는 일종의 보상으로써 오히려 인생을 제대로 허비하는 헛짓에 더더욱 매진하게 되는 거지.
 > 물론 누구에게나 지 인생을 망칠 자유는 있는 거니까.
-
-<br><br>
-
-> minchul park @summerlight00 <br>
-> ㅋㅋㅋ 한국 세금 많다는 이야기 들으면 웃지요 여기 100k가 실수령 기준으로 보통 3할 정도 빠지는데 비슷한 소득 분위인 한국 5천이 2할도 안 되던가 그럴거 
->
-> [오전 10:11 - 2018년 11월 20일](https://twitter.com/summerlight00/status/1064944358296772608)
 
 <br><br>
 
@@ -1405,17 +1071,6 @@
 <br><br>
 
 [Estimating the chances of something that hasn’t happened yet](https://www.johndcook.com/blog/2010/03/30/statistical-rule-of-three/)
-
-<br><br>
-
-> Rinae @adhrinae <br>
->
-> https://github.com/GoogleChromeLabs 
->
-> 이번에 웹 컴포넌트 관련 조사하다 깨달은건데
-> 여기서 소스코드 보면 진짜 배울게 많다. 주석 하나하나 기능 설명도 해주지, 타입스크립트로 되어있지, 작은 웹 컴포넌트 구현체들부터 코드 들여다보면 도움 많이될 듯
->
-> [오전 6:34 - 2018년 11월 15일](https://twitter.com/adhrinae/status/1063077844002078720)
 
 <br><br>
 
@@ -1577,14 +1232,6 @@
 > <br>
 >
 > 하다보면 늘겠죠. 문제를 풀때는 직접 로직을 만드는 방법도 있지만, 누군가 이미 잘 만들어놓은 다른 로직을 가져다 쓰는 경우가 더 많거든요. 로직을 많이 아는 것은 경험/공부하다보면 느니까요.
-
-<br><br>
-
-> asbubam @asbubam <br>
-> https://stdout.fm/  
-> 코딩할 때 재밌게 듣고있는 팟캐스트. 에피소드 더 많이 올라오면 좋겠다. <br>
->
-> [오후 5:46 - 2018년 11월 4일](https://twitter.com/asbubam/status/1059260741667049472)
 
 <br><br>
 
@@ -1851,66 +1498,7 @@ mount   # ext4 확인
 
 <br><br>
 
->  [Technical Interview Guidelines for beginners](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
->
-> [2019 카카오 신입 공채 1차 코딩 테스트 문제 해설](http://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/)
->
-> [카카오 신입 공채 1차 코딩 테스트 문제 해설](http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/)
->
-> [카카오 신입 공채 2차 코딩 테스트 문제 해설](http://tech.kakao.com/2017/10/24/kakao-blind-recruitment-round-2/)
->
-> [카카오 신입 공채 3차 코딩 테스트 문제 해설](http://tech.kakao.com/2017/11/14/kakao-blind-recruitment-round-3/)
-
-<br><br>
-
-> [리액트 네이티브 서울](https://www.meetup.com/ko-KR/react-native-seoul/?chapter_analytics_code=UA-44056140-15)
->
-> [ABOUT SUJIN LEE](https://sujinlee.me/about/)
->
-> [신입 소프트웨어 엔지니어의 영문 이력서 작성하기](https://sujinlee.me/entry-level-en-resume/)
->
-> [Write down your resume with Markdown and generate pdf, docx and deploy website ](https://github.com/sujinleeme/resume-generator)
->
-> [월드잡플러스](https://www.worldjob.or.kr/intro.do)
-
-<br><br>
-
-> [[B급 프로그래머] 초급 개발자가 알아야 하는 12가지 기술](http://jhrogue.blogspot.com/2018/10/b-12.html)
->
-> <br>
->
-> [12 Things Every Junior Developer Should Learn](https://dev.to/ben/12-things-every-junior-developer-should-learn-lco)
->
-> <br>
->
-> 초급 개발자가 알아야 하는 12가지 기술은?(순서 무관)
->
-> - 관계형 데이터베이스 동작 방식(언제나 유용)
-> - 일반적인 HTTP 동작 방식
-> - 특정 언어에서 코드 디버깅 방법(다른 언어에서도 엇비슷하므로 지식을 재사용할 수 있다)
-> - 코드를 찾는 방법(IDE나 명령행에서 grep을 사용)
-> - 정규 표현식 기초(직전 항목에서 코드를 찾는 방법에도 적용 가능)
-> - 검색 엔진으로 직면한 문제의 해법을 찾는 방법
-> - git 운영 방법(다른 형상 관리 시스템이라도 큰 문제 없음)
-> - 질문할 가치가 없다고 생각할 때에도 질문하기
-> - 시간대(TZ) 동작 방식(농담이 아님. 많은 개발자들이 혼동을 겪는 부분임)
-> - 유니코드와 UTF-8 동작 방식
-> - 캐시 동작 방식(CPU, 메모리, 디스크)
->
-> 여기에 IDE 사용 방법(자유자재로...)과 셸/CMD 기초 사용법, 네트워크 관련 일반 지식이 더해지면 초급 개발자로서 한 몫을 다 하리라 생각한다.
-
-<br><br>
-
 [정운찬 = 아까 기업들이 규제 때문에 투자 안 한다는 것이 과장이라고 한 또 다른 이유는 최근 20년간 대기업도 중소기업도 투자를 하지 않았다는 점 때문이다. 특히 10대 그룹 사내유보금은 650조원에 달한다. 이렇게 돈이 많은데도 투자를 안 하는 이유는 핵심기술이 없기 때문이다. 연구·개발(R&D)비 지출이 절대적으로는 세계 5·6등이라는데 거품이 끼어 있다. 정부가 세금 깎아준다고 하니 R&D 지출을 잔뜩 잡아놓는데 들여다보면 거품이 있다는 말이다. 그리고 대부분 D(개발)이지 R(연구)이 아니다. 한국의 대기업은 핵심·첨단 기술을 더 확보해야 한다. 따라서 D에서 R로 방향을 전환해 개발보다 연구를 더 늘려야 한다. 그런데 그것은 시간이 많이 걸린다. 중소기업들은 투자를 하고 싶은데 돈이 없다. 대기업의 돈이 합법적으로, 부드럽게 중소기업으로 흐르도록 해야 한다.](http://news.khan.co.kr/kh_news/khan_art_view.html?art_id=201810050600005)
-
-<br><br>
-
-> [Chris Ohk @utilforever](https://twitter.com/utilforever/status/1048131856833474560)
->
-> <br>
->
-> 대학원 면접 때 물어봤던 첫 문제. 공부 방식을 깨닫게 해 준 문제.
-> 힙이란 무엇인지 설명해보자 → 힙의 구조를 그림으로 그려보자 → 힙에 데이터를 삽입/삭제하는 방식을 말해보자 → 삽입/삭제하는 동작의 시간 복잡도를 말해보자 → 데이터가 어떻게 들어와야 최상/최악의 경우가 되는지 말해보자
 
 <br><br>
 
@@ -1984,15 +1572,6 @@ mount   # ext4 확인
 >
 >
 > 이 문제를 해결하는 것은 참으로 어렵다. 우리 나라가 그 분야 기술의 이니셔티브를 쥔다면 문제는 해결된다. 말은 쉽지만, 이게 쉬운 일인가. 몇가지 예를 들자면 이렇다. 기업이 단순 노가다가 아닌 근본 기술을 확보하고 그것을 통해서 이윤을 창출한다는 생각을 가져야 한다. 정부는 실제로 이런 이윤 창출이 가능하도록 특허 출원을 원하는 기업에는 지원을 해주고, 오픈소스에 대한 작업을 대학과 기업에서 많이 할 수 있게끔 프로젝트 지원을 해야 한다. 별 의미도 없는 이상한 자격증 몇개 가지는 대신에, 오픈소스 활동 경력을 기업에서 더 인정해준다면 그것도 좋은 방법이 될 수 있다. 그리고 무엇보다도 기반 기술을 개발하는 기업에 대해서 지원해주고, 대학에서 기업으로 발전하는 스타트업 경로를 더 많이 열어줘야 한다. 미국 정부가 컴퓨터 기술 발전에 얼마나 많은 돈을 투자했고, 얼마나 많은 오픈소스가 그것들을 바탕으로 생겨났으며, 또 얼마나 많은 상업화 시도가 일어났는가를 상상해보라. 그냥 거저 얻어지는 결과가 아니다. 엄청난 투자가 필요하다. 이런 것 없이는 제아무리 석사 박사를 해도 결국 45세 치킨집 신세를 면하기 힘들고, 18년 공부해서 18년 돈 벌이도 못하는 결과가 생겨난다. 당장 무슨 핸드폰 5, 6가 나오는게 중요한게 아니고, 이런걸 가이드할 수 있는 정부, 정치세력이어야지, 일자리를 챙길 수 있는, 장기적인 수권능력을 가진 세력이 되는 것이다. 
-
-<br><br>
-
-> redacted @29979245oo
->
-> <br>@tiny_wings_ 님, @Rainyvale 님, @d_ijk_stra 님에게 보내는 답글 <br>
-> "리트코드 달달 돌리고 와서 잘 푸는 사람도 많을거 같은데..." => 바로 티나요. 약간만 꼬아서 내봐요. 논리적 전개 과정에서 막힙니다. 코딩을 쓰는데 unreachable 코드 써버리고 if else에도 헛점이 보여요. 요즘 릿코드 문제 수백개라서 다 푸는 것은 불가능합니다. <br>
->
-> [오후 2:30 - 2018년 10월 6일](https://twitter.com/29979245oo/status/1048687063095074816)
 
 <br><br>
 
@@ -2073,10 +1652,6 @@ mount   # ext4 확인
 
 <br><br>
 
-[Software finds the best way to stick a Mars landing](http://news.mit.edu/2018/software-finds-best-mars-landing-0926)
-
-<br><br>
-
 [Relation and difference between Fourier, Laplace and Z transforms](https://electronics.stackexchange.com/questions/86489/relation-and-difference-between-fourier-laplace-and-z-transforms)
 
 <br><br>
@@ -2109,14 +1684,6 @@ mount   # ext4 확인
 
 <br><br>
 
-[삼성전자 뛰쳐나와 만든 앱, 찍는 순간 칼로리가 나온다](https://news.joins.com/article/22973973)
-
-<br><br>
-
-[39도씨, “스마트폰만으로 다각도 생방송을”](http://www.bloter.net/archives/321107)
-
-<br><br>
-
 > [99 의지, 그리고 1 운](http://www.thestartupbible.com/2018/09/99-will-and-maybe-1-luck.html) 
 >
 > [THE MISSION TO BUILD THE ULTIMATE BURGER BOT](https://www.wired.com/story/building-the-ultimate-burger-bot/)   
@@ -2130,25 +1697,6 @@ mount   # ext4 확인
 > 대단한 의지의 승리라고 생각한다. 로봇 공학을 전공한 것도 아니고, 공학 박사학위가 있는 창업가도 아니지만, 뭔가 파고 들어가서 만들어야겠다는 의지 하나로 남들이 다 힘들다고 생각하는 수제 햄버거를 만드는 로봇을 혼자 만들었다. 그것도 독학으로. 또 한 가지는, 알렉스는 실현 가능성이 불투명한 그림을 갖고 투자를 받은 후에, 프로토타입을 만든 게 아니다. 없는 살림에 어떻게 해서든지 외부 투자 없이 프로토타입을 만들었고, 이를 통해 가능성을 증명하고, 그 이후에 투자를 받아서 사업을 했다. 실은, 요새 하드웨어 분야에서는 이런 방식으로 비즈니스를 하는 창업가를 찾긴 쉽지 않다. 일단 투자를 받아서 뭔가를 만들려고 하지, 그 전에 본인의 아이디어를 증명하는 경우는 많이 보지 못했다.   
 >
 > 항상 느끼지만, 역시 사업의 99는 의지인 거 같다. 머리는 의지를 절대로 이기지 못한다. 그리고, 이걸 잘하면, 나머지 1인 운은 그냥 따라서 오는 것 같다.   
-
-<br><br>
-
-> 어엉부엉 @d_ijk_stra   
-> 대학원을 절대 가지 말라는 조언을 하는 사람들이 많은 것 같은데, 나는 전산학 한정 + 현재 분위기에서는 설사 인더스트리가 최종 목표라고 해도 대학원을 가는 것이 나쁘지 않은 선택이라고 생각한다. 물론 답은 개인적인 커리어 골이 무엇인지에 따라 정해지겠지만.      
->
-> 어엉부엉 @d_ijk_stra   
-> 취직하고 나면 칼퇴근을 하고 와도 하루에 자기계발에 쓸 수 있는 시간은 세시간 남짓밖에 안된다. 그나마도 아이가 생기고 나서는 현격하게 줄어들고. 이런 시간을 공부에만 쓸 수 있는 것이 아니라 다른 취미와 운동, 그리고 개인적인 잡무 처리에도 사용해야 하니, 뭉텅이 시간 확보가 힘들다.   
->
-> 어엉부엉 @d_ijk_stra   
-> 테크니컬한 깊이로 리더쉽을 발휘하는 커리어를 목표하는 주니어 엔지니어라면 개인적인 짜투리 시간만으로는 목표에 도달하기 어렵고, 회사에서 하는 일이 자연스럽게 공부가 되는 길 밖에는 없는데 이런 기회는 없는건 아니지만 미국의 탑 테크 회사들 내에서도 정말 드물다. 당연 경쟁도 심하고.
->
-> [오후 11:52 - 2018년 8월 30일](https://twitter.com/d_ijk_stra/status/1035420153683402752)   
->
-> 어엉부엉 @d_ijk_stra   
-> 그렇기 때문에 대학원에서 향후 두고두고 써먹을 몇몇 주제들에 대해 기술적 깊이를 쌓아 놓으면 남들이 쉽게 따라오기 어려운 경쟁우위가 된다. 당장 주어진 일은 잘 하는데 다음 단계로 나아가기 위한 기술적 깊이를 쌓기 힘든 상황에 있는 사람들이 많이 보여서, 이런 생각을 하게 됐다.   
->
-> 어엉부엉 @d_ijk_stra   
-> 이런 관점에서는 굳이 박사과정을 끝내야 하는지는 잘 모르겠다. 중퇴하고 인더스트리로 와서 좋은 테크니컬 리더쉽을 발휘하는 사람들이 적잖이 보이기도 하고.   
 
 <br><br>
 
@@ -2465,14 +2013,6 @@ console.log(b);
 
 <br>
 
-> redacted @29979245oo
->
-> https://docs.google.com/presentation/d/13axrCeVifUXpwArnzqHrBKMqMH3n4-Bsp21H0CF47bQ/edit#slide=id.g3e0d9a72d1_1_168 … 왜 인터뷰 준비할 때 자꾸만 다이나믹 프로그래밍에 시간을 투자 하는지 참 안타깝다. Brute-force로 풀어도 문제 없습니다. 거대한 트랩 같다. DP 공부하느라 정작 중요한 코딩 실력 놓치고 면접은 떨어집니다.
->
-> [오후 4:30 - 2018년 7월 20일](https://twitter.com/29979245oo/status/1020450984533766144)
-
-<br><br>
-
 > 상일 @sioum
 >
 > 수학과 대학원에서의 성공을 예측할 수 있는가? 
@@ -2582,14 +2122,6 @@ console.log(b);
 
 <br>
 
-> Seongjae Lee @seongjaelee
->
-> 페북분이랑 이야기하다 개소름이었던게 페북은 php 뜯어고쳐서 쓰고 있다는 건 알았는데 인스타그램은 파이썬 쟝고로 짜여있다고... 진짜 php/python으로도 월드스케일 커버 가능하다는 산 증인...
->
-> [오후 10:57 - 2018년 6월 13일](https://twitter.com/seongjaelee/status/1007139975387742208)
-
-<br>
-
 > [-5-](https://leenotes1.blogspot.com/2018/06/180610.html) 
 >
 > <br>
@@ -2683,14 +2215,6 @@ console.log(b);
 
 <br>
 
-[훌륭한 소프트웨어 엔지니어란? 답: 카멜레온 개발자](https://medium.com/@kpak/%ED%9B%8C%EB%A5%AD%ED%95%9C-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%9E%80-%EB%8B%B5-%EC%B9%B4%EB%A9%9C%EB%A0%88%EC%98%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90-b73502a63016)
-
-> 탁월한 개발자는 주어진 문제에 최상의 해결책을 파악하고 그 해결책이 커뮤니케이션이든 개발이든 리더십이든 단시간내에 부족한 부분은 빨리 배우고 익히며 자신을 변화시켜 그 상황에 최적화된 모습을 갖춘다. 이 글의 제목처럼 카멜레온같은 개발자가 되야 한다.
-
-> 과거에 내가 약간 복잡한 알고리듬을 만들어서 실리콘밸리에 있는 개발자들에게 Swift 코드로 구현하라고 한적이 있다. 나름 복잡하고 테스트를 많이 해야하는 것이라서 대충 3주의 스케쥴로 잡았는데 2주만에 끝내서 상당히 기뻐했다. 다음에 같은 알고리듬을 중국에 있는 팀에게 Java 로 구현하라고 했는데 딱 3일 걸렸다. 나는 미국의 동부, 서부, 인도, 중국, 파키스탄, 한국등의 개발자들과 일을 해봤는데 실리콘밸리나 타지역이나 평균개발자들의 능력은 전혀 차이가 없다. 그런데 일반적인 시각은 실리콘밸리의 개발자들이 보다 더 나은 개발자들이라는 인식이 있다. 왜 그럴까? 실리콘밸리가 타지역과 가장 큰 차이점은 극소수의 천재들이 있다는 것이다. 그런 천재들이 구글같은 회사도 만들고 AWS 같은 기술들을 만들어서 어마어마한 마켓을 만들어 준다. 그리고 그 조직에 속해있는 일반 개발자들은 거기에 그냥 묻혀가는 면이 있다.
-
-<br>
-
 [BUILD YOUR OWN X](https://github.com/danistefanovic/build-your-own-x)
 
 > "What I cannot create, I do not understand." - Richard Feynman
@@ -2736,16 +2260,6 @@ console.log(b);
 <br>
 
 > 보드(Bode)가 말하던 것은 이겁니다. "지식과 연구 생산성은 복리의 이자와 같은 거다." 거의 같은 능력의 두 사람이 있다고 합시다. 한 사람은 다른 사람보다 10% 더 공부한다고 해요. 그러면 그 사람은 다른 사람보다 2배의 더 연구결과를 만들어 낼 겁니다. 더 알면 알 수록 더 많이 배우게 됩니다; 더 많이 배울 수록 더 많은 일을 할 수 있게되고, 더 많이 일을 할 수 있게되면 기회는 더 많아 집니다. 복리 이자와 아주 비슷하지요. 이자율을 말 하고 싶지는 않고, 아뭏튼 굉장히 높은 이자률이지요. 완전히 같은 능력의 두 사람이 있다고 하면, 매일 생각을 1시간 더 하게되면 평생 엄청나게 더 많은 연구결과를 낼 겁니다. 나는 보드(Bode)의 말을 가슴에 새겼습니다; 몇년간은 좀더 열심히 더 많은 시간을 연구에 투자하려고 노력했지요. 그러니 알게 되더라고요, 내가 한 일이 좀더 많구나. 내 아내 앞에서는 말하고 싶지 않지만, 때로는 아내가 안중에도 없었었습니다; 나는 공부하는 게 필요했어요. 우리가 원하는 바를 이룰려면 많은 것들을 무시해야하지요. 이와 관련해서는 의문의 여지가 없을 것입니다.
-
-<br>
-
-<br>
-
-> redacted @29979245oo
->
-> 화상으로 홍콩에 있는 지원자 면접. 이렇게 바로 외국 출신도 면접을 보나보다. 물론 머신러닝 전공이니 가능. 일반 엔지니어는 요즘 비자가 하도 어려워서 해외 채용은 안 함. 모바일은 가능한 듯.
->
-> [오전 9:29 - 2018년 5월 7일](https://twitter.com/29979245oo/status/993528229636931584)
 
 <br>
 
