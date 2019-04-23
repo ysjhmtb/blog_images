@@ -13,6 +13,10 @@
 
 <br><br>
 
+[Devastating Roundoff Error](https://sci-hub.tw/https://doi.org/10.1080/10724117.2006.11974643)
+
+<br><br>
+
 > Practice makes perfect - that’s a false statement. You will never get any closer to perfection in your lifetime. That’s the reason you need to enjoy the journey. Sometimes the journey itself needs to be a goal.
 >
 > [오후 11:01 - 2019년 4월 19일](https://twitter.com/bjlee72/status/1119481286630883328)
