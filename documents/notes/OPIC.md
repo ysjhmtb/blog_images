@@ -50,11 +50,23 @@ I like my house because I can always enough rest when I'm at home.
 
 <br>
 
-### 방에 있는 가구, 가전 묘사
+## 동네 및 이웃
 
 <br>
 
+I’d like to talk about my neighbor. His name is Tom. 
 
+He is my close neighbor and he is about 21 years old. 
+
+To talk about his appearance, he is very tall and has brown eyes. 
+
+I especially like him because we have a similar taste in movies. 
+
+I first got to know him when he moved into my neighborhood. 
+
+Since then, he has become my best friend. 
+
+I think he is a very nice guy.
 
 <br>
 
