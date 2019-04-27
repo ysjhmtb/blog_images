@@ -70,3 +70,41 @@ I think he is a very nice guy.
 
 <br>
 
+## 영화
+
+I’d like to talk about my favorite actress. 
+
+Her name is Jennifer Lawrence. 
+
+She is an attractive actress and she is about 27 years old. 
+
+To talk about her appearance, she is very tall and has blonde hair. 
+
+I especially like her because she has excellent acting skills. 
+
+I first saw her when I watched “The Hunger Games.” 
+
+Since then, she has become my favorite actress. I think she is a very talented woman.
+
+<br>
+
+## 건강
+
+I’d like to talk about a healthy person. 
+
+Her name is Amy. 
+
+She is a really healthy girl and she is about 25 years old. 
+
+To talk about her appearance, she is very tall and fit. 
+
+I especially like her because she enjoys her life and have a positive mind towards everything. 
+
+I first got to know her when I was working out at the gym. 
+
+Since then, she has become my exercise buddy. 
+
+I think she is a very nice role model.
+
+<br>
+
