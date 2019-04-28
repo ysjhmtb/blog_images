@@ -1,9 +1,6 @@
 <br><br>
 
 ```
-OPIC
-EE 2 
-
 OPIC 
 EE 3
 ```

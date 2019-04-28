@@ -2,6 +2,10 @@
 
 <br><br>
 
+[Men's Hair Tutorial: How To Maintain and Style a Crew Cut](https://www.birchbox.com/guide/article/mens-hair-style-crew-cut-buzz)
+
+<br><br>
+
 > https://www.yna.co.kr/view/AKR20190415104600009?input=fb&fbclid=IwAR0qW-tcWePXlPEPe-ESt1bL7zveKvU-r4wYF9ApkSOB4yqSWZMkMorR2lE
 >
 > 이거 외국어 교수법 배울 때도 들은 얘기임 외국어를 배울 때 해당 언어에 자주 노출되는 것이 중요하며 잦은 휴식이 중요함 예를 들어 20분 공부하고 10분 쉬는 걸 매일 반복하는 편이 하루 날잡아 몰아서 서너시간 공부하는 것보다 훨씬 효과적이라고 한다
