@@ -1,5 +1,9 @@
 <br><br>
 
+[Paul Krugman expects a global recession this year, warns ‘we don’t have an effective response’](https://www.cnbc.com/2019/02/11/paul-krugman-warns-of-a-possible-global-recession-this-year-or-in-2020.html)
+
+<br><br>
+
 > Global recession already occurring and very dismal global trade numbers.
 >
 > This is precisely the time to be buying cyclical trade oriented markets like Germany & South Korea.

@@ -1,11 +1,10 @@
 <br><br>
 
 ```
-OPIC 
-EE 3
+~5/12
 
 OPIC 
-EE 4 
+EE 3 ~ 5
 ```
 
 
@@ -329,32 +328,13 @@ EE 4
 
 <br><br>
 
-[테크니컬 아티스트를 위한 추천 서적](https://blog.hybrid3d.dev/69)
-
-<br><br>
-
 > AI가 배너광고 디자인도 하는 시대다. 100명의 디자이너가 300년간 작업할 량인 1.7억개의 디자인을 뽑아냈다고 한다. 심지어 인간이 만든 것보다 광고효과가 더 뛰어났다. 인공지능(그외 머신러닝, 블록체인 등) 기술력은 이렇게 많은 직업을 없애버릴 것이다. 다들 미래를 체크하라.
 >
 > [오전 2:51 - 2019년 3월 2일](https://twitter.com/LetUs___Burn/status/1101797211497590785)
 
 <br><br>
 
-[2018년, 내가 모르는 기술들](https://velog.io/@chris/%EB%B2%88%EC%97%AD-2018%EB%85%84-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B8%B0%EC%88%A0%EB%93%A4-rnjr3h8mgj)
-
-<br><br>
-
 [Mesh: Compacting Memory Management for C/C++ Applications](https://arxiv.org/abs/1902.04738)
-
-<br><br>
-
-> 안녕하세요 개골님. 컴퓨터 그래픽스나 게임 개발을 하시는 분들도 편미분 방정식을 다루시고, 기계공학을 하시는 분들도 마찬가지이신 것 같은데, 이 두 분야는 연구 대상이 같은 것인가요? 
->
-> <br>
->
-> [개골](https://ask.fm/cfr0g/answers/153140162282)
-> <br>
-> 아뇨. 편미분방정식을 쓴다는 점만 같죠. 
-> 물론 유체 같은걸 다룬다면 같겠습니다만...
 
 <br><br>
 
@@ -492,12 +472,6 @@ EE 4
 
 <br><br>
 
-> 나는 위의 문제를 하나하나 접해가면서 개발자로 커리어 전환을 하였다. 하지만 개발자는 학원의 자극적인 광고만 보고 접근하기엔 위험이 많이 따른다. 그럴 수 밖에 없는게 평생 공부하고 개선하는 과정들을 개발자를 그만두는 그 순간까지 반복해야만하기 때문이다. 나는 첫 회사를 다니면서 2년 동안 개인적인 시간이 거의 없었다. 집에 11시에 들어가면 어머니께서 오늘은 일찍 들어왔다고 말씀하실 정도였다. 일을 위해서 많은 것들을 포기했고 이런 과정들을 지나온 나로서는 학원의 자극적인 광고가 정말 와닿지 않는다. 하루가 멀다하고 학원에서 쏟아져나오는 사람들은 대체로 3년을 버티기가 쉽지않다. 위에서 내가 언급한 문제뿐만 아니라 업무강도도 타 직업군에 비해서 더하면 더했지 덜하지 않기 때문이다. 이는 미디어에서 노출되는 것처럼 행복한 것들만 존재하지 않는다는 것이다. 물론 좋은 점도 많이 있지만 개발을 하는 행위 자체가 취미가 될 수 있는 사람에게나 가능한 장점이 더 많다. <br>
->
-> [내가 느낀 비전공자 신입의 문제점](https://medium.com/@rosd0000/%EB%82%B4%EA%B0%80-%EB%8A%90%EB%82%80-%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90-%EC%8B%A0%EC%9E%85%EC%9D%98-%EB%AC%B8%EC%A0%9C%EC%A0%90-70c6cfb6626)
-
-<br><br>
-
 > 50세 프로그래머 여성이 15세 아들을 두고 "너는 게임을 좋아하니 게임 개발자가 되렴"이라고 조언한 다음 '그런데 나도 게임을 좋아하잖아? 하지만 난 50세에 여성이지'하고 포기했다가 친구의 "사람은 숫자로 결정되지 않아"라는 말을 듣고 바로 게임 업계에 이력서를 던지기 시작.
 >
 > [오전 7:22 - 2019년 2월 9일](https://twitter.com/rabapyca/status/1094255281767235585)
@@ -592,22 +566,6 @@ EE 4
 
 <br><br>
 
-[Complete Beginner: Where to Start?](https://forums.unrealengine.com/development-discussion/content-creation/103133-complete-beginner-where-to-start)
-
-<br><br>
-
-> django니 express니 rails니 이딴거 만지니까 왭서버 개발이 쉬워보이는거다. http request header 파싱부터 한땀한땀 다시 짜서 웹서버를 구현해야한다. 회사에서 이짓하면 생산성은 똥망이 되지만 포트폴리오가 되고 기술 딸딸이를 칠수 있으니 좋은 방법이다 <br>
->
-> [오전 5:21 - 2019년 1월 31일](https://twitter.com/if1live/status/1090963283819909121)
-
-<br><br>
-
-> 넷플릭스에서 CDN SW/HW를 자체개발해서 사용중인데 운영체제로 FreeBSD를, 더군다나 최신 Head버전에 맞춰 테스트중인 기능만 local diff에 두고 나머지는 모두 업스트림으로 반영중이라네요. 개발팀이 이를 원했고 커미터도 있어서 가능했다고. 이런게 역량이고 실력. https://openconnect.netflix.com/en/software/ <br>
->
-> [오후 2:45 - 2019년 2월 4일](https://twitter.com/ksoonson/status/1092554741161152512)
-
-<br><br>
-
 [Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.](https://github.com/chrislgarry/Apollo-11)
 
 <br><br>
@@ -625,10 +583,6 @@ EE 4
 <br>
 
 <br>
-
-[Oracle VM VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads)
-
-<br><br>
 
 [Computational periscopy with an ordinary digital camera](https://www.nature.com/articles/s41586-018-0868-6)
 
@@ -714,36 +668,7 @@ EE 4
 >
 > [오후 4:27 - 2019년 1월 5일](https://twitter.com/ksoonson/status/1081708907351859200)
 
-<br><br>
-
-[미래팩 1.2.2 사각형 안의 점들](https://youtu.be/MlOvGxLNrJI)
-
-<br><br>
-
-[Rico's cheatsheets](<https://devhints.io/>)
-
-<br><br>
-
-[파이썬으로 만드는 나만의 커맨드라인 프로그램 #1 - argparse](https://sjquant.github.io/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%BB%A4%EB%A7%A8%EB%93%9C%EB%9D%BC%EC%9D%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-1/)
-
-<br><br>
-
-[Fast inverse square root](https://en.wikipedia.org/wiki/Fast_inverse_square_root)
-
-<br><br>
-
-> *Must read* for web developers: an inside look at how modern browsers work by @kosamari
->
-> 1️⃣ https://bit.ly/browsers-pt1 
-> 2️⃣ https://bit.ly/browsers-pt2 
-> 3️⃣ https://bit.ly/browsers-pt3 
-> 4️⃣ https://bit.ly/browsers-pt4 
->
-> [오후 11:30 - 2019년 1월 6일](https://twitter.com/addyosmani/status/1082177515618295808)
-
-<br><br>
-
-[How To Learn CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
+<br><br>[Rico's cheatsheets](<https://devhints.io/>)
 
 <br><br>
 
@@ -1005,16 +930,6 @@ EE 4
 > EOB
 >
 > http://jhrogue.blogspot.com/2018/11/b_23.html 
-
-<br><br>
-
-> Ji Yun Park @Jiyun_Park <br>
-> 창의성이란 '과거의 경험과 지식, 정보를 통합, 분해, 연결, 재해석, 분리하여 새로운 관점의 해결책을 내놓는 과정'
-> ->"새로운 조합을 만드는 능력" - 피터 드러커 <br>
->
-> 오후 6:39 - 2011년 4월 21일 <br>
->
-> https://twitter.com/Jiyun_Park/status/61242764809080832
 
 <br><br>
 
