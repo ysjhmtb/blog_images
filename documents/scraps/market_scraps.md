@@ -1,5 +1,23 @@
 <br><br>
 
+[[보도참고] 2019년 국제통화기금(IMF) 연례협의 결과](http://www.moef.go.kr/nw/nes/detailNesDtaView.do?menuNo=4010100&searchNttId1=MOSF_000000000027304&searchBbsId1=MOSFBBS_000000000028)
+
+<br><br>
+
+> 역사적으로 볼 때, 우버나 리프트 비즈니스는 가격 규제가 없는 한 절대 돈을 벌 수 없다. 설사 음식 배달 서비스를 추가하거나 자동주행차량 시대가 도래하더라도 진입 장벽이 없어 수익 모델을 갖출 수가 없다.
+>
+> [Can Uber ever make money?](https://www.economist.com/business/2019/04/27/can-uber-ever-make-money)
+>
+> > Four centuries later, profits across the global taxi industry are again running away—but this time into thin air. Until recently, the fortunes of regulated cab companies drew the most attention. Uber and Lyft in America, Didi in China and other ride-hailing firms elsewhere have used sackloads of venture capital to drive down fares and flood the streets of big cities with cars, clobbering the earnings of licensed rivals. But now their own losses are in the spotlight. In a filing released in the run-up to its initial public offering, Uber says it has lost \$7.9bn since 2009. Lyft, which listed last month, lost ​\$2.9bn in seven years. Uber is seeking a valuation of up to \$100bn but as yet it is unclear if it can make money. To understand why, it helps to look at the history of the taxi industry. When regulated, it is a cushy business. When not, it is cut-throat.
+>
+> [오전 2:51 - 2019년 5월 4일](https://twitter.com/enhance/status/1124612532746850304)
+
+<br><br>
+
+[OECD Employment Outlook 2019](https://www.oecd-ilibrary.org/employment/oecd-employment-outlook-2019_9ee00155-en)
+
+<br><br>
+
 [Paul Krugman expects a global recession this year, warns ‘we don’t have an effective response’](https://www.cnbc.com/2019/02/11/paul-krugman-warns-of-a-possible-global-recession-this-year-or-in-2020.html)
 
 <br><br>
