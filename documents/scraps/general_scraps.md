@@ -2,6 +2,10 @@
 
 <br><br>
 
+[Feminists today are too obsessed with their own elite, metropolitan lives](https://www.theguardian.com/commentisfree/2015/jan/21/feminists-obsessed-elite-metropolitan-lives-low-paid-females)
+
+<br><br>
+
 > 저는 40분 일하면 가끔 너무 힘들어서 더는 못하겠다 싶지만, 20분 쉬면서 아예 다른 활동을 하면 희한하게도 한 사이클 정도는 더 해볼 만하다는 기분이 됩니다. 거꾸로 일이 잘되어 10분만 더 앉아 있고 싶을 때도 있지만 그래서 휴식이 짧아지면 반드시 후회하고, 뒤로 갈수록 집중력만 없어집니다.
 >
 > [오전 4:48 - 2019년 4월 29일](https://twitter.com/starlakim/status/1122829914124587010)
