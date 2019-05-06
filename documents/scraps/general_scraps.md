@@ -2,6 +2,10 @@
 
 <br><br>
 
+[Overcome the Eight Barriers to Confidence](https://hbr.org/2014/01/overcome-the-eight-barriers-to-confidence)
+
+<br><br>
+
 [Feminists today are too obsessed with their own elite, metropolitan lives](https://www.theguardian.com/commentisfree/2015/jan/21/feminists-obsessed-elite-metropolitan-lives-low-paid-females)
 
 <br><br>
