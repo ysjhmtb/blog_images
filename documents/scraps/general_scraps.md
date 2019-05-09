@@ -2,6 +2,10 @@
 
 <br><br>
 
+[Nearly half of white Republicans say it bothers them to hear people speaking foreign languages](https://www.washingtonpost.com/business/2019/05/08/nearly-half-white-republicans-say-it-bothers-them-hear-people-speaking-foreign-languages/?utm_term=.310f01555130)
+
+<br><br>
+
 [Overcome the Eight Barriers to Confidence](https://hbr.org/2014/01/overcome-the-eight-barriers-to-confidence)
 
 <br><br>
