@@ -20,3 +20,13 @@
 > [Career Advice](https://dilbertblog.typepad.com/the_dilbert_blog/2007/07/career-advice.html)
 
 <br>
+
+
+
+> DoubleLine’s Jeff Gundlach: The bond market is “extremely exposed” to a downturn in the U.S. dollar because more foreign buyers have been purchasing Treasuries without currency hedges.
+>
+> https://www.bloomberg.com/news/articles/2019-05-14/gundlach-says-weakness-is-showing-up-in-u-s-economic-indicators
+>
+> [오후 6:57 - 2019년 5월 14일](https://twitter.com/lisaabramowicz1/status/1128479485030957058)
+
+<br>
