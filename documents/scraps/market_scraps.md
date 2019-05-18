@@ -1,5 +1,23 @@
 <br><br>
 
+> 나심 탈레브의 이 번 책 ‘스킨 인 더 게임’은 지루한 부분도 있고,
+>
+> 애매한 얘기들도 있지만,
+>
+> 개인적으로 내가 워낙 스킨 인 더 게임에 대한 철학이 있어서,
+>
+> 이를 강조하는 얘기에 사심이 섞인 지지를 보낸다.
+>
+> 특히 이 부분!
+>
+> > 리스크나 어떤 상황이 발생할 가능성에 대한 나의 판단력은 독서를 통해 얻은 것도 아니고, 철학적 사색이나 과학적 고찰을 통해 얻은 것도 아니고, 지적 호기심을 통해 얻은 것도 아니다. 큰돈을 걸고 직접 투자시장에 뛰어들어서 얻게 된 것이다.
+> >
+> > 나심 탈레브 스킨 인 더 게임 | 나심 니콜라스 탈레브, 김원호 저
+>
+> https://blog.naver.com/nomore_bet/221538077739
+
+<br><br>
+
 > DoubleLine’s Jeff Gundlach: The bond market is “extremely exposed” to a downturn in the U.S. dollar because more foreign buyers have been purchasing Treasuries without currency hedges.
 >
 > https://www.bloomberg.com/news/articles/2019-05-14/gundlach-says-weakness-is-showing-up-in-u-s-economic-indicators
