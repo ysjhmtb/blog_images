@@ -27,6 +27,10 @@
 
 <br><br>
 
+[I wasn’t a programmer, but I created Scrivener](<https://medium.com/@timetolose/my-interview-with-keith-blount-a49c7764f26f>)
+
+<br><br>
+
 > YKH : ex) HDMI >> terminology >> code git 
 
 <br><br>

@@ -2,6 +2,10 @@
 
 <br><br>
 
+[Shin jong hun Huni artist](<https://www.artstation.com/huniartist>)
+
+<br><br>
+
 > If you want an average successful life, it doesn’t take much planning. Just stay out of trouble, go to school, and apply for jobs you might like. But if you want something extraordinary, you have two paths:
 >
 > 1. Become the best at one specific thing.
