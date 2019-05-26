@@ -1,5 +1,15 @@
 <br><br>
 
+
+
+<br><br>
+
+[Recession ready: Fiscal policies to stabilize the American economy](<https://www.brookings.edu/multi-chapter-report/recession-ready-fiscal-policies-to-stabilize-the-american-economy/>)
+
+<br>
+
+<br>
+
 > 나심 탈레브의 이 번 책 ‘스킨 인 더 게임’은 지루한 부분도 있고,
 >
 > 애매한 얘기들도 있지만,

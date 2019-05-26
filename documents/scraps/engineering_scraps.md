@@ -27,6 +27,18 @@
 
 <br><br>
 
+[Deep learning: the final frontier for signal processing and time series analysis?](<https://medium.com/@alexrachnog/deep-learning-the-final-frontier-for-signal-processing-and-time-series-analysis-734307167ad6>)
+
+<br><br>
+
+[Dielectric Resonator Antennas: A Historical Review and the Current State of the Art](<https://ieeexplore.ieee.org/document/5687510>)
+
+<br><br>
+
+[Deutsche Bank Says Software to Detect Money Laundering Had a Bug](<https://www.nytimes.com/2019/05/22/business/deutsche-bank-money-laundering.html>)
+
+<br><br>
+
 [I wasn’t a programmer, but I created Scrivener](<https://medium.com/@timetolose/my-interview-with-keith-blount-a49c7764f26f>)
 
 <br><br>
