@@ -27,6 +27,38 @@
 
 <br><br>
 
+> [R&D Test Engineer](<http://ao-inc.com/contact-careers/careers/rd-test-engineer-3>)
+> Department: Chip R&D
+> Job Code: RD Chip 1804
+>
+> SUMMARY
+>
+> We are looking for an optoelectronics device test engineer. The RD Test Engineer’s primary responsibility is the characterizations of optoelectronic devices to support new components development. This position requires test, data analysis, and some programming.
+>
+> JOB DUTIES
+> •  Electrical and optical characterizations of semiconductor optoelectronics devices and modules (semiconductor lasers, photodetectors, etc.). DC and RF test on wafer, bar, and individual packaged device levels in a cleanroom environment for various RD projects.
+> •  Responsibilities also include developing testing plans for new products, data processing and analysis, and creating summary report
+> •  Supervising a small group of technicians
+> •  May also be required to provide technical supports to product managers.
+>
+> EDUCATION
+> MS in Electrical Engineering, Applied Physics, or Optics
+>
+> EXPERIENCE
+> •  New graduates are acceptable with appropriate academic experience
+> •  Relevant experience in semiconductor optoelectronics devices is preferred.
+> •  Familiar with Labview programming and database experience is a plus
+>
+> OTHERS
+> •  Good verbal and written communication
+> •  Careful and detail oriented
+> •  Steady hands to use tweezers to handle small parts .
+>
+> LOCATION
+> Houston, Tx  
+
+<br><br>
+
 [Deep learning: the final frontier for signal processing and time series analysis?](<https://medium.com/@alexrachnog/deep-learning-the-final-frontier-for-signal-processing-and-time-series-analysis-734307167ad6>)
 
 <br><br>
