@@ -8,10 +8,6 @@
 
 <br><br>
 
-> 오늘 이해하고 연습하고, 수시로 외우고, 임박해서 집중적으로 풀기.
-
-<br><br>
-
 > 보통 사람들이 방황하는 이유중 하나는 자기가 정확히 뭘 원하는지...감이 없거나 (동시에 잡을수없는) 여러가지를 한꺼번에 다 원하니까 생기는 문제이구나 하는걸 오늘 다시 한번 느끼게 되고...
 >
 > [오후 4:42 - 2019년 3월 12일](https://twitter.com/Beeeender/status/1105615034590289920)
@@ -24,38 +20,6 @@
 > <img src="https://pbs.twimg.com/media/DzZaGXtV4AASexd.jpg:large">
 >
 > [오후 1:41 - 2019년 2월 14일](https://twitter.com/GomTaengEe/status/1096162629133856768)
-
-<br><br>
-
-> [R&D Test Engineer](<http://ao-inc.com/contact-careers/careers/rd-test-engineer-3>)
-> Department: Chip R&D
-> Job Code: RD Chip 1804
->
-> SUMMARY
->
-> We are looking for an optoelectronics device test engineer. The RD Test Engineer’s primary responsibility is the characterizations of optoelectronic devices to support new components development. This position requires test, data analysis, and some programming.
->
-> JOB DUTIES
-> •  Electrical and optical characterizations of semiconductor optoelectronics devices and modules (semiconductor lasers, photodetectors, etc.). DC and RF test on wafer, bar, and individual packaged device levels in a cleanroom environment for various RD projects.
-> •  Responsibilities also include developing testing plans for new products, data processing and analysis, and creating summary report
-> •  Supervising a small group of technicians
-> •  May also be required to provide technical supports to product managers.
->
-> EDUCATION
-> MS in Electrical Engineering, Applied Physics, or Optics
->
-> EXPERIENCE
-> •  New graduates are acceptable with appropriate academic experience
-> •  Relevant experience in semiconductor optoelectronics devices is preferred.
-> •  Familiar with Labview programming and database experience is a plus
->
-> OTHERS
-> •  Good verbal and written communication
-> •  Careful and detail oriented
-> •  Steady hands to use tweezers to handle small parts .
->
-> LOCATION
-> Houston, Tx  
 
 <br><br>
 
