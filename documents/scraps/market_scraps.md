@@ -2,6 +2,30 @@
 
 <br><br>
 
+[Optimal Gambling Systems for Favorable Games](<https://projecteuclid.org/euclid.bsmsp/1200512159>)
+
+<br><br>
+
+[150 Of The Best Investing Blogs On The Planet (2018)](<https://acquirersmultiple.com/2018/07/150-of-the-best-investing-blogs-on-the-planet-2018/>)
+
+<br><br>
+
+> 지난 2018년 실전투자 대회에선... 
+>
+> 아쉽게도 14위로 순위권 밖이었는데 =_=
+>
+> (수익금 순위론 2위 였지만...)
+>
+> 이번에야말로... 수늬꿘... 
+>
+> 시상식 참가하러 연차 쓰고말테다...
+>
+> 현재까진 수익율, 거래대금 모두 1위 =_=+
+>
+> [키움 해외주식 실전투자대회](<https://blog.naver.com/hancury/221521017610>)
+
+<br><br>
+
 [Recession ready: Fiscal policies to stabilize the American economy](<https://www.brookings.edu/multi-chapter-report/recession-ready-fiscal-policies-to-stabilize-the-american-economy/>)
 
 <br>
