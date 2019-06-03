@@ -8,13 +8,13 @@
 
 <br><br>
 
-> 1) Although it seems unlikely that the U.S. president will follow through with tariffs on Mexico (or that Congress will allow it), the latest move on trade raises fresh uncertainty about the president’s strategy, and the degree to which market’s and the economy can withstand the tension. 
+> Although it seems unlikely that the U.S. president will follow through with tariffs on Mexico (or that Congress will allow it), the latest move on trade raises fresh uncertainty about the president’s strategy, and the degree to which market’s and the economy can withstand the tension. 
 >
-> <br>2) Brad McMillan, CIO for Commonwealth Financial Network, told MarketWatch via email: “The Mexico tariffs would be one more unneeded headwind, but the principal effect would be on confidence. If hiring slows or consumer confidence declines, which could easily happen, then we could move into a pre-recession phase.” 
+> <br>Brad McMillan, CIO for Commonwealth Financial Network, told MarketWatch via email: “The Mexico tariffs would be one more unneeded headwind, but the principal effect would be on confidence. If hiring slows or consumer confidence declines, which could easily happen, then we could move into a pre-recession phase.” 
 >
-> <br>3) “Whilst the US economy performed well in Q1, we mustn’t use this as a barometer for the remainder of the year. The global economy remains weak, and the US does not exist in the bubble. Indeed, the US Treasury market is telling us that the economy will slow. 
+> <br>“Whilst the US economy performed well in Q1, we mustn’t use this as a barometer for the remainder of the year. The global economy remains weak, and the US does not exist in the bubble. Indeed, the US Treasury market is telling us that the economy will slow. 
 >
-> <br>4)  Commonwealth’s McMillan said it’s difficult to upend an economy that continues to chug along, especially with the labor market showing no signs of slowing: “With hiring and confidence solid, an immediate recession looks unlikely. We have never had a recession with hiring and consumer confidence at current levels.” He did however acknowledge that risks of a recession are rising. 
+> <br>Commonwealth’s McMillan said it’s difficult to upend an economy that continues to chug along, especially with the labor market showing no signs of slowing: “With hiring and confidence solid, an immediate recession looks unlikely. We have never had a recession with hiring and consumer confidence at current levels.” He did however acknowledge that risks of a recession are rising. 
 >
 > <br>
 >
