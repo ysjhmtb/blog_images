@@ -23,6 +23,10 @@
 
 <br><br>
 
+[비전공 학원 출신 게임 개발자, 독일 게임 기업 들어간 이야기](<https://www.slideshare.net/deoratore/ss-148684326>)
+
+<br><br>
+
 [Deep learning: the final frontier for signal processing and time series analysis?](<https://medium.com/@alexrachnog/deep-learning-the-final-frontier-for-signal-processing-and-time-series-analysis-734307167ad6>)
 
 <br><br>
