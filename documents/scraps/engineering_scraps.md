@@ -23,6 +23,18 @@
 
 <br><br>
 
+[언리얼 온라인 러닝](<https://www.unrealengine.com/ko/academy>)
+
+<br><br>
+
+[안드로이드 OpenCV 사용하기](<https://brunch.co.kr/@mystoryg/76>)
+
+<br><br>
+
+[CPU 보안 취약점을 공격하는 아주 구체적인 원리](<https://parksb.github.io/article/31.html>)
+
+<br><br>
+
 [비전공 학원 출신 게임 개발자, 독일 게임 기업 들어간 이야기](<https://www.slideshare.net/deoratore/ss-148684326>)
 
 <br><br>

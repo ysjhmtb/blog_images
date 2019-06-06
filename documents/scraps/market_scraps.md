@@ -8,6 +8,22 @@
 
 <br><br>
 
+> 지금 당장은 아니라도 미국 주식 좀 오르면 숏때려볼만하다. 금리인하는 주식 안 빠지면 할 수가 없다. 주식이 멀쩡한데 왜 금리를 내리겠냐?? 만약 금리를 안 내린다? 그럼 주식이 대실망해서 빠진다. 먹을 확률 대단히 높다. 단, 시기랑 위치문제.
+>
+> [오전 7:53 - 2019년 6월 5일](<https://twitter.com/econophysics_kr/status/1136284839928184833>)
+
+<br><br>
+
+> Basic outline of Trump's economic plan...
+>
+> <img src="https://pbs.twimg.com/media/D8F7s64XUAEgKhu.jpg">
+>
+> [오후 4:17 - 2019년 6월 2일](<https://twitter.com/HayekAndKeynes/status/1135324617520898048>)
+>
+> Y = C + I + G + (X-M)
+
+<br><br>
+
 > Although it seems unlikely that the U.S. president will follow through with tariffs on Mexico (or that Congress will allow it), the latest move on trade raises fresh uncertainty about the president’s strategy, and the degree to which market’s and the economy can withstand the tension. 
 >
 > <br>Brad McMillan, CIO for Commonwealth Financial Network, told MarketWatch via email: “The Mexico tariffs would be one more unneeded headwind, but the principal effect would be on confidence. If hiring slows or consumer confidence declines, which could easily happen, then we could move into a pre-recession phase.” 
