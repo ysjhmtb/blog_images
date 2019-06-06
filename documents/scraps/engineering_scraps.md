@@ -27,7 +27,7 @@
 
 <br><br>
 
-[안드로이드 OpenCV 사용하기](<https://brunch.co.kr/@mystoryg/76>)
+[OpenCV Text Detection (EAST text detector)](<https://www.pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector/>)
 
 <br><br>
 
