@@ -23,6 +23,10 @@
 
 <br><br>
 
+[Which is best simulator for 8051 microcontroller?](<https://www.quora.com/Which-is-best-simulator-for-8051-microcontroller>)
+
+<br><br>
+
 [언리얼 온라인 러닝](<https://www.unrealengine.com/ko/academy>)
 
 <br><br>

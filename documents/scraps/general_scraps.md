@@ -2,6 +2,10 @@
 
 <br><br>
 
+[190 universities just launched 600 free online courses. Here’s the full list.](<https://qz.com/1437623/600-free-online-courses-you-can-take-from-universities-worldwide/>)
+
+<br><br>
+
 > 현재 내가 가르치는 고딩들이 최상위 상위 중상위가 다 섞여 있는데 애들에게 숙제를 내주면 최상위가 다해온다면 상위 중상위는 늘 숙제를 다 못해온다. 여기까지 읽으면 그렇지! 자세가 다르니 공부를 잘하지 하겠지만 사실은 성적 낮은 애들이 숙제를 다 못해오는 것은 마음가짐이나 태도에서만 온
 >
 > [오후 5:50 - 2019년 6월 3일](<https://twitter.com/sophiassam/status/1135710347225001984>)
