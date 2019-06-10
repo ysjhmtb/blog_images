@@ -23,7 +23,36 @@
 
 <br><br>
 
-[Which is best simulator for 8051 microcontroller?](<https://www.quora.com/Which-is-best-simulator-for-8051-microcontroller>)
+```javascript
+const express = require('express');
+const cors = require('cors');
+const userJson = require('./user');
+const locationJson = require('./location');
+
+const API_PORT = process.env.PORT || 3002;
+const app = express();
+app.use(cors());
+const router = express.Router();
+
+
+// gets userData from JSON
+
+router.get("/getUserData", (req, res) => {
+    return res.json(userJson);
+});
+
+// gets locationData from JSON
+
+router.get("/getLocationData", (req, res) => {
+    return res.json(locationJson);
+});
+
+// append /api for our http requests
+app.use("/api", router);
+
+// launch our backend into a port
+app.listen(API_PORT, () => console.log(`LISTENING ON PORT ${API_PORT}`));
+```
 
 <br><br>
 
@@ -64,6 +93,10 @@
 <br><br>
 
 [Devastating Roundoff Error](https://sci-hub.tw/https://doi.org/10.1080/10724117.2006.11974643)
+
+<br><br>
+
+[미래팩 1.2.2 사각형 안의 점들](<https://www.youtube.com/watch?v=MlOvGxLNrJI&list=WL&index=18&t=0s>)
 
 <br><br>
 
