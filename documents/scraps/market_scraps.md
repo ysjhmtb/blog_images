@@ -10,6 +10,12 @@
 
 <br><br>
 
+[6월 12일 (PIMCO의 장기전망 - Age of disruption / 위안화 7넘을 가능성)](<https://blog.naver.com/econophysics/221560569586>)
+
+[Dealing With Disruption](<https://global.pimco.com/en-gbl/insights/economic-and-market-commentary/secular-outlook/2019/economic-outlook-2019>)
+
+<br><br>
+
 > 조직에서 일하는 트레이더는 돈만 잘 벌면 될 것 같지만 실제로는 조직에 생각과 글을 공유해서 공헌하지 않으면 안 된다. 동료 트레이더들과 생각을 나누고 자극하는 것도 업무의 일부인 것이다. 경쟁이 심한 조직일수록 똑똑한 놈이라는 평판을 잃어서는 곤란해진다.
 >
 > [오후 4:13 - 2019년 6월 7일](<https://twitter.com/hubris2020/status/1137135589646487552>)
