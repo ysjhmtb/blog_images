@@ -7,6 +7,8 @@
 > 0831 79 >> 72 >> 10 (-3 >> +1)
 >
 > 지리영마운불
+>
+> Node.js MySQL >> Express.js >> Android
 
 <br><br>
 
