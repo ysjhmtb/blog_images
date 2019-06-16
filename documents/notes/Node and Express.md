@@ -258,3 +258,284 @@ con.connect(function(err){
 ```
 
 <br>
+
+## Select With a Filter
+
+```javascript
+const mysql = require('mysql');
+
+const con = mysql.createConnection({
+    host: "localhost",
+    user: "root",
+    password: "kaon1234",
+    database: "mydb"
+});
+
+con.connect(function (err) {
+    if (err) throw err;
+
+    con.query("SELECT * FROM customers WHERE address = 'Park Lane 38'", function (err, result) {
+        if (err) throw err;
+        console.log(result);
+    });
+
+});
+```
+
+<br>
+
+## Wildcard Characters
+
+```javascript
+const mysql = require('mysql');
+
+const con = mysql.createConnection({
+    host: "localhost",
+    user: "root",
+    password: "kaon1234",
+    database: "mydb"
+});
+
+con.connect(function(err){
+    if(err) throw err;
+    con.query("SELECT * FROM customers WHERE address LIKE 's%'", function(err, result){
+        if(err) throw err;
+        console.log(result);
+    })
+})
+```
+
+<br>
+
+## Escaping Query Values
+
+```javascript
+var adr = 'Mountain 21';
+var sql = 'SELECT * FROM customers WHERE address = ' + mysql.escape(adr);
+con.query(sql, function (err, result) {
+  if (err) throw err;
+  console.log(result);
+});
+```
+
+```javascript
+var adr = 'Mountain 21';
+var sql = 'SELECT * FROM customers WHERE address = ?';
+con.query(sql, [adr], function (err, result) {
+  if (err) throw err;
+  console.log(result);
+});
+```
+
+```javascript
+var name = 'Amy';
+var adr = 'Mountain 21';
+var sql = 'SELECT * FROM customers WHERE name = ? OR address = ?';
+con.query(sql, [name, adr], function (err, result) {
+  if (err) throw err;
+  console.log(result);
+});
+```
+
+<br>
+
+## Sort the Result
+
+```javascript
+const mysql = require('mysql');
+
+const con = mysql.createConnection({
+    host: "localhost",
+    user: "root",
+    password: "kaon1234",
+    database: "mydb"
+});
+
+con.connect(function (err) {
+    if (err) throw err;
+
+    con.query("SELECT * FROM customers ORDER BY name", function (err, result) {
+        if (err) throw (err);
+        console.log(result);
+    });
+});
+```
+
+<br>
+
+## ORDER BY DESC
+
+```javascript
+const mysql = require('mysql');
+
+const con = mysql.createConnection({
+    host: "localhost",
+    user: "root",
+    password: "kaon1234",
+    database: "mydb"
+});
+
+con.connect(function (err) {
+    if (err) throw err;
+
+    con.query("SELECT * FROM customers ORDER BY name DESC", function (err, result) {
+        if (err) throw err;
+        console.log(result);
+    });
+});
+```
+
+<br>
+
+## Delete Record
+
+```javascript
+const mysql = require('mysql');
+
+const con = mysql.createConnection({
+    host: "localhost",
+    user: "root",
+    password: "kaon1234",
+    database: "mydb"
+});
+
+con.connect(function(err){
+    if(err) throw err;
+    const sql = "DELETE FROM customers WHERE address = 'Mountain 21'";
+    con.query(sql, function(err, result){
+        if(err) throw err;
+        console.log("Number of records deleted: " + result.affectedRows);
+    });
+});
+```
+
+<br>
+
+## Delete a Table
+
+```javascript
+const mysql = require('mysql');
+
+const con = mysql.createConnection({
+    host: "localhost",
+    user: "root",
+    password: "kaon1234",
+    database: "mydb"
+});
+
+con.connect(function(err){
+    if(err) throw err;
+    const sql = "DROP TABLE customers";
+    con.query(sql, function(err, result){
+        if(err) throw err;
+        console.log("Table deleted");
+    });
+});
+
+
+```
+
+<br>
+
+## Drop Only if Exist
+
+```javascript
+const mysql = require('mysql');
+
+const con = mysql.createConnection({
+    host: "localhost",
+    user: "root",
+    password: "kaon1234",
+    database: "mydb"
+});
+
+con.connect(function(err){
+    if(err) throw err;
+    const sql = "DROP TABLE IF EXISTS customers";
+    con.query(sql, function(err, result){
+        if(err) throw err;
+        console.log("Table deleted");
+        console.log(result);
+    });
+});
+
+
+```
+
+<br>
+
+## Update Table
+
+```javascript
+
+const mysql = require('mysql');
+
+const con = mysql.createConnection({
+    host: "localhost",
+    user: "root",
+    password: "kaon1234",
+    database: "mydb"
+});
+
+con.connect(function (err) {
+    if (err) throw err;
+    const sql = "UPDATE customers SET address = 'Canyon 123' WHERE address = 'Valley 345'";
+    con.query(sql, function (err, result) {
+        if (err) throw err;
+        console.log(result.affectedRows + "record(s) updated");
+    });
+})
+```
+
+<br>
+
+## Limit the Result
+
+```javascript
+
+const mysql = require('mysql');
+
+const con = mysql.createConnection({
+    host: "localhost",
+    user: "root",
+    password: "kaon1234",
+    database: "mydb"
+});
+
+con.connect(function (err) {
+    if (err) throw err;
+    const sql = "SELECT * FROM customers LIMIT 5";
+  // sql = "SELECT * FROM customers LIMIT 5 OFFSET 2";
+  // sql = "SELECT * FROM customers LIMIT 2, 5";
+    con.query(sql, function (err, result) {
+        if (err) throw err;
+        console.log(result);
+    });
+});
+```
+
+<br>
+
+## Join
+
+```javascript
+const mysql = require('mysql');
+
+const con = mysql.createConnection({
+    host: "localhost",
+    user: "root",
+    password: "kaon1234",
+    database: "mydb"
+});
+
+con.connect(function(err){
+    if(err) throw err;
+    const sql = "SELECT users.name AS user, products.name AS favorite FROM users JOIN products ON users.favorite_product = products.id";
+    con.query(sql, function(err, result){
+        if(err) throw err;
+        console.log(result);
+    });
+});
+```
+
+<br>
