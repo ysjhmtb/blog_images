@@ -539,3 +539,203 @@ con.connect(function(err){
 ```
 
 <br>
+
+## [Express.js 시작하기](<http://webframeworks.kr/getstarted/expressjs/>)
+
+```bash
+#  익스프레스 설치
+$ npm install express -g
+$ npm install -g express-generator
+
+# my-app 폴더가 생성되고 익스프레스 모듈과 함께 서버 구동에 필요한 각종 파일들이 폴더 하위에 자동으로 생성
+$ express my-app
+
+# 필요한 모듈 설치: NPM은 프로젝트 폴더의 package.json 파일을 열고 dependencies 값을 이용해 의존성 모듈을 다운로드하게 됩니다. 다운로드된 파일들은 node_modules 폴더에 저장됩니다.
+$ npm install
+
+# 프로그램 구동. 익스프레스는 별도 설정이 없다면 기본적으로 3000번 포트를 사용합니다. 웹 브라우져를 열고 http://localhost:3000으로 접속합니다.
+$ npm start
+
+
+```
+
+<br><br>
+
+```javascript
+const express = require('express');
+const cors = require('cors');
+const userJson = require('./user');
+const locationJson = require('./location');
+
+const API_PORT = process.env.PORT || 3002;
+const app = express();
+app.use(cors());
+const router = express.Router();
+
+
+// gets userData from JSON
+
+router.get("/getUserData", (req, res) => {
+    return res.json(userJson);
+});
+
+// gets locationData from JSON
+
+router.get("/getLocationData", (req, res) => {
+    return res.json(locationJson);
+});
+
+// append /api for our http requests
+app.use("/api", router);
+
+// launch our backend into a port
+app.listen(API_PORT, () => console.log(`LISTENING ON PORT ${API_PORT}`));
+```
+
+<br>
+
+<br>
+
+## [Node.js(Express)와 MySQL 연동](<https://poiemaweb.com/nodejs-mysql>)
+
+```bash
+$ mkdir express-mysql
+$ cd express-mysql
+$ npm init --yes
+$ npm install express mysql --save --save-exact
+```
+
+<br>
+
+```json
+// package.json
+
+{
+  "name": "express-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "express": "4.17.1",
+    "mysql": "2.17.1"
+  }
+}
+```
+
+<br>
+
+```javascript
+// 다음은 루트 디렉터리에 index.js를 생성한다.
+// index.js
+console.log('Hello world')
+```
+
+<br>
+
+```bash
+# 애플리케이션을 실행하여 콘솔에 ‘Hello world’가 출력되는 것을 확인한다.
+$ npm start
+```
+
+<br>
+
+```sql
+CREATE DATABASE my_db;
+
+USE my_db;
+
+CREATE TABLE Persons
+(
+id int,
+name varchar(255),
+age int
+);
+
+INSERT INTO Persons (id, name, age)
+VALUES (1, 'John Doe', 20);
+
+SELECT * FROM Persons;
+```
+
+<br>
+
+```javascript
+// index.js를 아래와 같이 변경한다.
+
+var mysql      = require('mysql');
+var connection = mysql.createConnection({
+  host     : 'localhost',
+  user     : '< MySQL username >',
+  password : '< MySQL password >',
+  port     : < port >,
+  database : 'my_db'
+});
+
+connection.connect();
+
+connection.query('SELECT * from Persons', function(err, rows, fields) {
+  if (!err)
+    console.log('The solution is: ', rows);
+  else
+    console.log('Error while performing Query.', err);
+});
+
+connection.end();
+```
+
+<br>
+
+```javascript
+// index.js를 아래와 같이 변경한다.
+
+var express    = require('express');
+var mysql      = require('mysql');
+var dbconfig   = require('./config/database.js');
+var connection = mysql.createConnection(dbconfig);
+
+var app = express();
+
+// configuration ===============================================================
+app.set('port', process.env.PORT || 3000);
+
+app.get('/', function(req, res){
+  res.send('Root');
+});
+
+app.get('/persons', function(req, res){
+
+  connection.query('SELECT * from Persons', function(err, rows) {
+    if(err) throw err;
+
+    console.log('The solution is: ', rows);
+    res.send(rows);
+  });
+});
+
+app.listen(app.get('port'), function () {
+  console.log('Express server listening on port ' + app.get('port'));
+});
+```
+
+<br>
+
+```javascript
+// config/database.js
+module.exports = {
+  host     : 'localhost',
+  user     : '< MySQL username >',
+  password : '< MySQL password >',
+  port     : < port >,
+  database : 'my_db'
+};
+```
+
+<br>
+
+```
+http://localhost:3000/persons
+```
+
