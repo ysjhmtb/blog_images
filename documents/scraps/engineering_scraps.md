@@ -23,6 +23,14 @@
 
 <br><br>
 
+[How does Apple (privately) find your offline devices?](<https://blog.cryptographyengineering.com/2019/06/05/how-does-apple-privately-find-your-offline-devices/>)
+
+<br><br>
+
+[Exposing Your Local Node.js App to the World](<https://www.pluralsight.com/guides/exposing-your-local-node-js-app-to-the-world>)
+
+<br><br>
+
 ```javascript
 const express = require('express');
 const cors = require('cors');
