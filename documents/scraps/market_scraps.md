@@ -6,9 +6,14 @@
 >
 > 0831 79 >> 72 >> 10 (-3 >> +1)
 >
-> 지리영마운불
->
-> Node.js MySQL >> Express.js >> Android
+
+<br><br>
+
+[History suggests Fed can’t make ‘insurance cuts’ to keep expansion alive](<https://www.marketwatch.com/story/history-suggests-fed-cant-make-insurance-cuts-to-keep-expansion-alive-2019-06-17>)
+
+<br><br>
+
+[A Fed rate cut should boost stocks as long as the economy is experiencing just a ‘soft patch’](<https://www.cnbc.com/2019/06/17/stocks-could-surge-or-plunge-depending-on-the-why-fed-cuts-rates.html>)
 
 <br><br>
 
