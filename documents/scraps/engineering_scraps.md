@@ -23,6 +23,14 @@
 
 <br><br>
 
+[Getting Started with the MERN Stack](<https://scotch.io/@deityhub/getting-started-with-the-mern-stack>)
+
+<br><br>
+
+[Running Linux commands from Galaxy Watch using Tasker and kdeconnect](<https://www.reddit.com/r/GalaxyWatch/comments/c1zrag/running_linux_commands_from_galaxy_watch_using/>)
+
+<br><br>
+
 [How does Apple (privately) find your offline devices?](<https://blog.cryptographyengineering.com/2019/06/05/how-does-apple-privately-find-your-offline-devices/>)
 
 <br><br>
