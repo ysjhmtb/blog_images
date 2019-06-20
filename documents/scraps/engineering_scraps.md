@@ -23,6 +23,10 @@
 
 <br><br>
 
+[Monte Carlo Power Analysis for Indirect Effects](<https://schoemanna.shinyapps.io/mc_power_med/?fbclid=IwAR1WNGbi38bl8Z5rctnhcsnEVQpo4PkPIN6XADt8WPMSv8uns2o6fMdZkEE>)
+
+<br><br>
+
 > [Json Parser Online](<http://json.parser.online.fr/>)
 >
 > [Takes CSV or tab-delimited data from Excel and converts it into several web-friendly formats, include JSON and XML. ](<https://github.com/shancarter/Mr-Data-Converter>)
