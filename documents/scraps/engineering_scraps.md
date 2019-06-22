@@ -23,6 +23,24 @@
 
 <br><br>
 
+> [자바스크립트 - this 키워드](https://hsp1116.tistory.com/7)
+>
+> 1. Global Scope에서 사용될 때 this는 전역 객체를 가르킨다(window 객체)
+>
+> 2. 함수에서 사용될 때에도 this는 전역 객체를 가르킨다.(window 객체)
+>
+> 3. 객체에 속한 메서드에서 사용될 때 this는 메서드를 호출한 객체를 가르킨다.
+>
+> 4. 객체에 속한 메서드의 내부함수에서 사용될 때 this는 전역 객체를 가르킨다.(window 객체)
+>
+> 5. 생성자에서 사용될 때, this는 이 생성자로 인해 생성된 새로운 객체를 가르킨다.
+
+<br><br>
+
+> Andrew Park 박상현 fb.com/shpark76
+
+<br><br>
+
 [Monte Carlo Power Analysis for Indirect Effects](<https://schoemanna.shinyapps.io/mc_power_med/?fbclid=IwAR1WNGbi38bl8Z5rctnhcsnEVQpo4PkPIN6XADt8WPMSv8uns2o6fMdZkEE>)
 
 <br><br>
