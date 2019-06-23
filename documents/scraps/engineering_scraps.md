@@ -23,6 +23,14 @@
 
 <br><br>
 
+[Creating a File Upload Component with React](https://malcoded.com/posts/react-file-upload/)
+
+<br><br>
+
+[C ++ 모듈로 Native Node.js 만들기 튜토리얼 . 1 부 — Nan 소개]()
+
+<br><br>
+
 > [자바스크립트 - this 키워드](https://hsp1116.tistory.com/7)
 >
 > 1. Global Scope에서 사용될 때 this는 전역 객체를 가르킨다(window 객체)
