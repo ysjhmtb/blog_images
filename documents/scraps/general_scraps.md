@@ -2,7 +2,11 @@
 
 <br><br>
 
-[The Power of One Push-Up]()
+[Will transparent pricing make America’s health care cheaper?]()
+
+<br><br>
+
+[The Power of One Push-Up](https://www.theatlantic.com/health/archive/2019/06/push-ups-body-weight-bmi/592834/)
 
 <br><br>
 
