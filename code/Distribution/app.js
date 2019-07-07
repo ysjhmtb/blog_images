@@ -24,7 +24,10 @@ MongoClient.connect('mongodb://localhost:27017/UA', function (err, client) {
     db = client.db('UA');
 })
 
-router.get("/api", async (req, res) => {
+// append /api for our http requests
+app.use("/api", router);
+
+router.get("/test", async (req, res) => {
     try {
         let payload = await db.collection('test').aggregate([{ $sample: { size: 1 } }]).toArray();
         const [innerData = {}] = payload;
@@ -170,4 +173,3 @@ app.get('/', function (req, res) {
 app.listen('3000', function () {
     console.log("running on 3000");
 });
-
