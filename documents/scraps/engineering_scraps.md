@@ -23,6 +23,10 @@
 
 <br><br>
 
+[How do wings work?](https://iopscience.iop.org/article/10.1088/0031-9120/38/6/001/pdf;jsessionid=228703B04BDFA4C37B8B4CDE3FD15B85.ip-10-40-1-105)
+
+<br><br>
+
 [Read Excel Files and convert to JSON in Node.js](https://ciphertrick.com/read-excel-files-convert-json-node-js/)
 
 <br><br>
