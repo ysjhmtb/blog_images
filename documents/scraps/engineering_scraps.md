@@ -23,6 +23,10 @@
 
 <br><br>
 
+[삐멜 소프트웨어 엔지니어 : 웹 어플리케이션]()
+
+<br><br>
+
 [How do wings work?](https://iopscience.iop.org/article/10.1088/0031-9120/38/6/001/pdf;jsessionid=228703B04BDFA4C37B8B4CDE3FD15B85.ip-10-40-1-105)
 
 <br><br>
