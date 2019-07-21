@@ -9,6 +9,126 @@
 
 <br><br>
 
+[우리도 노동자…‘AB5 법안’ 압박받는 우버·리프트](http://www.bloter.net/archives/347276)
+
+<br><br>
+
+> 이번 달 읽은 것 중에서 가장 인상 깊은 기사. 기사 내용을 꼼꼼히 읽어보기 바란다.
+>
+> https://news.joins.com/article/22349877
+>
+> [오후 7:17 - 2018년 2월 9일](https://twitter.com/hubris2020/status/962163678089891840)
+
+<br><br>
+
+> [Trade wars, Trump tariffs and protectionism explained](https://www.bbc.com/news/world-43512098)
+>
+> **Is free trade better then?** <br>
+> Depends who you ask. <br>
+>
+> Free trade is the opposite of protectionism - it means as few tariffs as possible, giving people the freedom to buy cheaper or better-made products from anywhere in the world. <br>
+>
+> This is great for companies trying to cut costs, and that's helped drive prices down and boost the world economy. <br>
+>
+> Cars, smart phones, food, flowers - free trade has brought affordable products from around the world to your home. <br>
+>
+> But at the same time, that means companies are less likely to buy local products. Why buy domestic when you can get more, cheaper, from a different country? <br>
+>
+> This means the loss of jobs in wealthier countries, and uneven growth - while free trade has made some people richer, it's made others poorer. <br>
+
+<br><br>
+
+> '30대 개발자 여러분들 일 할만 하십니까?'
+>
+> https://blog.naver.com/bong8nim/221001236055
+
+<br><br>
+
+> 간혹 친구나 지인들 그리고 안부를 묻는 사람들은 묻는다.
+>
+> "왜 하시던 거 그만두고 노가다를 하세요?"
+>
+> "무슨 일 있었나요? 왜 갑자기 그런 일을..."
+>
+> 하며 다소 안타까운 뉘앙스로 궁금해한다.
+>
+> 나는 운 좋게 내 능력에 비해 괜찮은 중소기업에서 재무상태도 나쁘지 않고, 
+>
+> 확실한 캐시카우가 있던 IT 회사에서 개발자로 4년 8개월간 근무했었다.
+>
+> 그간 여러 가지 일들이 있고, 힘들었지만 결과적으로 말하자면 이거다.
+>
+> "이쪽 현장 기술을 배우고 익힌다면, 몸이 따라주는 한 밥 걱정 없이 꾸준히 돈 벌 수 있다."
+>
+> 요즘 젊은 사람들이 힘든 일 쪽을 기피한다고 하는데, 
+>
+> 사실 컴퓨터 앞에 앉아서 정신적으로 힘든 거보다는 이쪽이 더 낫다고 생각했다.
+>
+> 그리고 나이 먹어서도 계속할 수 있고.
+>
+> https://blog.naver.com/bong8nim/220942667679
+
+<br><br>
+
+> 2018.08.16. 06:29
+>
+> ＊인력사무소및 건설현장 인력 평균 단가표(잡부,조공,기공)
+>
+> 잡부및 조공 - 12~13만원
+> 건설현장(청소,신호수,자재정리,잡일등)
+>
+> 조공(철근,조적,돌,타일,형틀,비계) - 14~15만원(장비 현장에서 준비)
+>
+> 곰방 - 16만원~17만원(3층까지), 3층 위로는 층마다 1만원씩 추가
+>
+> 양중 - 14~15만원
+> 조적(시멘트,적벽돌) - 22만원(장비 단가 포함)
+> 조적(4인치 블록) - 24만원(장비 단가 포함)
+> 조적(6인치 블록) - 26만원(장비 단가 포함)
+> 조적(8인치 블록) - 28만원(장비 단가 포함)
+> 타일(압착시공) - 20~21만원,(장비 단가 별도)
+> 타일(떠붙임) - 25~26만원.(장비 단가 별도)
+> 메지(타일) - 20만원(장비 단가 포함)
+> 메지(고대,벽돌) - 22만원(장비 단가 포함)
+> 도장(페인트) - 20만원(장비 단가 별도)
+> 도장(후끼,로프,콘푸) - 23만원(장비 단가 별도)
+> 도장(부분빠대,올빠대) - 22/25만원(장비 단가 별도)
+> 용접(전기/산소/co2) - 20만원(장비 단가 별도)
+> 용접(스텐) - 22만원(장비 단가 별도)
+> 용접(알곤) - 24만원(장비 단가 별도)
+> 용접(배관) - 26만원(장비 단가 별도)
+> 용접(로프/테크) - 30만원(장비 단가 별도)
+> 전기(일반) - 20만원(기본 장비 단가 포함)
+> 전기(소방) - 22만원(기본 장비 단가 포함)
+> 철거 잡부 - 14만원
+> 철거(빠루/함마) - 15만원(장비 단가 별도)
+> 철거(육공) - 16만원(바닥),17 ~19만원 벽,천장(장비 단가 별도)
+> 철거(마끼다) - 15만원(바닥),16만원 벽,천장(장비 단가 별도)
+> 철거(컷팅) - 20만원(장비 단가 별도)
+> 그라인더(벽/바닥) - 16~17만원(장비 단가 별도)
+> 그라인더(면갈이) - 19만원(장비 단가 별도)
+> 방수(일반) - 20만원(장비 현장에서 준비)
+> 방수(우레탄방수등) - 25만원(장비 현장에서 준비)
+> 아시바(설치) - 23만원(장비 단가 포함)
+> 아시바(해체) - 24만원(장비 단가 포함)
+> 미장 - 22만원(장비 단가 별도)
+> 경계석 - 20만원(장비 현장에서 준비)
+> 설비 - 20만원(장비 단가 별도)
+> 내장목수 - 22만원(장비 단가 별도)
+> 형틀목수 - 20만원/오야지(반장)23만원
+> 실리콘 - 20만원(장비 현장에서 준비)
+> 철근 - 20만원(장비 현장에서 준비)
+> 타설(조공) - 18만원(장비 현장에서 준비)
+> 타설(기공) - 20만원(장비 현장에서 준비)
+>
+> 
+
+<br><br>
+
+[Dr. William Ziemba Interview – Chat With Traders Episode 137](https://investingshortcuts.com/traders-podcast/dr-william-ziemba-interview-chat-traders-episode-137/)
+
+<br><br>
+
 [Market Makers in Equity Options Are Vanishing](https://www.barrons.com/articles/market-makers-in-equity-options-are-vanishing-1496459364)
 
 <br><br>
