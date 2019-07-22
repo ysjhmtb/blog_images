@@ -148,7 +148,7 @@ thick aerofoil이 많이 사용된다.
 
 <br>
 
-Figure 12를 보면 날개의 angle of attack이 증가할수록, 날개의 윗부분에 더 많은 flow curvature가 나타나고, 따라서 더 많은 양력이 발생하게 된다.하지만 angle of attack이 과도하게 증가하면 오히려 양력을 잃게 된다.
+Figure 12를 보면 날개의 angle of attack이 증가할수록, 날개의 윗부분에 더 많은 flow curvature가 나타나고, 따라서 더 많은 양력이 발생하게 된다. 하지만 angle of attack이 과도하게 증가하면 오히려 양력을 잃게 된다.
 
 <br>
 
@@ -156,6 +156,6 @@ Figure 12를 보면 날개의 angle of attack이 증가할수록, 날개의 윗�
 
 <br>
 
-<img src=""
+<img src="https://raw.githubusercontent.com/ysjhmtb/blog_images/master/documents/VIVA%20BRUTE%20FORCE/PHYSICS/How%20do%20wings%20work/apdix2.jpg](https://raw.githubusercontent.com/ysjhmtb/blog_images/master/documents/VIVA BRUTE FORCE/PHYSICS/How do wings work/apdix2.jpg">
 
 <br>
