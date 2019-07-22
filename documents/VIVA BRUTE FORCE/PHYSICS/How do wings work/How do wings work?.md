@@ -118,7 +118,20 @@ Figure 8에 볼 수 있는 것처럼 이상적인 소용돌이는 concentric cir
 
 <br>
 
+이제 원래 문제로 돌아오자. Figure 9은 가장 간단한 형태의 aerofoil(a curved plate) 주변의 streamlines를 보여준다. 멀리 떨어져 있는 공기층은 날개의 모양에 따라 분포해 있지 않다. 이제 A 지점에서 표면으로 운동하는 것을 고려해보자. A 지점에서 시작할 때는 streamlines가 직선이고 병렬적임을 알 수 있고, 따라서 압력 경사도는 존재하지 않는다.  하지만 aerofoil에 가까이 갈수록 streamlines는 휘어져 있고, 이제 압력 경사도가 존재함을 알 수 있다. B 지점에 도달하게 되면 확실히 A 지점보다 압력이 낮다.
+
+마찬가지로 C에서 D 지점으로 운동하는 경우를 생각할 수 있다. 이번에는 aerofoil에 다가갈수록 점점 더 휘어있는 streamlines가 존재한다. 하지만 이번에는 날개로 다가갈수록 압력이 증가한다. 따라서 D의 압력은 C보다 크다. 
+
+결과적으로 D의 압력은 B의 압력보다 크게 되고, 이는 양력을 발생시키게 된다.
+
+<br>
+
 <img src="https://raw.githubusercontent.com/ysjhmtb/blog_images/master/documents/VIVA%20BRUTE%20FORCE/PHYSICS/How%20do%20wings%20work/FIg10.png](https://raw.githubusercontent.com/ysjhmtb/blog_images/master/documents/VIVA BRUTE FORCE/PHYSICS/How do wings work/FIg10.png">
+
+<br>
+
+Figure 10에서 thin aerofoil은 thick aerofoil보다 양력 발생에 유리하다. 하지만 제작의 어려움과 연료 저장 등의 이유로 
+thick aerofoil이 많이 사용된다.
 
 <br>
 
@@ -126,7 +139,23 @@ Figure 8에 볼 수 있는 것처럼 이상적인 소용돌이는 concentric cir
 
 <br>
 
+빈번한 질문 중 하나는 비행기가 어떻게 비행 고도를 조절하느냐 이다. Figure 11은 angles of attack에 따른 차이를 보여준다. 
+이런 유체 흐름의 차이를 통해 고도가 조정될 수 있다.
+
+<br>
+
 <img src="https://raw.githubusercontent.com/ysjhmtb/blog_images/master/documents/VIVA%20BRUTE%20FORCE/PHYSICS/How%20do%20wings%20work/Fig12.png](https://raw.githubusercontent.com/ysjhmtb/blog_images/master/documents/VIVA BRUTE FORCE/PHYSICS/How do wings work/Fig12.png">
 
 <br>
 
+Figure 12를 보면 날개의 angle of attack이 증가할수록, 날개의 윗부분에 더 많은 flow curvature가 나타나고, 따라서 더 많은 양력이 발생하게 된다.하지만 angle of attack이 과도하게 증가하면 오히려 양력을 잃게 된다.
+
+<br>
+
+<img src="https://raw.githubusercontent.com/ysjhmtb/blog_images/master/documents/VIVA%20BRUTE%20FORCE/PHYSICS/How%20do%20wings%20work/apdix1.jpg](https://raw.githubusercontent.com/ysjhmtb/blog_images/master/documents/VIVA BRUTE FORCE/PHYSICS/How do wings work/apdix1.jpg">
+
+<br>
+
+<img src=""
+
+<br>
