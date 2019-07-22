@@ -152,6 +152,14 @@ Figure 12를 보면 날개의 angle of attack이 증가할수록, 날개의 윗�
 
 <br>
 
+-----
+
+다음은 streamlines에 작용하는 힘들에 대한 수리적인 유도과정이다.
+
+<br>
+
+
+
 <img src="https://raw.githubusercontent.com/ysjhmtb/blog_images/master/documents/VIVA%20BRUTE%20FORCE/PHYSICS/How%20do%20wings%20work/apdix1.jpg](https://raw.githubusercontent.com/ysjhmtb/blog_images/master/documents/VIVA BRUTE FORCE/PHYSICS/How do wings work/apdix1.jpg">
 
 <br>
