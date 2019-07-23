@@ -2,6 +2,34 @@
 
 <br><br>
 
+> 불안감이 엄습하면 영어단어를 외운다.
+>
+> [오후 4:30 - 2019년 7월 19일](https://twitter.com/overthe40ss/status/1152360111702192128)
+
+<br>
+
+<br>
+
+[“평범한 사람을 벌주는 게 진보는 아니다”](http://www.mediatoday.co.kr/news/articleView.html?idxno=200266)
+
+<br><br>
+
+[[단독] ‘타다’ 논란 2라운드…고용부, 기사 불법파견 여부 조사중](http://www.hani.co.kr/arti/economy/it/899012.html)
+
+<br><br>
+
+[100대 국정과제](http://www.evaluation.go.kr/psec/np/np_2_1_2.jsp)
+
+<br><br>
+
+[한국 정치 요동칠 20대 국회 최대 사건](https://www.sisain.co.kr/?mod=news&act=articleView&idxno=34476)
+
+<br><br>
+
+[Electoral Institutions and the Politics of Coalitions: Why Some Democracies Redistribute More than Others](https://www.jstor.org/stable/27644342?seq=1#page_scan_tab_contents)
+
+<br><br>
+
 > 단 하루도 못 쉬고 영상을 찍고 편집했지만 5개월 동안 모은 구독자는 100명. 예상보다 더딘 속도에 마음은 타들어갔다. 마침내 2018년 3월 ‘대체 빛의 속도는 어떻게 알아냈을까’라는 제목의 영상이 51만 조회 수를 기록하며 길이 보이기 시작했다. 그의 영상을 유심히 본 한 박사가 이 영상을 페이스북에 올렸고, 입소문을 타면서 소위 ‘대박’ 영상이 된 것이다. 경기도 과천과학관 등 기관에서 협업 제안도 들어왔다.
 >
 > [“전직 물리교사가 ‘문송합니다’ 말을 없애고 싶은 이유는” ](http://www.hani.co.kr/arti/science/science_general/902714.html)
