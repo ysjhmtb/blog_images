@@ -23,6 +23,10 @@
 
 <br><br>
 
+[Principles Of Welding: Processes, Physics, Chemistry And Metallurgy](https://www.amazon.com/Principles-Welding-Processes-Chemistry-Metallurgy/dp/812655262X)
+
+<br><br>
+
 [삐멜 소프트웨어 엔지니어 : 웹 어플리케이션]()
 
 <br><br>

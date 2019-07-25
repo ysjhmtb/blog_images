@@ -9,6 +9,16 @@
 
 <br><br>
 
+> 저는 돈을 많이 벌 타입은 아니에요. 어차피 제가 일을 많이 잡아버리면요, 어쩔 수 없이 또 옛날처럼 중간에 스킵을 해야 될 작업들은 스킵을 할 거예요. 그래서 제가 리미트로 잡은 게 하루 두 집이에요. 
+>
+> [3부 에어컨 설치기사 월 5백은 버나요? [GOODNEWS 정인하]](https://www.youtube.com/watch?v=bUxYLkde3Zs&feature=youtu.be)
+
+<br><br>
+
+[택배연봉6937만원? 기사 17년 차 대리점장이 팩트 알려드립니다](https://www.youtube.com/watch?v=CJutLs3Z_YY&feature=youtu.be)
+
+<br><br>
+
 [우리도 노동자…‘AB5 법안’ 압박받는 우버·리프트](http://www.bloter.net/archives/347276)
 
 <br><br>

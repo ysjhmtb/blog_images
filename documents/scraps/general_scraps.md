@@ -2,6 +2,28 @@
 
 <br><br>
 
+[노회찬 의원님이 남기신 마지막 트윗 글 | 박주민TV](https://www.youtube.com/watch?v=C8f2S6EN6uM&feature=youtu.be)
+
+<br><br>
+
+[하도급사도 정당한 대가 받는 공공건설 환경 만든다](http://www.koscaj.com/news/articleView.html?idxno=202366)
+
+<br><br>
+
+[What Are Prevailing Wage Laws?](https://www.levelset.com/blog/prevailing-wage-laws/)
+
+<br><br>
+
+> [20대 남자 현상은 왜 생겼나](https://www.sisain.co.kr/?mod=news&act=articleView&idxno=34429)
+>
+> 이 조사는 가설부터 만들어나가는 탐색적인 조사였다. 여기서 제안된 이야기는 한 차례 조사에서 추려낸 가능성의 집합일 뿐이다. 가설을 검증하려면 더 정교하고 목표를 좁힌 설문지와, 직접 인터뷰 등 다른 방식의 접근방법이 조화를 이루어야 한다. 이 긴 이야기는, 아마도 여러 군데가 틀렸다고 결론 날 것이다. 탐색적 조사에서 뽑아낸 가능성의 이야기가 그대로 정답인 경우는 거의 없다. 하지만 우리는 생산적으로, 반증 가능하게 틀리려고 노력했다. 이제 무엇이 틀린 이야기인지를 검증하기가 이전보다 쉬워졌다.
+
+<br><br>
+
+[나경원의 ‘노동자유계약법’ 발언이 위험한 이유](https://www.sisain.co.kr/?mod=news&act=articleView&idxno=35118)
+
+<br><br>
+
 > 불안감이 엄습하면 영어단어를 외운다.
 >
 > [오후 4:30 - 2019년 7월 19일](https://twitter.com/overthe40ss/status/1152360111702192128)
