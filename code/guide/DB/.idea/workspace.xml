@@ -2,87 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d11d516d-d3c5-4a3c-a502-ddced555edfe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../accessdb/src/main/java/com/example/accessdb/configuration/DatabaseConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Dist0707/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Dist0707/bin/www" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Dist0707/models/underlyingAsset.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Dist0707/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Dist0707/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Dist0707/public/stylesheets/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Dist0707/routes/api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Dist0707/routes/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Dist0707/routes/users.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Dist0707/views/error.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Dist0707/views/index.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Dist0707/views/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Distribution/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Distribution/app2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Distribution/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Distribution/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Distribution/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LoadHTML/client/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LoadHTML/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LoadHTML/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LoadHTML/server/app_express.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MERN/Getting Started with the MERN Stack.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MERN/Todo/client/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MERN/Todo/client/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MERN/Todo/client/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MERN/Todo/client/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MERN/Todo/client/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MERN/Todo/client/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MERN/Todo/client/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MERN/Todo/client/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MERN/Todo/client/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MERN/Todo/client/src/components/Input.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MERN/Todo/client/src/components/ListTodo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MERN/Todo/client/src/components/Todo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MERN/Todo/client/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MERN/Todo/client/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MERN/Todo/client/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MERN/Todo/client/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MERN/Todo/client/yarn.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MERN/Todo/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MERN/Todo/models/todo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MERN/Todo/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MERN/Todo/routes/api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MERN/Todo/yarn.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/SpringInfDocu/백기선의_스프링_부트.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/SpringInfDocu/스프링 부트 개념과 활용.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/SpringInfDocu/스프링 프레임워크 입문.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/keesunspringbootstarter/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/keesunspringbootstarter/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/keesunspringbootstarter/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/keesunspringbootstarter/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/keesunspringbootstarter/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/keesunspringbootstarter/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/keesunspringbootstarter/src/main/java/me/whiteship/Holoman.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/keesunspringbootstarter/src/main/java/me/whiteship/HolomanConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/keesunspringbootstarter/src/main/resources/META-INF/spring.factories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/keesunspringbootstarter/target/classes/META-INF/spring-autoconfigure-metadata.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/keesunspringbootstarter/target/classes/META-INF/spring.factories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/keesunspringbootstarter/target/classes/me/whiteship/Holoman.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/keesunspringbootstarter/target/classes/me/whiteship/HolomanConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/keesunspringbootstarter/target/keesun-spring-boot-starter-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/keesunspringbootstarter/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/keesunspringbootstarter/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/keesunspringbootstarter/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/keesunspringbootstarter/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/springbootgettingstarted/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/springbootgettingstarted/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/springbootgettingstarted/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/springbootgettingstarted/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/springbootgettingstarted/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/springbootgettingstarted/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/springbootgettingstarted/src/main/java/me/whiteship/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/springbootgettingstarted/src/main/java/me/whiteship/HolomanRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/springbootgettingstarted/target/classes/me/whiteship/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringInf/springbootgettingstarted/target/classes/me/whiteship/HolomanRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../excelJson/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../excelJson/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../excelJson/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../excelJson/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../board/src/main/java/com/insight/board/board/controller/BoardController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../board/src/main/java/com/insight/board/board/dto/BoardDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../board/src/main/java/com/insight/board/board/mapper/BoardMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../board/src/main/java/com/insight/board/board/service/BoardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../board/src/main/java/com/insight/board/board/service/BoardServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../board/src/main/java/com/insight/board/configuration/DatabaseConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../board/src/main/resources/mapper/sql-board.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../board/src/main/resources/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../board/src/main/resources/templates/board/boardDetail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../board/src/main/resources/templates/board/boardList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../board/src/main/resources/templates/board/boardWrite.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/9efe32ce-703b-44be-b3a5-24f95fb0a95d.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/9efe32ce-703b-44be-b3a5-24f95fb0a95d.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -114,6 +44,25 @@
         <item name="@localhost" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
       </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="db_example: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="study_db: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="study_db: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="t_board: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
     </expand>
     <select />
   </component>
@@ -122,8 +71,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/9efe32ce-703b-44be-b3a5-24f95fb0a95d/console.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="433">
+              <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -148,8 +97,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="573" />
-    <option name="y" value="45" />
+    <option name="x" value="88" />
+    <option name="y" value="29" />
     <option name="width" value="1340" />
     <option name="height" value="974" />
   </component>
@@ -160,18 +109,14 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566658726648" />
-    <property name="database.console.LAST_STATE" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566721744886" />
+    <property name="database.console.LAST_STATE" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -203,14 +148,26 @@
       <updated>1566305073801</updated>
       <workItem from="1566305075246" duration="1594000" />
       <workItem from="1566654989538" duration="2298000" />
+      <workItem from="1566708322594" duration="3132000" />
+      <workItem from="1566728458991" duration="394000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3892000" />
+    <option name="totallyTimeSpent" value="7418000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="573" y="45" width="1340" height="974" extended-state="0" />
+    <frame x="88" y="29" width="1340" height="974" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25274017" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -225,12 +182,12 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Database Console" order="7" visible="true" weight="0.32993197" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32993197" />
+      <window_info anchor="bottom" id="Database Console" order="7" weight="0.32993197" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32993197" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32993197" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -249,8 +206,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/9efe32ce-703b-44be-b3a5-24f95fb0a95d/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="433">
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
         </state>
       </provider>
     </entry>
