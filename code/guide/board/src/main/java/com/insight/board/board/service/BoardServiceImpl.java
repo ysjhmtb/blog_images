@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 @Service
-public class BoardServiceImpl implements BoardService {
+public class BoardServiceImpl implements BoardService{
 
     @Autowired
     private BoardMapper boardMapper;
@@ -25,8 +25,19 @@ public class BoardServiceImpl implements BoardService {
 
     @Override
     public BoardDto selectBoardDetail(int boardIdx) throws Exception{
-        boardMapper.updateHitCount(boardIdx);
         BoardDto board = boardMapper.selectBoardDetail(boardIdx);
+        boardMapper.updateHitCount(boardIdx);
+
         return board;
+    }
+
+    @Override
+    public void updateBoard(BoardDto board) throws Exception {
+        boardMapper.updateBoard(board);
+    }
+
+    @Override
+    public void deleteBoard(int boardIdx) throws Exception {
+        boardMapper.deleteBoard(boardIdx);
     }
 }
