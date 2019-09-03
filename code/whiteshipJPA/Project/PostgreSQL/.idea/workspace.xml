@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30610966-f969-4937-bb7a-0612961ea4df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbcsample/src/main/java/me/whiteship/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springdatademo2/src/main/java/me/whiteship/demospringdata/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springdatademo2/src/main/java/me/whiteship/demospringdata/JpaRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../guide/DB/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../guide/DB/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springdatademo2/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springdatademo2/src/main/resources/application.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +36,7 @@
         <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/57cefd21-8f74-462f-8dd3-a371c3e00e45/console.sql">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+              <caret column="20" selection-start-column="20" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -70,7 +61,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1615" />
+    <option name="x" value="65" />
     <option name="y" value="50" />
     <option name="width" value="1563" />
     <option name="height" value="974" />
@@ -83,9 +74,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -122,16 +113,17 @@
       <workItem from="1567252419588" duration="1084000" />
       <workItem from="1567258230620" duration="628000" />
       <workItem from="1567263156515" duration="1027000" />
+      <workItem from="1567512351603" duration="12000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2739000" />
+    <option name="totallyTimeSpent" value="2751000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1615" y="50" width="1563" height="974" extended-state="0" />
+    <frame x="65" y="50" width="1563" height="974" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25641027" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25969756" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -169,7 +161,7 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/57cefd21-8f74-462f-8dd3-a371c3e00e45/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
         </state>
       </provider>
     </entry>

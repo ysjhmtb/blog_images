@@ -12,11 +12,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d74ae12-26b7-492c-bc62-7077419ceba0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/medianOfTwoSortedArrays.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../optimalGround/Kelly/Hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partitionLabels.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medianOfTwoSortedArrays.h" beforeDir="false" afterPath="$PROJECT_DIR$/medianOfTwoSortedArrays.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../whiteshipJPA/Project/PostgreSQL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../whiteshipJPA/Project/PostgreSQL/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../whiteshipJPA/Project/springdatademo2/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../whiteshipJPA/Project/springdatademo2/src/main/resources/application.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,13 +41,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/medianOfTwoSortedArrays.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-450">
-              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+            <state relative-caret-position="-10">
+              <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/partitionLabels.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="21" column="57" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
               <folding>
-                <element signature="e#166#185#0" expanded="true" />
+                <element signature="e#131#150#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -55,7 +65,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/trappingRainWater.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
+            <state relative-caret-position="1159">
               <caret line="61" selection-start-line="61" selection-end-line="61" />
               <folding>
                 <element signature="e#350#369#0" expanded="true" />
@@ -75,12 +85,13 @@
         <option value="$PROJECT_DIR$/trappingRainWater.h" />
         <option value="$PROJECT_DIR$/main.cpp" />
         <option value="$PROJECT_DIR$/medianOfTwoSortedArrays.h" />
+        <option value="$PROJECT_DIR$/partitionLabels.h" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="340" />
-    <option name="y" value="251" />
+    <option name="x" value="338" />
+    <option name="y" value="149" />
     <option name="width" value="1439" />
     <option name="height" value="829" />
   </component>
@@ -92,7 +103,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -104,6 +114,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,18 +156,18 @@
       <updated>1566909511414</updated>
       <workItem from="1566909514311" duration="3628000" />
       <workItem from="1567168010152" duration="2298000" />
+      <workItem from="1567512417490" duration="2535000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5926000" />
+    <option name="totallyTimeSpent" value="8461000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="340" y="251" width="1439" height="829" extended-state="0" />
-    <editor active="true" />
+    <frame x="338" y="149" width="1439" height="829" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.20544022" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20830351" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -186,7 +197,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/trappingRainWater.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
+        <state relative-caret-position="1159">
           <caret line="61" selection-start-line="61" selection-end-line="61" />
           <folding>
             <element signature="e#350#369#0" expanded="true" />
@@ -203,10 +214,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/medianOfTwoSortedArrays.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-450">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        <state relative-caret-position="-10">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partitionLabels.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="21" column="57" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
           <folding>
-            <element signature="e#166#185#0" expanded="true" />
+            <element signature="e#131#150#0" expanded="true" />
           </folding>
         </state>
       </provider>
