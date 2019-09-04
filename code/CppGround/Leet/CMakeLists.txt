@@ -3,4 +3,4 @@ project(Leet)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Leet main.cpp trappingRainWater.h medianOfTwoSortedArrays.h partitionLabels.h)
+add_executable(Leet main.cpp trappingRainWater.h medianOfTwoSortedArrays.h partitionLabels.h allNodesDistanceKinBinaryTree.h)

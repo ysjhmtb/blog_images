@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30610966-f969-4937-bb7a-0612961ea4df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../springdatademo2/src/main/java/me/whiteship/demospringdata/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springdatademo2/src/main/java/me/whiteship/demospringdata/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springdatademo2/src/main/java/me/whiteship/demospringdata/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springdatademo2/src/main/java/me/whiteship/demospringdata/JpaRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springdatademo2/src/main/java/me/whiteship/demospringdata/JpaRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springdatademo2/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springdatademo2/src/main/resources/application.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -35,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/57cefd21-8f74-462f-8dd3-a371c3e00e45/console.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="20" selection-start-column="20" selection-end-column="20" />
+            <state relative-caret-position="19">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -61,8 +65,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="50" />
+    <option name="x" value="87" />
+    <option name="y" value="73" />
     <option name="width" value="1563" />
     <option name="height" value="974" />
   </component>
@@ -74,9 +78,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PostgreSQL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PostgreSQL" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -114,16 +128,17 @@
       <workItem from="1567258230620" duration="628000" />
       <workItem from="1567263156515" duration="1027000" />
       <workItem from="1567512351603" duration="12000" />
+      <workItem from="1567622758236" duration="2205000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2751000" />
+    <option name="totallyTimeSpent" value="4956000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="50" width="1563" height="974" extended-state="0" />
+    <frame x="87" y="73" width="1563" height="974" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25969756" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26298487" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -160,8 +175,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/57cefd21-8f74-462f-8dd3-a371c3e00e45/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>

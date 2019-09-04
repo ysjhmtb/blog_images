@@ -15,25 +15,52 @@
     A partition like "ababcbacadefegde", "hijhklij" is incorrect, because it splits S into less parts.
 
 
-    1) a, b, c 등 각각의 글자가 마지막으로 등장하는 인덱스를 기록한다.
-    2) 카운트 변수와 시작 지점 변수를 초기화 한다.
-    3) 현재 지점에서 카운트 변수에 최대의 값을 넣어준다.
-    4) 카운트 변수에 들어있는 값이 한개의 순회에서 도달해야 할 지점이다.
-    5) 한 글자씩 검사하면서 카운트 변수를 갱신해 주고, 원하는 지점에 도달하면 결과를 계산한다.
-
+    Accepted
 
  */
 
 #include <iostream>
 #include <vector>
 #include <string>
+#include <map>
+#include <algorithm>
 
 using namespace std;
 
+// ababcbaca / defegde / hijhklij
+// 012345678
+// i=5일 때 종료하지 말고 i=8까지 기다려야 한다. 어떤 조건문을 사용해야 할까? 얼마까지 기다려야 하는지를 저장하고 갱신하자.
 class Solution {
 public:
     vector<int> partitionLabels(string S) {
 
+        vector<int> result;
+
+        // 각 글자의 마지막 위치를 기록한다.
+        map<string, int> maxIndexMap;
+        for (unsigned i = 0; i < S.size(); i++) {
+            string key = S.substr(i, 1);
+            maxIndexMap[key] = i;
+//            cout << "key: " << key << " , value: " << i << endl;
+        }
+
+        // 시작 지점, 기다려야 할 최대 크기
+        int start = 0, maxForWaiting = 0;
+
+        // 기다려야 할 지점까지 도달하면 계산하고 결과에 저장한다.
+        for (unsigned i = 0; i < S.size(); i++) {
+            string key = S.substr(i, 1);
+            maxForWaiting = max(maxForWaiting, maxIndexMap[key]);
+            if (i == maxForWaiting) {
+                int tempResult = maxForWaiting - start + 1;
+                result.push_back(tempResult);
+                start = i + 1;
+                maxForWaiting = 0;
+//                cout << "result: " << tempResult << endl;
+            }
+        }
+
+        return result;
     }
 };
 
