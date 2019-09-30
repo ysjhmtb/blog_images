@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d487262-022d-40e5-9187-b0c92aa84d49" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReorderDataInLogFiles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetJava.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,21 +16,25 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetJava.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MyQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="304">
+              <caret line="83" column="24" lean-forward="true" selection-start-line="83" selection-start-column="24" selection-end-line="83" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MyQueue.java">
+        <entry file="file://$PROJECT_DIR$/src/ReorderDataInLogFiles.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-480">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="568">
+              <caret line="38" column="5" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
               <folding>
-                <element signature="e#1279#1280#0" expanded="true" />
-                <element signature="e#1314#1315#0" expanded="true" />
+                <element signature="e#0#48#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -66,6 +69,7 @@
         <option value="$PROJECT_DIR$/src/ImplementQueueUsingStacks.java" />
         <option value="$PROJECT_DIR$/src/LeetJava.java" />
         <option value="$PROJECT_DIR$/src/MyQueue.java" />
+        <option value="$PROJECT_DIR$/src/ReorderDataInLogFiles.java" />
       </list>
     </option>
   </component>
@@ -77,9 +81,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="389" />
-    <option name="y" value="72" />
-    <option name="width" value="1512" />
+    <option name="x" value="824" />
+    <option name="y" value="30" />
+    <option name="width" value="1096" />
     <option name="height" value="974" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -90,8 +94,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -113,7 +117,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569672448712" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569840098793" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -158,12 +162,13 @@
       <workItem from="1569127055732" duration="8951000" />
       <workItem from="1569498921707" duration="2427000" />
       <workItem from="1569650719026" duration="566000" />
-      <workItem from="1569666941038" duration="2635000" />
+      <workItem from="1569666941038" duration="2848000" />
+      <workItem from="1569832468251" duration="3851000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15670000" />
+    <option name="totallyTimeSpent" value="19734000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -175,10 +180,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="389" y="72" width="1512" height="974" extended-state="0" />
+    <frame x="639" y="49" width="1096" height="974" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35918367" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20777988" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -195,7 +200,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32993197" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49967128" visible="true" weight="0.2505669" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49967128" visible="true" weight="0.2505669" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5003287" side_tool="true" weight="0.32993197" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -234,19 +239,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ImplementQueueUsingStacks.java" />
     <entry file="file://$PROJECT_DIR$/src/LeetJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-480">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="304">
+          <caret line="83" column="24" lean-forward="true" selection-start-line="83" selection-start-column="24" selection-end-line="83" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReorderDataInLogFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
           <folding>
-            <element signature="e#1279#1280#0" expanded="true" />
-            <element signature="e#1314#1315#0" expanded="true" />
+            <element signature="e#0#48#0" expanded="true" />
           </folding>
         </state>
       </provider>
