@@ -1,5 +1,3 @@
-package com.company;
-
 /*
 https://leetcode.com/problems/implement-queue-using-stacks/
 MyQueue queue = new MyQueue();

@@ -1,5 +1,3 @@
-package com.company;
-
 /*
 https://leetcode.com/problems/reorder-data-in-log-files/
 Input: logs = ["dig1 8 1 5 1",

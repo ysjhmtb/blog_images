@@ -1,5 +1,3 @@
-package com.company;
-
 /*
 https://leetcode.com/problems/the-maze-ii/
 Input 1: a maze represented by a 2D array
