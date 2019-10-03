@@ -1,55 +1,38 @@
+package com.company;
+
 /*
 https://leetcode.com/problems/implement-queue-using-stacks/
-
 MyQueue queue = new MyQueue();
-
 queue.push(1);
 queue.push(2);
 queue.peek();  // returns 1
 queue.pop();   // returns 1
 queue.empty(); // returns false
-
-
 1) push push push
-
 3
 2
 1 <- front
 <stack 1>
-
-
 2) pop
-
 1 <- front (X)
 2
 3
 <stack 2>
-
-
 3) push push
-
 5
 4 <- front
 <stack 1>
-
 2
 3
 <stack 2>
-
-
 4) peek
-
 return front
-
-
 Accepted
-
  */
 
 import java.util.Stack;
 
 public class MyQueue {
-
     Stack<Integer> s1 = new Stack<>();
     Stack<Integer> s2 = new Stack<>();
     private int front;
@@ -102,7 +85,6 @@ public class MyQueue {
         return s1.empty() && s2.empty();
     }
 }
-
 
 /**
  * Your MyQueue object will be instantiated and called as such:

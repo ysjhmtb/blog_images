@@ -1,6 +1,7 @@
+package com.company;
+
 /*
 https://leetcode.com/problems/reorder-data-in-log-files/
-
 Input: logs = ["dig1 8 1 5 1",
                 "let1 art can",
                 "dig2 3 6",
@@ -11,11 +12,8 @@ Output: ["let1 art can",
         "let2 own kit dig",
         "dig1 8 1 5 1",
         "dig2 3 6"]
-
 Accepted
 time complexity O(N logN)
-
-
  */
 
 import java.util.Arrays;
@@ -40,4 +38,3 @@ public class ReorderDataInLogFiles {
         return logs;
     }
 }
-
