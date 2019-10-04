@@ -1,12 +1,19 @@
+import kakao2020.Kakao2020N1;
+
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("Hello ");
-        int[] nums = {2, 7, 11, 15};
-        int target = 9;
-        TwoSum ref = new TwoSum();
-        int[] res = ref.twoSum(nums, target);
-        for (int i = 0; i < res.length; i++) {
-            System.out.print(res[i] + " ");
-        }
+        String str1 = "aabbaccc";
+        String str2 = "ababcdcdababcdcd";
+        String str3 = "abcabcdede";
+        String str4 = "abcabcabcabcdededededede";
+        String str5 = "xababcdcdababcdcd";
+
+        Kakao2020N1 ref = new Kakao2020N1();
+        ref.solution(str1);
+        System.out.println(ref.solution(str1));
+        System.out.println(ref.solution(str2));
+        System.out.println(ref.solution(str3));
+        System.out.println(ref.solution(str4));
+        System.out.println(ref.solution(str5));
     }
 }
