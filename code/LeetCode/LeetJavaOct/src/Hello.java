@@ -1,4 +1,5 @@
 
+import DataStructures.PQComparable;
 import kakao2020.Kakao2020N2;
 
 public class Hello {
@@ -13,12 +14,8 @@ public class Hello {
 //        System.out.println("reulst: " + ref.solution(")()("));
 //        ref.solution(")()(");
 
-        NetworkDelayTime ref = new NetworkDelayTime();
-        int[][] times = {{2, 1, 1}, {2, 3, 1}, {3, 4, 1}};
-        int N = 4;
-        int K = 2;
-
-        System.out.println(ref.networkDelayTime(times, N, K));;
+        PQComparable ref = new PQComparable();
+        ref.printElements();
 
     }
 }
