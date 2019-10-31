@@ -3,7 +3,11 @@ import DataStructures.PQComparable;
 import kakao2020.Kakao2020N2;
 
 public class Hello {
+
+
+
     public static void main(String[] args) {
+
 
 //        Kakao2020N2 ref = new Kakao2020N2();
 //        ref.solution(")(");
@@ -18,6 +22,7 @@ public class Hello {
         ref.longestPalindrome("cbbd");
         System.out.println(ref.longestPalindrome("babad"));
         System.out.println(ref.longestPalindrome("cbbd"));
+        System.out.println(ref.longestPalindrome("abb"));
 
 
     }
