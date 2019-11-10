@@ -5,7 +5,6 @@ import kakao2020.Kakao2020N2;
 public class Hello {
 
 
-
     public static void main(String[] args) {
 
 
@@ -18,11 +17,13 @@ public class Hello {
 //        System.out.println("reulst: " + ref.solution(")()("));
 //        ref.solution(")()(");
 
-        LongestPalindromicSubstring ref = new LongestPalindromicSubstring();
-        ref.longestPalindrome("cbbd");
-        System.out.println(ref.longestPalindrome("babad"));
-        System.out.println(ref.longestPalindrome("cbbd"));
-        System.out.println(ref.longestPalindrome("abb"));
+//        LongestPalindromicSubstring ref = new LongestPalindromicSubstring();
+//        ref.longestPalindrome("cbbd");
+//        System.out.println(ref.longestPalindrome("babad"));
+//        System.out.println(ref.longestPalindrome("cbbd"));
+//        System.out.println(ref.longestPalindrome("abb"));
+        CoinChange ref = new CoinChange();
+        System.out.println(ref.coinChange(new int[]{1, 2, 3}, 6));
 
 
     }
