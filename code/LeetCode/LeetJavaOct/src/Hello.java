@@ -17,13 +17,10 @@ public class Hello {
 //        System.out.println("reulst: " + ref.solution(")()("));
 //        ref.solution(")()(");
 
-//        LongestPalindromicSubstring ref = new LongestPalindromicSubstring();
-//        ref.longestPalindrome("cbbd");
-//        System.out.println(ref.longestPalindrome("babad"));
-//        System.out.println(ref.longestPalindrome("cbbd"));
-//        System.out.println(ref.longestPalindrome("abb"));
-        CoinChange ref = new CoinChange();
-        System.out.println(ref.coinChange(new int[]{1, 2, 3}, 6));
+        LongestPalindromicSubstring ref = new LongestPalindromicSubstring();
+        System.out.println(ref.longestPalindrome("babad"));
+        System.out.println(ref.longestPalindrome("cbbd"));
+        System.out.println(ref.longestPalindrome("abb"));
 
 
     }
