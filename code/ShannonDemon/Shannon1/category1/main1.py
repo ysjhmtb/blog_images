@@ -1,4 +1,4 @@
-from main1api import *
+from category1.main1api import *
 import plotly.express as px
 
 ref = DataPre()

@@ -1,4 +1,4 @@
-from getdata import getDataFromNaver
+from category2.getdata import getDataFromNaver
 
 # 신한 S&P500 VIX S/T 선물 ETN B 500045
 vix = getDataFromNaver(500045)
