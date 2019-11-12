@@ -9,7 +9,7 @@ def getDataFromNaver(code):
     pattern = re.compile(r'\s+')
 
     # 1페이지에서 ?페이지의 데이터만 가져오기
-    for page in range(1, 30):
+    for page in range(1, 14):
         pg_url = '{url}&page={page}'.format(url=url, page=page)
         pg_url = re.sub(pattern, '', pg_url)
         df = df.append(pd.read_html(pg_url, header=0)[0], ignore_index=True)
@@ -28,13 +28,14 @@ def getDataFromNaver(code):
     # 컬럼명 'date'의 타입을 date로 바꿔줌
     df['date'] = pd.to_datetime(df['date'])
 
-    # 상위 5개 데이터 확인
-    # print(df.head())
+    # 정렬 순서와 인덱스를 변경
+    df = df.loc[::-1].reset_index(drop=True)
+
     return df
 
 # 신한 S&P500 VIX S/T 선물 ETN B 500045
-print(getDataFromNaver(500045).head())
+# print(getDataFromNaver(500045).head())
 
 # KODEX 레버리지 122630
-print(getDataFromNaver(122630).head())
+# print(getDataFromNaver(122630).head())
 
