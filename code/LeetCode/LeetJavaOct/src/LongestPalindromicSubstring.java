@@ -38,6 +38,35 @@ bb
 다른 코드에서 많이 배움.
  */
 
+
+public class LongestPalindromicSubstring {
+    public String longestPalindrome(String s) {
+        String res = "";
+        int currLengh = 0;
+        for (int i = 0; i < s.length(); i++) {
+            if (this.isPalindrome(s, i - currLengh - 1, i)) {
+                res = s.substring(i - currLengh - 1, i + 1);
+                currLengh += 2;
+            } else if (this.isPalindrome(s, i - currLengh, i)) {
+                res = s.substring(i - currLengh, i + 1);
+                currLengh += 1;
+            }
+        }
+        return res;
+    }
+
+    public boolean isPalindrome(String s, int begin, int end) {
+        if (begin < 0) return false;
+        while (begin < end) {
+            if (s.charAt(begin++) != s.charAt(end--)) return false;
+        }
+        return true;
+    }
+}
+
+
+
+/*
 public class LongestPalindromicSubstring {
 
     public String longestPalindrome(String s) {
@@ -70,8 +99,8 @@ public class LongestPalindromicSubstring {
         }
         return true;
     }
-
-
 }
+
+ */
 
 
