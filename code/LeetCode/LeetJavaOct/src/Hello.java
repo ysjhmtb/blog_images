@@ -17,10 +17,14 @@ public class Hello {
 //        System.out.println("reulst: " + ref.solution(")()("));
 //        ref.solution(")()(");
 
-        LongestPalindromicSubstring ref = new LongestPalindromicSubstring();
-        System.out.println(ref.longestPalindrome("babad"));
-        System.out.println(ref.longestPalindrome("cbbd"));
-        System.out.println(ref.longestPalindrome("abb"));
+        NumberOfIslands ref = new NumberOfIslands();
+        char[][] grid = {
+                {'1', '1', '0', '0', '0'},
+                {'1', '1', '0', '0', '0'},
+                {'0', '0', '1', '0', '0'},
+                {'0', '0', '0', '1', '1'}
+        };
+        System.out.println(ref.numIslands(grid));
 
 
     }
