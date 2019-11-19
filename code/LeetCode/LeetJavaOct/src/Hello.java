@@ -16,15 +16,9 @@ public class Hello {
 //        System.out.println("reulst: " + ref.solution(")()()("));
 //        System.out.println("reulst: " + ref.solution(")()("));
 //        ref.solution(")()(");
+        ValidParentheses ref = new ValidParentheses();
+        System.out.println(ref.isValid("{[]}"));
 
-        NumberOfIslands ref = new NumberOfIslands();
-        char[][] grid = {
-                {'1', '1', '0', '0', '0'},
-                {'1', '1', '0', '0', '0'},
-                {'0', '0', '1', '0', '0'},
-                {'0', '0', '0', '1', '1'}
-        };
-        System.out.println(ref.numIslands(grid));
 
 
     }
