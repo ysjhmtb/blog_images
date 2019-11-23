@@ -1,5 +1,5 @@
 import unittest
-from . import main1122
+from category3.main1122 import Position1019
 
 '''
 https://docs.python.org/3/library/unittest.html 
@@ -9,11 +9,11 @@ assertEqual(ref.total, 20000)
 이런식으로~
 '''
 
-ref = main1122.Position1019(1559.5)
+ref = Position1019(1559.5)
 
 
 class CustomTests(unittest.TestCase):
-    def test_runs(self):
+    def forPosition1019(self):
         # 생성자
         self.assertEqual(ref.startPrice, 1559.5)
         self.assertEqual(ref.cash, 5000)
@@ -45,7 +45,23 @@ class CustomTests(unittest.TestCase):
         ref.updateMaxProfit(1572.25)
         self.assertEqual(ref.maxProfit, 204)
 
+        # rebalance - rolloverCount
+        ref.rolloverCount = 0
+        ref.rebalance(1572.25)
+        self.assertEqual(ref.rolloverCount, 1)
 
+        # rebalance - wainAndSee*
+        ref.waitAndSeeFlag = True
+        ref.waitAndSeeCount = 4
+        ref.rebalance(1572.25)
+        self.assertEqual(ref.waitAndSeeCount, 5)
+        ref.rebalance(1572.25)
+        self.assertFalse(ref.waitAndSeeFlag)
+        self.assertEqual(ref.waitAndSeeCount, 0)
+
+    def test_runs(self):
+        self.forPosition1019()
+        # self.assertEqual(1, 1)
 
 
 if __name__ == '__main__':
