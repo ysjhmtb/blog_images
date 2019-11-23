@@ -16,9 +16,8 @@ public class Hello {
 //        System.out.println("reulst: " + ref.solution(")()()("));
 //        System.out.println("reulst: " + ref.solution(")()("));
 //        ref.solution(")()(");
-        ValidParentheses ref = new ValidParentheses();
-        System.out.println(ref.isValid("{[]}"));
-
+        ProductOfArrayExceptSelf ref = new ProductOfArrayExceptSelf();
+        System.out.println(ref.productExceptSelf(new int[]{1, 2, 3, 4}));
 
 
     }
