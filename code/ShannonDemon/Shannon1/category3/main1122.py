@@ -116,7 +116,7 @@ class Position1019v2:
                               + self.calculateProfit(price) \
                               + (self.contractCount * self.CONST_DEPOSIT) \
                               - (2 * self.CONST_FEE)
-            if(self.totalAsset >= 600000):
+            if (self.totalAsset >= 600000):
                 # Sep 01 2018 VIX 12.12 Oct 01 2018 VIX 21.23
                 print("!!!")
                 print(price)
@@ -178,6 +178,14 @@ class Position1019:
             self.liquidatePostion(price)
             return
         self.updateMaxProfit(price)
+        if self.entryCount < 3 and self.calculateProfit(price) // self.contractCount > 400 \
+                and self.posMoney >= self.CONST_DEPOSIT:
+            self.startPrice += (self.startPrice + price) / 2
+            self.posMoney += (self.reserveMoney // (3 - self.entryCount))
+            self.reserveMoney -= (self.reserveMoney // (3 - self.entryCount))
+            self.entryCount += 1
+            self.contractCount += (self.posMoney // self.CONST_DEPOSIT)
+            self.posMoney -= (self.posMoney // self.CONST_DEPOSIT) * self.CONST_DEPOSIT
 
     # price = 1,572.25
     def liquidatePostion(self, price):
@@ -204,7 +212,8 @@ class Position1019:
         return ((price - self.startPrice) / 0.25) * self.contractCount * 2
 
     def checkLiquidation(self, price):
-        if price < self.startPrice:
+        # if price < self.startPrice:
+        if self.calculateProfit(price) < (-1 * self.CONST_DEPOSIT * self.contractCount):
             return True
         elif self.calculateProfit(price) < self.maxProfit * 0.8:
             return True
@@ -309,15 +318,17 @@ if __name__ == '__main__':
     vix = pd.read_csv("./vixcurrent.csv")
     vix = transformVixDate(vix)
 
-    # print(vix[1511:len(vix)].reset_index(drop=True))
-    # print(vix['Date'][1511])
-    # for i in range(len(vix['Date'])):
-    #     if vix['Date'][i] == "Jan 04, 2010":
-    #         print(i)
+    print(vix[1511:len(vix)].reset_index(drop=True))
+    print(vix['Date'][1511])
+    for i in range(len(vix['Date'])):
+        if vix['Date'][i] == "Jan 04, 2010":
+            print(i)
     vix = vix[1511:len(vix)].reset_index(drop=True)
+    print(vix)
 
-    ref = Position1019v2(strToF(raw['Price'][0]))
+    ref = Position1019(strToF(raw['Price'][0]))
     for i in range(1, 2482):
-        temp = strToF(raw['Price'][i])
-        ref.rebalance(temp)
+        if vix['VIX Close'][i] < 15.0:
+            temp = strToF(raw['Price'][i])
+            ref.rebalance(temp)
     ref.drawGraph()
