@@ -82,7 +82,7 @@ class Position1019v2:
         self.totalAsset = 10000
         self.totalArr = []
         self.totalArr.append(self.totalAsset)
-        self.CONST_CASH_RATIO = 0.9
+        self.CONST_CASH_RATIO = 0.90
         self.cash = self.totalAsset * self.CONST_CASH_RATIO  # 9,000
         self.posMoney = self.totalAsset - self.cash  # 1,000
         self.CONST_DEPOSIT = 720
