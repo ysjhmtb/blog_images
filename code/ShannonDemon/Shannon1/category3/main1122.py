@@ -93,7 +93,6 @@ class Position1019v2:
         self.CONST_FEE = 2
         self.margincallCount = 0
 
-
     def calculateProfit(self, price):
         # 계산:[(1572.25-1559.5)/0.25] X 1계약 X $2 = $102
         return ((price - self.startPrice) / 0.25) * self.contractCount * 2
@@ -317,8 +316,6 @@ if __name__ == '__main__':
 
     ref = Position1019v2(strToF(raw['Price'][0]))
     for i in range(1, 2482):
-        if float(vix['VIX Close'][i]) > 17.0:
-            continue
         temp = strToF(raw['Price'][i])
         ref.rebalance(temp)
     ref.drawGraph()
