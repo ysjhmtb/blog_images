@@ -74,6 +74,69 @@ import pandas as pd
 import plotly.express as px
 
 
+class Position1019v2:
+    # price = 1559.5
+    def __init__(self, price):
+        self.hasLong = True
+        self.startPrice = price
+        self.totalAsset = 10000
+        self.totalArr = []
+        self.totalArr.append(self.totalAsset)
+        self.CONST_CASH_RATIO = 0.9
+        self.cash = self.totalAsset * self.CONST_CASH_RATIO  # 9,000
+        self.posMoney = self.totalAsset - self.cash  # 1,000
+        self.CONST_DEPOSIT = 720
+        self.contractCount = self.posMoney // self.CONST_DEPOSIT  # 1
+        self.posMoney -= (self.contractCount * self.CONST_DEPOSIT)  # 280
+        self.rolloverCount = 0
+        self.rebalanceCount = 0
+        self.CONST_FEE = 2
+        self.margincallCount = 0
+
+
+    def calculateProfit(self, price):
+        # 계산:[(1572.25-1559.5)/0.25] X 1계약 X $2 = $102
+        return ((price - self.startPrice) / 0.25) * self.contractCount * 2
+
+    # price = 1,572.25
+    def rebalance(self, price):
+
+        if (self.contractCount * self.CONST_DEPOSIT) + self.calculateProfit(price) \
+                < (self.contractCount * self.CONST_DEPOSIT):
+            self.margincallCount += 1
+            print(self.cash)
+            print(self.calculateProfit(price))
+        if self.rebalanceCount < 20:
+            self.rebalanceCount += 1
+            return
+        else:
+            self.rebalanceCount = 0
+            # 9,000 + 280 + 102 + 1 * 720 = 10,102
+            # 10,102 - 4 = 10,098
+            self.totalAsset = self.cash + self.posMoney \
+                              + self.calculateProfit(price) \
+                              + (self.contractCount * self.CONST_DEPOSIT) \
+                              - (2 * self.CONST_FEE)
+            self.totalArr.append(self.totalAsset)
+            # 1572.25
+            self.startPrice = price
+            # 10,098 * 0.9 = 9,088.2
+            self.cash = self.totalAsset * self.CONST_CASH_RATIO
+            # 10,098 - 9,099.2 = 1,009.8
+            self.posMoney = self.totalAsset - self.cash
+            # 1
+            self.contractCount = self.posMoney // self.CONST_DEPOSIT
+            # 1,009.8 - 720 = 289.8
+            self.posMoney -= (self.contractCount * self.CONST_DEPOSIT)
+
+    def drawGraph(self):
+        print("totalArr")
+        print(self.totalArr)
+        print(self.margincallCount)
+        fig = px.line(x=range(len(self.totalArr)), y=self.totalArr)
+        fig.show()
+
+
 class Position1019:
     # price = 1559.5
     def __init__(self, price):
@@ -197,14 +260,65 @@ def strToF(str):
     return float(str)
 
 
+def transformVixDate(vix):
+    # 1/2/2004 -> Jan 02, 2004
+    for i in range(len(vix['Date'])):
+        tmp = vix['Date'][i]
+        tmpArr = tmp.split("/")
+        tmp = ""
+        if tmpArr[0] == "1":
+            tmp += "Jan "
+        elif tmpArr[0] == "2":
+            tmp += "Feb "
+        elif tmpArr[0] == "3":
+            tmp += "Mar "
+        elif tmpArr[0] == "4":
+            tmp += "Apr "
+        elif tmpArr[0] == "5":
+            tmp += "May "
+        elif tmpArr[0] == "6":
+            tmp += "Jun "
+        elif tmpArr[0] == "7":
+            tmp += "Jul "
+        elif tmpArr[0] == "8":
+            tmp += "Aug "
+        elif tmpArr[0] == "9":
+            tmp += "Sep "
+        elif tmpArr[0] == "10":
+            tmp += "Oct "
+        elif tmpArr[0] == "11":
+            tmp += "Nov "
+        elif tmpArr[0] == "12":
+            tmp += "Dec "
+
+        if len(tmpArr[1]) == 1:
+            tmp += (str(0) + tmpArr[1] + ", ")
+        else:
+            tmp += (tmpArr[1] + ", ")
+
+        tmp += tmpArr[2]
+        vix['Date'][i] = tmp
+    return vix
+
+
 if __name__ == '__main__':
     raw = readCsv("./NasdaqFuturesHistoricalData.csv")
-    print(type(strToF(raw['Price'][0])))
+    vix = pd.read_csv("./vixcurrent.csv")
+    vix = transformVixDate(vix)
 
-    ref = Position1019(strToF(raw['Price'][0]))
-    for i in range(1, len(raw['Price'])):
-        if i == 200:
-            print(raw['Date'][i])
+    # print(vix[1511:len(vix)].reset_index(drop=True))
+    # print(vix['Date'][1511])
+    # for i in range(len(vix['Date'])):
+    #     if vix['Date'][i] == "Jan 04, 2010":
+    #         print(i)
+    vix = vix[1511:len(vix)].reset_index(drop=True)
+    print(vix)
+    print(raw)
+
+    ref = Position1019v2(strToF(raw['Price'][0]))
+    for i in range(1, 2482):
+        if float(vix['VIX Close'][i]) > 17.0:
+            continue
         temp = strToF(raw['Price'][i])
         ref.rebalance(temp)
     ref.drawGraph()
