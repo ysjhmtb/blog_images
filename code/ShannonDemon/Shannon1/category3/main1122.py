@@ -103,8 +103,8 @@ class Position1019v2:
         if (self.contractCount * self.CONST_DEPOSIT) + self.calculateProfit(price) \
                 < (self.contractCount * self.CONST_DEPOSIT):
             self.margincallCount += 1
-            print(self.cash)
-            print(self.calculateProfit(price))
+            # print(self.cash)
+            # print(self.calculateProfit(price))
         if self.rebalanceCount < 20:
             self.rebalanceCount += 1
             return
@@ -116,6 +116,10 @@ class Position1019v2:
                               + self.calculateProfit(price) \
                               + (self.contractCount * self.CONST_DEPOSIT) \
                               - (2 * self.CONST_FEE)
+            if(self.totalAsset >= 600000):
+                # Sep 01 2018 VIX 12.12 Oct 01 2018 VIX 21.23
+                print("!!!")
+                print(price)
             self.totalArr.append(self.totalAsset)
             # 1572.25
             self.startPrice = price
@@ -311,8 +315,6 @@ if __name__ == '__main__':
     #     if vix['Date'][i] == "Jan 04, 2010":
     #         print(i)
     vix = vix[1511:len(vix)].reset_index(drop=True)
-    print(vix)
-    print(raw)
 
     ref = Position1019v2(strToF(raw['Price'][0]))
     for i in range(1, 2482):
