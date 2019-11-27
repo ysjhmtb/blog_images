@@ -3,22 +3,16 @@ import DataStructures.PQComparable;
 import kakao2020.Kakao2020N2;
 
 public class Hello {
-
-
     public static void main(String[] args) {
+        // [[1,3],[2,6],[8,10],[15,18]]
+        int[][] intervals = new int[4][2];
+        intervals[0] = new int[]{1, 3};
+        intervals[1] = new int[]{2, 6};
+        intervals[2] = new int[]{8, 10};
+        intervals[3] = new int[]{15, 18};
 
-
-//        Kakao2020N2 ref = new Kakao2020N2();
-//        ref.solution(")(");
-//        System.out.println("result: " + ref.solution("(()())()"));
-//        System.out.println("result: " + ref.solution(")("));
-//        System.out.println("result: " + ref.solution("()))((()"));
-//        System.out.println("reulst: " + ref.solution(")()()("));
-//        System.out.println("reulst: " + ref.solution(")()("));
-//        ref.solution(")()(");
-        ProductOfArrayExceptSelf ref = new ProductOfArrayExceptSelf();
-        System.out.println(ref.productExceptSelf(new int[]{1, 2, 3, 4}));
-
-
+        MergeIntervals ref = new MergeIntervals();
+        int[][] sol = ref.merge(intervals);
+        System.out.println(sol);
     }
 }
