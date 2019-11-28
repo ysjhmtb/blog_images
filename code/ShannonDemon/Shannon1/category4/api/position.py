@@ -62,9 +62,11 @@ class Position_1128:
         self.reserveMoney = self.totalAsset - self.cash
         if self.hasLong:
             self.longEntryCount += 1
-            self.longCount = ((self.reserveMoney * (long_ratio / cash_ratio)) // 3) // self.CONST_DEPOSIT
+            self.longCount = ((self.reserveMoney * (
+                        long_ratio / (long_ratio + short_ratio))) // 3) // self.CONST_DEPOSIT
             self.reserveMoney -= (self.longCount * self.CONST_DEPOSIT)
         if self.hasShort:
             self.shortEntryCount += 1
-            self.shortCount = ((self.reserveMoney * (short_ratio / cash_ratio)) // 3) // self.CONST_DEPOSIT
+            self.shortCount = ((self.reserveMoney * (
+                        short_ratio / (long_ratio + short_ratio))) // 3) // self.CONST_DEPOSIT
             self.reserveMoney -= (self.shortCount * self.CONST_DEPOSIT)
