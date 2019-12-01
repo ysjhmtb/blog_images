@@ -68,3 +68,7 @@ class Toolbox:
                 ndq = ndq.drop(i, 0)
         ndq = ndq.reset_index(drop=True)
         return ndq
+
+    def strToF_NDQ(self, str):
+        str = str.replace(",", "")
+        return float(str)

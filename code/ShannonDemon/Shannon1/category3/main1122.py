@@ -330,5 +330,7 @@ if __name__ == '__main__':
     for i in range(1, 2482):
         if vix['VIX Close'][i] < 15.0:
             temp = strToF(raw['Price'][i])
+            print(raw['Date'][i])
+            print(raw['Price'][i])
             ref.rebalance(temp)
     ref.drawGraph()
