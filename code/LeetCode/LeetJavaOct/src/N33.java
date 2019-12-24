@@ -65,7 +65,7 @@ public class N33 {
         return search(0, rotate_index);
     }
 }
-
+/*
 class Solution {
     int[] nums;
     int target;
@@ -89,9 +89,6 @@ class Solution {
     }
 
     public int search(int left, int right) {
-    /*
-    Binary search
-    */
         while (left <= right) {
             int pivot = (left + right) / 2;
             if (nums[pivot] == target)
@@ -132,3 +129,4 @@ class Solution {
         return search(0, rotate_index);
     }
 }
+*/
