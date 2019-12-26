@@ -9,3 +9,5 @@
 import Foundation
 
 print("Hello, World!")
+var ref: N202 = N202()
+print(ref.isHappy(2))
