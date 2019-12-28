@@ -9,5 +9,7 @@
 import Foundation
 
 print("Hello, World!")
-var ref: N202 = N202()
-print(ref.isHappy(2))
+var ref: N88 = N88()
+var nums1: [Int] = [1, 2, 3, 0, 0, 0]
+var nums2: [Int] = [2, 5, 6]
+print(ref.merge(&nums1, 3, nums2, 3))
