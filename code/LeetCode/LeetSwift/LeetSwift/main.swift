@@ -9,7 +9,8 @@
 import Foundation
 
 print("Hello, World!")
-var ref: N88 = N88()
-var nums1: [Int] = [1, 2, 3, 0, 0, 0]
-var nums2: [Int] = [2, 5, 6]
-print(ref.merge(&nums1, 3, nums2, 3))
+var ref: N31 = N31()
+var nums: [Int] = [1, 5, 8, 4, 7, 6, 5, 3, 1]
+ref.nextPermutation(&nums)
+print(nums)
+
