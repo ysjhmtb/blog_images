@@ -9,8 +9,6 @@
 import Foundation
 
 print("Hello, World!")
-var ref: N31 = N31()
-var nums: [Int] = [1, 5, 8, 4, 7, 6, 5, 3, 1]
-ref.nextPermutation(&nums)
-print(nums)
+var ref: N166 = N166()
+print(ref.fractionToDecimal(2, 3))
 
