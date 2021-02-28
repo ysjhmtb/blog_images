@@ -1,4 +1,4 @@
-import DecodeWays
+import MergeIntervals
 
-sol = DecodeWays.DecodeWays()
-print(sol.numDecodings("226"))
+sol = MergeIntervals.MergeIntervals()
+print(sol.merge([[1, 3], [2, 6], [8, 10], [15, 18]]))
